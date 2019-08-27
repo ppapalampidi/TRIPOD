@@ -10,7 +10,7 @@ This repository contains the screenplays and plot synopses with turning point (T
 
 We split the dataset into training and test. For the movies of the test set, we also provide scene-level TP annotations for the corresponding screenplays.
 
-The data will be uploaded soon.
+**The data will be uploaded soon.**
 
 [Wikipedia]: https://www.wikipedia.org/
 [Scriptbase dataset]: https://github.com/EdinburghNLP/scriptbase
