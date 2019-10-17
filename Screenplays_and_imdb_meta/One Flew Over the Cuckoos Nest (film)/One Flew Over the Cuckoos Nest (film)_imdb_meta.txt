@@ -1,0 +1,187 @@
+year	1975
+imdb score	8.8
+meta score	79
+genre	Drama
+keyword	nurse
+keyword	patient
+keyword	mental institution
+keyword	basketball
+keyword	insanity
+keyword	playing card
+keyword	escape
+keyword	rebel
+keyword	asylum
+keyword	disability
+keyword	pinochle game
+keyword	brawl
+keyword	sociopath
+keyword	restraint
+keyword	craziness
+keyword	human rights
+keyword	marina
+keyword	native american
+keyword	panties
+keyword	claim in title
+keyword	black humor
+keyword	oregon
+keyword	sadistic cruelty
+keyword	bird in title
+keyword	euthanasia
+keyword	defiance
+keyword	group therapy
+keyword	barbed wire
+keyword	boat theft
+keyword	fishing boat
+keyword	patient rights
+keyword	mental hospital
+keyword	wrongful commitment
+keyword	fighting the system
+keyword	wheelchair
+keyword	doctor patient relationship
+keyword	convict
+keyword	escape from a mental institution
+keyword	villainess played by lead actress
+keyword	anger
+keyword	electroshock therapy
+keyword	suffocation
+keyword	mental illness
+keyword	suicide
+keyword	watching tv
+keyword	character study
+keyword	fence
+keyword	deaf mute
+keyword	bus
+keyword	dancing
+keyword	white panties
+keyword	schizophrenia
+keyword	promiscuous woman
+keyword	electroconvulsive therapy
+keyword	drunkenness
+keyword	psychiatric examination
+keyword	cheating
+keyword	schizophrenic
+keyword	sadist
+keyword	blackjack game
+keyword	yawning
+keyword	lifting an adult into the air
+keyword	psychopath
+keyword	claustrophobia
+keyword	death
+keyword	sitting
+keyword	psychiatric nurse
+keyword	irreverence
+keyword	confinement
+keyword	bus theft
+keyword	sexuality
+keyword	male rear nudity
+keyword	evil woman
+keyword	medical profession
+keyword	party
+keyword	strong female character
+keyword	blood
+keyword	smothered with a pillow
+keyword	fishing
+keyword	psychoanalysis
+keyword	mental retardation
+keyword	attempted murder
+keyword	premarital sex
+keyword	pacific northwest
+keyword	escaped mental patient
+keyword	social issues
+keyword	fake illness
+keyword	cigarette smoking
+keyword	psychiatric hospital
+keyword	sadistic psychopath
+keyword	death of hero
+keyword	authority
+keyword	epilepsy
+keyword	swimming pool
+keyword	lifting male in air
+keyword	cult film
+keyword	strangulation
+keyword	ambiguous title
+keyword	1960s
+keyword	lobotomy
+keyword	christ figure
+keyword	blockbuster
+keyword	television
+keyword	small town
+keyword	doctor
+keyword	racial slur
+keyword	nudity
+keyword	anti hero
+keyword	chewing gum
+keyword	girl in panties
+keyword	medical treatment
+keyword	freedom
+keyword	cathartic therapy
+keyword	medication
+keyword	persecution
+keyword	lifting person in air
+keyword	monopoly the board game
+keyword	troublemaker
+keyword	mental patient
+keyword	male nudity
+keyword	christmas tree
+keyword	suicide attempt
+keyword	compassion
+keyword	world series
+keyword	cleavage
+keyword	female nudity
+keyword	animal in title
+keyword	stuttering
+keyword	main character dies
+keyword	institutional life
+keyword	punctuation in title
+keyword	death of protagonist
+keyword	hysteria
+keyword	apostrophe in title
+keyword	girl stripped down to panties
+keyword	oppression
+keyword	lifting someone into the air
+keyword	scantily clad female
+keyword	voting
+keyword	psychiatry
+keyword	yawn
+keyword	helicopter
+keyword	individuality
+keyword	based on novel
+keyword	based on play
+keyword	independent film
+keyword	number in title
+keyword	surprise ending
+cast	Michael Berryman	Ellis
+cast	Peter Brocco	Col. Matterson
+cast	Dean R. Brooks	Dr. Spivey
+cast	Alonzo Brown	Miller
+cast	Scatman Crothers	Turkle
+cast	Mwako Cumbuka	Warren
+cast	Danny DeVito	Martini
+cast	William Duell	Sefelt
+cast	Josip Elic	Bancini
+cast	Lan Fendors	Nurse Itsu
+cast	Louise Fletcher	Nurse Ratched
+cast	Nathan George	Washington
+cast	Ken Kenny	Beans Garfield
+cast	Mel Lambert	Harbor Master
+cast	Sydney Lassick	Cheswick
+cast	Kay Lee	Night Supervisor
+cast	Christopher Lloyd	Taber
+cast	Dwight Marfield	Ellsworth
+cast	Ted Markland	Hap Arlich
+cast	Louisa Moritz	Rose
+cast	Jack Nicholson	R.P. McMurphy
+cast	William Redfield	Harding
+cast	Philip Roth	Woolsey
+cast	Will Sampson	Chief Bromden
+cast	Mimi Sarkisian	Nurse Pilbow
+cast	Vincent Schiavelli	Fredrickson
+cast	Mews Small	Candy
+cast	Delos V. Smith Jr.	Scanlon
+cast	Tin Welch	Ruckley
+cast	Brad Dourif	Billy Bibbit
+cast	Anjelica Huston	Woman in Crowd on Pier
+cast	Audrey Landers	Actress on TV Screen
+cast	Tom McCall	News Commentator
+cast	James V. Shore	Doctor
+cast	Saul Zaentz	Captain on Shore

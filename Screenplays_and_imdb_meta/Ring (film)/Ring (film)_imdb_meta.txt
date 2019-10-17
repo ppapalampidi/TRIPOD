@@ -1,0 +1,200 @@
+year	1998
+imdb score	7.3
+meta score	N/A
+genre	Horror
+genre	Mystery
+genre	Thriller
+keyword	videotape
+keyword	friend
+keyword	volcanic island
+keyword	son
+keyword	night
+keyword	investigation
+keyword	psychic
+keyword	journalist
+keyword	reporter
+keyword	disfigurement
+keyword	panic
+keyword	fear
+keyword	father son estrangement
+keyword	road accident
+keyword	husband wife reunion
+keyword	hood
+keyword	umbrella
+keyword	psychotic
+keyword	homicide
+keyword	well
+keyword	remake
+keyword	female protagonist
+keyword	father daughter relationship
+keyword	female victim
+keyword	wake
+keyword	japanese horror film
+keyword	macabre
+keyword	fishing
+keyword	rainstorm
+keyword	killing
+keyword	asian horror
+keyword	murder
+keyword	interrogation
+keyword	endless loop
+keyword	darkness
+keyword	dead woman
+keyword	suffering
+keyword	cult film
+keyword	death stare
+keyword	sadism
+keyword	body bag
+keyword	past
+keyword	japanese
+keyword	scientist
+keyword	fly
+keyword	silent
+keyword	curse
+keyword	dark secret
+keyword	off screen murder
+keyword	gore
+keyword	suspense
+keyword	dead girl
+keyword	chopstick
+keyword	strange person
+keyword	psychologist
+keyword	mother son relationship
+keyword	paranormal investigation
+keyword	loss of daughter
+keyword	ghost in mirror
+keyword	car
+keyword	interview
+keyword	corruption
+keyword	horror movie remake
+keyword	tokyo japan
+keyword	picture
+keyword	horror movie remade
+keyword	subliminal message
+keyword	flashback
+keyword	long hair
+keyword	mysterious death
+keyword	fear of ghosts
+keyword	evil power
+keyword	photograph
+keyword	brunette
+keyword	family in danger
+keyword	skeleton
+keyword	screaming
+keyword	mute
+keyword	television
+keyword	multiple homicide
+keyword	search
+keyword	flashlight
+keyword	undead
+keyword	fire
+keyword	teacher
+keyword	teenage boy
+keyword	deeply disturbed person
+keyword	mass death
+keyword	cult film
+keyword	stalking
+keyword	supernatural power
+keyword	multiple murder
+keyword	ghost
+keyword	cult film
+keyword	divorcee
+keyword	crime investigation
+keyword	single mother
+keyword	supernatural horror
+keyword	good versus evil
+keyword	desperation
+keyword	mysterious girl
+keyword	polaroid
+keyword	axe
+keyword	cruelty
+keyword	murder victim
+keyword	remade
+keyword	ticking clock
+keyword	telephone call
+keyword	one word title
+keyword	telephone
+keyword	dead man
+keyword	burn
+keyword	father son relationship
+keyword	surrealism
+keyword	mirror
+keyword	cousin cousin relationship
+keyword	psionic power
+keyword	dying man
+keyword	face slap
+keyword	fractured skull
+keyword	dead body
+keyword	murder witness
+keyword	ferry boat
+keyword	flame
+keyword	pain
+keyword	woman journalist
+keyword	urban legend
+keyword	confusion
+keyword	dead woman with eyes open
+keyword	orphanage
+keyword	paranoia
+keyword	examination
+keyword	extrasensory perception
+keyword	evil child
+keyword	suffocation
+keyword	mass murder
+keyword	hallucination
+keyword	ghost girl
+keyword	schoolboy
+keyword	japan
+keyword	falling into water
+keyword	friendship
+keyword	1950s
+keyword	volcano
+keyword	burn injury
+keyword	child in peril
+keyword	murder mystery
+keyword	log cabin
+keyword	1990s
+keyword	watching a video
+keyword	death of friend
+keyword	based on novel
+keyword	surprise ending
+keyword	
+cast	Nanako Matsushima	Reiko Asakawa
+cast	Miki Nakatani	Mai Takano
+cast	Yûko Takeuchi	Tomoko Ôishi
+cast	Hitomi Satô	Masami
+cast	Yôichi Numata	Takashi Yamamura
+cast	Yutaka Matsushige	Yoshino
+cast	Katsumi Muramatsu	Kôichi Asakawa
+cast	Rikiya Ôtaka	Yôichi Asakawa
+cast	Masako	Shizuko Yamamura
+cast	Daisuke Ban	Heihachirô Ikuma
+cast	Hiroshi Sakuma	Komiya Kameraman
+cast	Yûrei Yanagi	AD Okazaki
+cast	Yôko Ohshima	Reiko no Oba
+cast	Kiriko Shimizu	Yoshimi Ôishi
+cast	Makoto Kakeda	Kanrinin
+cast	Rie Ino'o	Sadako Yamamura
+cast	Hiroyuki Tanabe	Hayatsu
+cast	Miwako Kaji	Kazue Yamamura
+cast	Yôko Honma	Chûgakusei A
+cast	Asami Nagata	Chûgakusei B
+cast	Yukiko Shimodaira	Chûgakusei C
+cast	Keiko Yoshida	Kôkôsei A
+cast	Yoshiko Matsumaru	Kôkôsei B
+cast	Ayumu Naose	Kôkôsei C
+cast	Maki Ikeda	Yôko Tsuji
+cast	Takashi Takayama	Takehiko Nômi
+cast	Chihiro Shirai	Sadako as a Young Girl
+cast	Toshihiko Takeda	Seinen Jidai no Yamamura
+cast	Mantarô Koichi	Kôkaidô no Shikôyaku
+cast	Shin'ichi Noda	Kisha Daihyô A
+cast	Shigefumi Nakai	Kisha Daihyô B
+cast	Yûki Takahata	
+cast	Mutsuko Ôshima	
+cast	Taku Kobayashi	
+cast	Hiromi Murata	
+cast	Kazuhiro Yokoyama	
+cast	Mizuho Kinoshita	
+cast	Toshinori Yoshino	
+cast	Asami Ishikawa	
+cast	Hiroyuki Sanada	Ryûji Takayama

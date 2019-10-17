@@ -1,0 +1,158 @@
+year	2004
+imdb score	6.5
+meta score	48
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	mexico
+keyword	housekeeper
+keyword	chef
+keyword	summer home
+keyword	love
+keyword	letter
+keyword	college
+keyword	maid
+keyword	princeton university
+keyword	language barrier
+keyword	marriage
+keyword	hispanic
+keyword	dry cleaners
+keyword	mother daughter relationship
+keyword	drinking
+keyword	school bus
+keyword	reference to george lucas
+keyword	shopping
+keyword	neurotic
+keyword	los angeles california
+keyword	cook
+keyword	beach
+keyword	shower
+keyword	tears
+keyword	vodka
+keyword	extramarital affair
+keyword	flirting
+keyword	girl
+keyword	reference to herbert hoover
+keyword	night job
+keyword	food critic
+keyword	kiss
+keyword	mexican immigrant
+keyword	song
+keyword	mother son relationship
+keyword	adultery
+keyword	class differences
+keyword	boy
+keyword	prayer
+keyword	college admission
+keyword	drink
+keyword	storytelling
+keyword	private school
+keyword	insecurity
+keyword	food
+keyword	monopoly the board game
+keyword	guilt
+keyword	letter of application
+keyword	catholic
+keyword	job interview
+keyword	drunkenness
+keyword	singer
+keyword	nosebleed
+keyword	running
+keyword	cell phone
+keyword	spanish
+keyword	unable to speak english
+keyword	reference to god
+keyword	single parent
+keyword	restaurant
+keyword	underwear
+keyword	bus
+keyword	dysfunctional family
+keyword	family relationships
+keyword	alcoholic
+keyword	obesity
+keyword	illegal immigrant
+keyword	sex
+keyword	watching tv
+keyword	voice over narration
+keyword	orgasm
+keyword	los angeles times the newspaper
+keyword	unfaithfulness
+keyword	singing
+keyword	infidelity
+keyword	dysfunctional marriage
+keyword	crying
+keyword	emigrant
+keyword	dog
+keyword	cafe
+keyword	immigrant
+keyword	box office flop
+keyword	promiscuity
+keyword	culture clash
+keyword	realtor
+keyword	walking into a glass door
+keyword	telephone call
+keyword	money
+keyword	kitchen
+keyword	translation
+keyword	immigration
+keyword	child translates for adult
+keyword	manipulation
+keyword	father daughter relationship
+keyword	eating
+keyword	jogging
+keyword	father son relationship
+keyword	party
+keyword	self esteem
+keyword	screaming
+keyword	husband wife relationship
+keyword	malibu california
+keyword	english lesson
+keyword	newspaper
+keyword	independent film
+keyword	
+cast	Adam Sandler	John Clasky
+cast	Téa Leoni	Deborah Clasky
+cast	Paz Vega	Flor Moreno
+cast	Cloris Leachman	Evelyn Wright
+cast	Shelbie Bruce	Cristina Moreno
+cast	Sarah Steele	Bernice 'Bernie' Clasky
+cast	Ian Hyland	George 'Georgie' Clasky
+cast	Victoria Luna	Cristina Moreno - Age 6
+cast	Cecilia Suárez	Monica
+cast	Ricardo Molina	Flor's Husband
+cast	Brenda Canela	Luz
+cast	Eddy Martin	14-Year-Old Boy
+cast	Nicole Nieth	Hostess at Fancy Restaurant
+cast	Jamie Kaler	Businessman
+cast	James Lancaster	Businessman
+cast	Philip Rosenthal	Pietro
+cast	Angela Goethals	Gwen
+cast	Sean Smith	Victor, John's Maitre D'
+cast	Jonathan Hernandez	Alex
+cast	Thomas Haden Church	Mike the Realtor
+cast	Freddy Soto	Manuel the Hispanic Man
+cast	Wendy Braun	Yuppie Girl
+cast	Nichole Hiltz	Yuppie Girl
+cast	Eric Schaeffer	Rabid Sports Fan
+cast	Aimee Garcia	Narrator
+cast	Jean Gaskill	Arlene the School Director
+cast	Spencer Locke	Sleepover Friend
+cast	Sarah Hyland	Sleepover Friend
+cast	Andrew Sikking	Chef
+cast	Albert Melera	Chef
+cast	Liz Carey	Hostess at John's Restaurant
+cast	Anastasia C. Ford	Girl on Balcony
+cast	Yasmeen Azizian	Girl on Balcony
+cast	Daisy Cruz	Girl on Balcony
+cast	Kristha Sazo	Girl on Balcony
+cast	Morgan Ward	Coffee Patron
+cast	Cheryl Ward	Coffee Patron
+cast	Christian Stone	UPS Guy
+cast	Antonio Munoz	Mexican at Family Dinner
+cast	Storm Ascher	Young Wedding Guest
+cast	Robby D. Bruce	Wedding Guest / School Scene
+cast	Christopher Morente	Landscaper
+cast	Brennan W. Penney	Waiter
+cast	Natasha Perez	Young Wedding Guest
+cast	Tony Sagastizado I	Young Father
+cast	Rachel Zeskind	Photo Double

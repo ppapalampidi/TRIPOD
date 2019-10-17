@@ -1,0 +1,261 @@
+year	2011
+imdb score	7.9
+meta score	78
+genre	Crime
+genre	Drama
+keyword	getaway
+keyword	mechanic
+keyword	neighbor
+keyword	garage
+keyword	stuntman
+keyword	heist
+keyword	love
+keyword	getaway car
+keyword	getaway driver
+keyword	escape
+keyword	mobster
+keyword	city of angels
+keyword	critically acclaimed
+keyword	stabbed in the eye
+keyword	killed in an elevator
+keyword	loner
+keyword	shot through a window
+keyword	man with a past
+keyword	shot in the chest
+keyword	pistol
+keyword	man with no name
+keyword	breaking hand
+keyword	stripper
+keyword	psychopath
+keyword	shadow
+keyword	stabbed with a fork
+keyword	news report
+keyword	vengeance
+keyword	exsanguination
+keyword	stabbed in the chest
+keyword	kissing in an elevator
+keyword	stunt double
+keyword	gore
+keyword	los angeles california
+keyword	protection money
+keyword	character repeating someone else's dialogue
+keyword	mask
+keyword	writing on hand
+keyword	evil businessman
+keyword	concealed weapon
+keyword	blood on camera lens
+keyword	police car rollover
+keyword	apartment
+keyword	jacket
+keyword	slow motion scene
+keyword	car breakdown
+keyword	apartment building
+keyword	reference to coca cola
+keyword	driving in reverse
+keyword	murder
+keyword	giving a toast
+keyword	claw hammer
+keyword	blood on face
+keyword	raised middle finger
+keyword	chinese food
+keyword	neo noir
+keyword	topless female nudity
+keyword	jealousy
+keyword	spitting blood
+keyword	impalement
+keyword	stomped to death
+keyword	shot to death
+keyword	helicopter
+keyword	leather gloves
+keyword	existentialism
+keyword	robbery gone awry
+keyword	ex convict
+keyword	strangulation
+keyword	stabbed to death
+keyword	head injury
+keyword	car crash
+keyword	head stomp
+keyword	grocery store
+keyword	racetrack
+keyword	police car
+keyword	woman slaps a man
+keyword	hitman
+keyword	pump action shotgun
+keyword	soft spoken
+keyword	chinese takeout
+keyword	masked man
+keyword	movie set
+keyword	diner
+keyword	movie trailer
+keyword	breaking and entering
+keyword	film producer
+keyword	searchlight
+keyword	mob enforcer
+keyword	pizzeria
+keyword	head blown off
+keyword	hit with a hammer
+keyword	leg brace
+keyword	motel
+keyword	cold open
+keyword	restaurant
+keyword	shotgun
+keyword	beaten to death
+keyword	driving getaway car
+keyword	husband wife relationship
+keyword	jewish slur
+keyword	low key
+keyword	news report
+keyword	accomplice
+keyword	moral corruption
+keyword	blood
+keyword	shot in the head
+keyword	supermarket
+keyword	death of husband
+keyword	rubber mask
+keyword	brutality
+keyword	bleeding to death
+keyword	limp
+keyword	violence
+keyword	man slaps a woman
+keyword	wrist slitting
+keyword	watching tv
+keyword	cleaning knife
+keyword	pawnshop
+keyword	character's point of view camera shot
+keyword	cigarette smoking
+keyword	beating
+keyword	love triangle
+keyword	night cityscape
+keyword	title appears in song
+keyword	hundred dollar bill
+keyword	man boy relationship
+keyword	bag of money
+keyword	tension
+keyword	strip club
+keyword	scene during opening credits
+keyword	mother son relationship
+keyword	stunt driver
+keyword	covered in blood
+keyword	being followed
+keyword	arm cast
+keyword	thief
+keyword	driving at night
+keyword	overhead camera shot
+keyword	shot in the arm
+keyword	ambiguous ending
+keyword	shooting movie
+keyword	looking at self in mirror
+keyword	stolen money
+keyword	car rollover
+keyword	interracial marriage
+keyword	suspense
+keyword	lens flare
+keyword	death
+keyword	mafia
+keyword	stock car
+keyword	cafe
+keyword	wristwatch
+keyword	car over a cliff
+keyword	one million dollars
+keyword	straight razor
+keyword	extortion
+keyword	extreme violence
+keyword	double cross
+keyword	mistress
+keyword	jewish
+keyword	police chase
+keyword	one word title
+keyword	cell phone
+keyword	intimidation
+keyword	overhead shot
+keyword	echo park los angeles
+keyword	shot multiple times
+keyword	friendship
+keyword	character says i love you
+keyword	welcome home party
+keyword	bandaged hand
+keyword	stabbed in the stomach
+keyword	race car
+keyword	shot in the neck
+keyword	hollywood california
+keyword	organized crime
+keyword	scorpion
+keyword	stealing a car
+keyword	drowning
+keyword	racial slur
+keyword	broken hand
+keyword	hollywood stunt man
+keyword	staring contest
+keyword	shot in the back
+keyword	ford mustang
+keyword	duffel bag
+keyword	anti hero
+keyword	car chase
+keyword	revenge
+keyword	blood spatter
+keyword	f word
+keyword	gangster
+keyword	release from prison
+keyword	knife
+keyword	superhero
+keyword	father son relationship
+keyword	swallowing a bullet
+keyword	interracial relationship
+keyword	toothpick
+keyword	ocean
+keyword	cold soul
+keyword	noir archetype
+keyword	beach
+keyword	grocery shopping
+keyword	arthouse action
+keyword	mythical hero
+keyword	sunglasses
+keyword	open ended
+keyword	robbery
+keyword	auto mechanic
+keyword	stabbed in the throat
+keyword	stabbed in the neck
+keyword	money laundering
+keyword	bullet
+keyword	chevrolet impala
+keyword	dressing room
+keyword	backhand slap
+keyword	very little dialogue
+keyword	face slap
+keyword	waitress
+keyword	silent protagonist
+keyword	los angeles river
+keyword	death of friend
+keyword	death of father
+keyword	based on novel
+keyword	title spoken by character
+cast	Ryan Gosling	Driver
+cast	Carey Mulligan	Irene
+cast	Bryan Cranston	Shannon
+cast	Albert Brooks	Bernie Rose
+cast	Oscar Isaac	Standard
+cast	Christina Hendricks	Blanche
+cast	Ron Perlman	Nino
+cast	Kaden Leos	Benicio
+cast	Jeff Wolfe	Tan Suit
+cast	James Biberi	Cook
+cast	Russ Tamblyn	Doc
+cast	Joe Bucaro III	Chauffeur
+cast	Tiara Parker	Young Woman
+cast	Tim Trella	Hitman #1
+cast	Jimmy Hart	Hitman #2
+cast	Tina Huang	Waitress
+cast	Andy San Dimas	Stripper
+cast	John Pyper-Ferguson	Bearded Redneck
+cast	Craig Baxley Jr.	Masked Man #1
+cast	Kenny Richards	Masked Man #2
+cast	Joe Pingue	Assistant Director #1
+cast	Dieter 'Dietman' Busch	Assistant Director #2
+cast	Chris Muto	Caterer
+cast	Rachel Dik	Newscaster
+cast	Cesar Garcia	Waiter
+cast	Steve Knoll	Movie Star
+cast	Mara LaFontaine	Movie Star Girlfriend
+cast	Teonee Thrash	Police Officer
+cast	Ralph Lawler	Basketball Announcer
+cast	Adela Tirado	Chola

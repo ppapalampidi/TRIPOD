@@ -1,0 +1,132 @@
+year	2011
+imdb score	6.2
+meta score	49
+genre	Action
+genre	Comedy
+genre	Crime
+keyword	pizza delivery
+keyword	heist
+keyword	pizza delivery boy
+keyword	scheme
+keyword	masked man
+keyword	exploding car
+keyword	shot in the shoulder
+keyword	bank robbery
+keyword	clumsiness
+keyword	bombmaker
+keyword	murder
+keyword	quitting job
+keyword	humor
+keyword	gun
+keyword	loosely based on real events
+keyword	danger
+keyword	talking while driving
+keyword	scene after end credits
+keyword	toy gun
+keyword	reference to facebook
+keyword	hitman
+keyword	friendship
+keyword	crossbow
+keyword	sexual humor
+keyword	reference to metallica
+keyword	car
+keyword	character's point of view camera shot
+keyword	scrapyard
+keyword	pistol
+keyword	vulgarity
+keyword	sony
+keyword	freeze frame
+keyword	shot in the leg
+keyword	singing in a car
+keyword	time in title
+keyword	pizzeria
+keyword	oral sex in a car
+keyword	car crash
+keyword	face slap
+keyword	car driving
+keyword	scene during opening credits
+keyword	threat
+keyword	female nudity
+keyword	raised middle finger
+keyword	strapped to a bomb
+keyword	marijuana joint
+keyword	heist gone wrong
+keyword	bank heist
+keyword	stealing a car
+keyword	unlikely criminal
+keyword	elementary school
+keyword	dumb criminal
+keyword	drug humor
+keyword	teacher
+keyword	nudity
+keyword	black humor
+keyword	cell phone
+keyword	shot in the neck
+keyword	burned alive
+keyword	lottery winner
+keyword	hdtv
+keyword	flamethrower
+keyword	race against time
+keyword	ex marine
+keyword	tanning salon
+keyword	dye pack
+keyword	shot in the stomach
+keyword	father son relationship
+keyword	held at gunpoint
+keyword	car chase
+keyword	inheritance
+keyword	twin brother and sister
+keyword	sister
+keyword	kidnapping
+keyword	shooting
+keyword	strip club
+keyword	knocked out
+keyword	laser pointer
+keyword	bag of money
+keyword	violence
+keyword	character repeating someone else's dialogue
+keyword	sony vaio
+keyword	duct tape over mouth
+keyword	person on fire
+keyword	title appears in writing
+keyword	number in title
+keyword	title spoken by character
+keyword	
+cast	Jesse Eisenberg	Nick
+cast	Danny McBride	Dwayne
+cast	Aziz Ansari	Chet
+cast	Nick Swardson	Travis
+cast	Dilshad Vadsaria	Kate
+cast	Michael Peña	Chango
+cast	Bianca Kajlich	Juicy
+cast	Fred Ward	The Major
+cast	Sam Johnston	15 Year Old #1
+cast	Jack Foley	15 Year Old #2
+cast	Elizabeth Shapiro	Chet's Date
+cast	Brett Gelman	Pizza Boss
+cast	Paul Tierney	Rodney
+cast	Staci Lynn Fletcher	Family Dollar Cashier
+cast	Gary Brichetto	Mr. Fisher
+cast	Ilyssa Fradin	Mom
+cast	Grace Heemstra	Daughter
+cast	Torey Adkins	Big Guy
+cast	Rebecca Cox	Sandra
+cast	Rick Irwin	Bank Manager
+cast	Sam Tedesco	Security Guard
+cast	Wayne Bibbs	Bank Customer
+cast	Jamaal Hines	Cop Outside Bank
+cast	Joseph Lyman	Alley Cop
+cast	David Fleischer	Bus Passenger #4
+cast	Lucas Fleischer	Random Local
+cast	Matthew Sullivan	Random Tanning Guy
+cast	Ashley Adler	Club Dancer
+cast	Emily Grauman	7th Grader
+cast	Vaughn Higginbotham	Pizza Guy
+cast	Aubree Knight	The Pool Girl
+cast	Sydney Lumbert	Classmate
+cast	Geoff Pilkington	Cocky Guy on Dance Floor
+cast	Alex Rush	Major Tan Bikini Girl
+cast	Ron Shedd	Bar Patron
+cast	Robin E Silas	Chet's Dad
+cast	Angelique Sky	Club Bartender
+cast	Stephanie Yousif	Major Tan Bikini Girl

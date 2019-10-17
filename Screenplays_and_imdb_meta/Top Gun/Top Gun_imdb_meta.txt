@@ -1,0 +1,116 @@
+year	1986
+imdb score	6.8
+meta score	N/A
+genre	Action
+genre	Drama
+genre	Romance
+keyword	pilot
+keyword	flying
+keyword	death
+keyword	piano player
+keyword	famous line
+keyword	catch phrase
+keyword	high five
+keyword	sea
+keyword	box office hit
+keyword	parachute
+keyword	loss of confidence
+keyword	ejection seat
+keyword	f 14 fighter jet
+keyword	love confession
+keyword	two man crew
+keyword	unexpected encounter
+keyword	warplane
+keyword	made an example of
+keyword	motorcycle
+keyword	end credits roll call
+keyword	vietnam war
+keyword	bar
+keyword	muscular
+keyword	jet fighter
+keyword	singing
+keyword	car chase
+keyword	flirting
+keyword	sex scene
+keyword	cult film
+keyword	aerial combat
+keyword	aircraft carrier
+keyword	dress whites
+keyword	crying
+keyword	convertible
+keyword	source music
+keyword	accidental death
+keyword	cold war
+keyword	love
+keyword	two word title
+keyword	tower fly by
+keyword	lieutenant
+keyword	wing man
+keyword	item thrown into water to honor family or friend
+keyword	piano playing
+keyword	based on article
+keyword	dog tag
+keyword	naval uniform
+keyword	beach volleyball
+keyword	microphone
+keyword	restroom
+keyword	conversation with character playing piano
+keyword	military
+keyword	falling into water
+keyword	best friend
+keyword	aviation
+keyword	jukebox
+keyword	spit take
+keyword	fighter pilot
+keyword	exploding plane
+keyword	military discipline
+keyword	water
+keyword	confrontation
+keyword	show off
+keyword	naval aviation
+keyword	flight school
+keyword	propaganda
+keyword	supersonic airplane
+keyword	piano
+keyword	top secret
+keyword	u.s. navy
+keyword	uniform
+keyword	male bonding
+keyword	naval officer
+keyword	ocean
+keyword	locker room
+keyword	raised middle finger
+keyword	friend
+keyword	blockbuster
+keyword	death of friend
+keyword	title spoken by character
+cast	Tom Cruise	Maverick
+cast	Kelly McGillis	Charlie
+cast	Val Kilmer	Iceman
+cast	Anthony Edwards	Goose
+cast	Tom Skerritt	Viper
+cast	Michael Ironside	Jester
+cast	John Stockwell	Cougar
+cast	Barry Tubb	Wolfman
+cast	Rick Rossovich	Slider
+cast	Tim Robbins	Merlin
+cast	Clarence Gilyard Jr.	Sundown
+cast	Whip Hubley	Hollywood
+cast	James Tolkan	Stinger
+cast	Meg Ryan	Carole
+cast	Adrian Pasdar	Chipper
+cast	Randall Brady	Lt. Davis
+cast	Duke Stroud	Air Boss Johnson
+cast	Brian Sheehan	Sprawl
+cast	Ron Clark	Inquiry Commander
+cast	Frank Pesce	Bartender
+cast	Pete Pettigrew	Perry Siedenthal
+cast	Troy Hunter	Radio Operator
+cast	Linda Rae Jurgens	Mrs. Metcalf
+cast	T.J. Cassidy	Himself
+cast	Debi Fares	
+cast	Mark Gadbois	Flight Captain
+cast	Chase Jazzborne	Officer's Club Patron
+cast	Monty Jordan	Cmdr. Phillips
+cast	Scott Krambeck	Scott
+cast	Wendy Wells-Gunkel	Vollyball Spectator

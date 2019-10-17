@@ -1,0 +1,278 @@
+year	1997
+imdb score	7.2
+meta score	71
+genre	Comedy
+genre	Sci-Fi
+keyword	alien
+keyword	galaxy
+keyword	nypd
+keyword	bug
+keyword	new york city
+keyword	flying saucer
+keyword	technology
+keyword	escape by car
+keyword	taxi
+keyword	world trade center manhattan new york city
+keyword	suicide by jumping off a building
+keyword	government
+keyword	ginger cat
+keyword	alien autopsy
+keyword	male taxi driver
+keyword	using a false name
+keyword	oldsmobile
+keyword	reference to captain america
+keyword	exterminator
+keyword	patriot
+keyword	reference to elvis presley
+keyword	bravery
+keyword	desk bell
+keyword	latex gloves
+keyword	vomiting on someone
+keyword	cup of coffee
+keyword	8 track
+keyword	rooftop chase
+keyword	pug
+keyword	newspaper stand
+keyword	woman hostage
+keyword	death of a fly
+keyword	replacement
+keyword	illegal immigrant
+keyword	pet cat
+keyword	resisting arrest
+keyword	diamond
+keyword	redneck
+keyword	milky way
+keyword	loose cannon
+keyword	stabbed in the neck
+keyword	suicide
+keyword	tow truck
+keyword	vomit
+keyword	tunnel
+keyword	illegal alien
+keyword	reference to chicago bulls
+keyword	calling someone an idiot
+keyword	recapitation
+keyword	baseball stadium
+keyword	wearing sunglasses at night
+keyword	recoil
+keyword	reference to bloomingdale's department store
+keyword	human versus alien
+keyword	obscene finger gesture
+keyword	spoof
+keyword	dodge
+keyword	chase on the roof
+keyword	shea stadium queens new york city
+keyword	giant bug
+keyword	based on comic book
+keyword	swatting fly
+keyword	secret agent
+keyword	character repeating someone else's dialogue
+keyword	border patrol
+keyword	farmhouse
+keyword	marlboro cigarettes
+keyword	interrogation room
+keyword	i love ny t shirt
+keyword	pump action shotgun
+keyword	twix candy bar
+keyword	alien baby
+keyword	plymouth
+keyword	autopsy room
+keyword	spacecraft
+keyword	queens new york city
+keyword	character appears in newspaper
+keyword	lemonade
+keyword	tabloid
+keyword	jumping through a window
+keyword	chevrolet
+keyword	cult film
+keyword	jewelry store
+keyword	newspaper
+keyword	gmc truck
+keyword	raid
+keyword	chevrolet corvette
+keyword	atlanta braves
+keyword	cult film
+keyword	alien intelligence
+keyword	reference to the beatles
+keyword	pickup truck
+keyword	yellow cab
+keyword	snickers
+keyword	red jacket
+keyword	hot dog
+keyword	jumping off a bridge
+keyword	baby ruth candy bar wrapper
+keyword	pawnshop
+keyword	ufo crash site
+keyword	reference to the nazis
+keyword	baby ruth
+keyword	bench
+keyword	running from the police
+keyword	based on comic
+keyword	cover up
+keyword	masked villain
+keyword	pug dog
+keyword	1990s
+keyword	cattle
+keyword	hot dog stand
+keyword	human body as an alien host
+keyword	second lieutenant
+keyword	newspaper headline
+keyword	taken as hostage
+keyword	identity
+keyword	arms dealer
+keyword	alien royalty
+keyword	satire
+keyword	childbirth
+keyword	three word title
+keyword	manhattan new york city
+keyword	job offer
+keyword	alien contact
+keyword	talking dog
+keyword	corpse
+keyword	high tech
+keyword	dodge the car
+keyword	critically acclaimed
+keyword	automobile
+keyword	bully
+keyword	cockroach
+keyword	rookie
+keyword	talking to a dog
+keyword	dragged along the floor
+keyword	man with dark glasses
+keyword	reference to dennis rodman
+keyword	singing while working
+keyword	ray gun
+keyword	stepping on a bug
+keyword	roof chase
+keyword	live chicken
+keyword	border patrolman
+keyword	chrysler
+keyword	fictional government agency
+keyword	blockbuster
+keyword	famous score
+keyword	chrysler automobile
+keyword	red coat
+keyword	singing in a car
+keyword	skittles
+keyword	ufo
+keyword	eaten alive
+keyword	foot chase
+keyword	pawnbroker
+keyword	buddy
+keyword	autopsy
+keyword	ford motor company
+keyword	cosmic zoom
+keyword	sugar water
+keyword	fainting
+keyword	fashion
+keyword	backflip
+keyword	reference to orion the constellation
+keyword	double decker bus
+keyword	suicide by jumping from a rooftop
+keyword	retirement
+keyword	creature
+keyword	ford crown victoria
+keyword	flyswatter
+keyword	cat
+keyword	alien disguised as human
+keyword	breaking through a glass door
+keyword	pest control
+keyword	jumping from height
+keyword	memory erasure
+keyword	crash landing
+keyword	gun
+keyword	fall from height
+keyword	m&m's
+keyword	vomiting
+keyword	villain not really dead cliche
+keyword	sacrifice
+keyword	dog
+keyword	new york mets
+keyword	earth viewed from space
+keyword	abusive husband
+keyword	man carrying a woman
+keyword	ford taurus
+keyword	medical examiner
+keyword	ufo crash
+keyword	morgue
+keyword	hero
+keyword	character appears on front page of a newspaper
+keyword	gun held to head
+keyword	babe scientist
+keyword	climbing a wall
+keyword	alien race
+keyword	elevator
+keyword	redheaded woman
+keyword	monster
+keyword	marvel comics
+keyword	altered version of studio logo
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Tommy Lee Jones	Kay
+cast	Will Smith	Jay
+cast	Linda Fiorentino	Laurel Weaver
+cast	Vincent D'Onofrio	Edgar
+cast	Rip Torn	Zed
+cast	Tony Shalhoub	Jeebs
+cast	Siobhan Fallon	Beatrice
+cast	Mike Nussbaum	Gentle Rosenburg
+cast	Jon Gries	Van Driver
+cast	Sergio Calderón	José
+cast	Carel Struycken	Arquillian
+cast	Fredric Lehne	INS Agent Janus
+cast	Richard Hamilton	Dee
+cast	Kent Faulcon	1st Lt. Jake Jensen
+cast	John Alexander	Mikey
+cast	Keith Campbell	Perp
+cast	Ken Thorley	Zap-Em Man
+cast	Patrick Breen	Mr. Redgick
+cast	Becky Ann Baker	Mrs. Redgick
+cast	Sean Whalen	Passport Officer
+cast	Harsh Nayyar	News Vendor
+cast	Michael Willis	Cop in Morgue
+cast	Willie C. Carpenter	Police Inspector
+cast	Peter Linari	Tow Truck Driver
+cast	David Cross	Morgue Attendant
+cast	Charles C. Stevenson Jr.	MIB Agent B
+cast	Boris Leskin	Cook
+cast	Steve Rankin	INS Agent
+cast	Andy Prosky	INS Agent
+cast	Michael Goldfinger	NYPD sergeant
+cast	Alpheus Merchant	Security Guard
+cast	Norma Jean Groh	Mrs Edelson
+cast	Bernard Gilkey	Baseball Player
+cast	Sean Plummer	First Contact Alien
+cast	Michael Kaliski	First Contact Alien
+cast	Richard Arthur	2nd First Contact Alien
+cast	Debbie Lee Carrington	Alien Father
+cast	Verne Troyer	Alien Son
+cast	Mykal Wayne Williams	Scared Guy
+cast	Tim Blaney	Frank the Pug
+cast	Mark Setrakian	Rosenberg Alien
+cast	Brad Abrell	Worm Guy
+cast	Thom Fountain	Worm Guy
+cast	Carl J. Johnson	Worm Guy
+cast	Drew Massey	Worm Guy
+cast	Christina Benitan	On-Air Reporter
+cast	Sean Bunch	Marine Lieutenant
+cast	John Darrah	Army Officer
+cast	Danny DeVito	Alien on TV Monitor
+cast	Newt Gingrich	Alien on TV Monitor
+cast	Karen Lynn Gorney	Announcer
+cast	Lee Harris	PA Announcer
+cast	Adrian Lee	Wall Street Broker
+cast	George Lucas	Alien on TV Monitor
+cast	Marshall Dancing Elk Lucas	Dishwasher
+cast	Isaac Mizrahi	Alien on TV Monitor
+cast	Fred Newman	Aliens
+cast	Stephanie Paliferro	INS Agent
+cast	Joe Paparone	Police Inspector
+cast	Anthony Robbins	Alien on TV Monitor
+cast	Al Roker	Alien on TV Monitor
+cast	Eliot Sash	Police Officer #4
+cast	Barry Sonnenfeld	Alien on TV Monitor
+cast	Chloe Sonnenfeld	Alien on TV Monitor
+cast	Steven Spielberg	Alien on TV Monitor
+cast	Sylvester Stallone	Alien on TV Monitor
+cast	Dionne Warwick	Alien on TV Monitor

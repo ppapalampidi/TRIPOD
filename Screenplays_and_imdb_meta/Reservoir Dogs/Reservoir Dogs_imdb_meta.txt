@@ -1,0 +1,181 @@
+year	1992
+imdb score	8.4
+meta score	78
+genre	Crime
+genre	Thriller
+keyword	police
+keyword	robbery
+keyword	diamond
+keyword	flashback
+keyword	undercover
+keyword	heist
+keyword	undercover cop
+keyword	shootout
+keyword	gore
+keyword	blonde
+keyword	blood
+keyword	gang
+keyword	cop killer
+keyword	murder of a police officer
+keyword	homage
+keyword	bloodbath
+keyword	wedding ring
+keyword	1990s
+keyword	racial slur
+keyword	machismo
+keyword	held at gunpoint
+keyword	shot multiple times
+keyword	torture
+keyword	color in character's name
+keyword	severed ear
+keyword	actor director writer
+keyword	the color blue
+keyword	two word title
+keyword	bleeding to death
+keyword	remorse
+keyword	all male cast
+keyword	shot in the stomach
+keyword	reference to john holmes
+keyword	loyalty
+keyword	shot to death
+keyword	off screen murder
+keyword	black suit
+keyword	ensemble cast
+keyword	ambiguous title
+keyword	reference to the fantastic four
+keyword	shooting a woman
+keyword	black cop
+keyword	mexican standoff
+keyword	cult
+keyword	cult movie cast
+keyword	heist gone wrong
+keyword	reference to marlon brando
+keyword	death of protagonist
+keyword	falling out among thieves
+keyword	blood on camera lens
+keyword	written and directed by cast member
+keyword	hit and run
+keyword	big kahuna
+keyword	man with no name
+keyword	the color orange
+keyword	razor
+keyword	smoking
+keyword	crime gone awry
+keyword	gangster
+keyword	told in flashback
+keyword	dog
+keyword	poetic justice
+keyword	gasoline
+keyword	ear cut off
+keyword	storytelling
+keyword	held captive
+keyword	plan gone wrong
+keyword	violence
+keyword	the color pink
+keyword	death
+keyword	directorial debut
+keyword	shot by the police
+keyword	immaturity
+keyword	murder
+keyword	f word
+keyword	dying man
+keyword	botched crime
+keyword	classic rock music
+keyword	hostage
+keyword	drugs
+keyword	deception
+keyword	psychopath
+keyword	directed by co star
+keyword	tied to a chair
+keyword	nonlinear timeline
+keyword	reference to charlie chan
+keyword	self sacrifice
+keyword	broken windshield
+keyword	squalid apartment
+keyword	monologue
+keyword	duct tape over mouth
+keyword	reference to lee marvin
+keyword	reference to doris day
+keyword	carjacking
+keyword	neo noir
+keyword	tragedy
+keyword	critically acclaimed
+keyword	wilhelm scream
+keyword	multiple time frames
+keyword	n word
+keyword	no background score
+keyword	dark comedy
+keyword	code name
+keyword	undercover agent
+keyword	los angeles california
+keyword	tip
+keyword	blood splatter
+keyword	torture threat
+keyword	gay slur
+keyword	chase
+keyword	siege
+keyword	reference to don rickles
+keyword	friendship
+keyword	controversy
+keyword	reference to madonna
+keyword	reference to j. p. morgan
+keyword	covered in blood
+keyword	black comedy
+keyword	cult director
+keyword	aftermath
+keyword	cult film
+keyword	bathroom
+keyword	reference to john dillinger
+keyword	black suit clad killer
+keyword	shot in the head
+keyword	long take
+keyword	radio dj
+keyword	jerk
+keyword	wound
+keyword	written by director
+keyword	shot in the forehead
+keyword	german shepherd
+keyword	diner
+keyword	animal in title
+keyword	pass out from blood loss
+keyword	cigar smoking
+keyword	cigarette smoking
+keyword	self mutilation
+keyword	father son relationship
+keyword	multiple perspectives
+keyword	organized crime
+keyword	no ending
+keyword	no music score
+keyword	pool of blood
+keyword	shot in the chest
+keyword	the color brown
+keyword	betrayal
+keyword	false identity
+keyword	independent film
+keyword	surprise ending
+keyword	plot twist
+cast	Harvey Keitel	Mr. White - Larry Dimmick
+cast	Tim Roth	Mr. Orange - Freddy Newandyke
+cast	Michael Madsen	Mr. Blonde - Vic Vega
+cast	Chris Penn	Nice Guy Eddie Cabot
+cast	Steve Buscemi	Mr. Pink
+cast	Lawrence Tierney	Joe Cabot
+cast	Edward Bunker	Mr. Blue
+cast	Quentin Tarantino	Mr. Brown
+cast	Randy Brooks	Holdaway
+cast	Kirk Baltz	Ofcr. Marvin Nash
+cast	Steven Wright	K-Billy DJ
+cast	Rich Turner	Sheriff #1
+cast	David Steen	Sheriff #2
+cast	Tony Cosmo	Sheriff #3
+cast	Stevo Polyi	Sheriff #4
+cast	Michael Sottile	Teddy
+cast	Robert Ruth	Shot Cop
+cast	Lawrence Bender	Young Cop / Radio Play Background Voice
+cast	Linda Kaye	Shocked Woman
+cast	Suzanne Celeste	Shot Woman
+cast	Laurie Lathem	Radio Play Background Voice
+cast	Maria Strova	Radio Play Background Voice
+cast	Burr Steers	Radio Play Background Voice
+cast	Craig Hamann	Radio Play Background Voice
+cast	Rowland Wafford	Diner Patron

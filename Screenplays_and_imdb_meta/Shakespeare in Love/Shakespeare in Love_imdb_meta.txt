@@ -1,0 +1,154 @@
+year	1998
+imdb score	7.2
+meta score	87
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	shakespeare
+keyword	love
+keyword	audition
+keyword	playwright
+keyword	actor
+keyword	writing
+keyword	16th century
+keyword	muse
+keyword	disguise
+keyword	actress
+keyword	shakespeare play
+keyword	inspiration
+keyword	play rehearsal
+keyword	blockbuster
+keyword	love at first sight
+keyword	theater
+keyword	church of england
+keyword	reference to william shakespeare
+keyword	prayer
+keyword	binding breasts
+keyword	autograph
+keyword	jealousy
+keyword	deception
+keyword	queen of england
+keyword	falling from height
+keyword	acting
+keyword	parody
+keyword	gender disguise
+keyword	unwanted kiss
+keyword	love triangle
+keyword	writer's block
+keyword	sexual identity
+keyword	arrogance
+keyword	star crossed lovers
+keyword	stuttering
+keyword	theatrical troupe
+keyword	nobility
+keyword	rivalry
+keyword	sex scene
+keyword	balcony
+keyword	drag
+keyword	dancing
+keyword	wager
+keyword	bare breasts
+keyword	no opening credits
+keyword	thames
+keyword	underwater
+keyword	prostitution
+keyword	bracelet
+keyword	assumed identity
+keyword	backstage
+keyword	rowboat
+keyword	mouse
+keyword	gift
+keyword	chase
+keyword	falling in love
+keyword	topless female nudity
+keyword	beach
+keyword	theatre production
+keyword	mistaken identity
+keyword	cross dressing
+keyword	sword fight
+keyword	satire
+keyword	scream
+keyword	brawl
+keyword	loss of virginity
+keyword	face slap
+keyword	london england
+keyword	castaway
+keyword	arranged marriage
+keyword	play within a film
+keyword	guilt
+keyword	debt collector
+keyword	male drag
+keyword	androgyny
+keyword	show business
+keyword	queen
+keyword	premarital sex
+keyword	marriage of convenience
+keyword	extramarital affair
+keyword	1590s
+keyword	famous score
+keyword	farce
+keyword	theatrical producer
+keyword	psychiatrist
+keyword	woman dressed as man
+keyword	therapy
+keyword	dog
+keyword	tavern
+keyword	rehearsal
+keyword	character name in title
+keyword	
+cast	Geoffrey Rush	Philip Henslowe
+cast	Tom Wilkinson	Hugh Fennyman
+cast	Steven O'Donnell	Lambert
+cast	Tim McMullan	Frees
+cast	Joseph Fiennes	Will Shakespeare
+cast	Steven Beard	Makepeace - the Preacher
+cast	Antony Sher	Dr. Moth
+cast	Patrick Barlow	Will Kempe
+cast	Martin Clunes	Richard Burbage
+cast	Sandra Reinton	Rosaline
+cast	Simon Callow	Tilney - Master of the Revels
+cast	Judi Dench	Queen Elizabeth
+cast	Bridget McConnell	Lady in Waiting
+cast	Georgie Glen	Lady in Waiting
+cast	Nicholas Boulton	Henry Condell
+cast	Gwyneth Paltrow	Viola De Lesseps
+cast	Imelda Staunton	Nurse
+cast	Colin Firth	Lord Wessex
+cast	Desmond McNamara	Crier
+cast	Barnaby Kay	Nol
+cast	Jim Carter	Ralph Bashford
+cast	Paul Bigley	Peter - the Stage Manager
+cast	Jason Round	Actor in Tavern
+cast	Rupert Farley	Barman
+cast	Adam Barker	First Auditionee
+cast	Joe Roberts	John Webster
+cast	Harry Gostelow	Second Auditionee
+cast	Alan Cody	Third Auditionee
+cast	Mark Williams	Wabash
+cast	David Curtiz	John Hemmings
+cast	Gregor Truter	James Hemmings
+cast	Simon Day	First Boatman
+cast	Jill Baker	Lady De Lesseps
+cast	Amber Glossop	Scullery Maid
+cast	Robin Davies	Master Plum
+cast	Hywel Simons	Servant
+cast	Nicholas Le Prevost	Sir Robert De Lesseps
+cast	Ben Affleck	Ned Alleyn
+cast	Timothy Kightley	Edward Pope
+cast	Mark Saban	Augustine Philips
+cast	Bob Barrett	George Bryan
+cast	Roger Morlidge	James Armitage
+cast	Daniel Brocklebank	Sam Gosse
+cast	Roger Frost	Second Boatman
+cast	Rebecca Charles	Chambermaid
+cast	Richard Gold	Lord in Waiting
+cast	Rachel Clarke	First Whore
+cast	Lucy Speed	Second Whore
+cast	Patricia Potter	Third Whore
+cast	John Ramm	Makepeace's Neighbor
+cast	Martin Neely	Paris / Lady Montague
+cast	The Choir of St. George's School in Windsor	
+cast	Jason Canning	Nobleman
+cast	Kelley Costigan	Theatregoer
+cast	Rupert Everett	Christopher Marlowe
+cast	John Inman	Character Player

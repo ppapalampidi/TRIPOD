@@ -1,0 +1,358 @@
+year	2011
+imdb score	6.9
+meta score	75
+genre	Comedy
+genre	Romance
+keyword	maid of honor
+keyword	bridesmaid
+keyword	best friend
+keyword	sex
+keyword	cake
+keyword	friendship
+keyword	store
+keyword	party
+keyword	love
+keyword	cousin
+keyword	bride
+keyword	cop
+keyword	jewelry
+keyword	new friend
+keyword	police officer
+keyword	bakery
+keyword	failure
+keyword	job
+keyword	jewelry store
+keyword	affection
+keyword	work
+keyword	mother
+keyword	out of control
+keyword	roommate
+keyword	bridal shop
+keyword	commotion
+keyword	raccoon
+keyword	travel
+keyword	cellular
+keyword	singing
+keyword	bride dress
+keyword	woman in lingerie
+keyword	bed
+keyword	restaurant
+keyword	co worker
+keyword	old car
+keyword	isolation
+keyword	alcohol
+keyword	man with glasses
+keyword	drink
+keyword	wedding dress
+keyword	tennis
+keyword	kissing
+keyword	alcoholics anonymous
+keyword	airport
+keyword	love
+keyword	bus ride
+keyword	scene during end credits
+keyword	red dress
+keyword	no opening credits
+keyword	chocolate
+keyword	pill
+keyword	new dress
+keyword	bankruptcy
+keyword	commitment
+keyword	woman in bra
+keyword	talking while driving
+keyword	woman on top
+keyword	car crash
+keyword	dangerous driving
+keyword	bus
+keyword	park
+keyword	group of friends
+keyword	engagement ring
+keyword	midlife crisis
+keyword	carrot cake
+keyword	diarrhea
+keyword	annoying roommate
+keyword	tennis racket
+keyword	written by star
+keyword	female enmity
+keyword	cupcake
+keyword	fear of flying
+keyword	puppy
+keyword	missing
+keyword	desire
+keyword	music band
+keyword	casual sex
+keyword	bitch
+keyword	first class
+keyword	big house
+keyword	watching television
+keyword	black humor
+keyword	flight attendant
+keyword	champagne
+keyword	bedroom
+keyword	baker
+keyword	making faces
+keyword	hostility
+keyword	vomiting
+keyword	problem
+keyword	one upmanship
+keyword	drinking
+keyword	female rivalry
+keyword	misfortune
+keyword	wolf whistle
+keyword	couple
+keyword	drunkenness
+keyword	raunchiness
+keyword	reckless driving
+keyword	loss of job
+keyword	practical joke
+keyword	profanity
+keyword	personal crisis
+keyword	paris france
+keyword	anger
+keyword	prank
+keyword	shame
+keyword	rampage
+keyword	quarrel
+keyword	food
+keyword	breast squeezing
+keyword	joy
+keyword	rage
+keyword	dress
+keyword	flight ticket
+keyword	flight
+keyword	fear
+keyword	hit with a ball
+keyword	help
+keyword	one word title
+keyword	lover
+keyword	collision
+keyword	lack of money
+keyword	bitterness
+keyword	cell phone
+keyword	wrath
+keyword	food poisoning
+keyword	fury
+keyword	self esteem
+keyword	plane
+keyword	fired from the job
+keyword	song
+keyword	face slap
+keyword	microphone
+keyword	film starts with sex
+keyword	bridal shower
+keyword	fear of marriage
+keyword	loss of composure
+keyword	police car
+keyword	airplane ticket
+keyword	embarrassment
+keyword	telephone
+keyword	female jealousy
+keyword	best friend
+keyword	wedding
+keyword	cellular phone
+keyword	whisky
+keyword	extravagance
+keyword	confession
+keyword	loss of control
+keyword	bachelorette party
+keyword	wealth
+keyword	scandal
+keyword	loveless sex
+keyword	missing woman
+keyword	sexual desire
+keyword	seat belt
+keyword	marshal
+keyword	screaming in rage
+keyword	obese woman
+keyword	rent
+keyword	glamour
+keyword	defecation
+keyword	humor
+keyword	joke
+keyword	car trouble
+keyword	internet
+keyword	car driving
+keyword	impression
+keyword	intoxication
+keyword	male flight attendant
+keyword	sadness
+keyword	woman crying
+keyword	pills and alcohol
+keyword	forgiveness
+keyword	tennis court
+keyword	cookie
+keyword	pride
+keyword	impersonation
+keyword	antipathy
+keyword	porcupine
+keyword	group vomit
+keyword	misunderstanding
+keyword	radar gun
+keyword	apartment building
+keyword	cappuccino
+keyword	pills
+keyword	clumsiness
+keyword	white dress
+keyword	watching a movie
+keyword	fear of commitment
+keyword	mother daughter relationship
+keyword	highway
+keyword	frustration
+keyword	lack of love
+keyword	stepson
+keyword	sweat
+keyword	car
+keyword	tow truck
+keyword	outburst
+keyword	sarcasm
+keyword	no money
+keyword	legs
+keyword	wilson phillips
+keyword	female pride
+keyword	highway patrolman
+keyword	bathroom
+keyword	vomit
+keyword	discussion
+keyword	revelation
+keyword	sweating
+keyword	grudge
+keyword	talking about sex
+keyword	airplane passenger
+keyword	sexual attraction
+keyword	vanity
+keyword	loneliness
+keyword	lunch
+keyword	phone
+keyword	milwaukee wisconsin
+keyword	fountain
+keyword	arrest
+keyword	female envy
+keyword	fall
+keyword	happiness
+keyword	eating
+keyword	attraction
+keyword	boy with glasses
+keyword	kiss
+keyword	loss of business
+keyword	apology
+keyword	cynicism
+keyword	trip to las vegas
+keyword	rivalry
+keyword	traveling
+keyword	irony
+keyword	purple dress
+keyword	scatological humor
+keyword	awkwardness
+keyword	message
+keyword	crying
+keyword	friendship between women
+keyword	lack of affection
+keyword	mini dress
+keyword	envy
+keyword	laughing
+keyword	dirt
+keyword	cooking
+keyword	music group
+keyword	materialism
+keyword	arrogance
+keyword	childhood friend
+keyword	surprise
+keyword	trip to france
+keyword	single woman
+keyword	playing tennis
+keyword	tattoo
+keyword	extravagant gift
+keyword	air marshal
+keyword	single friend
+keyword	girl with glasses
+keyword	temper tantrum
+keyword	e mail
+keyword	panic
+keyword	jealousy
+keyword	telephone call
+keyword	casper wyoming
+keyword	conversation
+keyword	airplane
+keyword	last film role for actress
+keyword	groom
+keyword	tennis match
+keyword	mistake
+keyword	flirting
+keyword	female sexuality
+keyword	policeman
+keyword	insult
+keyword	fight
+keyword	argument
+keyword	sexuality
+keyword	sexual humor
+keyword	speech
+keyword	stepdaughter
+keyword	title spoken by character
+keyword	
+cast	Kristen Wiig	Annie Walker
+cast	Terry Crews	Boot Camp Instructor
+cast	Maya Rudolph	Lillian
+cast	Tom Yi	Jewelry Store Couple
+cast	Elaine Kao	Jewelry Store Couple
+cast	Michael Hitchcock	Don Cholodecki
+cast	Kali Hawk	Kahlua
+cast	Joe Nunez	Oscar the Security Guard
+cast	Rebel Wilson	Brynn
+cast	Matt Lucas	Gil
+cast	Jill Clayburgh	Annie's Mom
+cast	Wendi McLendon-Covey	Rita
+cast	Ellie Kemper	Becca
+cast	Greg Tuculescu	Kevin
+cast	Steve Bannos	Annie's Mistaken Husband
+cast	Melissa McCarthy	Megan
+cast	Hugh Dane	Annie's Mistaken Fella
+cast	Rose Byrne	Helen
+cast	Franklyn Ajaye	Lillian's Dad
+cast	Tim Heidecker	Dougie
+cast	Lynne Marie Stewart	Lillian's Mom
+cast	Andy Buckley	Helen's Husband
+cast	Chris O'Dowd	Rhodes
+cast	Molly Buffington	Helen's Stepdaughter
+cast	Matt Bennett	Helen's Stepson
+cast	Nancy Carell	Helen's Tennis Partner
+cast	Melanie Hutsell	Annie's Tennis Partner
+cast	Eloy Casados	Churra Chi Waiter
+cast	Jessica St. Clair	Whitney
+cast	Dana Powell	Flight Attendant Claire
+cast	Mitch Silpa	Flight Attendant Steve
+cast	Annie Mumolo	Nervous Woman on Plane
+cast	Ben Falcone	Air Marshall Jon
+cast	Angelica Acedo	Flight Attendant in Coach
+cast	Mia Rose Frampton	13-Year-Old Girl in Jewelry Store
+cast	Joel Madison	13-Year-Old Girl's Father
+cast	R.F. Daley	Butler
+cast	Jordan Black	Horseman
+cast	David Hoffman	Doorman at Shower
+cast	Jillian Bell	Girl at Shower
+cast	Ariane Price	Girl at Shower
+cast	Frederik Hamel	Shower Waiter
+cast	Richard Riehle	Bill Cozbi
+cast	Jimmy Brogan	Minister
+cast	Carnie Wilson	Herself
+cast	Chynna Phillips	Herself
+cast	Wendy Wilson	Herself
+cast	Christine Ames	Party Attendee
+cast	Paolo Carascon	Plane Passenger
+cast	Pat Carroll	Old Woman in Car
+cast	David Cohen	Plane Passenger
+cast	Brennan Crewe	Cafe Patron
+cast	Niko El Santo Zavero	Plane Passenger
+cast	Michelle Faraone	Bootcamp Victim
+cast	Zachary Christopher Fay	Wedding Guest
+cast	Paul Feig	Guy at wedding
+cast	Kent A. Gallegos	Wedding guest
+cast	Blake Garrett Rosenthal	Tyler
+cast	Jon Hamm	Ted
+cast	Joyce Lakin	Lillian's Aunt
+cast	Brian Petsos	Pete
+cast	Tony Sagastizado I	Brazilian Waiter
+cast	Frank Scozzari	Parisian Server
+cast	Lisa Spoelstra	Party Attendee
+cast	Alexandra A. Sushkova	Party Attendee
+cast	Joanna Theobalds	Wedding Guest
+cast	Greg Worswick	Valet

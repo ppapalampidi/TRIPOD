@@ -1,0 +1,147 @@
+year	1974
+imdb score	7.7
+meta score	68
+genre	Crime
+genre	Thriller
+keyword	train
+keyword	hostage
+keyword	passenger
+keyword	hijacker
+keyword	subway
+keyword	demands
+keyword	police
+keyword	ransom
+keyword	new york city
+keyword	tunnel
+keyword	escape
+keyword	detective
+keyword	caper
+keyword	negotiation
+keyword	mayor
+keyword	mayor's office
+keyword	tension
+keyword	rogue cop
+keyword	suicide of villain
+keyword	panic
+keyword	one day
+keyword	cold
+keyword	suspense
+keyword	black comedy
+keyword	mobster
+keyword	japanese
+keyword	gracie mansion
+keyword	shootout
+keyword	mercenary
+keyword	electrocution
+keyword	train hijack
+keyword	afro american
+keyword	sneeze
+keyword	common cold
+keyword	murder
+keyword	suspect
+keyword	racial slur
+keyword	public transport
+keyword	arrest
+keyword	loot
+keyword	police officer
+keyword	undercover
+keyword	shot in the back
+keyword	tourist
+keyword	undercover cop
+keyword	gangster
+keyword	claustrophobic
+keyword	extortion
+keyword	japanese tourist
+keyword	control center
+keyword	car accident
+keyword	wheelchair
+keyword	italian american
+keyword	tube
+keyword	third rail
+keyword	reference to fiorello laguardia
+keyword	sniper
+keyword	tour guide
+keyword	tollbooth
+keyword	suicide
+keyword	disguise
+keyword	maid
+keyword	runaway train
+keyword	hijacking
+keyword	british american
+keyword	neighbor
+keyword	english
+keyword	visceral
+keyword	based on novel
+keyword	number in title
+keyword	surprise ending
+cast	Walter Matthau	Police Lt. Zachary Garber
+cast	Robert Shaw	Bernard Grier aka Blue
+cast	Martin Balsam	Harold Longman aka Green
+cast	Hector Elizondo	Giuseppe Benvenuto aka Grey
+cast	Earl Hindman	George Steever aka Brown
+cast	James Broderick	Denny Doyle - Train Conductor
+cast	Dick O'Neill	Frank Correll
+cast	Lee Wallace	Al - the Mayor of New York City
+cast	Tom Pedi	Caz Dolowicz
+cast	Beatrice Winde	Mrs. Jenkins
+cast	Jerry Stiller	Police Lt. Rico Patrone
+cast	Nathan George	Police Ptl. James
+cast	Rudy Bond	Phil - Police Commissioner
+cast	Kenneth McMillan	Harry - Borough Commander
+cast	Doris Roberts	Jessie - the Mayor's Wife
+cast	Julius Harris	Inspector Daniels
+cast	Cynthia Belgrave	The Maid
+cast	Anna Berger	The Mother
+cast	Gary Bolling	The Homosexual
+cast	Carol Cole	The Secretary
+cast	Alex Colon	The Delivery Boy
+cast	Joe Fields	The Salesman
+cast	Mari Gorman	The Hooker
+cast	Michael Gorrin	The Old Man
+cast	Thomas La Fleur	The Older Son
+cast	María Landa	The Spanish Woman
+cast	Louise Larabee	The Alcoholic
+cast	George Lee Miles	The Pimp
+cast	Carolyn Nelson	Coed #1
+cast	Eric O'Hanian	The Younger Son
+cast	Lucy Saroyan	Coed #2
+cast	William Snickowski	The Hippie
+cast	Barry Snyder	The W.A.S.P.
+cast	Walter Jones	Mr. Mattson
+cast	Jerry Holland	Bud Carmody
+cast	Robert Weil	Marino
+cast	Penny Krompier	T.A. Secretary
+cast	Christopher Murney	Dispatcher
+cast	Timothy Meyers	Plumber
+cast	Ruth Attaway	Mayor's Nurse
+cast	Thomas Barbour	T.A. Chairman
+cast	Marvin Silbersher	Comptroller
+cast	Neil Brooks Cunningham	Police Ptl. Miskowsky
+cast	Sal Viscuso	Police Ptl. O'Keefe
+cast	Tony Fasce	Police Ptl. Wentworth
+cast	Burtt Harris	Police Ptl. Ricci
+cast	Gene Gross	Muscat
+cast	Walter Lott	Executive on train
+cast	Conrad Yama	Mr. Tomashita
+cast	Sho Onodera	Mr. Matsumoto
+cast	Toru Nagai	Mr. Yashimura
+cast	Tura Nakamura	Mr. Nakabashi
+cast	Rowena Rollins	Angry Woman
+cast	Joseph Attles	Angry Man
+cast	Willis Pinkett	Towerman
+cast	Michelle Matthow	T.A. Receptionist
+cast	Isabella Hoopes	Woman on Platform
+cast	Bill Cobbs	Man on Platform
+cast	Jim Pelham	Subway Guard
+cast	Joe Seneca	Police Sergeant
+cast	Gino Gennaro	Police Lieutenant
+cast	Carmine Foresta	Train Expediter
+cast	Tony Roberts	Warren LaSalle
+cast	Hy Anzell	Toll Booth Officer
+cast	Ines Hellendall	Train Passenger
+cast	Jean-Paul Hellendall	Subway Passenger
+cast	James Mapes	Police Officer
+cast	Jay Rasumny	Squad Car Driver
+cast	Charles Silvern	Minor Role
+cast	Dolph Sweet	Police Capt. Costello
+cast	Frank Ventgen	Police Officer

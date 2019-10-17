@@ -1,0 +1,201 @@
+year	2009
+imdb score	6.4
+meta score	48
+genre	Comedy
+genre	Drama
+genre	Fantasy
+genre	Romance
+keyword	school
+keyword	high school
+keyword	janitor
+keyword	basketball
+keyword	friend
+keyword	bridge
+keyword	best friend
+keyword	big game
+keyword	millionaire
+keyword	sword fight
+keyword	pregnancy
+keyword	abstinence
+keyword	anger
+keyword	reference to vanilla ice
+keyword	athlete
+keyword	high school senior
+keyword	civil court
+keyword	boyfriend girlfriend relationship
+keyword	reference to kevin federline
+keyword	geek
+keyword	judge
+keyword	playstation portable
+keyword	fired from the job
+keyword	falling from height
+keyword	adult as child
+keyword	playing chess
+keyword	kiss
+keyword	bowling alley
+keyword	water boy
+keyword	party
+keyword	star wars spoof scene
+keyword	school party
+keyword	victory party
+keyword	fight
+keyword	condom
+keyword	no opening credits
+keyword	wild party
+keyword	los angeles california
+keyword	20 years later
+keyword	separation
+keyword	lightsaber
+keyword	teenage pregnancy
+keyword	reference to lord of the rings
+keyword	incestuous overtones
+keyword	canteen
+keyword	landscaper
+keyword	regret
+keyword	digit in title
+keyword	reference to star wars
+keyword	face slap
+keyword	husband wife relationship
+keyword	do over
+keyword	basketball player
+keyword	person on fire
+keyword	high school student
+keyword	teen angst
+keyword	cheerleader
+keyword	kissing
+keyword	freeze frame
+keyword	year 1989
+keyword	principal
+keyword	cheerleading squad
+keyword	school principal
+keyword	father daughter relationship
+keyword	divorce
+keyword	erectile disfunction
+keyword	basketball coach
+keyword	ice cream parlor
+keyword	sex education
+keyword	cheering crowd
+keyword	sword
+keyword	cafeteria
+keyword	shower
+keyword	pretending
+keyword	marriage crisis
+keyword	divorce court
+keyword	father son relationship
+keyword	coach
+keyword	falling off a bridge
+keyword	first date
+keyword	unwed pregnancy
+keyword	letter
+keyword	coming of age
+keyword	reference to batman
+keyword	wish
+keyword	bully
+keyword	star athlete
+keyword	erection
+keyword	xbox 360
+keyword	unplanned pregnancy
+keyword	what if
+keyword	teen movie
+keyword	magic
+keyword	number in title
+cast	Zac Efron	Mike O'Donnell
+cast	Leslie Mann	Scarlet
+cast	Thomas Lennon	Ned Gold
+cast	Matthew Perry	Mike O'Donnell
+cast	Tyler Steelman	Ned Gold
+cast	Allison Miller	Scarlet
+cast	Sterling Knight	Alex
+cast	Michelle Trachtenberg	Maggie
+cast	Adam Gregory	Dom
+cast	Hunter Parrish	Stan
+cast	Mario Cassem	Samir
+cast	Kat Graham	Jamie
+cast	Tiya Sircar	Samantha
+cast	Melissa Ordway	Lauren
+cast	Melora Hardin	Principal Jane Masterson
+cast	Brian Doyle-Murray	Janitor
+cast	Josie Loren	Nicole
+cast	Jim Gaffigan	Coach Murphy
+cast	Randy Gordon	Photographer
+cast	Collette Wolfe	Wendy
+cast	Tommy Dewey	Roger
+cast	Linda Miller	Female Janitor
+cast	Lorna Scott	Secretary
+cast	Kodi Kitchen	Hostess
+cast	Ellis Williams	Bailiff
+cast	Diana Maria Riva	Judge
+cast	Jeff Snyder	Waiter
+cast	Antonio Lewis Todd	Referee
+cast	Angee Hughes	Waitress
+cast	Ed Ackerman	School Cop
+cast	Will Schaub	Referee
+cast	Loren Lester	Mike's Lawyer
+cast	Alexander George	Kid in Hallway
+cast	Nicole Sullivan	Naomi
+cast	Margaret Cho	Mrs. Dell
+cast	Larry Poindexter	Dean
+cast	Bubba Lewis	Dorky Kid
+cast	Chris Valenti	Syracuse Scout
+cast	G. Lane Hillman	Kevin
+cast	Hope Riley	Girl
+cast	Jeanine Jackson	Scarlet's Lawyer
+cast	Gregory Sporleder	Ohio Scout
+cast	Keith Oney	Guy in Crowd
+cast	Leonard Wu	Kid
+cast	Liana Blackburn	Cheerleader
+cast	Lindsay Taylor	Cheerleader
+cast	Danielle E. Hawkins	Cheerleader
+cast	Shelby Rabara	Cheerleader
+cast	Katrina Norman	Cheerleader
+cast	Tiana Brown	Cheerleader
+cast	Rhapsody	Cheerleader
+cast	Taisha Monique Clark	Cheerleader
+cast	Vanessa Lee Chester	Cheerleader
+cast	Amber Estrada	Cheerleader
+cast	Chanel Malvar	Cheerleader
+cast	Galen Hooks	Cheerleader
+cast	Tyne Stecklein	Cheerleader
+cast	Kiara Nicole Ely	Cheerleader
+cast	Mihran Kirakosian	Cheerleader
+cast	Dres Reid	Cheerleader
+cast	Terrance Harrison	Mascot
+cast	Rachele Brooke Smith	Hammer Dancer
+cast	Christopher Scott	Hammer Dancer
+cast	Eric McCoy	Hammer Dancer
+cast	Raymond Chacon	Jazz
+cast	Megan Galiber	Girl #2
+cast	Renee Krieg	ROTC Leader
+cast	Jordan Schatz	Mr. Adams
+cast	Jaclyn Matfus	Party Girl
+cast	Justin C. Todd	Football Player
+cast	Daniel Bateman	Dancer
+cast	Michael Bretten	Partying Student in Pool
+cast	Joshua Carver	Hayden Basketball Player #3
+cast	Jason Castle	Party Guy
+cast	David Cohen	Parent of Basket Player
+cast	Hugh Douglas	Angry Kid at Party
+cast	Albert Blake Fernandez	Dancer
+cast	Jesse Heiman	Mascot
+cast	Brandon G. Holley	Party Guy
+cast	Benjamin David Howard	Basketball Player #42
+cast	Micah J. Jones	Basketball Teammate
+cast	Erica LaRose	Teen girl
+cast	Rashaud Love	Hammer Dancer
+cast	Darin Maddox	Stan's Posse
+cast	Paul McGee	Basketball Teammate '85 Team
+cast	Leo Montiel	Football Jock
+cast	Lucas Mroczkowski	Bowling Alley Party Guy
+cast	Alan Mueting	School Administrator
+cast	Jonathan W.D. Newkerk	Student Making Fun of Mike
+cast	Kate Ociepka	Student in Classroom
+cast	Ladell Parks	Student
+cast	Martin Pierron	Punk Student
+cast	Leonard Jonathan Ruebe	High School Student
+cast	Sagine	Party Girl
+cast	Justin Sandler	Goth Bully
+cast	Jacob Saylor	Basketball Player
+cast	Laura Siegel	High School Student
+cast	David M. Tran	Party Guy
+cast	Jobeth Wagner	Punk Student
+cast	Maria Zambrana	Basketball Game Patron

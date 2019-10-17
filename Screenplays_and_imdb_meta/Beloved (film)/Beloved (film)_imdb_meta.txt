@@ -1,0 +1,260 @@
+year	1998
+imdb score	5.8
+meta score	57
+genre	Drama
+genre	Horror
+genre	Mystery
+keyword	spirit
+keyword	farm
+keyword	ohio
+keyword	freedom
+keyword	slavery
+keyword	carnival
+keyword	family relationships
+keyword	milk
+keyword	burnt hand
+keyword	diamond
+keyword	canoe
+keyword	death of daughter
+keyword	secret
+keyword	female nudity
+keyword	horse riding
+keyword	newspaper clipping
+keyword	urination
+keyword	back from the dead
+keyword	sex
+keyword	oven
+keyword	torture
+keyword	children
+keyword	lynching
+keyword	marriage
+keyword	animal sex
+keyword	box office flop
+keyword	insect
+keyword	horse and wagon
+keyword	bread
+keyword	preaching
+keyword	physical abuse
+keyword	vomit
+keyword	throat scar
+keyword	ice pick
+keyword	ghost
+keyword	brother sister relationship
+keyword	ghost of baby
+keyword	pregnancy
+keyword	beating
+keyword	dog eye
+keyword	dancer
+keyword	eating
+keyword	brutality
+keyword	mother son relationship
+keyword	subjective camera
+keyword	rural setting
+keyword	crystal
+keyword	drinking
+keyword	icicle
+keyword	earring
+keyword	horse and carriage
+keyword	dancing
+keyword	african american
+keyword	cruelty
+keyword	turtle sex
+keyword	1860s
+keyword	topless female nudity
+keyword	riverboat
+keyword	cincinnati ohio
+keyword	1870s
+keyword	murder
+keyword	reincarnation
+keyword	bloody body of child
+keyword	love
+keyword	animal cruelty
+keyword	nightmare
+keyword	band
+keyword	black american
+keyword	grandmother granddaughter relationship
+keyword	whipping
+keyword	sadness
+keyword	pain
+keyword	crying
+keyword	chicken
+keyword	farmhouse
+keyword	tears
+keyword	husband wife relationship
+keyword	turtle
+keyword	kentucky
+keyword	fire
+keyword	death
+keyword	pulitzer prize source
+keyword	nudity
+keyword	mother kills own child
+keyword	fire eater
+keyword	bandstand
+keyword	dog
+keyword	dream
+keyword	butterfly
+keyword	baby
+keyword	suffering
+keyword	father daughter relationship
+keyword	illness
+keyword	coyote
+keyword	mysticism
+keyword	childbirth
+keyword	pregnant woman nude
+keyword	barn
+keyword	infanticide
+keyword	drunkenness
+keyword	river
+keyword	brother brother relationship
+keyword	snow
+keyword	horse
+keyword	farming
+keyword	blood
+keyword	breast feeding
+keyword	racial slur
+keyword	boat
+keyword	farmer
+keyword	bug
+keyword	stove
+keyword	father daughter incest
+keyword	rain
+keyword	hanging
+keyword	rocking chair
+keyword	child murder
+keyword	general store
+keyword	food
+keyword	pig
+keyword	sideshow
+keyword	wind
+keyword	preacher
+keyword	drink
+keyword	screaming
+keyword	underwater scene
+keyword	duck
+keyword	broken dish
+keyword	mother daughter relationship
+keyword	19th century
+keyword	haunting
+keyword	bath
+keyword	farmers market
+keyword	scar
+keyword	hanging of mother
+keyword	retarded child
+keyword	mental retardation
+keyword	throwing dog against wall
+keyword	flashback
+keyword	carnival ride
+keyword	guilt
+keyword	bare breasts
+keyword	one word title
+keyword	baking
+keyword	murder of mother
+keyword	kiss
+keyword	sermon
+keyword	church
+keyword	supernatural power
+keyword	dugout canoe
+keyword	washing bedding
+keyword	death of mother
+keyword	based on novel
+keyword	
+cast	Yada Beener	Denver aged 9
+cast	Emil Pinnock	Howard aged 14
+cast	Calen Johnson	Buglar aged 13
+cast	Oprah Winfrey	Sethe
+cast	Beah Richards	Baby Suggs
+cast	Danny Glover	Paul D
+cast	Kimberly Elise	Denver
+cast	George E. Ray	Reverend Pike
+cast	Jude Ciccolella	Schoolteacher
+cast	Wes Bentley	Schoolteacher's Nephew
+cast	Kessia Embry	Amy Denver
+cast	Dashiell Eaves	Schoolteacher's Nephew
+cast	LisaGay Hamilton	Younger Sethe
+cast	Tyler Hinson	Baby Beloved
+cast	Brian Hooks	Young Paul D
+cast	Angie Utt	Mrs. Garner
+cast	Hill Harper	Halle
+cast	Thandie Newton	Beloved
+cast	Jim Roche	String Show Barker
+cast	Irma P. Hall	Ella
+cast	Dorothy Love Coates	M. Lucille Williams
+cast	Vertamae Grosvenor	Grace
+cast	Ramona Castle	Carnival Kid
+cast	Brooklyn James	Carnival Kid
+cast	Nora Marlowe	Carnival Kid
+cast	Frederick Strother	African Savage
+cast	Lillian Smith	Lemonade Server
+cast	Aliya Robinson	Denver's Carnival Friend
+cast	Albert Hall	Stamp Paid
+cast	Anthony Chisholm	Langhorne
+cast	Joe Toutebon	Frenchie
+cast	Brittany Hawkins	Young Girl Sethe
+cast	Alerte Belance	Nan
+cast	Ayoka Dorsey	Sethe's Mother
+cast	Ashleigh Watson	Baby Denver
+cast	Dajon Matthews	Howard aged 5
+cast	Norris Wiggins Jr.	Buglar aged 4
+cast	Harry Northup	Sheriff
+cast	Tracey Walter	Slave Catcher
+cast	Terel Gibson	Buglar aged 21
+cast	Damani Baker	Howard aged 22
+cast	Robert W. Castle	Mr. Sawyer
+cast	Paul Lazar	General Store Proprietor
+cast	Leigh Smiley	General Store Helper
+cast	Jane White	Lady Jones
+cast	Jiggs Walker	Good Samaritan
+cast	Dan Olmstead	Policeman
+cast	Charles Glenn	Helpful Gentleman
+cast	Carol Jean Lewis	Janey Wagon
+cast	Jason Robards	Mr. Bodwin
+cast	Anthony S. Calypso	Denver's Boyfriend
+cast	Ysaye M. Barnwell	The Thirty Women
+cast	Aisha Kahlil	The Thirty Women
+cast	Trazana Beverley	One of 'The Thirty Women'
+cast	Carol Maillard	One of 'The Thirty Women'
+cast	Cecelia Ann Birt	The Thirty Women
+cast	Dianne McIntyre	The Thirty Women
+cast	Grace Blake	The Thirty Women
+cast	Gaynielle Neville	The Thirty Women
+cast	Jordan Cael	The Thirty Women
+cast	Madeline Preston	The Thirty Women
+cast	Nitanju Bolade Casel	The Thirty Women
+cast	Matt Rochester	The Thirty Women
+cast	Edwidge Danticat	The Thirty Women
+cast	Millicent Sparks	The Thirty Women
+cast	Yanick Etienne	The Thirty Women
+cast	Lisa Summerour	The Thirty Women
+cast	Denise Gassant	The Thirty Women
+cast	Ophelia M. Turner	The Thirty Women
+cast	Frances Gray	The Thirty Women
+cast	Karen Vicks	One of 'The Thirty Women'
+cast	Thelma Houston	The Thirty Women
+cast	Willa Ward	The Thirty Women
+cast	Louise Johnson	The Thirty Women
+cast	Pauletta Washington	The Thirty Women
+cast	Jacqueline Celestin Fils-Aimé	The Thirty Women
+cast	Oumou Sangare	Ancestor Vocals
+cast	Hazel Fernadez	Featured Singer
+cast	Len Berdick	Guard of Slaves
+cast	Daniel Capellaro	Paperboy
+cast	Jahmal Curtis	Stamp Paid's Boy #1
+cast	Katy Dierlam	Helen Melon
+cast	Brother Eden Douglas	Swine Wrangler - Sethe's Neighbor
+cast	Lionel Douglass	Fry Man
+cast	Belito Garcia	Slave
+cast	Stanley Glenn	Barber Shop Man #2
+cast	Harold Gould	Barber Shop Man #4
+cast	Frank Hartman	Frank the Human Volcano
+cast	Faith Grace Johnson	30 Mile Woman
+cast	Bonnie Loev	Carriage Passenger
+cast	Nancy Marron-Asti	Widow / Mom
+cast	Warren Miller	Sands of Time Teller
+cast	Charles Napier	Angry Carny
+cast	Joey Perillo	The Carnival Barker
+cast	Jimmy Joe Roche	Carny Family Member
+cast	Lauren Roselli	Carnival Gypsy
+cast	Edward Saxon	Man with Rubbery Face
+cast	Cue Shepherd	Slave
+cast	Rema D. Webb	The Thirty Women
+cast	Ford Wheeler	Egyptian Giant

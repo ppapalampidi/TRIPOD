@@ -1,0 +1,109 @@
+year	1997
+imdb score	6.3
+meta score	50
+genre	Comedy
+genre	Romance
+keyword	love
+keyword	wedding
+keyword	promise
+keyword	comiskey park
+keyword	urban setting
+keyword	sing along
+keyword	ménage à trois
+keyword	karaoke
+keyword	birthday
+keyword	screwball
+keyword	intrigue
+keyword	gay interest
+keyword	heir
+keyword	rival
+keyword	mud mask
+keyword	revenge
+keyword	love triangle
+keyword	commuter airline
+keyword	four word title
+keyword	jealousy
+keyword	gay friend
+keyword	homosexual
+keyword	human relationship
+keyword	chick flick
+keyword	blockbuster
+keyword	unrequited love
+keyword	quest
+keyword	kiss
+keyword	chicago illinois
+keyword	rage
+cast	Julia Roberts	Julianne Potter
+cast	Dermot Mulroney	Michael O'Neal
+cast	Cameron Diaz	Kimberly Wallace
+cast	Rupert Everett	George Downes
+cast	Philip Bosco	Walter Wallace
+cast	M. Emmet Walsh	Joe O'Neal
+cast	Rachel Griffiths	Samantha Newhouse
+cast	Carrie Preston	Mandy Newhouse
+cast	Susan Sullivan	Isabelle Wallace
+cast	Christopher Masterson	Scotty O'Neal
+cast	Raci Alexander	Title Sequence Performer #1
+cast	Jennifer Garrett	Title Sequence Performer #2
+cast	Kelleia Sheerin	Title Sequence Performer #3
+cast	Bree Turner	Title Sequence Performer #4
+cast	Cassie Creasy	Flower Girl
+cast	Lucina Paquet	Kimmy's Grandma
+cast	Aida Baggio	Old Woman #2
+cast	Shirley Kelly	Oldest Lady
+cast	George Bozonelos	Party Guest
+cast	Loretta Paoletti	Party Guest
+cast	Joseph Sikora	Stoner Guy #1
+cast	Shale Marks	Stoner Guy #2
+cast	Phillip Ingram	Wedding Singer
+cast	Rose Abdoo	Seamstress
+cast	JoBe Cerny	Tailor
+cast	Paul Giamatti	Richard the Bellman
+cast	Charlie Trotter	Himself
+cast	Guillermo Tellez	Chef
+cast	Ned Schmidtke	Captain
+cast	Mark Swenson	Karaoke Singer
+cast	Mara Casey	Karaoke Girl
+cast	Tonray Ho	Karaoke Waitress
+cast	Michelle Hutchison	Drunken Trashy Girl
+cast	Robert Sutter	Crabhouse Pianist
+cast	Charlotte Zucker	Customer
+cast	Susan Breslau	Customer
+cast	Burton Zucker	Customer
+cast	Sharon Haight	Customer
+cast	Nydia Rodriguez Terracina	Walter's Secretary
+cast	Mike Bacarella	Office Janitor
+cast	Larry Santori	Conductor
+cast	Gene Janson	Sport Magazine Guy
+cast	Kevin Michael Doyle	Sport Magazine Guy
+cast	Scott Kuhagen	Werner
+cast	Sid Hillman	Dining Guest
+cast	Norman Merrill	Dining Guest
+cast	Renata Scott	Dining Guest
+cast	Anh Duong	Dining Guest
+cast	Harry Shearer	Jonathan P.F. Ritt, Poetry Reader
+cast	Jennifer McComb	Excited Woman
+cast	Mary-Pat Green	Angry Woman
+cast	Davenia McFadden	Angrier Woman
+cast	Jo Farkas	Loony Woman
+cast	The Morning Choir 4th Presbyterian Church of Chicago	Wedding Choir
+cast	Paul Adelstein	Brunch Guest
+cast	Stephanie Burton	Karioke Patron
+cast	Kathi Copeland	Singing Chef
+cast	Amy Danles	Intro Bridesmaid #2
+cast	Reese Foster	Dining Guest
+cast	Leon 'Lee' Fuller	Brunch Guest
+cast	Patricia E. Harrington	Airport Traveller
+cast	Jerod Howard	Wedding Guest
+cast	Chris Lowe	Party Guest
+cast	Robert Minkoff	
+cast	Molly Murphy	Train Conductor
+cast	Eric A. Pot	Florist
+cast	Chelcie Ross	Priest
+cast	Maridean Mansfield Shepard	Baseball Fan in Ladies' Room
+cast	Anne Spradley-Montie	Angry Fan
+cast	Daisy Alexandra Sylbert-Torres	Wedding Guest
+cast	Dominic Paolo Testa	Shopper
+cast	Ray Uhler	Wedding Guest
+cast	Robert Velo	Taylor
+cast	Johnny White	Karaoke Patron

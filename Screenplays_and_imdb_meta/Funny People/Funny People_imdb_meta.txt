@@ -1,0 +1,195 @@
+year	2009
+imdb score	6.4
+meta score	60
+genre	Comedy
+genre	Drama
+keyword	comedian
+keyword	stand up comedian
+keyword	woman on top
+keyword	husband wife relationship
+keyword	see through panties
+keyword	fight
+keyword	womanizer
+keyword	swimming in one's underwear
+keyword	mother daughter relationship
+keyword	singing in a car
+keyword	cheating
+keyword	sex
+keyword	watching tv
+keyword	cameo appearance
+keyword	television star
+keyword	old flame
+keyword	bare breasts
+keyword	employer employee relationship
+keyword	adultery
+keyword	stand up comedy
+keyword	premarital sex
+keyword	jealousy
+keyword	airport
+keyword	experimental drug
+keyword	female nudity
+keyword	gay slur
+keyword	doctor patient relationship
+keyword	joke
+keyword	reference to jon favreau
+keyword	terminal illness
+keyword	facebook
+keyword	san francisco california
+keyword	extramarital affair
+keyword	unfaithfulness
+keyword	f word
+keyword	swedish accent
+keyword	australian accent
+keyword	male bonding
+keyword	cheating wife
+keyword	penis joke
+keyword	leukemia
+keyword	groupies
+keyword	infidelity
+keyword	reference to robin williams
+keyword	thanksgiving
+keyword	box office flop
+keyword	craigslist
+keyword	arrested development
+keyword	sexual joke
+keyword	myspace
+keyword	marriage
+keyword	marital problem
+keyword	mansion
+keyword	massage parlor
+keyword	peanut butter
+keyword	title spoken by character
+cast	Adam Sandler	George Simmons
+cast	Seth Rogen	Ira Wright
+cast	Leslie Mann	Laura
+cast	Eric Bana	Clarke
+cast	Jonah Hill	Leo Koenig
+cast	Jason Schwartzman	Mark Taylor Jackson
+cast	Aubrey Plaza	Daisy Danby
+cast	Maude Apatow	Mable
+cast	Iris Apatow	Ingrid
+cast	RZA	Chuck
+cast	Aziz Ansari	Randy
+cast	Torsten Voges	Dr. Lars
+cast	Allan Wasserman	Dr. Stevens
+cast	Rod Man	Himself
+cast	Wayne Federman	Comedy & Magic Manager
+cast	Mike O'Connell	MySpace Escort
+cast	James Taylor	Himself
+cast	Nicole Parker	Dawn
+cast	Nydia McFadden	Mandy
+cast	Andy Dick	Himself
+cast	Charles Fleischer	Himself
+cast	Nicol Paone	George's Sister
+cast	George Coe	George's Dad
+cast	Budd Friedman	Himself
+cast	Monty Hoffman	Himself
+cast	Carol Leifer	Herself
+cast	Paul Reiser	Himself
+cast	Mark Schiff	Himself
+cast	George Wallace	Himself
+cast	Norm MacDonald	Himself
+cast	Dave Attell	Himself
+cast	Sarah Silverman	Herself
+cast	Bryan Batt	George's Agent
+cast	Maggie Siff	Rachel
+cast	Eminem	Himself
+cast	Ray Romano	Himself
+cast	Jon Brion	Jam Musician
+cast	Sebastian Steinberg	Jam Musician
+cast	James Gadson	Jam Musician
+cast	Arshad Aslam	Yo Teach Cast Member
+cast	Bo Burnham	Yo Teach Cast Member
+cast	Miki Ishikawa	Yo Teach Cast Member
+cast	Kenny Copeland Jr.	Yo Teach Cast Member
+cast	Calvin Sykes	Yo Teach Cast Member
+cast	Ca'Shawn Sims	Yo Teach Cast Member
+cast	Mandi Kreisher	Yo Teach Cast Member
+cast	Phillip Andre Botello	Yo Teach Cast Member
+cast	Carla Gallo	Miss Pruitt on Yo Teach
+cast	Ernest Thomas	Yo Teach Principal
+cast	Tonita Castro	Bonita
+cast	Carlos Andrade	Gardener
+cast	Steve Bannos	Deli Manager
+cast	Justin Long	Re-Do Guy
+cast	Lucas Dick	College Guy with Camera
+cast	Tyler Spindel	College Guy with Camera
+cast	Deamor Yi	8-Year-Old Girl Fan
+cast	Elaine Kao	Mom with Camera
+cast	King Kedar	Family with Camera
+cast	Andre Butler Jr.	Family with Camera
+cast	Tanya Acker	Family with Camera
+cast	Jarrett Grode	Magician
+cast	Qiana Chase	Chuck's Wife
+cast	Tom Anderson	Himself - Myspace Founder
+cast	John Hartmann	Private Jet Pilot
+cast	Dave Rath	San Francisco Theatre Manager
+cast	Dan Harmon	Paparazzi at Medical Center
+cast	Brandon Cournoyer	Paparazzi at Medical Center
+cast	Kyle Kinane	Paparazzi at Medical Center
+cast	Mark Cohen	Emcee at Improv
+cast	Denise Meyerson	Deli Customer
+cast	Joanie Marx	Deli Customer
+cast	Adam J. Bernstein	Hot Dog-Eating Champion's Son
+cast	Da'Vone McDonald	Hot Dog-Eating Co-Star
+cast	Orny Adams	Himself
+cast	Al Lubel	Himself
+cast	Jerry Minor	Himself
+cast	Eleanor Zee	George's Mom
+cast	Ben Meyerson	George's Brother-In-Law
+cast	Sammy Jack	George's Young Nephew
+cast	Kim Taylor	James Taylor's Musician
+cast	Andrea Zonn	James Taylor's Musician
+cast	Kate Markowitz	James Taylor's Musician
+cast	Arnold McCuller	James Taylor's Musician
+cast	Larry Goldings	James Taylor's Musician
+cast	Luis Conte	James Taylor's Musician
+cast	Russ Kunkel	James Taylor's Musician
+cast	Jimmy Johnson	James Taylor's Musician
+cast	Brad Grunberg	Comedy & Magic Club Audience
+cast	Brian Lally	Comedy & Magic Club Audience
+cast	Brandon Johnson	DJ Ol youngin
+cast	Don Abernathy	Pedestrian
+cast	Leo Baligaya	Airport Traveler
+cast	Matthew Black	Comedy Club Patron
+cast	Brett Ryan Bonowicz	Improv Audience Member
+cast	Michael Patrick Breen	Comedy Club Goer
+cast	Jason Canning	Comedy & Magic Club Audience
+cast	Jack Chevanty	Patron
+cast	James Chiello	Passenger
+cast	John Clerkin	Traveler in S.F. Airport
+cast	Clark Coffey	Fan
+cast	Zachary Culbertson	Boyfriend of Tall Blonde at the Airport
+cast	Alex Dominguez	Show room manager
+cast	Aaron Drake	Comedy Club Patron
+cast	Ezra Edmond	Largo Audience Member
+cast	Laivan Greene	Yo Teach...! Cast Member #2
+cast	Heather Howe	Comedy Club Patron
+cast	Stephen Bradley Jones	Security Guard #1
+cast	Mohammad Kavianpour	Paparazzi
+cast	Susan Krebs	Mildred
+cast	Matt Landry	Comedy & Magic Club Audience
+cast	Mark Lavell	Airport Traveler
+cast	Jane Le	Jane
+cast	Cameron Lee	First Class Passenger
+cast	Ronnie Loaiza	Comedy Club Goer
+cast	Carl Marino	Traveler in SF Airport
+cast	Laura Mayes	Comedy-Club Patron
+cast	Elsa Morales Myers	Corporate Party Attendee
+cast	Joti Nagra	Traveling Passenger
+cast	Andrew J. Neis	Theatregoer
+cast	Joe Nunez	Attendant
+cast	Lizzie Partridge	Comedy & Magic Club Audience
+cast	Montgomery Paulsen	Man in Airport
+cast	David Alan Poe	Sky Cap
+cast	Jeff Redlick	Airport Traveler
+cast	Timothy Roberts	Security Guard
+cast	Jeff Rosick	Bus Boy
+cast	Kelli Shane	Airport Traveler
+cast	Wilder Shaw	Largo Audience Member
+cast	Matthew L. Sobel	Comedy & Magic Club Audience
+cast	Christopher Sugarman	Norwegian Traveler
+cast	Kerry Wing	Airline Ticket Buyer
+cast	Jonathan Winnicki	Comedy & Magic Club Audience
+cast	Nathan Wright	MySpace Employee
+cast	Maria Zambrana	Comedy Club Patron

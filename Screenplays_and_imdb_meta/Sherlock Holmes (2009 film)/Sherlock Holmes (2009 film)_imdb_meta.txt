@@ -1,0 +1,309 @@
+year	2009
+imdb score	7.6
+meta score	57
+genre	Action
+genre	Adventure
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	partner
+keyword	death
+keyword	detective
+keyword	scotland yard
+keyword	black magic
+keyword	grave
+keyword	escape
+keyword	arrest
+keyword	clue
+keyword	murder
+keyword	coffin
+keyword	poison gas
+keyword	chambermaid
+keyword	subtitled scene
+keyword	fly the insect
+keyword	good versus evil
+keyword	midget
+keyword	machine
+keyword	bridge construction
+keyword	horse drawn carriage
+keyword	house of lords
+keyword	science
+keyword	race against time
+keyword	rain
+keyword	dog
+keyword	handcuffed to a bedpost
+keyword	parliament building
+keyword	police gazette the newspaper
+keyword	sawed off shotgun
+keyword	mirror
+keyword	flashback
+keyword	death of fiancee
+keyword	lightning
+keyword	based on comic
+keyword	based on short story
+keyword	book
+keyword	kicking in a door
+keyword	doctor
+keyword	shotgun
+keyword	spiral staircase
+keyword	held at gunpoint
+keyword	axe
+keyword	ship
+keyword	femme fatale
+keyword	warrior
+keyword	brutality
+keyword	robbery
+keyword	deduction
+keyword	giant
+keyword	meat cleaver
+keyword	slaughterhouse
+keyword	character appears in newspaper
+keyword	necklace
+keyword	shot in the shoulder
+keyword	engagement ring
+keyword	fiancee
+keyword	man hits a woman
+keyword	action hero
+keyword	burned alive
+keyword	steampunk
+keyword	scene with distorted sound
+keyword	damsel in distress
+keyword	drunkenness
+keyword	book of revelations
+keyword	gypsy woman
+keyword	bulldog
+keyword	bag over someone's head
+keyword	bathtub
+keyword	diamond necklace
+keyword	turkey the country
+keyword	graveyard
+keyword	opera
+keyword	hidden room
+keyword	gallows
+keyword	son murders father
+keyword	police
+keyword	strangulation
+keyword	sword cane
+keyword	arm in a sling
+keyword	riddle
+keyword	hit in the crotch
+keyword	necklace yanked off
+keyword	strong man
+keyword	sliced in two
+keyword	eye patch
+keyword	revolver
+keyword	frenchman
+keyword	map
+keyword	prison
+keyword	father son relationship
+keyword	nightmare
+keyword	hanging
+keyword	bandage
+keyword	train
+keyword	evil man
+keyword	1890s
+keyword	shot in the head
+keyword	two word title
+keyword	wall safe
+keyword	baker street london
+keyword	anti hero
+keyword	friendship
+keyword	prologue
+keyword	man on fire
+keyword	secret order
+keyword	bribe
+keyword	violin
+keyword	pushed from height
+keyword	sword
+keyword	violence
+keyword	professor
+keyword	falling from height
+keyword	pistol
+keyword	murder of father
+keyword	corpse
+keyword	railway station
+keyword	altered version of studio logo
+keyword	blood
+keyword	stolen necklace
+keyword	love triangle
+keyword	shootout
+keyword	execution
+keyword	cult film
+keyword	trap
+keyword	fraternity
+keyword	kicked in the stomach
+keyword	genius
+keyword	person on fire
+keyword	intelligence
+keyword	big ben london
+keyword	19th century
+keyword	sorcery
+keyword	drink thrown into someone's face
+keyword	reference to don giovanni
+keyword	fire
+keyword	newspaper
+keyword	gas jet of fire
+keyword	antidote
+keyword	thief
+keyword	martial arts
+keyword	reading
+keyword	victorian era
+keyword	horse and carriage
+keyword	looking out a window
+keyword	beating
+keyword	title appears in writing
+keyword	murder of a police officer
+keyword	jumping through a window
+keyword	fistfight
+keyword	gunfight
+keyword	explosion
+keyword	factory
+keyword	drowning in a bathtub
+keyword	laboratory
+keyword	opening action scene
+keyword	resurrection
+keyword	palm reading
+keyword	red wine
+keyword	sword fight
+keyword	deductive reasoning
+keyword	character appears on front page of a newspaper
+keyword	mixed martial arts
+keyword	ceremony
+keyword	sword duel
+keyword	parliament
+keyword	bat
+keyword	illusionist
+keyword	nonlinear timeline
+keyword	bullet time
+keyword	newspaper article
+keyword	hit in the throat
+keyword	jumping out a window
+keyword	bound and gagged
+keyword	fake nose
+keyword	chain
+keyword	brawl
+keyword	house fly
+keyword	dead rat
+keyword	mysterious villain
+keyword	sidekick
+keyword	secret society
+keyword	bare chested male
+keyword	theft
+keyword	two man army
+keyword	rat tail
+keyword	war veteran
+keyword	handcuffs
+keyword	conspiracy
+keyword	boat
+keyword	photograph
+keyword	villain
+keyword	gambling
+keyword	bickering
+keyword	drugged drink
+keyword	deception
+keyword	private detective
+keyword	newspaper headline
+keyword	restaurant
+keyword	sinking ship
+keyword	shipyard
+keyword	disguise
+keyword	jumping into a river
+keyword	pipe smoking
+keyword	hand to hand combat
+keyword	falling asleep
+keyword	horse
+keyword	slow motion scene
+keyword	punched in the stomach
+keyword	buzzsaw
+keyword	photograph in newspaper
+keyword	ritual
+keyword	diamonds
+keyword	foot chase
+keyword	chase
+keyword	human sacrifice
+keyword	london england
+keyword	no opening credits
+keyword	bible quote
+keyword	hidden door
+keyword	secret organization
+keyword	punched in the face
+keyword	hospital
+keyword	tea
+keyword	violence
+keyword	knocked out
+keyword	bare knuckle fighting
+keyword	hallucination
+keyword	assassination attempt
+keyword	stick fight
+keyword	undressing
+keyword	hotel
+keyword	witness
+keyword	fireplace
+keyword	boyfriend girlfriend relationship
+keyword	professor moriarty
+keyword	electro shock
+keyword	tomb
+keyword	knife
+keyword	back from the dead
+keyword	ambassador
+keyword	faked death
+keyword	sewer
+keyword	tower bridge london
+keyword	death of father
+keyword	based on novel
+keyword	character name in title
+keyword	title spoken by character
+cast	Robert Downey Jr.	Sherlock Holmes
+cast	Jude Law	Dr. John Watson
+cast	Rachel McAdams	Irene Adler
+cast	Mark Strong	Lord Blackwood
+cast	Eddie Marsan	Inspector Lestrade
+cast	Robert Maillet	Dredger
+cast	Geraldine James	Mrs. Hudson
+cast	Kelly Reilly	Mary Morstan
+cast	William Houston	Constable Clark
+cast	Hans Matheson	Lord Coward
+cast	James Fox	Sir Thomas Rotheram
+cast	William Hope	Ambassador Standish
+cast	Clive Russell	Captain Tanner
+cast	Oran Gurel	Reordan
+cast	David Garrick	McMurdo
+cast	Kylie Hutchinson	Maid
+cast	Andrew Brooke	Guard Captain
+cast	Tom Watt	Carriage Driver
+cast	John Kearney	Carriage Driver
+cast	Sebastian Abineri	Coach Driver
+cast	Jonathan Gabriel Robbins	Guard
+cast	James A. Stephens	Captain Philips
+cast	Terry Taplin	Groundskeeper
+cast	Bronagh Gallagher	Palm Reader
+cast	Ed Tolputt	Anonymous Man
+cast	Joe Egan	Big Man
+cast	Jefferson Hall	Young Guard
+cast	Miles Jupp	Waiter
+cast	Marn Davies	Police Officer
+cast	Andrew Greenough	Prison Guard
+cast	Ned Dennehy	Man with Roses
+cast	Martin Ewens	Removable Man
+cast	Amanda Grace Johnson	Young Woman Sacrifice
+cast	James Greene	Governor
+cast	David Emmings	Grave Policeman
+cast	Ben Cartwright	Grave Policeman
+cast	Chris Sunley	Grave Policeman
+cast	Michael Jenn	Preacher
+cast	Timothy O'Hara	Porter / Smith
+cast	Guy Williams	Golden Dawn Envoy
+cast	Peter Miles	Thug
+cast	Jonathan Bridge	Man Carrying Tray of Fish in Market
+cast	Sam Creed	Thug
+cast	Radu Andrei Cucu	Frenzy Man
+cast	James Currie	Prison Guard
+cast	Jason Daly	Man with Dog
+cast	Paul J. Dove	Bishop
+cast	Neil Findlater	Photographer
+cast	Kas Graham	Dog Fighter
+cast	Thomas Kadman	Pallbearer
+cast	Brendan McCoy	Fishmonger
+cast	Matthew Radway	Barman
+cast	Robert Stone	Prizefighter
+cast	John Warman	Policeman

@@ -1,0 +1,6185 @@
+Jaws (1975) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Jaws (1975) movie scriptby Peter Benchley and Carl Gottlieb.Based on novel by Peter Benchley.Final Draft Screenplay.
+More info about this movie on IMDb.com
+
+
+1OVER BLACK1
+
+Sounds of the innerspaces rushing forward.
+
+Then a splinter of blue light in the center of the picture.
+It breaks wide, showing the top and bottom a silhouetted
+curtain of razor sharp teeth suggesting that we are inside
+of a tremendous gullet, looking out at the onrushing under-
+sea world at night.  HEAR a symphony of underwater sounds:
+landslide, metabolic sounds, the rare and secret noises that
+certain undersea species share with each other.
+
+CUT TO
+
+
+2EXT. LIGHTHOUSE - NIGHT2
+
+Caught in its blinding flash, the light moves on, fingering
+the fog.  A lone buoy dongs somewhere out at sea.
+
+
+3EXT. AMITY MAINSTREET - NIGHT3
+
+The quaint little resort town is quiet in the middle of the
+night.  A ground fog rounds a corner and begins spreading
+toward us.  It fills over sidewalks and streets like some
+Biblical plague.
+
+
+4EXT. THE SOUTH SHORE OF LONG ISLAND - NIGHT4
+
+It is a pleasant, moonlit, windless night in mid-June.  We see
+a long straight stretch of white beach.  Behind the low dunes
+are the dark shapes of large expensive houses.  The fog that
+has reached Amity proper is seen only as a low-hanging cloud
+that is pushing in from the sea.  HEAR a number of voices sing-
+ing.  It sounds like an Eastern University's Alma Mater.
+
+
+5ANOTHER ANGLE – BEACH5
+
+A bonfire is blazing.  Gathered around it are about a dozen
+young men and women who are merrily trading fight songs from
+their respective universities.  Two young people break away
+from the circle, Chrissie almost pulling a drunk and disorderly
+Tom Cassidy behind her.
+
+
+6CLOSEUP - CASSIDY6
+
+makes a clumsy try at kissing Christina but she laughs and
+ducks away.
+
+
+7ANOTHER PART OF THE BEACH7
+
+The fire, now one hundred yards in the b.g., silhouettes
+Chrissie running up a steep dune.  Once there, she pauses to
+look at the ocean that we can only hear.  Cassidy plods up
+the dune behind her, grossly out of shape.
+
+Chrissie runs down a few steps, leaving Tom Cassidy reeling
+on the summit.  Chrissie's dress, bra and panties fly toward
+Tom, who can't make a fist to catch them.  The dress drapes
+over one half of his head.  Soggily aroused, Cassidy struggles
+to get his shoe off.
+
+But Chrissie is already in full flight toward the shore.  In
+she goes, a delicate splash, surfacing in a cold ocean that is
+unusually placid.  Chrissie pulls with her arms, drawing
+herself into deeper water.
+
+That's when we see it.  A gentle bulge in the water, a ripple
+that passes her a dozen feet away.  A wave of pressure lifts
+her up and eases her down again.  Her face shows the beginning
+of fear.  Maybe it's Tom.  She smiles and looks around for him,
+then her eyes go to the beach where Tom -- too drunk to stand
+-- one pantleg off, is struggling with his other shoe.  Chrissie
+turns and starts for shore.
+
+
+8CLOSE - CHRISSIE8
+
+Her expression freezes.  The water-lump is racing for her.
+It bolts her upright, out of the water to her hips, then slams
+her hard, whipping her in an upward arc of eight feet before
+she is jerked down to her open mouth.  Another jolt to her
+floating hair.  One hand claws the air, fingers trying to
+breathe, then it, too, is sucked below in a final and terrible
+jerking motion.  HOLD on the churning froth of a baby whirl-
+pool until we are sure it is over.
+
+
+9ANGLE - CASSIDY9
+
+in his undershorts, laughing, turning in slow stoned circles,
+a prisoner in his orange windbreaker that seems to have him
+in a full Nelson.  He stumbles to his knees.
+
+
+10INTERIOR - MARTIN BRODY'S BEDROOM - DAWN10
+
+ALARM CLOCK-RADIO
+
+giving weather bulletin:  marina weather, westerly winds,
+light chop, etc.
+
+A pair of bumps under the bedsheets.  There is a rustling
+and two stockinged feet swing up and settle heavily on the
+floor.  Follow them as the pad along from hardwood floor
+to bathroom tile.  A light pops on and the feet arrive at a
+scale, board it.
+
+
+11INSERT - SCALE DIAL11
+
+In a blur it goes to 191.  Then, as if by magic, the numbers
+float backward to 160.
+
+
+12ANGLE12
+
+Martin Brody at forty-two, stands rigid, lifting himself
+from the sink counter-top with both hands.  Satisfied, he
+turns toward the mirror, squinting in the light, measuring
+himself up and down.  Advancing waistline, receding hairline.
+Gray around the ears.  Martin Brody makes another silent
+promise to get his act together -- tomorrow.
+
+He reaches for the sliding mirror and opens the medicine
+cabinet.  There is a travel brochure of Arizona attached
+to the shelf.  Brody shakes his head and removes it.  He
+closes the mirror which now reflects his wife, Ellen Brody,
+pert and poised off to one side.
+
+   ELLEN
+   Martin.  Aren't you tired of Maine
+   lobster, Long Island duckling and
+   Ispwitch clams.  Just once couldn't
+   go for a Big Mac at the bottom of
+   the Grand Canyon this summer?
+
+   BRODY
+   Look at me, I'm not even awake.
+
+   ELLEN
+   You've had no time off in two years,
+   Martin.
+
+   BRODY
+   Living here is time off.
+
+Brody opens the shower door to turn on the water.  Ellen
+has scotch-taped a travel folder for exotic Mazatlan, Mexico
+on the shower head.
+
+
+13INTERIOR - BRODY BEDROOM - MORNING13
+
+Martin is getting dressed after his shower.  Ellen stands
+by the curtained window.
+
+   BRODY
+   Larry Vaughn says we'll pull a record
+   season.  Ellen, we're collecting high
+   enough rentals to cover the mortgage
+   payments for all three of our beach-
+   front investments.
+
+   ELLEN
+   I know where we can invest in an Indian
+   Chief Motor-home for the whole of August,
+   drop it off in Aspen, Colorado and jet
+   back to Boston by Labor Day.
+
+Ellen pulls from behind her back three brochures of trailer
+home rentals.
+
+   BRODY
+   Uh...look, Ellie.  Let's just ---
+
+   ELLEN
+   (completes the
+   sentence)
+   -- play it by ear.
+
+Ellen turns to open the curtains.  Sunlight and ocean
+sparkle pour in.  A glorious view.
+
+   ELLEN
+   (false happiness)
+   Another shitty day in Paradise.
+
+The sunlight catches Brody's Police Chief badge as he slips
+on his shirt, and we discover why he can't go anywhere.
+
+
+14INTERIOR - BRODY'S KITCHEN - MORNING14
+
+Brody, ripping open a twenty-five pound bag of Kennel Ration
+as five hungry mutts somersault around his feet.  The tele-
+phone rings, and Brody one-hands it as he attempts to sow
+all five doggy bowls with missed double-helpings.
+
+   BRODY
+   Mornin' Hendricks.  What's what?
+
+He listens, sours, and takes a breath.
+
+   BRODY
+   First goddamn weekend of the summer...
+   great start!
+   (beat)
+   No...take him back to the beach.
+   Maybe she washed in.
+
+
+15EXTERIOR - ISLAND HIGHWAY - MORNING15
+
+Martin Brody's Country Squire police wagon rushes past,
+taking the view to an enormous billboard depicting a
+typical summer day in Amity.  A beautiful model splashes
+in the golden surf, languishing in a Solarcaine sun.
+AMITY WELCOMES YOU is written above her flailing arms.
+
+
+16EXTERIOR - AMITY BEACH - DAY16
+
+Three small figures in the landscape, walking the beach.
+The surf is rough and there is sea-floor debris strewn
+about from the receding tide.
+
+
+17CLOSER ANGLE17
+
+Deputy Hendricks is searching the shore about one hundred
+yards down wind.  Meanwhile, Brody, in his casual police
+attire, and Tom Cassidy, still in the clothing we saw him
+in last night, poke around the smoking ashes of the bon-
+fire.  Brody fingers the missing girl's shoes, purse and
+clothes.  In the daylight, Cassidy looks like a junior in
+High School and misconducts himself, wavering between
+inflated maturity and tear-blown adolescence.
+
+   BRODY
+   Christine what?
+
+   CASSIDY
+   Worthingsly...Worthington -- no one
+   ever died on me before.
+
+   BRODY
+   You picked her up on the ferry.
+
+   CASSIDY
+   I didn't know her.
+
+   BRODY
+   And nobody else saw her in the water?
+
+   CASSIDY
+   Somebody could've -- because I was
+   sort of passed out.
+
+   BRODY
+   Sounds to me like maybe she ran out
+   on you.
+
+   CASSIDY
+   Oh, no, sir.  I've never had a
+   woman do that.  I'm sure she drowned.
+
+A shrill whistle makes them turn.  Hendricks is fifty
+yards away, on his knees.  He blows again, a feeble report
+this time.
+
+   BRODY
+   We may know in a minute.
+
+Brody runs toward Hendricks, Cassidy hesitates, then follows
+with:
+
+   CASSIDY
+   (pathetically)
+   You can't make me look -- !
+
+
+18 MASTER ANGLE - THE SAND DUNE18
+
+A skein of seaweed garnishes the base of this isolated dune.
+The booming waves and fizzing surf make dialogue inaudible.
+
+Deputy Hendricks on hands and knees, looking white as a
+sheet.  Brody tells Cassidy to wait at the foot of the dune,
+and ventures up.  Hendricks stops him with a wave-off, saying
+something at the same time.  Brody nods understanding and
+steps up cautiously.  And looks down.
+
+Whatever he sees has a marked effect on his entire physique.
+Kicking out with his foot, Brody sends dozens of angry
+horseshoe crabs in an escape frenzy and they boil over the
+top of the dune and down its slopes.
+
+Cassidy takes a few uneasy steps backwards when Brody waves
+him over.  He shakes his head.  An awkward moment.  Then
+Cassidy shuffles forward and up the few remaining feet, his
+eyes looking everywhere but down.  Brody says something else
+and Cassidy shakes his head again, eyes out at sea.  Brody
+puts his hand gently around the quaking man's shoulder.
+Nodding, he starts to look down, an inch at a time. He looks.
+
+The jolt that assaults Cassidy is not unexpected.  He falls
+backward in a sitting position as though shot.  Nods yes --
+it's her.  Brody turns and slides off the dune, stumbling
+close.  Hear his BREATHING.  He looks around, envisioning
+the week ahead of him....
+
+
+19INTERIOR - BRODY'S OFFICE - DAY19
+
+Brody walks through the door and enters his office, holding
+a fizzing glass of Alka-Seltzer.  Polly, his sixty-one year
+old secretary follows close on his heels with her shorthand
+pad of messages and reminders.
+
+In the outer office, Hendricks and Cassidy slump into chairs,
+sipping from fizzing dixie cups.
+
+Brody sits behind the typewriter, only to find that somebody
+has placed a travel folder to sunny Scottsdale, Arizona
+between the rolls of his Smith-Corona.  He sighs and replaces
+the colorful brochure with the grim accident report.  As he
+types, Polly reads his calendar to him, undaunted by Brody's
+heavy malaise.
+
+   POLLY
+   This is in no order of importance,
+   Chief:  There's a meeting on the
+   Amity Town Council on Aging this
+   Monday night, Bentoncourt Hall.
+   The Fire Inspector wants you to go
+   over the fireworks site with him
+   before he catches the one o'clock
+   ferry.  Mainly, you have a batch
+   of calls about that new Karate
+   school.
+
+
+20CLOSE - ACCIDENT REPORT20
+
+Brody has just typed the girl's name.  He skips the space for
+Cause-of-Death, and just under it types the Next-of-Kin in-
+formation he has collected from her wallet.
+
+   POLLY
+   Searle's Rent-a-Bike, the Rainy
+   Ale, Tisberry's Hardware...they
+   say it's those nine-year-olds
+   from the school practicing karate
+   on all those nice picket fences.
+
+The phone rings and Polly picks it up.
+
+   POLLY
+   It's the Coroner.  Somebody pass
+   away in the night?
+
+Brody nestles the phone between ear and collar, listening,
+as he turns to the typewriter.
+
+   BRODY
+   Jesus, Santos.
+
+
+21INSERT - ACCIDENT REPORT21
+
+Cause-of-Death line rolls into place.  The hammers punch
+out:  SHARK ATTACK.
+
+
+22BRODY22
+
+leans forward, staring at what he just wrote.  Polly cocks
+her head and removes the phone from his ear.
+
+   POLLY
+   What's the matter?
+
+Brody takes a breath.  A new resolve comes over him.
+
+   BRODY
+   Polly, I want to know what water
+   recreation the Island fathers have
+   on for today.
+
+   POLLY
+   Right this minute?
+
+Brody gets up and moves hastily toward the door.
+
+
+23BRODY'S OUTER OFFICE23
+
+Cassidy and Hendricks look up as Brody enters.
+
+   BRODY
+   (To Hendricks)
+   Where'd you hide the 'Beach Closed'
+   signs?
+
+   HENDRICKS
+   We never had any.  What's the problem?
+
+A local merchant comes through the door.
+
+   LOCAL MERCHANT
+   Glad I caught you.  There's a city
+   truck with New Hampshire plates
+   parked right in front of my....
+
+Brody pushes past him and out the door.
+
+
+24EXTERIOR - AMITY MAIN STREET - DAY24
+
+In the busy center of a town preparing for the big Fourth
+of July weekend, Brody wends his way around sidewalk activ-
+ity, purpose and haste in each stride.  As he turns a corner
+a little man in a white smock emerges from the Funeral Parlor.
+This is Carl Santos, Amity's part-time coroner.  Santos
+looks both ways before crossing Colonial Drive.
+
+Brody passes Keisel's Bicycle Rental, navigating an awkward
+course through an odd assortment of Schwinns that line the
+sidewalk in front of a demolished white picket fence.
+Keisel intercepts Brody on the run.
+
+   KEISEL
+   Eight to ten years old.  Average
+   size about five-four, otherwise
+   the overhand chops would be higher
+   up on the fences.  And I have a
+   pretty damn good idea who two of
+   the little bastards are.
+
+   BRODY
+   (out-walking him)
+   Call me later in the afternoon,
+   Harry.
+
+
+25ANGLE - AMITY GAZETTE NEWSPAPER OFFICE - PORCH25
+
+Santos emerges with Ben Meadows, the stylish, late-thirties
+editor of the Amity Gazette.  Together they cut a beeline for
+the other side of the street.
+
+
+25-AANGLE - AMITY STREET25-A
+
+Past taverns and chowder shacks, past bleacher construction
+and July Fourth posters, Brody enters Lynwood's Hardware and
+Sporting Goods...so overstocked that beach umbrellas, alumi-
+num deck chairs, and rainbow beach towels splash a surplus
+of color from the display window to the sidewalk.
+
+
+26INTERIOR - LYNWOOD'S HARDWARE & SPORTING GOODS - DAY26
+
+The store proprietor is busy at work on an inventory list
+with a mainland delivery man.
+
+   LYNWOOD
+   Stuff's no good to me in August
+   when the Pilgrims come in June...
+   (to Brody)
+   Go on and help yourself to what-
+   ever you need, Chief.  Can you
+   work the register?
+
+
+27EXTERIOR - LYNWOOD'S - DAY27
+
+Brody emerges with enough poster-board, wooden stakes, nails,
+paint, and brushes to close every beach on the island.  He
+starts back the way he came when Hendricks shoots up the
+street in the patrol jeep.  He stops fast enough to call
+attention, leans out the window.
+
+   HENDRICKS
+   (he has fully
+   read the report)
+   I sent Sammy out ahead of me to the
+   South Chop beach until I can make
+   up the signs.
+
+   BRODY
+   Let Polly do the printing.
+
+   HENDRICKS
+   There's a Scout troop in Avril Bay
+   doing the mile swim for their
+   Merit Badges.  I couldn't call
+   them in, there's no phones out
+   there.
+
+   BRODY
+   Oh, brother!  Gimme the keys, Lenny.
+
+Brody leaps behind the wheel as Hendricks steps out.
+
+
+28EXTERIOR - VAUGHN'S REALTY - DAY28
+
+A secretary is removing four 8 x 10 glossies of beachfront
+houses from the display window, revealing Larry Vaughn, the
+Mayor of Amity, exchanging anxieties with Ben Meadows and
+Coroner Santos and two other city Selectmen.  They come out
+in a group, reach the sunlight, and squint down the street
+as Brody careens around the corner and out of sight.  Deputy
+Hendricks, laden with his arts and crafts, passes them on
+the street front.
+
+   VAUGHN
+   What have you got there, Lenny?
+
+   HENDRICKS
+   We had a shark attack at South
+   Chop this morning, Mayor.  Fatal.
+   Gotta batten down the beach.
+
+Vaughn and group exchange horrified looks, but we get the
+impression it is not in response to the shark-attack news.
+
+   VAUGHN
+   Who've you told this to, Lenny?
+
+   HENDRICKS
+   I just found out about it -- but
+   there's a bunch of Boy Scouts in
+   the water a coupla miles down the
+   coast from where we found the girl.
+   Avril Bay, thereabouts.  Chief
+   went to dry them off.
+
+   VAUGHN
+   (to Meadows)
+   Take my car, okay?
+   (to Hendricks)
+   You come with us, Lenny.
+
+   HENDRICKS
+   I've got all these signs here....
+
+   VAUGHN
+   C'mon, it'll give us time to think
+   about what they're going to say.
+
+They all crowd into a Cadillac El Dorado with Vaughn Realty
+signs on the doors.
+
+
+29EXTERIOR - AVRIL BAY - DAY29
+
+A flotilla of twenty exhausted Boy Scouts round a lifebuoy
+that marks the quarter-mile.  A rowboat with Scoutmaster and
+bullhorn keeps pace.
+
+
+30ON THE BEACH30
+
+Two older Seascouts time the event with stop watches, and a
+couple of dozen parents look on, shading their eyes.  Brody's
+jeep pulls up in the background and stops.  He gets out and
+starts down to the breakwater when the Mayor's Cadillac pulls
+up and skids to a stop.
+
+Brody pauses momentarily as Mayor Vaughn emerges, trying to
+affect an easygoing appearance.  Reaching Brody, he slips an
+arm around his shoulder, trying to slow him as Brody leads
+the gang toward the breakwater and the slogging Scouts.
+
+   VAUGHN
+   Where are you going to get the
+   authority to close the beaches?
+
+Brody stops.  He sees pitiful Hendricks standing by the car
+with the signboard material.  Brody begins to slow burn.
+
+   BRODY
+   Are you asking me as the Mayor, or
+   as a Real Estate broker, or our of
+   friendly interest, or what, Larry?
+
+   VAUGHN
+   I just want you aware of what you're
+   doing before you tinker with the life
+   blood of all those sage and discriminating
+   souls who elected you.  Next week's the
+   goddam Fourth of July!  We've got a couple
+   thousand summer people coming over here
+   who will gladly use the Cape Cod beaches
+   if they can't use ours.
+
+   BRODY
+   So what you're suggesting is we lay out
+   a smorgasbord for the shark.  All you can
+   eat for the price of a weekend on Amity
+   Island.
+
+   VAUGHN
+   We're not even sure it was a shark.
+
+   BRODY
+   What else could do that?!
+
+   VAUGHN
+   (to Coroner Santos)
+   Boat propeller?
+
+   SANTOS
+   Possibly.  Yes....
+
+   VAUGHN
+   Swims way out...night...fishing boat
+   comes along ---
+
+   BRODY
+   (looking at
+   both of them)
+   What is this?
+
+   MEADOWS
+   We've never had shark trouble here,
+   Martin.  They don't come in close.  No
+   reefs, or fish-processing plants, slaughter
+   houses.  Nothing to keep it interested.
+
+   BRODY
+   You print whatever you want.
+
+   VAUGHN
+   Martin, sharks are like ax-murderers.
+   People react to them with their guts.
+
+Brody looks toward the open water.  The Boy Scouts have made
+a turn and are passing the lifebuoy marking the three-quarter
+mile point.
+
+   MEADOWS
+   Whatever was out there is miles out
+   to sea by now.  Sharks don't have
+   swim bladders like most fish -- they
+   have to keep moving or drown.  Don't
+   you know anything about them?
+
+   BRODY
+   I...don't go around the water much.
+
+   VAUGHN
+   It's one chance in a million this'll
+   happen again.
+   (points)
+   Look at that...safe and sound.
+
+The Boy Scouts are emerging exhausted; some flop down on their
+backs, happy it is over.  Brody considers this.
+
+   VAUGHN
+   Had you yelled 'shark,' those Cub
+   Scouts would have broken the free-
+   style record for the hundred-meter,
+   then busted our backs with word of
+   mouth.
+
+   BRODY
+   If that's the test case for your
+   million-to-one shot, I'm glad I lost.
+
+Vaughn feels secure that Brody will not act in haste.  He puts
+a hand on his shoulder, turns and walks him toward the cars.
+
+   VAUGHN
+   Listen, Chief -- the funniest thing --
+   you know the white picket fence
+   around my realty office....
+
+
+31CLOSE QUINT31
+
+Rising like Neptune from out of the deep, Quint walks the
+sidewalk in the pool of his own shadow.  He is a sleek and
+sinewy specimen, inches over six feet, and with a face making
+it hard to determine where the scars leave off and the wrinkles
+begin, though he is no older than fifty.
+
+Quint seems to be heading for the local tavern when a crunch
+of seafaring fishermen pour out, forming an impenetrable knot
+around the sidewalk in front of him.  One of them sees Quint,
+who approaches with no intention of slowing down.  The seven
+fishermen never give it a second thought, they part like the
+Red Sea, clearing a beeline trail to the bar doors.  Quint
+bursts through their obliging ranks and turns into the Music
+store.  The tiny bell jingles daintily.  Two of the Portu-
+guese fishermen spit three times, taking no chances.
+
+
+32INT. AMITY MUSIC STORE - DAY32
+
+Quint brushes against the counter.  The shopkeeper is helping
+a ten year old boy fix a new reed to his clarinet.  The little
+boy produces a mellow low tone, then wonderingly rides the
+scale.  With little or no effort, Quint's gnarled hand floats
+up and drops like a sledge on the service bell.  The shop-
+keeper's eyes pop up, the kid hits a bad note and squeaks.
+
+   QUINT
+   (forced politeness)
+   Four spools number twelve piano wire.
+
+   SHOPKEEPER
+   Catch any monsters lately, Mr. Quint?
+
+Quint's eyes never leave the little boy.  He is drilling him
+with a sidelong whammy.  The boy feels Quint nailing him and
+a ragged assortment of squeaks, blurps and missed notes over-
+ride the sounds of the shopkeeper unspooling the piano wire.
+
+
+33INTERIOR BRODY'S STUDY AT HOME - SUNSET33
+
+A riffly blur, color alternating with black and white.  The
+dizziness stops on a book page showing a black and white
+rendering of eight species of shark.  The banner at the top
+of the page reads:  THE KNOWN AND REPUTED MANEATERS.
+
+The riffling begins again, stops on a grizzly photograph of
+scar tissue on six former shark victims.  Riffling -- stop.
+Photograph of five Ichthyologists posing on wooden stools,
+framed by the enormous jaws of a prehistoric shark from the
+family Carcharodon charcharias.
+
+
+34BRODY34
+
+his reading glasses reflecting a stack of twelve library books,
+all on the subject of sharks and shark attacks.  The door
+opens and Ellen enters, quietly, in respect for Brody's mood.
+
+   ELLEN
+   Can you stand something to eat?
+
+   BRODY
+   Love a cup of tea.  With lemon.
+
+Ellen walks past Brody to the window and looks out the window
+which overlooks the south bay.  It is the hour of dusk.
+
+   ELLEN
+   Mikey loves his birthday present.
+
+   BRODY
+   Where is he?
+
+   ELLEN
+   (with a slight laugh)
+   He's sitting in it.
+
+Brody gets up, concerned, and joins her at the window.
+
+   ELLEN
+   Honey.  He has it tied up to the
+   jetty with a double-knot.
+
+
+35BRODY'S POINT OF VIEW35
+
+Michael is sitting in the boat, but two of his young school
+chums are in the water, swimming around it.  Brody opens the
+window and calls down:
+
+   BRODY
+   Son! -- Out of the water now!
+
+   MICHAEL
+   My boat's neat, Dad!
+
+   BRODY
+   (turning to Ellen)
+   Tell him I want him out of the ocean.
+
+   ELLEN
+   It's three feet deep, Martin.  You
+   said that shark was half way back
+   to Florida.
+
+   BRODY
+   (angry now)
+   Michael!  Come inside the house!
+
+   ELLEN
+   It's his birthday tomorrow.
+
+   BRODY
+   I told him not to go out until he
+   memorized the handbook, safety reg-
+   ulations and ---
+
+Ellen's eyes drift down to the open book.  One large text is
+open to a page of illustrations.  Among them is the famous
+painting, The Gulf Stream, which depicts a black fisherman
+in a small dinghy much like Michael's, being assaulted by the
+pressing jaws of three man-eaters.  Startled, Ellen closes the
+book, opens the window and sticks her head out.
+
+   ELLEN
+   You heard your father! Out now!
+
+
+36EXT. BEACH - DAY36
+
+A jelly-bowl woman visitor to Amity's beaches plunges head-
+long into the white foam.  There's enough of her stuffed
+into a one-piece bathing suit to sate the appetite of any
+shark for weeks.  Remarkably buoyant, she chops at the water
+revealing other cheerful Sunday bathers trying to enjoy the
+last uncluttered weekend before the holiday crowds.
+
+
+37ANGLE - MARTIN BRODY AND ELLEN37
+
+Brody is balefully alert this morning, sitting straight-
+back in his beach chair, coating the swimming area with
+careful looks.  About ten other adults and a dozen children
+attend this casual birthday get-together.
+
+   MAX
+   I don't envy you this summer, Chief.
+   Every year the swarms get worse.
+
+   MAX'S WIFE
+   I know now why there's not a sane
+   Parisian left in Paris from July to
+   September.
+
+Brody hears a SCREAM from the water.  He cranes his neck past
+Max's wife in order to see.
+
+
+38BRODY'S POINT OF VIEW38
+
+A young lady is being pulled underwater to her hair.  Instantly,
+she is jerked up again -- sitting on her boyfriend's shoulders,
+laughing hysterically.
+
+   BRODY
+   What?
+
+   MAX
+   What?
+
+   BRODY
+   Did you say something?
+
+   MAX
+   No -- yeah, I was wondering if it's
+   true.  That you sit in your car
+   the whole while over on the
+   mainland ferry.
+
+
+39BRODY'S POINT OF VIEW39
+
+His son Michael along with sever other boys rush headlong
+into the gentle surf with their inflatable rubber rafts.
+Another youngster, Alex Kintner gathers up his Day-Glow yellow
+raft, but his mother takes issue and a tug-of-war ensues.
+
+Overlapping dialogue:
+
+   MAX'S WIFE   ALEX
+What a terrible thing to say.Please let me take my
+raft, Mom!
+   MAX
+C'mon Penny, I'm not ashamed   MOTHER
+to admit that when I fly, myLet me see your fingertips.
+feet sweat right through my    (he holds them out)
+socks.They're beginning to prune.
+Ten more minutes.
+
+
+40BRODY'S POINT OF VIEW40
+
+The fat woman is going out too far.
+
+   ALEX' VOICE
+   Fifteen!
+
+We stay on the fat woman, almost hypnotically.
+
+   DENHERDER'S VOICE
+   I can't believe it!  Brody!
+
+
+41CLOSE - BRODY41
+
+Snapping out of it.  Looks up at the dripping Selectman.
+
+   BRODY
+   (false normalcy)
+   How's the water?
+
+   DENHERDER
+   Fine!  Cold.
+   (to Ellen who
+   walks over and
+   sits next to Brody)
+   How'd you do it -- getting him to
+   the beach?
+
+   ELLEN
+   It's Michael's birthday.
+
+   DENHERDER
+   Hope we get this weather next
+   weekend!
+
+
+42BRODY'S POINT OF VIEW 42
+
+The fat woman is not where he last remembered seeing her.  He
+sort of rises to one knee, his eyes combing the surf.
+
+   ELLEN
+   (kissing him on
+   the cheek)
+   Do you want me to call the boys in?
+   Honey, if this worries you ---
+
+   MAX
+   (bolting down
+   his drink)
+   Does this -- mortal fear of the
+   water have a clinical name, Martin?
+
+   BRODY
+   (throwing it away)
+   Drowning.
+
+
+43EXT. UNDERWATER - DAY43
+
+A fish-eye view of people lying on rafts.  From below we see
+the outlines of swimmers, arms and legs dangling tantalizingly
+in the blue water.  Traveling this way from raft to raft,
+there comes a space of open water followed by a quick view of
+a single raft.  A pair of feet kicking and arms paddling produces
+bizarre underwater vibrations, louder than human ears would
+normally perceive.
+
+
+44ANGLE - SURFACE44
+
+The fat lady floating on her back, wearing pink sunglasses.
+A black object surfaces next to her.  It emerges as a bather
+in a black bathing cap.
+
+
+45ANGLE - ALEX - WATER LEVEL45
+
+paddling in circles, making motorboat sounds.
+
+
+46ANGLE - TWO LOVERS46
+
+kissing, drawing each other below the surface.
+
+
+47ANGLE - BRODY'S SON47
+
+separating from his friends, eating a huge piece of cake
+and trying to steer with the other hand.
+
+
+48ANGLE - GROUP OF KIDS ON RUBBER RAFTS48
+
+They begin a water fight, slapping at the ocean with karate-
+type blows, sending little explosions of water at each other.
+Then, no more than ten feet beyond the fighting, a genuine
+water eruption upstages the child's play.  Everybody turns
+just as the ocean flattens itself out again.  A pug-faced
+over-sized twelve year old named "P.J." renews the fighting
+with a genuine Karate yell.
+
+
+49P.J.49
+
+He hits the water, which sprays all over another youngster.
+
+
+50CLOSE - MATHEW50
+
+His face dripping with red rivulets.
+
+
+51CLOSE - P.J.51
+
+Looks down at his hand.  The water surrounding all the boys
+is slick with blood.
+
+
+52ANGLE - SHOREFRONT52
+
+People begin to congregate around an older gentleman, definitely
+a mainlander by his outfit.
+
+   MAINLANDER
+   It came out of the water.  Didn't
+   anybody else see it?
+
+   WOMAN TOURIST
+   There's blood.
+
+
+53CLOSE - BRODY53
+
+He stands all the way up this time.  Parents begin calling --
+a frantic inventory for lost children up and down the beach.
+Brody is on the move, barreling to the shoreline.  He kicks
+up sand passing Alex' mother, who looks up from her novel
+annoyed.
+
+   BRODY
+   (top of his lungs)
+   MICHAEL -- !  EVERYBODY OUT OF THE
+   WATER!!  MICHAEL -- !
+
+Other names from hysterical parents as the panic of a yet
+unseen tragedy rises.
+
+
+54ANGLE - MICHAEL54
+
+Appears from the shoot of a breaking wave.  He is all right
+but the wave that curls after him carries the shredded pieces
+of the Day-Glow yellow raft.  The foam that breaks wide on
+the sandy beach is tinged with pink.
+
+
+55INTERIOR - THE COUNTY COURTHOUSE AND COUNTY OFFICES - DAY55
+
+A crowd of men and women in an angry tangle outside of Brody's
+office.  These are the shop owners, real estate brokers,
+hotel managers and Selectmen of the Island.
+Through the windows, the Southbeach High School Band is
+practicing for the Fourth of July Parade.
+Brody and Vaughn exit Brody's office and enter the fray.
+
+   VAUGHN
+   I'm glad everyone could make this
+   meeting.  Why don't we wander
+   down the hall to my office where
+   there's room.
+
+All follow Brody and Vaughn.  Meadows pushes through the
+crunch to speak.
+
+   MEADOWS
+   Don't keep us in suspense Mayor.
+   What's the verdict?
+
+Vaughn cannot bring himself to say it right away.
+
+   BRODY
+   Larry and I have agreed to close
+   all beaches for a limited period
+   of time to give us a chance to
+   contact the Port Authority and
+   United States Coast Guard out on
+   Montaux.
+
+   MRS. TAFT
+   Well, that could take all summer!
+
+   VAUGHN
+   Twenty-four hours.
+
+   BRODY
+   (turns angry)
+   We never agreed to that.
+
+   MR. WISEMAN
+   I do a thrifty business her but
+   I'll not see it flourish at the
+   price of any more lives.
+
+   MRS. TAFT
+   Three reservations cancelled and
+   I still have August rentals open.
+
+   VAUGHN
+   So do I, Martha, so do I.
+
+They reach Vaughn's office.  It is being painted.  Newspapers
+are strewn all over the floor and paint-splattered tarps over
+the furniture.  Vaughn's secretary still dutifully takes calls.
+
+   SECRETARY
+   Larry, two Newsday reporters and
+   one from the New York Times, cal-
+   ling every 15 minutes.
+
+   MR. POSNER
+   Good people, nobody saw a shark.
+
+   MEADOWS
+   What they'll print is maybe it was
+   a shark.
+
+   MR. POSNER
+   Oh wonderful, and what we'll have
+   is maybe a summer.
+
+   MR. POLK
+   Town'll lose tax revenue, municipal
+   services'll deteriorate, the
+   people'll begin to move away.  Oh,
+   I don't care.  I never raised my
+   kids to be somebody's lunch.
+
+   VAUGHN
+   We have no way of keeping the lid
+   on what happened yesterday.  There
+   were well over a hundred bathers
+   on the beach, three-quarters of
+   them from the mainland.
+
+Vaughn leads the way down the hall toward the Bureau of Records
+room.
+
+   MR. GARDNER
+   I'm not interested in participating
+   in any cover-up Mayor.
+
+   VAUGHN
+   I wouldn't worry too much about
+   that, Max.  The President himself
+   couldn't stop the mushrooming at
+   this point.
+
+Selectman Denherder almost whispers in Vaughn's ear.
+
+   DENHERDER
+   But couldn't we just say the kid
+   drowned?
+
+   VAUGHN
+   (whispering back)
+   We couldn't even find the little
+   bastard.
+
+Vaughn opens the door to the Bureau of Records.  About two
+dozen children sit around, twisting multi-colored Kleenex
+into artificial flowers for the big parade.  Vaughn turns
+his face into a condescending grin.
+
+   VAUGHN
+   Could the big people have a grownup
+   meeting in here, please, children.
+
+   CHILD SPOKESMAN
+   Get lost.
+
+A voice from behind Vaughn draws him away.  It is a small
+but muscular black man named Salvatore.
+
+   SALVATORE'S VOICE
+   Mr. Vaughn?
+
+He steps out of the shadows, hat in hand.
+
+   SALVATORE
+   Mister Quint sent me down from
+   Jacobstown.
+
+   VAUGHN
+   What for?
+
+   SALVATORE
+   Well...he out catchin' them things
+   every day practily.  Price's right,
+   he come catch yours here.
+
+   VAUGHN
+   What's he get?
+
+   SALVATORE
+   Ten thousand and a color TV.
+
+   VAUGHN
+   (outraged)
+   How much?
+
+   SALVATORE
+   Twenty-seven inch.  Japanese one.
+
+Vaughn studies the little blinking man, ready to laugh.
+
+   VAUGHN
+   Mister Quint's services are not
+   required, thanks.
+   (stopping a secretary)
+   Is there an empty office anywhere
+   in this goddam building?
+
+   SECRETARY
+   Weights and Measures nobody ever
+   uses.
+
+Vaughn starts away and the crowd follows.
+
+   DENHERDER
+   I'd haul it in myself before I'd
+   pay anything to that maniac...you
+   wanna hear what he did to three
+   friends of mine on a Saint Valentine's
+   Day sporting charter?
+
+They are halted in their tracks by the grim appearance of
+Mrs. Kintner and her benign father.  She is dressed in church
+white with a black arm band.  Mrs. Kintner never says a word.
+She has just tacked something to the community bulletin board
+and is walking through the parting crowd.  With sympathy, all
+watch her leave, then press up to the cork board.  Brody
+fights his way through everyone until we are standing over
+his shoulder, staring at a homemade poster that offers:
+
+   "ALL OR A FRACTION OF $3000 BOUNTY
+   TO THE MAN OR MEN WHO CATCH AND
+   SLAUGHTER THE SHARK THAT SAVAGED
+   ALEX M. KINTNER, JR. ON SUNDAY,
+   JUNE 29 IN THE TOWN OF AMITY."
+
+   BRODY
+   (to Vaughn)
+   Listen, Larry, I'm going to talk
+   to her.  This isn't a contest we
+   want everybody from Boston to
+   Quebec entering.
+
+   MRS. TAFT
+   I agree.  If she's going to adver-
+   tise, I wouldn't recommend out-of-
+   city papers.  There's enough of
+   us here in Amity could take care
+   of this.
+
+   BRODY
+   Larry, I'm responsible for the
+   public safety around here....
+
+   VAUGHN
+   So I think tomorrow you should go
+   out with whoever, and see that
+   they don't get hurt.
+
+   BRODY
+   But nobody sport-fishes for shark!
+
+No one will listen.  Already plans are being discussed, sides
+chosen, boats, tackle and tactics recommended.  The din
+overrules Brody, who we pull close to and ---
+
+CUT TO
+
+
+56INT. QUINT'S CHUM SHED - DAY56
+
+A naked 100-watt bulb illuminates the electric grinder purring
+in one corner.  The slick black carcass of a pilot whale
+dominates the lighted area.
+
+Quint is hacking slabs off the whale with his Marine machete
+as his mate, Salvatore rolls an empty barrel to the grinder.
+
+   SALVATORE
+   (suspicious)
+   Where you find this whale anyway?
+
+   QUINT
+   Way out.  Dead as a doornail.
+
+   SALVATORE
+   How come harpoon holes in him?
+
+Quint doesn't reply as he hacks away.  The mate rolls away
+a full barrel.
+
+   SALVATORE
+   You hardly never use this chummin'
+   for shark.
+
+   QUINT
+   For some kinds.
+
+Quint muscles a new slab into the grinder, slowing it to a
+low growl as it purees the blubber.
+
+   QUINT
+   Go hose the deck, we're chartered
+   for nine a.m.
+
+   SALVATORE
+   (awed, looking
+   at chum)
+   Think it's one of those they got
+   down there?
+
+Quint's grim smile is reply enough.  Salvatore, looking worried,
+indicates some barrels full of whale pulp.
+
+   SALVATORE
+   Load these on or what?
+
+Quint is hacking revenge from the mutilated carcass.  He spits
+away the dripping perspiration.
+
+   QUINT
+   'Not required'...you heard the
+   man.
+   (answering Salvatore's
+question)
+   Just a regular charter tomorrow...
+   I'll keep this on ice for a while.
+
+
+57ANGLE - QUINT'S MARINE CORP MACHETE57
+
+Chop, chop, chop....
+
+CUT TO
+
+
+58A SHOVEL 58
+
+whump, whump, whump...pounding the sharpened standard into
+the sand.  The sign reads:  NO SWIMMING OR WADING -- Amity
+P.D.
+
+
+59SUNSET ON THE BEACH59
+
+Hendricks and another deputy are assisting Brody.  Silhouettes
+of townspeople look on like mourners at a funeral.
+
+In the background some workmen are taking down the shutters
+from a quaint summer cottage.  They pause to watch the
+declining moments of the day.
+
+Three Selectmen also stand watching.  One of them seems to be
+whispering bounty news to three youngish men on a nearby
+dune.
+
+Sounds:  Surf and hammering.
+
+CUT TO
+
+
+60EXTERIOR - GRASSY INLET AND PIER - NIGHT60
+
+Selectman Denherder and his buddy, Charlie, a professional
+angler, push a wheelbarrow ahead of them as they near the
+tumble-down jetty that leads fifty feet out into the black
+water.  Both men scuff along, exhausted.
+
+   DENHERDER
+   You wanna call it a night after
+   here?
+
+   CHARLIE
+   It's only two-thirty.  What, are
+   you tired?
+
+   DENHERDER
+   Yeah, Charlie, I got my second wind
+   three nibbles back.
+
+Denherder hefts a bloodstained laundry bag from the wheel-
+barrow, revealing about a hundred feet of coiled dog chain
+and a large patched inner tube.  Charlie takes out a monster
+hook and together they push the wheelbarrow onto the rickety
+pier that is only about five feet across.
+
+   DENHERDER
+   (reaching into the bag)
+   Leg of lamb this time?
+
+   CHARLIE
+   Screw lamb -- let's shoot the sirloin!
+
+   DENHERDER
+   (a hyena laugh)
+   We're blowin' half the bounty on
+   bait ---
+
+The splintered pier sways to and fro as the men reach the
+end and start to work.  Charlie baits the hook with a massive
+chunk of sirloin while Denherder secures the loose end of
+chain to a skinny piling.  Charlie then fastens the inner tube
+to the chain five feet from the end of the hook.
+
+   DENHERDER
+   One more after this, then I'm going
+   home.
+
+   CHARLIE
+   Set?
+
+Denherder tugs the chain against the piling to prove that it
+is.  Charlie heaves the bait.  Splash!  The inner tube follows
+and both men eagerly watch as it floats seaward, the chain
+playing out from the wheelbarrow.
+
+   CHARLIE
+   Tide's taking it right out.
+
+Charlie lights his pipe and sits back against a piling.  He
+turns on his transistor radio and loops one end around a
+fractured board.  Denherder paces, bored to death.
+
+   DENHERDER
+   You do this all the time, right,
+   Charlie?
+
+   CHARLIE
+   Twenty years.
+
+   DENHERDER
+   I can't believe that people pay
+   money to go fishing.  This is really
+   dumb.  This isn't even relaxing...
+   it's just boring.
+
+
+61CLOSE - CHAIN IN WHEELBARROW61
+
+Suddenly zipping out, faster and faster, as both men straighten.
+Denherder is goggle-eyed.
+
+   DENHERDER
+   Hey!  What's this?
+
+The chain is coming out so fast that it begins to drag the
+wheelbarrow to the end of the jetty.  A section of chain
+tangles around the handle and flips the entire machine into
+the air.  Both men watch dumbfounded as the inner tube, racing
+out to sea in a wake of white water, suddenly dips under.
+
+   CHARLIE
+   Look at him take it!
+
+   DENHERDER
+   Do I set the goddam hook?
+
+   CHARLIE
+   Let him do it!  Go-go-go-go-go!
+
+It is then that the chain whips taut against the narrow pilings.
+
+
+62CLOSE - PILING62
+
+A lineup of five decrepit 2 x 4 inch pilings SNAP with a
+resounding CRACK.
+
+
+63ANGLE - JETTY63
+
+The end of the jetty is yanked loose.  Denherder is flipped
+like a chip over the side and into the cold night water, where
+he manages to snag hold of a splintered timber.
+
+
+64DENHERDER'S POINT OF VIEW64
+
+The severed section of jetty, a joined platform of footboards,
+is being dragged seaward with Charlie sitting dazed on top of
+it, his lit pipe still going.
+
+   DENHERDER
+   CHARLIE!  JUMP!
+
+Charlie rolls into the water, sputters, turns to watch the
+flotilla of wood draw away.
+
+
+65CLOSE - CHARLIE65
+
+looking seaward.
+
+
+66CHARLIE'S POINT OF VIEW66
+
+The end of the jetty makes a 180-degree turn and heads back
+in his direction.
+
+   CHARLIE
+   Holy Jesus Christ!
+
+Denherder steps up on the broken-off piling just to be out of
+the water.
+
+   DENHERDER
+   Get the hell out!  Charlie!  Swim!
+
+Charlie, inhaling terror, trying to slog to shore.  The jetty
+is getting closer.  Suddenly the chain dragging it through the
+water is severed, and the charging wood falls behind -- an
+enormous black fin breaks water like a periscope, making course
+corrections as it comes for Charlie.
+
+Denherder jumps from piling to piling, almost losing his balance
+on his way to help Charlie.  Charlie has reached the last pylon
+toward open sea, and his hands clamber for a hold.  But ---
+
+
+67INSERT - CHARLIE'S HANDS67
+
+The algae is too slippery, and his fingers keep sliding back.
+That's when the fin behind him seems to reach up to the sky
+and -- CHARLIE SCREAMS.  An explosion of water and bubbles
+mercifully blot out the image.
+
+
+68EXTERIOR - AMITY HARBOR - DAWN68
+
+Ben Gardner, ruddy faced and ornery, is a fisherman as sea-
+worthy as they come.  With his make, Swede, he starts to
+board the Flicka, a Bertram 28 Sports Fisherman.  Absently,
+he makes preparations for casting off, his attention focused
+on surrounding dockside activity and ---
+
+
+69HIGH ANGLE - HARBOR69
+
+Chaos.  A dozen cars and trucks double-parked on the dock with
+out-of-state plates from New Jersey, Rhode Island, Connecticut.
+Other vehicles are pulling up and parking.  Men unloading their
+weapons.  Boarding small boats.
+
+A queue of up-islanders, down-islanders, out-of-towners at the
+boat rental shack.  From rank amateurs in their green golf
+slacks to the alley-poor in levi tatters -- all of this dis-
+dainfully observed by Ben Gardner.
+
+Cries of "Cast Off," the starting of diesel engines in con-
+trast to the flooded baby Evenrudes -- all of this helped
+along by a lot of honcho swearing.
+
+
+70CLOSE - HARBORMASTER70
+
+Sleepy, the old salt bends over the dock, washing out his
+coffee pot in the oily harbor water.  He sets down the pot,
+pulls a small wooden chair into position, on which teeters a
+bowl of Kellogg's Rice Krispies, and collapses into it with
+spoon in hand.  He watches stoically as:
+
+
+71CLOSE - BRODY71
+
+Riding up on his police bicycle, Brody joins Deputy Hendricks
+who is trying to break up an argument at the Rental stand.
+
+   HENDRICKS
+   Christ, Martin, that Kintner lady
+   must have taken out an ad in Field
+   & Stream.
+
+   BRODY
+   Looks more like the Harvard Lampoon.
+
+   OUT-OF-TOWNER
+   I didn't come all the way out here
+   from New Rochelle to be gouged in
+   the seat of the pants by this loan
+   shark.
+
+   BOAT RENTAL MAN
+   Prices always go up around here
+   after June One -- isn't that right,
+   Chief?  If you want leaky boats at
+   lower rates, go up to the Hamptons.
+
+
+72ANGLE FROM ONE OF THE BOUNTY BOATS72
+
+The narrow channel leading out of port lies ahead.  An incoming
+boat, a Formula 22 Inboard/Outboard with 110 h.p. Volvo engines.
+A few of the smaller craft begin zig-zagging to clear the right-
+of-way, their wakes causing annoying chop in the bay.
+
+
+73ANGLE - INCOMING FORMULA 2273
+
+Matt Hooper, a bearded, backpacking young man, is at the helm,
+peering ahead at the ragtag armada.  He ties up, revealing for
+the first time a seven-by-four foot steel cage in the stern,
+drawing some attention.
+
+
+74BACK TO DOCKSIDE74
+
+Another man and his two buddies heft a trash can into one
+of the boats.  He lifts the lid, and the stench throws his
+head into near whiplash.
+
+   WALTER
+   What is this sewage?
+
+   BARWOOD
+   For chum.  Let's move it.
+
+   WALTER
+   What's chum?
+
+   BARWOOD
+   Anything that attracts 'em.
+
+Brody looks over the dockrail at the boarding.  Eight men
+have piled into a tiny Glasstron and are now loading various
+and sundry weapons, from crossbows to spear guns.  Brody
+walks over to the harbormaster.
+
+   BRODY
+   Isn't there a limit to how many
+   men those boats'll carry?
+
+   HARBORMASTER
+   Sit down next to me, son, and we'll
+   find out.
+
+
+75CLOSE - GARDNER75
+
+exchanging distasteful looks with his mate.  He is casting
+off the bow lines just as Felix and Pratt, two down-island
+characters run over.
+
+   FELIX
+   (more a declaration)
+   Okay, we go out with you.
+
+Gardner quickly pushes off, leaving Felix with his boarding
+leg in the air.
+
+   GARDNER
+   Hunt with the pack, sport.  I'll
+   fish for it my way.
+
+Felix and Pratt make obscene gestures and run off, looking
+for boats not yet filled to capacity, trying to make a deal.
+
+
+76ANGLE - LANDING76
+
+Hooper sees Brody, up in arms about something, walking toward
+him.  Hooper starts to speak, but Brody veers aside and yells
+over the pier at the loading boats.
+
+   BRODY
+   No dynamite!  Hand that stuff over
+   or you'll never leave port!
+
+   MAN IN BOAT
+   It's fireworks.  I read somewhere
+   it attracts 'em.
+
+   HOOPER
+   Sharks are equipped with two long
+   cords of nerve tissue that function
+   as a sort of radar for homing in on
+   underwater vibrations.
+   (to Brody)
+   Understand you're having a little
+   shark trouble.
+
+Brody turns and walks away, Hooper barely keeping up with him.
+
+   HOOPER
+   I know you have a visitor off your
+   southern shores.  I think it could
+   be my shark.
+
+   BRODY
+   It belongs to whoever catches it.
+   (to a late arrival)
+   You'll move this car to a parking
+   slot, mister, or it won't be here
+   when you get back.
+
+   HOOPER
+   Sir, I'm not with these others ---
+
+   BRODY
+   It's always nice to meet an educated
+   man.
+
+   HOOPER
+   I'm interning at the American
+   Museum of Natural History, but the
+   Oceanographic Research Institute in
+   South Africa is co-sponsoring my
+   thesis paper arm in arm with the
+   Natural Institute of Health and the
+   Marine Fishery Service.
+
+Brody pauses to look hard at Hooper. A careless amateur trips and falls
+into the harbor beyond him.
+
+   BRODY
+   I don't have time to help you with
+   your homework.
+
+Brody goes over to lend a hand.  Hooper persists.
+
+   HOOPER
+   I'm trying to prove that the shark
+   that killed Christine Watkins last
+   Friday was the same rogue that
+   savaged these.
+
+Hooper pushes a mimeographed sheet in front of Brody.  About
+twenty names and addresses in all.
+
+   BRODY
+   One shark did all this?
+
+   HOOPER
+   (his excitement
+   multiplying as
+   he goes on)
+   The trail of a rogue shark leads
+   all over the world.  This is only
+   a theory.  It has never been authen-
+   ticated, but there is a wonderful
+   chance that the shark that killed
+   the Watkins girl and the man-eater
+   I tagged off the Great Barrier Reef
+   are the one and the same.  Off and on
+   I've tracked it to New Zealand,
+   Santiago Bay, Cape Town South Africa
+   ...uh...the Gulf of Guinea, then
+   West Palm Beach, Florida last
+   December -- and finally predicted
+   it would follow the warming Gulf
+   Stream into the Northern Seasonal
+   Zones, and release an attack pattern
+   along the Jersey Coast.  I was off
+   by just three hundred miles.  It
+   hit you instead.
+
+   BRODY
+   You'll pardon me i f I don't help
+   you get your Ph.D. while my town here
+   degenerates into some high-class
+   ghost resort.
+
+Brody starts away.  In the background all boats are heading
+toward open ocean.
+
+   HOOPER
+   All I'm asking is for a little future
+   cooperation.  I could predict future
+   outbursts of attack activity in the
+   area.  Use me...Let me use you.  I
+   scored 93 on my Orals, for crying
+   out loud!
+
+   BRODY
+   We've had two other attacks since
+   the Watkins thing, both fatal.
+   Could you kill it for us?
+
+   HOOPER
+   (honest response)
+   No sir, I couldn't.
+
+   BRODY
+   Then how do we begin to cooperate?
+
+   HOOPER
+   By letting me see Christine Watkins.
+
+
+77EXTERIOR - OCEAN - DAY77
+
+The armada is spread out and moving in a ragged circle, fif-
+teen boats in all.  One man heaves cherry bombs into the water.
+A smaller boat going in the opposite direction offers us
+Barwood, forking spaghetti leftovers into the ocean while his
+friend pours out a bottle of ketchup.
+
+A speedboat chugs by, one of the occupants reading instructions
+aloud from a book entitled "Sharks - East Coast, Vol. I."
+A boatload of impoverished scallop fishermen throw a net over-
+board, full of gaps and split ends.  The professionals look
+professional, but the landlubbers out for the $3000 make it
+impossible for everybody.  Collisions are barely averted.
+
+
+78THE RUBE GOLDBERG ERROR78
+thruthru
+84The Out-of-Towner in a small boat is bent over in a life and84
+death struggle, his rod in a tight arc.  His buddy leaps across
+to lend a hand.
+
+Twenty yards away in another boat the same struggle ensues.
+This time it's the overloaded boat with the poor scallop fisher-
+men.  Shouts of I'M ON!  DIG IN!  STRIKE!  Then a tangle of
+tackle springs from the water.  They have hooked each other.
+
+Joy turns to swearing.   Arnold Felix stands up to applaud the
+mishap, while his buddy Pratt takes careful aim with his
+Remington 1100 12-gauge and blasts at the tackle as if it were
+a clay pigeon.  The tangle explodes ---
+
+Both the Out-of-Towners and the Scallop Fisherman falls over
+backward ---
+
+The Scallop boat swerves right, and bows into an eleven-foot
+Glasstron ---
+
+A Proud Mariner standing in the stern with his 30.06 is
+knocked off balance and pitches forward into the drink, his
+gun exploding outward and ---
+
+The wad of shot from the exploding rifle hits the rigging of
+a passing boat sending the jib, mains'l and about twenty
+pounds of rigging on top of the bewildered occupants.
+
+
+85ANGLE - HARRY'S BOAT85
+
+Three men are aboard, one holding a rod which holds a fast
+arc.  A few yards off stern we see a triangular dorsal fin
+crossing back and forth, struggling, jerking, the mighty tail
+threshing.  One man is screaming success, the other two slapping
+the angler on the back.
+
+
+86CLOSE - PRATT AND FELIX86
+
+They spot it and sour.
+
+   PRATT
+   Well, get over there! He ain't
+   caught it yet!
+
+The owner of Pratt's boat throws it forward and Pratt removes
+a .45 automatic from the holster of his belt.  He tests it,
+firing once in the air.  As they near the scene of the struggle,
+eleven other boats begin converging, until ---
+
+
+87HARRY'S BOAT87
+
+Everyone wants to get into the act.  They are attacking the
+threshing beast with all they've got.  Pratt uses his auto-
+matic, another blasts point blank with a shotgun.  There are
+occasional water ricochets and the bounty hunters duck from
+time to time as bullets skip by.  Finally, the shark stops
+threshing.
+
+
+88FELIX AND PRATT88
+
+Their boat has moved close to the shark, closer than Harry's.
+
+   PRATT
+   (exultant)
+   Hand me that pole!  Quick!
+
+One of his party in the over-filled boat grabs a gaff and
+leans out to grab the moribund shark.  But Harry won't give
+up the line, still reeling in.
+
+   HARRY
+   Beat it!  I hooked him!
+
+   PRATT
+   How's the family, Harry?
+   (to the man with gaff)
+   Go on and do it!
+
+   MAN WITH GAFF
+   We split down the middle?
+
+Pratt nods reluctantly.  The man swings, lodges the gaff and
+hauls the shark up onto the gunwale.  A paroxysm of cheers
+from the surrounding boats.  Smoke flares are fired into
+the air.
+
+   HARRY
+   (a tug-of-war)
+   Let go my shark!
+
+It is a ten-foot blue, and what a mess -- splattered with
+bullet punctures, gashes, bleeding from several orifices.  But
+it is not dead -- it kicks back to life and threatens to cap-
+size the boat.  Pratt panics and fires six times with his .45.
+The bullets pierce the shark's head, pass through, and split
+the fiberglass hull through which a flood of water rises.  Every-
+body stands up as the boat slips beneath them.
+
+
+89HIGH ANGLE FROM SHORE89
+
+On a hummock overlooking the cluster of boats stands Quint.
+He is laughing out loud -- a sharp, piercing bark that has
+little real humor in it.  Below, the circle of boats tighten
+around the spreading stain of crimson.
+
+
+90INTERIOR - MORGUE - DAY90
+
+Hooper is measuring the bite marks on the Day-Glow raft with
+his dial calibrators.
+
+   HOOPER
+   I'll look at her now if you don't
+   mind.
+
+
+91ANGLE - BRODY, CORONER SANTOS, HOOPER91
+
+Hooper scribbles notes, then mumbles something inaudible
+into his pocket cassette recorder.  Coroner Santos looks
+to Brody, plaintively.
+
+   CORONER SANTOS
+   That was a different sort of acci-
+   dent.  As I told you ---
+
+   BRODY
+   (guilty, angry)
+   Let him.
+
+The coroner hesitates, then walks to the ice chest and slides
+open the drawer.
+
+
+92CLOSE - HOOPER92
+
+At first his face registers shock.  Then, with forced composure,
+Hooper steadies his hands and begins to take pictures with his
+Minolta.
+
+   HOOPER
+   I've heard the boat-propeller story
+   several times.  And the nocturnal
+   hatchet-murder story, the dashed-
+   upon-the-razor-coral story --
+   (to Brody)
+   The little boy was never found?
+
+Brody nods, looking down at his feet.
+
+   HOOPER
+   They're very successful creatures,
+   sharks.  Eighty million year's
+   antiquity for the species of the
+   Great White.  The family goes as far
+   back as three-hundred million.  Plenty
+   of time to get good at what they do.
+
+An attendant flies into the room, joyfully out of wind.
+
+   ATTENDANT
+   They called from the dock, Mr. Brody!
+   They got it!
+
+
+93CLOSE - HOOPER93
+
+He appears stunned.
+
+
+94CLOSE - BRODY94
+
+enjoying a lightheadedness he hasn't felt in weeks.
+
+   BRODY
+   Want to see?
+
+
+95EXT. - BREAKWATER LEADING TO THE PUBLIC BATHING AREA - DAY95
+
+
+96A PROCESSION OF TWENTY MEN96
+
+dragging the shark by a tail-rope from harbor to beach.
+A dog follows, barking at the remains of the blue.  As they
+arrive at the beach Meadows takes charge.  Talks to both his
+photographer and the bounty hunters.
+
+   MEADOWS
+   (to photographer)
+   I want a good one for under the
+   headline -- nearer the water.  Get
+   a group shot with the shark.  Use
+   it on page one, six inches by six
+   columns, center.
+
+Some of the men have run ahead, happily knocking down some
+of Brody's NO SWIMMING signs.
+
+   MEADOWS
+   (seeing this)
+   Great!  Bring one over here.
+
+In the background; voices, laughter.  Some joke about the
+"big-time fisherman" -- "Ben Gardner, not even back yet!"
+Others open beer, throw frosty cans around, making it look
+like a Miller's commercial.
+
+Meadows positions the shark and vigilantes.
+
+   MEADOWS
+   Group around Charlie Tuna...that's
+   right.  No, leave it clear in back
+   -- closer with the sign.
+
+Brody and Hooper are seen approaching fifty yards up the
+beach.
+
+   MEADOWS
+   Smile, boys!  On three, drop the
+   sign.
+   (to photographer)
+   On three, Bill.  One...two...three.
+
+Click.  Cheers.
+
+   MEADOWS
+   One more.  Just the two prize-winners.
+
+Mock groans as the posse moves aside.  Pratt and the gaffer
+remain.  One of the others raises the sign again for take
+two.
+
+   HARRY
+   I hooked him y'know?
+
+   MEADOWS
+   In a little tighter please.
+
+The gaffer doesn't fancy sidling up to the critter.
+
+   GAFFER
+   Better check this bastard.
+
+He starts to poke it in the eye.  Pratt on the other side
+leans forward for a closer look, gaff in hand.  The gaffer
+pokes the eye.  The Blue shark is wide awake, a vicious
+lunge in the opposite direction that snaps the gaff in
+Pratt's hand completely in half.
+
+   VOICE IN CROWD
+   Christ!  Ain't it dead?
+
+Pratt squeezes out a little smile and shuffles eight feet
+to his right out of range.  Hooper and Brody walk into the
+frozen tableau.  Hooper walks over to the shark, eyeing it
+with both amusement and disappointment.
+
+   BRODY
+   Yours?
+
+   HOOPER
+   No, this one's a blue.
+
+   HARRY
+   (insisting)
+   I hooked him.
+
+   BRODY
+   (persisting)
+   Is it the one?
+
+Hooper unravels a lab thermometer on a long nylon cord,
+twirling it over his head like a lariat, finally hurling
+it out into the ocean.  He then unhooks a steel tape measure
+from his bag of tricks and spools out feet and inches from
+the shark's nose to tail.
+
+   HOOPER
+   It's sure big enough -- ten point
+   six feet.
+
+   PRATT
+   Who is this guy?
+
+Hooper is reeling in his thermometer.
+
+   BRODY
+   (doesn't want to say
+   a 'student')
+   The Institute of Sharks sent him
+   to lend a hand -- Matt Hooper.
+
+   PRATT
+   That's right, except he's half a
+   day late now that I already caught
+   it.
+
+
+97HOOPER97
+
+reading the thermometer.
+
+   HOOPER
+   I'm not so sure.  Blue sharks pretty
+   much operate on the warm-water law,
+   and limit their attacks to seventy
+   degrees and up.
+   (holding out thermometer)
+   Ocean's fifty-five.
+
+   PRATT
+   (after a stymied beat)
+   Who is this guy?
+
+   HOOPER
+   The Great White's body temperature
+   in the lateral musculature is almost
+   eighteen degrees above whatever the
+   temperature of the water.  I don't
+   know if this is our bite culprit.
+
+   PRATT
+   (beginning to rave)
+   If you'd have seen the fight he put
+   up, you'd shut up.  Hell, he ate a
+   nine-year-old boy yesterday morning,
+   the bastard, and goddammit...
+   (kicks the shark
+   in the nose)
+   ...this is my shark!
+
+Hooper removes from its sheath the meanest fourteen-inch
+hunting knife Pratt has ever seen.
+
+   HOOPER
+   Only one way to know for sure...
+   (handing Pratt the
+   knife, handle first)
+   ...and since it's not my shark, I'm
+   not slitting open the belly to see
+   what portions of the boy is still
+   inside.  Am I...?
+
+Groans are heard from the bounty hunters, some of whom start
+to turn away.
+
+
+98CLOSE - BRODY98
+
+Uncomfortable and queasy at the thought of it.
+
+
+99CLOSE - PRATT99
+
+He wraps his hands behind him in defiance of the proffered
+blade.
+
+   PRATT
+   (whiny)
+   Well, shit -- this guy caught it
+   with me.  And Harry over there
+   hooked it!
+
+
+100ANGLE - HARRY100
+
+starts to whistle up toward the clouds.
+
+
+101BACK TO HOOPER101
+
+as he poises the knife himself toward the underbelly and ---
+
+   BRODY   HOOPER
+Not here, Mr. Hooper ---This could be it.  He's big
+enough all right, but I still
+can't be sure until ---
+
+   BRODY
+   (nods toward
+   upper beach)
+   -- the boy's mother.
+
+
+102POINT OF VIEW102
+
+Mayor Vaughn, Mrs. Kintner and her father approaching.
+Mrs. Kintner is draped in black mourning, and never utters
+a sound.  She lifts her veil, walks two paces forward and
+spits down at the shark, takes two paces back and replaces
+the veil, recovering her poise.
+
+   VAUGHN
+   (to Brody)
+   This it?
+
+   HOOPER
+   (interrupting)
+   I won't know until I perform a
+   full autopsy.
+
+   VAUGHN
+   (sotto to Brody)
+   Who is this kid?
+
+   BRODY
+   He's a fish expert from the Oceano-
+   graphic Foundation.
+
+   VAUGHN
+   (looking him up and
+   down; in a wholly
+   irreverent tone)
+   Well, it doesn't take much of an
+   expert to see that this is the big-
+   gest, ugliest, meanest-looking shark
+   ever hooked around Amity Island.
+   (to the gathering
+   of men)
+   Who caught her?
+
+Harry steps forward, pointing.
+
+   HARRY
+   This guy, Pratt, and me.
+
+   VAUGHN
+   A thousand dollars apiece is not a
+   bad day's haul.
+
+Vaughn begins shaking hands with the three winners, and
+Meadows snaps some bonus pictures.  Mrs. Kintner's father
+draws close to Brody and Vaughn, handing Vaughn a card
+from his pocket.
+
+   FATHER
+   At whatever the cost, my daughter
+   has requested that all preparations
+   be made to ship this animal to her
+   home town of Marblehead, Mass.  Can
+   you accommodate us?
+
+   VAUGHN
+   What the devil for?
+
+Nary a blink from the old man, and Vaughn looks to Hooper,
+weighing the alternatives.
+
+   VAUGHN
+   We'll see it through, Mr. Sands.
+   (to Martin)
+   Martin, you start collecting those
+   signs.  And keep your friend away
+   from that demon with his pigsticker
+   there.  Let's show some respect for
+   the loss we've incurred.
+   (to Meadows; walking
+   him up the beach)
+   Get the story on the state wire.
+   Try to get AP and UPI to pick it
+   up in New York or Boston to put it
+   on the national.  Call Dave Axelrod
+   in New York and tell him this is
+   from me, and he owes me one.
+
+
+103ANGLE - FATHER AND MRS. KINTNER103
+
+walking up the beach with Pratt, Harry and the gaffer follow-
+ing behind.
+
+
+104BRODY104
+
+kneels next to the shark, making a face at the wafting stench.
+
+   BRODY
+   Some field you picked.
+
+   HOOPER
+   Well, there's dolphins -- but they
+   talk too much.
+
+CUT TO
+
+
+105INT. RADIO ROOM - COAST GUARD STATION #4 - EVENING105
+
+One man is at the radio, another, a laundry-white officer,
+walks toward Brody.
+
+   OFFICER
+   Can't seem to raise your Mr. Gardner.
+   Maybe his radio is out.  Or he could
+   have put in somewhere else.
+
+   BRODY
+   He would have called his wife.
+
+They walk out together, into an eerie dusk fog.
+
+   BRODY
+   No point sending up a plane, huh?
+
+   OFFICER
+   I'll get a patrol boat on it.  If
+   you'd like to go ---
+
+   BRODY
+   (laughing under
+   his breath)
+   I don't do so hot on boats.
+
+   OFFICER
+   (going)
+   We'll contact you down there if ---
+
+   BRODY
+   (urgently
+   stopping him)
+   Listen ---
+
+   OFFICER
+   (they've been
+   over this)
+   Brody, sharks are always around.
+   Blues, browns, makos, thousands ---
+
+   BRODY
+   Can't you get rid of just one for
+   us?
+
+   OFFICER
+   Where is it?  How do we find it?
+   It shouldn't come around again.
+   Odds are worse on the highways.
+
+   BRODY
+   But you could protect the beach -- !
+   I mean, you have access to ---
+
+   OFFICER
+   (stopping him)
+   We could put up a show.  We could
+   give you spotters, but in where
+   the waves break, the water's
+   cloudy and it's hard to spot.
+   Or we could string out shark
+   repellent -- sometimes it's effec-
+   tive.  But then, sometimes ---
+
+   BRODY
+   What do I do then?  Pray for
+   lousy weather?
+
+   OFFICER
+   We're just the Coast Guard, Brody.
+
+Brody walks into the fog until he disappears.
+
+
+106SLOW ANGLE – LIGHTHOUSE106
+
+Brody walking away from the station and lighthouse preoccupied
+with a dozen alternative thoughts.  A shattering blast from
+the fog horn catches him unprepared and he nearly comes out
+of his skin.  Hands clasped to ears, he passes a sign that
+can barely be seen through the fog:  WARNING!  FOG HORN CAN
+BE DAMAGING TO YOUR HEARING!
+
+
+107EXTERIOR - FRONT PORCH OF BRODY'S HOUSE - NIGHT107
+
+Hooper is having after-dinner with Ellen and Martin
+Brody, while a spectacular heat-lightning display colors the
+night clouds and dances on the water miles out.
+
+   HOOPER
+   There're good things to be said
+   about meshing.  It's worked in
+   Australia for years.  Repellent's
+   a myth.  Now there's a cable avail-
+   able charged with 7,000 amps that
+   could be strung along the entire
+   bathing area.
+
+   ELLEN
+   We have Kahlua, Mr. Hooper.
+
+   HOOPER
+   Matt.  And I don't drink alcohol,
+   but thank you.
+   (back to Brody)
+   We think the Great Whites possess
+   an electrical sense ---
+
+Michael walks in.  He doesn't smile after the Sunday
+incident.  He is quite dry this evening, and is in possession
+of a ghastly watercolor of a shark tearing a man in two.
+
+   MICHAEL
+   (shy, his eyes
+   on Hooper)
+   Mrs. Pfister had us all draw
+   sharks in school today.
+
+   BRODY
+   I told you not to wear that cracker-
+   jack ring.  It's too big -- you're
+   gonna catch it on something and
+   lose a finger.
+
+   HOOPER
+   (always interested)
+   This is a very good rendering,
+   Mike.  Looks like a thresher.
+   Where'd you learn to draw him?
+
+   MICHAEL
+   I -- cheated, and found pictures
+   in one of Dad's books.
+
+   HOOPER
+   (delighted)
+   Get bitten by the subject...or
+   just morbid curiosity?
+
+   BRODY
+   More in the spirit of the public
+   interest.
+
+   MICHAEL
+   Mrs. Pfister says if we have a bad
+   season, we could sell our pictures
+   to the tourists.  We get to paint
+   through American History again
+   tomorrow.
+
+Ellen and Brody exchange worried looks.  Hooper digs around
+in his pocket for something, then looks through his satchel
+purse.
+
+   ELLEN
+   You want me to speak to her tomorrow?
+
+Hooper hands Michael a shark's tooth on a wire necklace.
+
+   HOOPER
+   I picked this up in Macao.  There's
+   supposed to be a superstition about
+   these things -- that if you keep it
+   with you, you'll be safe from shark
+   bite.
+
+Michael smiles for the first time, and a warm moment passes
+between him and Hooper.
+
+   MICHAEL
+   I gotta show this to Guber.
+
+   BRODY
+   Don't sleep with that on, son.
+   You'll cut something in the night.
+
+   ELLEN
+   (squeezing his hand
+   across the table)
+   That was nice.  Michael hasn't
+   smiled since his birthday party
+   and that Kintner accident.
+
+   HOOPER
+   He was a witness?
+
+   BRODY
+   (changing subject,
+   referring to storm)
+   Yeah.  Listen.  I'm no crack meteor-
+   ologist, but I think we're in store
+   for some surf.
+
+   HOOPER
+   Hope not.  I'm longlining in the
+   morning.  You should come along,
+   Martin.
+
+   BRODY
+   In case you haven't caught the
+   island gossip, I never take baths
+   -- just showers.
+
+   HOOPER
+   Aquaphobia or what?  Mind if I
+   smoke?
+
+   BRODY
+   No.  Here, wait.
+
+Brody takes out a lighter as Hooper puts a twisted cigarette
+in his mouth.  Instead of inhaling, Hooper takes a long hit,
+and it doesn't take long for the shock to beat the aroma to
+where Ellen and Martin sit.
+
+   HOOPER
+   (behind the hit)
+   I'm going to try and snag the old
+   boy with 3/32 of an inch stainless
+   steel aircraft cable.
+
+   BRODY
+   (dubiously amused)
+   I could throw your ass in jail for
+   that.
+
+   HOOPER
+   Brought my own cage, thanks.  If
+   this really is my shark, he's got
+   a Peterson disc tag on his anal
+   fin.  It can't be seen from a boat.
+
+   BRODY
+   (growing anger at
+   this young man's
+   impudence)
+   Once hooked, what then?
+
+Hooper brightens and reaches into his duffel, pulling out
+a shiny stainless steel object about the size of an alarm
+clock.
+
+   HOOPER
+   Biotelemetry.  It's a radio collar.
+   I bell the cat and then follow him
+   anywhere.  I'm trying to make a
+   deal with a satellite tracking
+   station at Houston, Texas.
+
+   BRODY
+   (getting riled)
+   Now let's wait a minute.  You have
+   him hooked, right?
+
+   HOOPER
+   (trying to be jovial)
+   Well, I'll never take him without
+   a fight, but --
+
+   BRODY
+   And you stick that -- cigarette
+   case to his neck?
+
+   HOOPER
+   (wondering where
+   this is leading)
+   That's the game plan.
+
+   BRODY
+   Then you let it loose.  You let
+   it go free.
+
+Hooper sees where this has arrived.  He swallows the roach
+and takes a breath.
+
+   HOOPER
+   I know what you're saying, Martin.
+
+   BRODY
+   Your little lab experiment has
+   seen three innocent people killed
+   over the past three days.
+
+   ELLEN
+   Martin, it's not his shark.
+
+   BRODY
+   And your list makes me sick.  You
+   carry it around with you like
+   you're keeping score.
+
+   HOOPER
+   Nature has no conscience, Mr. Brody.
+
+   BRODY
+   Oh, Christ.  Whose side are you on?
+   You told me you'd help us get rid
+   of it.
+
+   HOOPER
+   What I said was, I'd help predict
+   future attacks in your area.  If
+   this device works, the early warn-
+   ing to other shorefront resorts --
+   not just here, but anywhere it
+   ranges in the world ---
+
+   BRODY
+   I don't give a crap about your
+   worldwide conquest.  What about
+   right here?  This town is going
+   under today!  Where's your humanity?
+   You could kill this thing for us,
+   flatten its ass and ---
+
+   HOOPER
+   (rising)
+   I'm staying at the Abilard Arms.
+
+Hooper gathers his things, climbs into his backpack.
+Smiles at Ellen and kisses her hand.  Ellen smiles, not
+yet recovered from embarrassment.
+
+   HOOPER
+   I really liked dinner.
+
+He leaves.  Ellen looks at her hand.  Brody turns and sees
+her.
+
+   ELLEN
+   (it's all she
+   can say)
+   Nobody kisses hands anymore.
+
+   BRODY
+   If you stick that wet spot under
+   the black light at the Coney
+   Island Aquarium, they'll let you
+   in for nothing.
+
+
+108EXTERIOR - ABOARD HOOPER'S BOAT - FOGGY DAY108
+
+The boat is slicing gentle swells into the flat water.
+Hooper is mainlining from a big reel.  Tuna-halibut clips
+attached to each of the lines that bear hooks and floats
+every ten yards.  Large bait chunks are tossed into the
+water.  In the boat with him is Meadows, huddled in a
+corner and trying to appear eager to learn.  Hooper is
+not cooperating.  He storms around, upset and frustrated.
+
+   MEADOWS
+   Okay.  What's the second species
+   of shark on your dangerous list?
+
+Hooper opens the throttle half-speed, looking into the sonar
+display that casts a green glow in the soupy weather.  A
+blip appears on the screen that draws a speculative hum from
+Hooper.
+
+   MEADOWS
+   (trying to
+   sound scientific)
+   Fish activity?
+
+   HOOPER
+   Very deep -- looks like a school.
+   (more to himself)
+   Mackerel.  Really clumped together.
+
+As the two huddle together in the green spill, Hooper touches
+the throttle to increase speed, still slightly puzzled.
+
+   HOOPER
+   Staying right with us.
+
+
+109 INSERT - SONAR ACTIVITY109
+
+   MEADOWS (o.s.)
+   And didn't you say activity stops?
+   If any of those whoppers are
+   around?
+
+   HOOPER
+   Tends to.  Gets very still down
+   there.
+
+
+110CLOSE - MEADOWS110
+
+looks up from the scope, and his expression turns to horror.
+
+   MEADOWS
+   Look out!
+
+Hooper looks up in time to avert a near collision with Ben
+Gardner's boat, the Flicka.
+
+It is completely awash, with water in the cockpit right up
+to the gunwales.  Seat cushions and hatch covers float about,
+banging and thumping.  The boat is wallowing and it seems
+that, given a touch more weight, it will sink.
+
+   MEADOWS
+   (shocked)
+   That's Ben Gardner's boat!  Ben!
+   Ben!
+
+Hooper comes up alongside, cuts his engine and goes forward
+to tie his bowline to a forward cleat on the Flicka.
+
+
+111INSERT - SONAR SCOPE111
+
+Bigger blips, both visually and audibly.
+
+Taking note of this, Hooper stands a moment trying to figure
+out what could have done this.  There doesn't seem to be any
+damage fore or aft.  Then he notices that one of the after
+cleats on the Flicka has been torn away...there are scars
+on the wood where the screws are used to hold the cleats down.
+
+   MEADOWS
+   (skin crawling from
+   the foggy stillness)
+   He must have hit something...I'm
+   sure they had life-belts on board.
+
+Hooper nods toward the water.
+
+
+112ANGLE - WATER112
+
+We see life-belts and jackets floating in the unearthly
+stillness.
+
+
+113HOOPER - WIDE113
+
+He gingerly steps onto the rail of Flicka, peeks into the
+cockpit and cabin.  Awash.  No sign of life.  He puts more
+weight down as he cranes his neck further and the whole
+boat lists to one side.  Hooper leaps back to his own.
+
+
+114ANOTHER ANGLE - HOOPER'S BOAT114
+
+He opens a locker and pulls out a wet suit and other gear.
+
+   MEADOWS
+   Maybe we should just tow it in.
+
+   HOOPER
+   (suiting up)
+   I'd better see the damage first.
+
+
+115INSERT - SONAR SCANNER115
+
+Blip, blop, blip, blip.
+
+
+116CLOSE - MEADOWS116
+
+suddenly cold, zips up his windbreaker and turns the collar
+up, as Hooper zips up his wetsuit and clasps on a weighted
+belt.
+
+   HOOPER
+   Did he have a dinghy on board?
+
+   MEADOWS
+   (just wants
+   out of here)
+   I don't know.
+
+Hooper hyper-ventilates as he places on mask, checks his
+"hot" flashlight.
+
+   MEADOWS
+   (alone)
+   I'd rather we just towed it in,
+   Mr. Hooper.
+
+Hooper finishes hyper-ventilating...smiles to reassure him.
+
+   HOOPER
+   Be up in a minute.
+
+He's ready to go, but hesitates a moment, staring out at the
+sea -- the first time Hooper has appeared to be doubting his
+next move.  He shakes it off, takes a huge breath, lets out
+half and splashes in....
+
+
+117ANGLE - MEADOWS117
+
+all alone in the boat.  Just he and the active sonar.  He
+checks the second-hand sweep of his watch, counting out loud.
+
+
+118UNDERWATER SEQUENCE - HOOPER118
+
+Hooper descends in a froth of bubbles.  Warily he turns a
+full circle with his hotlight.  At first we see nothing out
+of place about the Flicka except that it is lying so low
+in the water.  But as Hooper travels the bottom looking for
+damage, he comes across a jagged hole two-thirds of the way
+forward.  The hole is about the size of a basketball, and
+the wood around it has been bashed and splintered.  Hooper
+explores the hole with his hands, then takes the knife from
+its sheath and begins to dig at something.  Whatever it is
+comes free in his hand.  As he studies his find, his light
+wanders upward, pointing directly into the dark hole.  Hooper
+looks up....
+
+
+119CLOSE - HOLE119
+
+Ben Gardner's dead face stares out through the hole in the
+Flicka, eyes and mouth gaping in frozen horror, his skin
+pinched like a prune.
+
+
+120CLOSE - HOOPER120
+
+bumps his head in trying to get away, seems to yell through
+escaping bubbles.  His mask fills with water as he flails
+for the surface.  Miscalculating, he bumps into the hull of
+his own boat, scrambles around it, finally coming up between
+the two boats...gulping air, unable to speak yet, shocked
+and scared, out of breath....
+
+   MEADOWS
+   Bad -- ?
+
+All Hooper can do is hold out his hand, open for Meadows to
+see.  A shiny white tooth, at least two inches long, rests
+in the palm of his hand.
+
+   HOOPER
+   A White -- it's a Great White, I
+   knew it...!  Looks like he died
+   of fright in there.
+
+   MEADOWS
+   (scared shitless)
+   No shark did that to a boat ---
+
+Hooper rolls up his sleeve, and with one stroke of the tooth
+shaves all the hair off him forearm.
+
+   HOOPER
+   One this big could do anything!
+
+Meadows will never be the same.
+
+
+121INT. VAUGHN'S REALTY OFFICE - DAY121
+
+On the run and seeing red, Larry Vaughn speed-walks out of
+his office, grabbing his coat and out the door, cuss-mumbling
+all the way.  Meadows, still in his boat clothing, appears
+behind him, his tie undone and sweating.  Vaughn jumps into
+his car, and just before Meadows can open the passenger door,
+takes off in it.
+
+
+122EXT. ISLAND HIGHWAY - DAY122
+
+Just under the roadside billboard, Hendricks and another
+deputy, Joyner, prepare for a climb with ropes in their
+arms, paint cans and large canvas brushes.
+
+Beyond them a few feet away, stand Brody and Hooper, watching
+Vaughn pacing back and forth, sucking on a Havana.  He has a
+newspaper in his right hand.  Hooper is sketching on a sketch
+pad.
+
+   VAUGHN
+   It says here IT IS CAUGHT!  Period!
+
+Brody holds out the two-inch tooth.
+
+   BRODY
+   Mr. Hooper figured its size from
+   this -- it's over a ton.  It's
+   also over ---
+
+   VAUGHN
+   Put that rotten thing --
+   (he pushes it
+   away, it slices)
+   Yee-ow!
+
+Hooper steps over to show him his sketch.
+
+   VAUGHN
+   (wrapping handker-
+   chief around his hand)
+   If my hand gets infected....
+
+   HOOPER
+   Meet Carcharodon charcharias.
+
+   VAUGHN
+   What is it?
+
+   HOOPER
+   The shark that just bit you on
+   the hand.
+   (sketching)
+   And this...is you.
+
+Hooper has sketched the reduced ratio figure of Vaughn with
+cigar standing in front of the jaws.  He looks like a dwarf
+by comparison.
+
+   HOOPER
+   Seventeen feet from anterior to
+   posterior.
+
+   VAUGHN
+   No shark grows seventeen feet,
+   for Christ's sake.
+
+   HOOPER
+   The famous Swedish naturalist
+   Linnaeus believed that the 'great
+   fish' that swallowed Jonah was not
+   a whale, but a great white shark.
+
+   VAUGHN
+   Love to prove that, wouldn't you?
+   Get into the National Geographic.
+
+   BRODY
+   What should we do about this white?
+
+Hooper has come prepared.  He takes from his backpack a
+Bomar Brain calculator and ticks away at it while talking.
+
+   HOOPER
+   The longer there's nothing to
+   munch on here, the better your
+   chances he'll go.  That means, of
+   course, keeping your beaches
+   closed, your fishermen in port.
+   The other alternative is non-
+   corrosive, 100-gauge steel mesh --
+   say, 30,000 feet of it around your
+   bathing area.  Concrete blocks and
+   installation would run you...oh,
+   four, five hundred thousand.  That
+   is, unless you could seek a deputa-
+   tion from the federal government --
+   (notes Vaughn's non-
+   believing countenance)
+   Beats getting swallowed, doesn't it?
+
+Vaughn is apoplectic.  His seemingly dead cigar glows again.
+He takes Brody by the arm and leads him out of earshot of
+Hooper.
+
+   BRODY
+   Maybe we can make it up in August.
+
+   VAUGHN
+   That beach will be open ON the FOURTH
+   OF JULY, DAMMIT!
+
+   BRODY
+   We have to give this a coupla weeks.
+
+   VAUGHN
+   A couple of days.  And that's bad
+   enough.  I'll have to think of
+   some reason that'll keep the
+   grease from frying.  In the mean-
+   time, I want that shark killed.
+   Either do it yourself, or hire a
+   pro, but go door to door with the
+   offer.  No more of his bounty
+   crap.  And Brody ---
+
+Vaughn gestures up at the billboard.  The beautiful model
+splashing in the golden surf with flailing arms has been
+significantly reinterpreted.  Some pranksters have painted
+a huge dorsal fin cutting through the waves next to her, and
+she now looks like an hysterical beach-goer stampeding out
+of the water.  The deputies begin covering it over with paint.
+People have been gathering throughout the scene on bicycles
+and a few station wagons.
+
+   VAUGHN
+   First the picket fences -- and
+   now this.  I want to see those
+   little bastards hanging upside
+   down by their Buster Brown shoes.
+
+Vaughn storms away before Brody can reply.
+
+
+123EXT. DOCK AREA - DAY123
+
+Hooper is loading some mainline floats and smelly bait fish
+on board.  Two young long-hairs are assisting him.  The old
+harbormaster dips his coffee percolator into the water and
+rinses it thoroughly while watching Hooper load.  He rises
+to his feet and walks across the pier, looking in the oppo-
+site direction about three slips away.
+
+
+124ANGLE - A HIDDEN SLIP124
+
+Brody and Deputy Hendricks are supervising another loading
+activity.  Six local fishermen are converting their 16-foot
+fiberglass double outboard into a gunboat.  A sealed crate
+of high concussion palm-sized depth charges gingerly finds
+a place in the bow section, over which fishing gear and
+nets are positioned to disguise the mission.
+
+   BR0DY
+   (to Hendricks)
+   Don't let him out of your sight.
+   Not for a second.  Stay at a dis-
+   creet distance -- and dammit,
+   Lenny, no shark talk!  The way
+   sound carries over water, you're
+   a dead giveaway.
+
+   HENDRICKS
+   Who's with him?
+
+   BRODY
+   Local hire...I don't know.  I want
+   to hear from you, Len.
+
+
+125EXT. PICKET FENCE ROW - DAY125
+
+Angling down a stretch of picket fence.  Little karate cries
+are accompanied by little flat hands piercing through splin-
+tering wood.
+
+
+126EXT. MAIN STREET - DAY126
+
+The hardware store proprietor, bored and withdrawn, suns
+himself on a chaise lounge surrounded by summer surplus
+that no one is buying, while --
+
+-- the Amity Gift and Candle shop is offering an outside
+display on a carousel postcard rack of artificial shark-
+tooth necklaces, along with an open-air gallery of shark
+books.  A dozen tourists bunch up as business booms here
+today.
+
+
+127INT. BRODY'S OFFICE - DAY127
+
+Ellen is somehow mired behind Brody's desk, two travel
+folders in her absent-minded grasp.  She talks into one
+phone, at the same time she is talking on another to a
+breathy, ticky landlady.  All of this overlapping.  Brody's
+secretary Polly is in the outer office doing three things
+at once.
+
+   ELLEN   LANDLADY
+    (into phone)First it's twenty-four
+I don't know where my husbandhours, then it's two days.
+is, Mr. Kretzler.  He's onlyIt one more guest of mine
+closed the beaches to insureleaves for Cape Cod, I'll
+your safety....start a petition!
+
+From the outer office, we hear:
+
+   POLLY
+   (into phone)
+   Until further notice!  You'll have
+   to ask him about that when he gets
+   back.  Good-bye.
+
+Three people enter.  Two of them, an elderly tourist couple,
+push past Polly and into Brody's office where Ellen stands
+beside the desk.
+
+   MAN TOURIST
+   Excuse me -- I see by the papers
+   they caught the killer shark.  I
+   see by the signs that the beaches
+   are still closed, and we were just
+   wondering....
+
+   TOURIST WIFE
+   (reaches out and
+   takes Ellen's hand
+   in hers, glowing)
+   I think it's a simply wonderful
+   positive sign of our times to see
+   a woman Chief of Police in a nice
+   place like ---
+
+Ellen removes the receiver from her ear, from which angry
+geese-like sounds filter through.  She starts to explain,
+instead bursts out laughing -- one of those spontaneous,
+funny cries for help that leaves you weak.  She falls
+helplessly into her husband's swivel chair, covering her
+face with Acapulco brochures.
+
+CUT TO
+
+
+128INT. QUINT'S RESIDENCE - NIGHT128
+
+Entering Quint's abode is not unlike a spooky ride at
+Disneyland...the placement of objects, the dungeon lighting,
+the tendrils of smoke and dust in the air makes a visitor
+wish he were carrying a 100-watt bulb.
+
+There is gear everywhere.  The walls are adorned with jerky
+shark hides, coiled ropes dangle like serpents above a galley
+stove that leaks smoke and holds two weeks worth of filthy
+dishes.  Tubes, barrels, rods, reels, harpoons, an antique
+gun collection and a dizzy array of shark hooks line the
+walls, with one entire wall dedicated to a collection of
+laminated jaws from the blue shark to the Great White.  Con-
+spicuously in the center of the room is a swivel fighting
+chair and it looks like the perfect place to have all your
+teeth pulled.  Into this orifice of decay, Brody enters,
+and from his point of view, we see Quint hunched over a tub
+of steaming Borax.
+
+   BRODY
+   I know it's late, Mr. Quint.
+
+Quint lifts a ghastly set of dripping jaws from the solution.
+
+   QUINT
+   Snappy little novelty item.
+
+Quint demonstrates by holding them up to frame his face through
+the round jagged opening.
+
+   QUINT
+   Picture frame...
+   (holding it down)
+   Toilet seat....
+
+He looks up at his gallery of jaws.
+
+   QUINT
+   No offense, you guys!
+   (confidentially
+   referring to what's
+   left of sixteen
+   sharks)
+   Very touchy.  All set for the
+   Hallelujah chorus and stuck on
+   the first note.
+
+Brody enters the room like he's treading on hot charcoal.
+
+   BRODY
+   I would have called you ---
+
+Quint walks toward Brody with Borax dripping from both hands.
+He places one of them hospitably on Brody's shoulder.
+
+   QUINT
+   (without losing
+   a beat)
+   Sure you would, sweetheart.
+
+And ushers him into the fighting chair.  He then busies him-
+self around the premises and Brody must use the swivel chair
+to follow him, feeling chills whenever Quint move behind him.
+
+   BRODY
+   I'm Chief Brody, Mr. Quint --
+
+   QUINT
+   Suits me.  I'm a social undesirable
+   myself.
+
+   BRODY
+   Listen ---
+
+   QUINT
+   Me and your Great big White.
+
+   BRODY
+   Who told you?
+
+   QUINT
+   (scrubbing teeth
+   with a wooden brush)
+   What's the count up to down there
+   anyway?  You can't have much of
+   a town left!
+
+   BRODY
+   Got Ben Gardner this time.
+
+   QUINT
+   (feigning shock)
+   Ben?  Sharks'll eat anything.
+
+   BRODY
+   I need to talk to you, Quint ---
+
+Quint slips past Brody's blindspot to the opposite wall, and
+Brody tenses and swivels too fast, almost spinning 360 degrees
+before braking with his feet.
+
+   QUINT
+   Anything!  Know what I found inside
+   that tiger?  Aside from fish and
+   all?
+
+He moves proudly to the shelf of jaws and souvenirs
+collected from the bellies of sharks.
+
+   QUINT
+   Twenty feet of cable, half an army
+   cot, four brass buttons, a cocker
+   spaniel, license plate, a drip-
+   dry shirt, and a six-pack of diet
+   Pepsi....
+
+   BRODY
+   We can't have this damn thing
+   sneaking in ---
+
+   QUINT
+   (as though alarmed,
+   he touches a hand to
+   Brody's mouth)
+   Chief!  Show a little respect.
+   Jesus!  Whites are head of the
+   mob out there, this sounds like
+   Lucky Luciano.
+
+   BRODY
+   (wiping his mouth)
+   Ever caught one?
+
+   QUINT
+   A thirteen-footer and one fifteen --
+   teenagers.
+
+   BRODY
+   Now you're asking ten thousand
+   dollars, but look ---
+
+   QUINT
+   Chief, Chief, Chief - forget it.
+   I get two bills a day from charters.
+   I sell the hides, I sell the teeth,
+   I sell the fins to chinks for soup --
+   you ought to try a little shark
+   sometime!  Hammerhead's terrific -
+   here!
+
+Quint hops to the oven.  An avalanche of pots and pans, a
+burst of smoke, and before you know it, Quint is presenting
+Brody with a hot plate.
+
+   QUINT
+   Home-fried hammerhead!
+
+Brody turns away from the stink.
+
+   QUINT
+   (obsequiously
+   apologetic)
+   Sorry, nothing fancier tonight --
+   boy, I do a Mako Provencale -
+   (kisses his fingers)
+
+   BRODY
+   How's four hundred a day, Quint?
+
+Quint is suddenly across the room, lowering a bucket in front
+of Brody.
+
+   QUINT
+   (fuck off)
+   Serve yourself, Chief.  Shark-liver
+   oil!  Best lubricant in the world!
+
+   BRODY
+   (desperate)
+   How much do you want?
+
+Quint turns, suddenly bitter.  He walks over to a cage with
+a parrot in it.
+
+   QUINT
+   (to parrot)
+   Clowns trying to bargain....
+
+   BRODY
+   I came on my own, Quint.
+
+   QUINT
+   Yo-ho-ho, and a bottle of rum.
+
+   BRODY
+   (rises, pleading)
+   See, if we could make a deal tonight --
+
+   QUINT
+   Here's what the price is tonight,
+   Chief.
+
+Quint stalks Brody as he talks.  Brody trying to look reasonable
+as he backs around the room, bumping into objects d'art.
+
+   QUINT
+   Twenty-five grand to go for it,
+   plus twenty-five more if I land it,
+   all repairs on the boat, and on
+   me, a new rod from Haydy's in
+   London, a life subscription to
+   Playboy, a stereo 4-track and the
+   color TV.
+
+   BRODY
+   Quint, you know they'll never ---
+
+   QUINT
+   Let me finish!  If it gets me,
+   different deal -- seventy-five,
+   no extras!
+
+   BRODY
+   (bewildered)
+   Seventy-five for who?
+
+   QUINT
+   (wildly improvising)
+   For nobody!  To make this place a
+   museum or something!  'Quint's
+   Monster Palace!'  How's that?
+   Maybe have me stuffed in the middle
+   here --- !
+
+Quint poses stuffed with a harpoon in the middle of the room.
+This is the first time he has stopped moving.
+
+   BRODY
+   (addressing stuffed
+   Quint)
+   I have to tell them something
+   reasonable ---
+
+Brody looks for the door...completely disoriented, he tries
+to open one of the walls.
+
+   QUINT
+   No problem!  Tell 'em that joke
+   from World War Two --
+   (walks over to
+   parrot)
+   About the Marines in the landing
+   barge?  Sergeant splashes right
+   in, yelling 'Hit the beach men,
+   follow me and....'
+
+Quint taps the bottom of the bird cage, and without losing
+a beat, the parrot squawks in falsetto:
+
+   PARROT
+   Watch out for the shark!
+
+Brody has found the door and is gone.  The door swings in a
+breeze.  Quint turns to his gallery of jaws and smiles with
+a mock-courtly bow.
+
+
+129EXTERIOR - DOCKS - DUSK129
+
+Hooper's Formula twenty-two tying up in his rental slip.
+He looks dog tired as he steps off and stretches his legs on
+dry land.  The most astonishing thing about Matt this evening
+is his obvious disappointment.
+
+The gunboat is also tied up, the men unloading.  They are in
+terrific spirits.  Each has caught his limit.  The boat is
+filled with fish, the men filled with stories.  Only Len
+Hendricks shows the strain.
+
+
+130ANGLE - BRODY130
+
+riding up on his police bicycle.  He sees Hendricks fifty
+yards away in the dusk, shaking his head.  Brody turns and
+rides down the dock toward Hooper, saying good-bye to his
+day help.
+
+   BRODY
+   (tired, apologetic)
+   Any luck?
+
+   HOOPER
+   Might be for you, Mr. Brody.  I
+   think it's all over.
+
+   BRODY
+   How can you be sure?
+
+   HOOPER
+   The sea is full of fish again for
+   one thing.  You won't find sea life
+   in the territory of a Great White.
+   All the fish we saw in the ocean
+   today.  You'd think they were cele-
+   brating.  I played low-frequency
+   music underwater -- that usually
+   works faster than blood.
+   (shrugs "nothing")
+
+   BRODY
+   (gives him a
+   long look)
+   Are you feeling okay?
+
+   HOOPER
+   There are signals in the water.  I
+   can always read them.  And the currents
+   are shifting.
+
+   BRODY
+   Vaughn's going to want a statement.
+   What about taking precautions?
+
+   HOOPER
+   I'd take them, sure.  Lookout posts.
+   An alarm system.  If you can afford
+   picket boats equipped with sonar
+   repellent line across the bathing
+   area.  Jesus...we must have gone six
+   times around this crummy island.
+
+   BRODY
+   (still perplexed)
+   And you're sure it's ---
+
+   HOOPER
+   You'll never be immune to attack.
+   It knows where you live now.  Good-
+   night.
+
+Brody is left alone on the dock, the sky darkening behind him.
+
+
+131INT. FERRY BOAT - DAY131
+
+Two cavernous iron doors.  Then a crack of vertical light as
+six burly crewmen muscle them apart.  The Amity ferry landing
+is approaching, people in colorful outfits waiting dockside
+for the first filled-to-capacity shuttle of the summer season
+and ---
+
+Bach's Little Fugue is the musical accompaniment to this
+wholly visual montage of disembarkation.  The next two minutes
+should be treated like a "short film" taking into account all
+of the colors, episodes, faces and behavior of a variety of
+Americans who colonize Eastern resort communities for the
+ninety-day season.
+
+A.  A train of cars trundle down the ramp, bumper to bumper.
+
+B.  Young beautiful people from Princeton, Yale, N.Y.U.,
+    wearing knapsacks, toting luggage, babies riding in
+    papoose rigs, energized children, senior citizens hold-
+    ing hands on the pedestrian ramp, a few wheelchairs.
+
+C.  The sidewalk vendors hawking balloons for the kiddies,
+    hotdogs, hot fried clams, Italian ices.
+
+D.  The Amity Cab Company, small blue Toyotas, run by students
+    on vacation queued up like a bomber wing.
+
+E.  Hooper is watching.
+
+Station wagons with pale winter faces pressed anxiously to
+the windows, Cadillacs with Rear Admirals at the helm, their
+wives with blue hair remembering the way from the years before.
+
+Then six blonde and tanned Coney Island meatballs descend the
+ramp.  They all wear Men's Club Lifeguard patches and matching
+collegiate windbreakers.  They scour the landing, looking for
+someone to save.
+
+The boat is empty.  Everybody heading inland, anticipating the
+best Fourth of July ever.  Already there is debris on the
+docks and the cleaning crew works away at it.
+
+
+132INSIDE THE FERRY132
+
+As Bach's Little Fugue ends, the six burly crewmen lean their
+combined weight against the Cathedral doors, closing out the
+light and locking in the trade.  The doors latch shut with a
+resounding clang!
+
+GO TO BLACK
+
+
+133EXT. COAST GUARD STATION - DAY133
+
+A young Ensign is demonstrating "Shark-Chaser" to Brody from
+the concrete pier.  He lowers a canister of it into the
+water and a dark cloud begins to diffuse.
+
+   OFFICER
+   You'll need about 150 of these --
+   twelve feet apart, behind your
+   surf-line.  We'd have to string
+   them right across, that's say, 2000
+   feet....
+
+   BRODY
+   Makes sort of a long black
+   curtain.
+
+   OFFICER
+   Repellent.
+
+   BRODY
+   (leveling)
+   But it doesn't always work.
+
+   OFFICER
+   Well...it inhibits them, Mr. Brody.
+   (brightens with facts)
+   The astronauts use it.
+
+   BRODY
+   (not impressed, gazes
+   into water)
+   That, and Tang.
+
+
+134EXT. AMITY MAINSTREET - DAY134
+
+If you lifted out any hunk of mid-day Manhattan intersection
+and set it here on the colonial corners of Main Street and
+Pilgrimage Way, you couldn't do worse.  This is what Amity
+feeds on between July and September.  This is what the
+tourists pick over between 8:00 A.M. and 5:00 P.M.  This is
+what it's all about.
+
+
+135EXT. AMITY MOVIE HOUSE - EVENING135
+
+The marquee lights go on.  Moby Dick is the new substitute
+feature offering.  Pan down to show the theatre manager and
+a boiling, pacing Larry Vaughn.
+
+   VAUGHN
+   I want this off before the weekend.
+   And if it's not -- !
+
+   MANAGER
+   I thought with all this interest...
+   (weak smile)
+   It's not a documentary, you know.
+
+
+136INT. MOVIE HOUSE136
+
+
+137FULL SCREEN137
+
+Gregory Peck as Captain Ahab in an outpouring of classic
+Melville.  The white whale explodes through the waves and
+crushes sixteen harpooners.  A single sandpapery laugh
+accompanies each special effect.
+
+
+138ANGLE - MOVIE HOUSE138
+
+Quint sits in the center aisle, popcorn and ju-ju-bees
+stuffing his face.  The splayed projection beams dance
+around his head as he roars with amusement.  People are
+getting up and moving away from him.  He is watching with
+delight, slapping his thigh, thumping the seat-back with
+his feet.
+
+
+139FULL MOVIE SCREEN139
+
+We watch as Ahab gets tangled in the line and dragged under
+by the whale.  Quint can be heard OVER.
+
+
+140EXT. SOUTH BEACH - THE FOURTH OF JULY140
+
+A four foot surfer's swell curls and crashes on shore, rider-
+less.  The broad sandy beach is a mosaic of summer color as
+one thousand vacationers practice fun in the sun, but not in
+the water.  Hot dog stands and ice cream vendors are every-
+where.
+
+
+141ANGLE - LIFEGUARD STATIONS141
+
+A half-dozen lookout lofts.  As many handsome lifeguards
+with Walkie-Talkies strapped to their trunks and loudhailers
+at arm's reach.  Bored, two of the hot dogs train their
+binoculars on some local color.
+
+
+142AT SEA142
+
+Tactically flanking a three-hundred-yard apron of black
+repellent are four small watch-boats.  A fifth tiny pleasure
+boat darts around the repellent line.  Farther out, cross-
+ing back and forth, are patrol boats six and seven.  To top
+it all off, a Coast Guard blimp floats three hundred feet
+above.
+
+
+143ON SHORE143
+
+A crunch of gawkers makes life miserable for a mobile TV
+crew on their van-shaped unit.  A graduate from the Columbia
+School of Broadcasting is interviewing Martin Brody in front
+of dozens of camera-conscious kids.
+
+   INTERVIEWER
+   (humorous)
+   Will you be going for a dip,
+   Chief?
+
+   BRODY
+   (ill at ease)
+   No, I'll be sticking to business
+   today.  As you see, we have spotters
+   up and down the beach, and out there's
+   the Coast Guard, State Police, County
+   Police -- everyone's cooperating
+   on this ---
+
+   INTERVIEWER
+   The question is, if it's so unlikely
+   as you seem to think ---
+
+   BRODY
+   It never hurts to play it safe.
+
+   INTERVIEWER
+   Thank you, Chief Brody.
+   (to crew)
+   Let's do a group at the hot dog
+   stand.
+
+Vaughn is watching the ocean, aware that nobody is in yet.
+He turns in the direction of a Selectman and his family,
+and after grunting hellos, falls on his haunches and talks
+through a dogged smile.
+
+VAUGHN
+Will you please get in that ocean.
+
+SELECTMAN
+What?
+
+VAUGHN
+Nobody's going in -- move!
+(indicating his family)
+Them, too!
+
+He gets up, gesturing "go in" to another townsman.  The
+Selectman gathers his senses, swallows back nagging nerves.
+
+SELECTMAN
+(to his family,
+false cheer)
+How about a swim, gang, huh?
+(to 12-year-old
+daughter)
+Not you, you have a cold.
+
+Vaughn spies Hooper, alone on the sand in his trunks, look-
+out at sea.  The Selectman and his family of four start
+into the ocean as Vaughn approaches Hooper.
+
+VAUGHN
+You've earned a day off, Doc.
+And thank you.
+
+Hooper just looks at him.
+
+VAUGHN
+We feel you've done a heck of a job,
+you know.
+
+HOOPER
+(nods, looks
+back to sea)
+I feel the same about you.
+
+
+144ANGLE - SELECTMAN AND HIS FAMILY144
+
+They walk into the surf, deeper and deeper, until a wave
+washes over their heads.  The Selectman surfaces, and realizes
+he is wearing his watch.  Never mind.  Others follow suit
+and begin to trickle into the white surf.
+
+
+145BOAT #2145
+
+Four State Police with their 30.06's stowed discreetly under
+their seats.  As a Beering State Policeman talks to Brody on
+the Walkie-Talkie, we notice Boat #5, a short-range speedster,
+working the repellent line.
+
+   BEERING POLICEMAN
+   We're putting the fresh cans on,
+   Brody.
+   (takes beer
+   from ice chest)
+   Calm down, will you?
+   (shouting to
+   Boat #5)
+   You guys want a beer?
+
+
+146BOAT #5146
+
+Two men and a boat-load of canisters.  One holds up the nylon
+repellent line with a pole as the other replaces a can and
+shouts back.
+
+   SAILOR
+   I want a pair of rubber gloves.
+
+To demonstrate what he means, he holds up two hands, black
+with dye.  A wet can of Budweiser tumbles into one of them.
+
+Sailor's Walkie-Talkie squawks like a strangled chicken.
+
+   VOICE
+   (Walkie-Talkie)
+   Daisy to Blimp...Daisy to Blimp...
+   thirty yards off my port side....
+
+The two sailors turn to port.
+
+
+147BOAT #7147
+
+Hendricks is on the radio while a Coast Guard spotter works
+the sonar.
+
+   HENDRICKS
+   Anything?  Thought I saw a shadow.
+   Over.
+
+Pan to the water.
+
+
+148INT. BLIMP148
+
+A breathtaking view.  The blimp spotter looks down with
+naked eye and binoculars.
+
+   BLIMP SPOTTER
+   Nothing from up here, Daisy.  Over.
+
+
+149CLOSE - HENDRICKS149
+
+   HENDRICKS
+   (into Walkie-
+   Talkie)
+   False alarm.  Must be this glare.
+
+
+150ANGLE - BEACH - CLOSE ON BRODY150
+
+He is walking down the beach, threading his way through the
+happy hordes.
+
+   VOICES
+   Who's scared to go in!  I was in!
+   Up to your knees, yeah -- So
+   come with me -- I'll go again.
+   How far?  Etc., etc.
+
+A group of youngsters playing with Michael Brody's dinghy.
+They are hauling it toward the surf.
+
+   BRODY
+   Hey Mikey -- !
+
+Michael turns as Brody trots toward him.
+
+   BRODY
+   You're not going to the ocean
+   with that, are you son?
+
+   MICHAEL
+   I'm all checked out for light
+   surf and look at it.
+
+   BRODY
+   Do me this favor just once.  Use
+   the ponds.
+
+   MICHAEL
+   Dad, the ponds are for old ladies.
+
+   BRODY
+   Just a favor for your old man.
+
+   MICHAEL
+   (confused)
+   Sure, Dad.
+
+
+151SWIMMERS AND SURFERS151
+
+A surfer waving to impress his girlfriend on the beach.  He
+dives off his board and swims around the black dye.
+
+   COUNTY POLICEMAN
+   (through loudhailer)
+   Not so close to the line, please....
+
+The eighteen-year-old surfer submerges, comes up all inky.
+His girlfriend laughs, impressed.
+
+
+152TV CREW - NEAR WATER152
+
+Clowning, posing, boasting for the cameras, dozens of
+youngsters ride in baby waves, stand on their heads, on
+the shoulders of friends, wave, swim out, kick up the water.
+The TV cameramen are going crazy.  Burning film.  Zooming.
+
+
+153REPELLENT LINE - SURFER AND COUNTY POLICEMAN153
+
+The Surfer won't leave the area.
+
+   COUNTY POLICEMAN
+   (through loudhailer)
+   Get clear of the repellent line,
+   son!
+
+Suddenly his Walkie-Talkie fizzes, and the Blimp Spotter's
+voice overloads the speaker.
+
+   BLIMP SPOTTER
+   Blimp to Daisy!  Red Four, Red Four!
+
+
+154BOAT #7 - HENDRICKS154
+
+Guns are up, heads turning everywhere.
+
+   HENDRICKS
+   (into Walkie-
+   Talkie)
+   Where --- ?
+
+   BLIMP SPOTTER
+   Went under your -- There!
+
+The Coast Guard sonar operator spots it and pales.  A slick
+black dorsal fin is slicing a wake toward the swimming area.
+
+   SONAR OPERATOR
+   Jesus Christ ---
+
+
+155BEACH - BRODY155
+
+Rigid and choked, he almost breaks the "send" button trying
+to transmit.
+
+   BRODY
+   Everybody out!  Out of the water,
+   please -- leave the water, please ---
+
+Hooper is on his feet.  The lifeguard next to him begins
+blowing on his whistle.
+
+
+156CLOSE - BRODY156
+
+shouting hysterically into his Walkie-Talkie.
+
+   BRODY
+   No whistles!  No whistles!
+
+
+157THE BEACH157
+
+Dozens of bathers halfway out of the water, turn to see.  More
+whistles, and they start toward shore.  The loudhailers sound-
+ing more urgent now, and a contagious dread seizes one person
+after another.  Entire groups of people begin pulling toward
+shore, some of them obviously trying to control a growing
+hysteria in others.
+
+
+158BOATS #6 AND #7158
+
+are converging, heading toward the repellent line as if track-
+ing an underwater shadow.  The fin is beyond the repellent
+cordons and heading into the crowds.
+
+
+159THE WATER - BATHERS159
+
+People begin screaming.  Kids are suddenly separated from
+their parents.  Others seem to forget how to swim.  One
+myopic little girl has her glasses bumped off and she begins
+to cry in blinded panic.
+
+
+160BOATS #2, #3, #4160
+
+The riflemen in the boats are trying to get a bead, but too
+many civilians create a hazard.  The Coast Guardsmen attempt
+to sever the repellent cord to gain access to the bathing
+area and the heaving fin.
+
+
+161THE WATER - BATHERS161
+
+This is a confirmation of our worst dread -- a full-blown
+headlong water panic.  Screaming vacationers claw their way
+over the bodies of the less able.  Some literally attempt to
+walk over the bobbing heads and glistening backs of others
+pulling for dry land.
+
+
+162CLOSEUPS - PANIC162
+
+Horrified faces.  Some are stunned and wandering in slow,
+tentative circles, while others are helped out by friends.
+Five people try to mount a rubber raft.
+
+Ugly reminders that each of us is Number One.
+
+Brody enters shot, yelling into his Walkie-Talkie, Hooper
+charges past him to help an old man out of the water.  He
+returns to pull several others to their feet.
+
+
+163EXT. - THE BEACH163
+
+Hooper keeps plunging in, dragging the helpless from the surf.
+Tears well in Brody's eyes.  The screaming is deafening.  The
+TV unit pushes past Brody.
+
+   INTERVIEWER
+   (pointing)
+   Zoom in!  Over there!
+
+One thousand survivors pack the beach, standing absolutely
+still.  A numbing cold sets in, and people shiver against
+each other.
+
+Muted sobs, whimpering, coughing.
+
+The six burly lifeguards huddle together like Cub Scouts.
+
+
+164ANGLE - BATHING AREA164
+
+The monstrous black fin turns a slow circle as two Coast
+Guardsmen manage to cut their own repellent line.  All
+boats converge on the dynamic fin.  Men raise their guns
+to fire.  Others adlib nautical commands in a uniquely
+calculated fashion.
+
+
+165CLOSE - FIN165
+
+It slips sideways, revealing for the first time a tiny
+blue snorkel.  Then appears the faces of two youngsters whom
+we will recall from the coven behind the dune.  The fin bobs
+back, a beaverboard replica attached to a partially sub-
+merged surfboard.  One youngster looks up and is greeted by:
+
+
+166YOUNGSTER'S POINT OF VIEW166
+
+Twenty rifles and shotguns pointed directly at him.  Surround-
+ing him on three sides.  Some of the policemen start to
+lower their guns -- struck dumb.
+
+
+167CLOSE - YOUNGSTER167
+
+his only defense, he begins to cry -- and feebly raises his
+hands in unconditional surrender.
+
+
+168ANGLE - ESTUARY168
+
+The narrow estuary leading into the half-mile is rough today.
+Two children digging in the sand and unaware of the beach
+panic one hundred yards away look up, and the little girl
+points.
+
+
+169A BLACK DORSAL FIN169
+
+is cruising through the narrows and toward the busy pond.
+
+
+170ANGLE - POND170
+
+Michael is tacking full-sail in his boat with a friend, Kit.
+Kit is admiring the shark's tooth necklace around his own
+neck while Michael rubs some water on the scratches left by
+it.  The fin, huge, black and real, crosses behind them.
+They are not yet aware.  The fin seems to circle and return.
+It heads toward Michael's boat when another small dinghy gets
+in its way -- a weekend novice just finishing a thermos of
+coffee when he is "bumped."  The entire boat is overturned.
+Michael sees the fin now as it collides with him, the entire bow
+lifting out of the water and rolling over on the port side.
+Michael and Kit are thrown head first.
+
+Three heads in the water come up sputtering, the fin between
+them crossing back.  Michael freezes.  The fin comes directly
+at him, growing into the sky, passing him so close he could
+touch it, but ignoring him as it follows the flailing and
+panicked weekend novice.  Catches him.  Michael watches.
+That all too familiar explosion of water -- a choked off
+scream -- the head and upper torso of the novice passing
+Michael swiftly as though being carried off -- a current
+of blood trailing around.
+
+The renewed cry of SHARK!  SEMENTIA POND!
+
+
+171CLOSE - BRODY171
+
+He turns.  Oh God!  Running through the slogging sand.
+
+
+172CLOSE - COAST GUARDSMEN IN PICKET BOAT172
+
+   COAST GUARDSMAN
+   Block the estuary!
+
+Three boats racing to carry out the orders.  The black fin
+repassing the two children, racing to get out.  One rowboat
+reaches the mouth before the others.  The fin won't veer off.
+It smacks into the little vessel, tearing off the bow and
+beaching it in its wake.  Racing into open water.  Blood
+leavings.
+
+
+173CLOSE - HOOPER173
+
+He is pulling Michael out of the water as Brody runs up.
+Michael is conscious but in shock -- his eyes staring at
+nothing.
+
+   HOOPER
+   (feeling his face)
+   He's in shock.  Get blankets!
+
+People gather and Brody snatches beach towels out of their
+hands.  They cover Michael and carry him off the beach, feet
+raised above his head.
+
+   HOOPER
+   I can read signals in the water --
+   when they're around -- when they
+   leave.  I saw the signals.  It
+   moved on.  They reported an attack
+   up the coast, toward Ipswitch, Maine
+   today.  Oh, Jesus, Martin, I'm sorry.
+
+
+174INT. QUINT'S SHACK - DAWN174
+
+The 1940's hit HUBBA, HUBBA, HUBBA blares from the new stereo.
+Barbara Walters blares from the new color TV.
+
+Brody has the look of a man who has gone without sleep for
+two days.  He slouches in the fighting chair, watching Quint
+who is shoving Salvatore toward the door.
+
+   QUINT
+   (shouting over the noise)
+   You know which cans, stupid -- the
+   whale meat.  Get 'em out of the
+   deep freeze and on board.
+
+This done, Quint picks up a harpoon, tests the point.
+Sharpens it on a shark hide.
+
+   QUINT
+   And where would you like this shark
+   delivered, sir?
+
+   BRODY
+   (even)
+   Anywhere we can see it's dead.
+
+   QUINT
+   (looking at TV)
+   You want him gift-wrapped?
+
+Brody rises to go.
+
+   BRODY
+   Call me.  Soon as you have some news.
+
+Quint talks past him in a load open voice.
+
+   QUINT
+   What is it now?!
+
+We see Salvatore, afraid of him, but resolved.
+
+   SALVATORE
+   I ain't going.  Ain't goin'.
+
+Quint snaps the generator off.
+
+   QUINT
+   (quiet menace)
+   You ain't what??
+
+   SALVATORE
+   I ain't that crazy, that's what!
+   Now I brung in some mean big mothers
+   with you, but I'm resignin' on
+   this...no, sir!
+
+   QUINT
+   (to his gallery
+   of jaws)
+   Mutiny on the Bounty!
+
+   SALVATORE
+   I don't mess with nothin' built
+   like no station wagon, 18 -- 20
+   foot ---
+
+   QUINT
+   (bored)
+   How much do you want?
+
+   SALVATORE
+   Not with no man-eater!  He ain't
+   gonna live to no reputation on
+   me ---
+
+   QUINT
+   (sharply, turning
+   away)
+   Go load up.
+
+   SALVATORE
+   That's all I'm gonna do.
+
+Quint picks up a length of rope and starts to coil it, turns
+to Brody.
+
+   QUINT
+   Might have to wait till I dig up
+   another ---
+
+   BRODY
+   I'll go.
+
+Quint takes him in with a tight smile.  He tosses Brody the
+length of rope.
+
+   QUINT
+   Tie me a barrel knot.
+
+Brody feels useless holding the rope end.
+
+   BRODY
+   I really want to go, Mr. Quint.
+
+   QUINT
+   (ignoring him)
+   Five lengths of half-inch...twenty
+   number 14's, straight gaff ---
+
+   BRODY
+   (leaving)
+   I'll get a pro to come along.
+
+Quint runs through his check list...to himself.  Pan down to
+the floor and an arsenal of hand-to-shark weaponry.
+
+   QUINT
+   Flying gaffs, tail rope, eye-splices,
+   M-One, pliers, irons.
+
+CUT TO
+
+
+175EXT. QUINT'S DOCK - DAY175
+
+Hooper's fighting gear is on deck.  His colleague from Woods
+Hole looks at him with some dismay as they go over the check
+list of fighting gear from the Oceanographic Institute.  The
+Colleague, in a smaller boat alongside, hands him the last
+few bits and pieces.
+
+   HOOPER
+   (grim)
+   Powerhead, C.O.2 darts...hypo...
+   regulator...tanks...depth gauge....
+
+The Colleague glances up toward the flybridge and Quint.
+Salvatore goes back and forth rolling on chum barrels.
+
+   COLLEAGUE
+   You shouldn't be in on this, Matt.
+   (pause, watches)
+   Hunting anything down -- I mean,
+   that's not our area.
+
+   HOOPER
+   (signing receipt)
+   Maybe I'm in the wrong area.
+
+Quint looks down at the undersea cage that is sitting on the
+transom of the Orca.
+
+   QUINT
+   What's this glamour-boy...a portable
+   shower?
+
+   HOOPER
+   (shakes hands with
+   Colleague, who pushes
+   off, shaking his head)
+   Thanks.  I'll see you.
+
+   QUINT
+   Huh?
+
+   HOOPER
+   (disinterested in
+   what he thinks)
+   Anti-shark cage.
+
+   QUINT
+   (smiles)
+   And you're inside that -- in the
+   water?
+
+   HOOPER
+   If necessary.
+
+   QUINT
+   (smiles, nodding)
+   You're in the water with the shark.
+
+   HOOPER
+   That's right.
+
+With an operatic gesture, Quint sings down to him in his best
+voice.
+
+   QUINT
+   (soulfully)
+   'Believe me, if all those endearing
+   young charms...
+   That I gaze on so fondly today....'
+
+   HOOPER
+   (glancing toward pier)
+   Let's go.
+
+
+176ANGLE - PIER176
+
+Brody is walking down the pier, bundled in foul-weather
+clothes like a tenderfoot Sea Scout.  He carries a shopping
+bag and an overnight kit.  Quint can't help himself -- he
+guns the Orca's diesel engines to sound like a wolf whistle.
+
+   QUINT
+   Well...shiver me timbers!
+
+Brody is helped unsteadily into the boat by Salvatore, who then
+leaps lightly to the dock and casts off with style.  Even now
+Brody is beginning to look sick.  He holds onto the hatch
+handle.
+
+   QUINT
+   (to Brody)
+   Bow.  Stern.  Aft.  Forward --
+   Port -- Starboard.  Got it?...Good!
+   (yells over engine
+   noise to Salvatore)
+   Missing a great adventure, Sal!
+
+Salvatore waves and smiles as the boat pulls away.
+
+   SALVATORE
+   You bet, Mr. Quint! Bye!  Bye!
+
+The Orca chugs past the dock and out toward the narrow
+breakwater.
+
+
+(NOTE:  TO BE INSERTED -- THE BLUE SHARK FRENZY, PER BENCHLEY'S
+NOVEL, TO GET THE THIRD ACT UNDER WAY.)
+
+
+177EXT. THE OCEAN - AFTERNOON177
+
+The Orca is drifting in neutral.  The ocean is like gelatin,
+the sun sucking heat waves from its surface.  Brody at the
+stern, handkerchief on his head to protect from further sun-
+burn, has been handed the slimiest job on a shark hunt:  the
+ladling out of chum.  Brody is reeling with nausea.  Hooper
+is up at the wheel on the flybridge.  He dons a baseball cap
+and aviator's sunglasses.  Quint is firmly situated in the
+fighting chair, reeling in the bait.  All three have the look
+of being on open water for the better part of the day, with
+no luck.
+
+   QUINT
+   (to himself)
+   That don't tempt him either, huh?
+
+He hauls in the bait.  Two mackerel, barely alive.
+
+   QUINT
+   We'll find him something.
+
+Hooper studies this man Quint as he flings aside the mackerel.
+Brody has stopped chumming and is retching over the side.
+
+   QUINT
+   (yelling at Brody)
+   Keep that chum going!  We got five
+   good miles, don't break it!
+
+Brody opens his overnight kit and takes out a handkerchief and
+some Old Spice after-shave.  He pours the after-shave into the
+cloth, presses it to his nose, and resumes ladling.
+
+Quint almost trips over Hooper's tanks as he walks to the chum
+barrels.  He roughly kicks them aside.
+
+   QUINT
+   Fancy goddam toys....
+
+   HOOPER
+   (jumping up)
+   Careful!  Compressed air -- you
+   crack that and it explodes like a
+   bomb!
+
+   QUINT
+   (mutters)
+   Cluttering up my deck ---
+
+Quint takes a wide red strip of whale meat and a gnarled squid
+from the garbage pail, and searches for a No. 2 hook rig.
+
+   HOOPER
+   (distaste)
+   That from a pilot whale too?
+
+   QUINT
+   (deftly slicing whale)
+   Can't you tell?  Here ---
+
+He holds up the strip of whale.  Quint has sculpted it into
+the outline of a whale.
+
+   QUINT
+   Cute, huh?
+   (to Brody)
+   The expert don't approve.
+
+Brody shades his eyes from the white sun as Quint baits up.
+
+   QUINT
+   Now, you swim down and...
+   (kisses the bait)
+   give a nice big kiss to Mr. White ---
+
+   BRODY
+   (croaky)
+   You still think it's all the way
+   out here?
+
+   QUINT
+   (snapping bait to
+   his leader)
+   I think like they do, Chief.
+
+   HOOPER
+   And they have brains the size of
+   a radish.
+
+Quint gets a big laugh out of this, and sits in the fighting
+chair.  He casts off, murmuring as the line feeds out.
+
+   QUINT
+   Now if he weren't around, we'd of
+   hooked something else by now,
+   wouldn't we?  But he scared 'em
+   all away.  Yeah, didn't you?  Yeah,
+   I know you, you poor lonesome son
+   of a bitch...come to pappa, you ---
+
+The line whizzes off the reel.  Brody jumps up.  Quint puts
+his hand on the drag and addresses the situation softly.
+
+   QUINT
+   Atta baby -- he'll gulp it down
+   now...
+   (making gulping noises)
+   Hoooooo!
+
+Quint tightens drag and strikes.  The line goes whizzing out.
+Brody runs to Quint's side.
+
+   BRODY
+   You got it?
+
+   QUINT
+   (turning with the pull)
+   Get behind me, dummy!
+   (shouts to Hooper
+   Reverse her and turn -- he's taking
+   too much line!
+   (to Brody)
+   Wet my reel, quick!
+
+Brody pours water on the screaming reel, nearly unspooled now.
+Hooper is turning the boat around and the line changes direc-
+tion.
+
+   QUINT
+   (straining, muscles
+   popping
+   Starboard, for Chris'sake ---
+
+Hooper steers it sharply.
+
+   QUINT
+   (to Hooper)
+   Half-speed there....
+
+Again the line changes direction, down this time.
+
+   QUINT
+   (to Hooper)
+   Neutral!
+   (to the sea)
+   Where the hell is he going?
+
+Quint reeling in like mad.
+
+   QUINT
+   Oh, this ain't foolin' me --
+   (rod arcs down
+   with a surge)
+   Sure -- try it!
+
+The line rushes out and now there is less tension.  Quint is
+horsing up and down, reeling in.
+
+   QUINT
+   Makin' believe it's easy now.
+
+The line is almost vertical now, and Quint shows a hint of
+bafflement.  He reels in suspiciously.
+
+   QUINT
+   Gettin' ready to run again -- no?
+   No?
+   (suspicious)
+   What's he playin' here?
+   (reels in furiously,
+   to Hooper)
+   Put the gloves on!
+   (to fish)
+   Let's see who's gonna tease who now!
+   (to Hooper)
+   Down here!  Do like I told you!
+
+Hooper is rushing down.
+
+   HOOPER
+   Can't bring him up so quick ---
+
+   QUINT
+   (bathed in sweat;
+   hauling, reeling)
+   How do you know!  How do I know!
+
+The leader shows above the water line.  Brody is wide-eyed,
+waiting for that first look.
+
+   BRODY
+   He's nearly up ---
+
+   QUINT
+   (to Brody)
+   Unbuckle me -- fast!
+   (to Hooper)
+   Grab the leader.  He ain't normal,
+   this one...they never --
+   (to Hooper)
+   Snap it on, jerk!
+
+Hooper snaps the rope onto the leader and holds on.
+
+   QUINT
+   Watch your hands --
+   (suddenly to Brody)
+   Grab onto this!
+
+Before he realizes what's happening, Brody is clumsily clutch-
+ing at the big rod, appalled.  Quint skips away for a harpoon.
+He picks one from a row of twelve, turns....
+
+That's when the leader lashes free, sending Hooper crashing
+backward in a serious fall, and the rod whips at Brody's
+forehead, drawing blood.  Quint snatches up the rod and
+reels in.  The wires have been bitten through.
+
+   QUINT
+   (addressing the ocean)
+   Sure...you're havin' a ball!
+   (to Hooper, still
+   sprawled on deck)
+   Get back up here!
+
+   BRODY
+   He's hurt....
+
+   HOOPER
+   (stunned)
+   I'm okay....
+
+   BRODY
+   What's the point with hooks and
+   lines ---
+
+   QUINT
+   Don't tell me my business!
+   (to Hooper, points)
+   Quarter-mile, that way.  Full
+   throttle.
+
+Hooper shakes off his dizziness and obeys.  Brody watches
+Quint rig up a new leader, hook up the same bait.
+
+   BRODY
+   (nursing forehead,
+   gesturing at rod
+   and reel)
+   I don't understand though...How you
+   expect to ---
+
+   QUINT
+   This tricks him to the surface, got
+   that?  Then I can jab him, under-
+   stand?
+   (goes to flybridge,
+   muttering)
+   Think I'm gonna haul it in like a
+   catfish?
+
+Brody begins to apply cream to his sunburned nose.
+
+
+178ON BRIDGE - HOOPER AND QUINT178
+
+   QUINT
+   (suddenly, pointing)
+   Over there!
+
+   HOOPER
+   Why over there?
+
+   QUINT
+   (still looking)
+   At least you handle the boat all
+   right.
+
+   HOOPER
+   I can do more than that.  Look,
+   Quint, I brought along a ---
+
+   QUINT
+   Stop.  Here...Cut the engine.
+
+Hooper cuts the engines as Quint swings nimbly down.  He stands
+stock still on the main deck, motioning Brody to be silent.
+Then picking up the newly rigged rod, Quint softshoes it over
+to the chair.  About to sit down, he freezes.
+
+
+179CLOSE - QUINT179
+
+looking stunned.
+
+
+180CLOSE - BRODY180
+
+moving back, eyes wide.
+
+
+181CLOSE - HOOPER181
+
+moving closer, aghast.
+
+
+182COMBINED POINT OF VIEW182
+
+We see the shark.  First the jet-black fin...then the head
+and upper jaws, twenty yards off.  It finally submerges, veer-
+ing off to one side with a neat slap of its tail.
+
+
+183ANGLE - QUINT183
+
+He puts the rod away.
+
+   QUINT
+   Jesus.  I heard they got that big....
+
+   HOOPER
+   Closer to thirty feet....
+
+   QUINT
+   (knowingly)
+   Twenty-five.  And three tons of
+   him there.
+
+   HOOPER
+   (to himself)
+   What's the formula...?
+   (calculates
+   in his head)
+   Girth, say 150 inches.  Squared
+   and...divide by 800 -- that's six
+   one, five...6150 by 2000 --
+   (stops, wryly)
+   Just over three tons.
+
+Quint snorts and dumps the chum overboard.  Flings in the
+two mackerel.
+
+   BRODY
+   Where'd it go?
+
+Hooper is rummaging in his gear.  Brody watches him locate a
+small waterproof signal light.  He starts to attach it to
+the first barrel.  Quint, who has been scanning the sea, spins
+around.
+
+   QUINT
+   Don't monkey with none of my gear!
+
+   HOOPER
+   (trying to be patient)
+   Your harpoons are attached to
+   these. right?
+   (indicates barrels)
+   They pop up and drag on him, drag
+   on him till he's through -- isn't
+   that the idea?
+
+   QUINT
+   You can't improve on it!
+
+Hooper switches on the signal light.  It pulses a glow that
+hurts the eyes even in broad daylight.
+
+   HOOPER
+   What if we have to follow him?
+
+Quint breathes in smoke until his tongue catches fire.
+
+   QUINT
+   Sonny -- take that, and your
+   formulas, and your cage -- take
+   your whole halfass hardware store
+   here and ---
+
+A whale of a thump jolts the Orca.  Quint grabs for a harpoon.
+Brody pulls his snub-nose special from his shopping bag.
+Hooper sees the panic on Brody's face and reaches a hand out
+to him.
+
+   HOOPER
+   Put that away!
+
+Quint, on the pulpit, harpoon poised.
+
+   QUINT
+   Once more...once more!
+
+WHUMP!  Quint almost takes a tumble into the water.  We see
+the glistening back and fin below him.  HE PLANTS THE HARPOON.
+The Great White slaps the transom with its tail and sounds.
+
+
+184INSERT - COILED ROPE AND BARREL184
+
+The rope reels out in a blur, and Hooper pins Brody out of
+the way of the spinning coils -- just in time.  The barrel
+with flasher attached literally somersaults out of the boat,
+missing both men's faces by seven inches.
+
+Quint is already poised, feet planted, with harpoon number
+two.
+
+
+185ANGLE - OCEAN185
+
+The barrel skips like a flat rock over the surface of the
+water, then unexpectedly vanishes under the water.
+
+   QUINT
+   (poised)
+   He can't stay down, swimmin' with
+   that on!  Wait till I stick him
+   with two!  That'll worry him!  Come
+   on, upstairs!  What's he waitin' for?!
+   He can't keep down this long!
+
+Brody and Hooper enter the shot behind him.  The sun is low-
+slung over the horizon.
+
+   BRODY
+   Why don't we go in?  Have a crack
+   tomorrow....?
+
+   QUINT
+   (doesn't turn)
+   We are stayin' out here till I
+   got him!
+
+
+186ANGLE - HOOPER AND BRODY186
+
+They exchange looks.  "He's nuts."
+
+
+187EXT. ORCA - ON OPEN SEA - NIGHT - CLOSE - BRODY187
+
+asleep on deck.  The day has taken its toll.  Brody is riding
+the crest of some bad dreams, on the verge of waking at any
+moment.
+
+
+188ANGLE - QUINT AND HOOPER188
+
+Both sit on the transom.  Hooper takes a long pull from a
+bottle of Quint's home brew.  Quint is railing at him, both
+a little smacko.
+
+   QUINT
+   Close call, my ass.  A baby dogfish
+   in a laboratory?  See this thumb?
+
+Quint flaunts his thumb, a checkerboard of scar tissue.
+
+   HOOPER
+   (handing back the
+    bottle)
+   You've got the monopoly, huh?  Here!
+
+Hooper rolls up his trouser leg boasting a crescent scar on
+his calf.
+
+   HOOPER
+   Look at this one.
+
+   QUINT
+   (snorts)
+   Beauty mark.
+
+Quint starts to pull up his own pant leg.
+
+   HOOPER
+   Bull-shark scraped me.  I was down
+   getting samples, and he ---
+
+   QUINT
+   (puts his leg on
+   Hooper's lap)
+   Mako!  Match that!
+
+A slow mischievous grin stains Hooper's soggy face.  He slowly
+unbuttons his shirt, knowing an ace beats the three of club.
+An S-shaped white scar on his side says "gin."
+
+   HOOPER
+   Eight-foot moray eel -- right
+   through the suit, buddy....
+
+Quint staggers to his feet, begins undoing his belt, undoes
+his zipper.
+
+   QUINT
+   You're in one piece, ain't you?
+   Here me lovely!
+
+Quint pulls down one side of his pants to his hip.  It looks
+like a small piece of him was cored out.
+
+   HOOPER
+   Minor League.  Where's it from?
+
+   QUINT
+   Tillie Schwab -- Newark, New Jersey.
+
+Both laugh, as Hooper pull his shirt down over his left
+shoulder.
+
+   HOOPER
+   Right!  You want to play dirty -- ?
+   (displays tiny scar)
+   Standing in line for The Exorcist!
+
+More laughter.  Quint takes off his shoe.
+
+   QUINT
+   I got a toe that'll wipe the floor
+   with you ---
+
+Hooper, laughing, undoes his belt.
+
+   HOOPER
+   A what?  You got a what?
+
+
+189ANGLE - QUINT189
+
+Something catches his eye and sobers him.
+
+   QUINT
+   He's up again.
+
+
+190ANGLE - SEA190
+
+The stroboscopic signal-light surfaces at the horizon.
+
+   QUINT
+   (grudgingly)
+   Very handy light, I'll say that.
+
+   HOOPER
+   (feeling macho)
+   Let's move in on him.
+
+   QUINT
+   (shakes head)
+   Not till I can see him good.
+   (a long look,
+   a hint of worry)
+   Even the one'll keep pullin' him up.
+   But he'll need three, maybe four.
+   Most I ever used was two.
+   (swigs from bottle)
+   Bastard ran me halfway to Liverpool.
+
+   HOOPER
+   You kill him?
+
+   QUINT
+   (still staring)
+   Always do, once I stick a barrel on
+   'em.
+   (back to Hooper)
+   No more objections?
+
+Hooper doesn't replay, Quint needles him.
+
+   QUINT
+   Jaws two foot wide.  Real Prestige
+   item.
+
+Hooper shrugs.  Quint hands him the bottle.  Hooper cocks
+his head, noticing a scar patch on Quint's right forearm.
+
+   HOOPER
+   How'd you get that one?
+
+Quint, staring out to sea, doesn't seem to hear Hooper.
+The signal light disappears.
+
+   QUINT
+   Down again.
+
+   HOOPER
+   (persisting)
+   The scar on your arm.
+
+   QUINT
+   (detached)
+   Had a tattoo there.
+
+   HOOPER
+   (jocular)
+   Changed your mind about somebody?
+
+   QUINT
+   (shaking his head)
+   It said 'U.S.S. Indianapolis.'
+
+
+191CLOSE - HOOPER191
+
+His face falls as he hears this.  Quint looks at him ironi-
+cally.
+
+   QUINT
+   Guess you experts know about that.
+
+Once again Quint turns his eyes to the sea.
+
+   HOOPER
+   (gravely)
+   You were on her?  June '45?
+
+   QUINT
+   (flat and quiet)
+   On her and torpedoed right off her.
+   Into the drink with 900 other clowns
+   ...Started with 900 anyway...floating
+   in that big warm Pacific.
+   (the light surfaces again)
+   Must have been like a dinner bell
+   in there...Explosions, and half
+   the guys bleeding.  Soon as the
+   sharks came homing in on us, we
+   went by the Manual, of course...
+   Kept trying to float in groups...
+   doin' what if said, splash at 'em,
+   yell at 'em, hit 'em on the nose,
+   they won't bother you...all that.
+   They tore apart about a hundred
+   men, the first night.  And pretty
+   soon, when they stepped it up, and
+   you'd feel 'em bump you, and guys'd
+   get pulled down a couple of yards
+   away, and it got to two days...and
+   three...Well, some fellas couldn't
+   take it no more, just peeled off
+   their life-jackets, got it over with
+   ...We were in the water 110 hours.
+   Sharks averaged six men an hour.
+   (nails Hooper
+   a hard look)
+   They're all experts.
+   (spits in the ocean)
+
+   HOOPER
+   (weakened by the story)
+   Jesus, Quint!  You can't blame ---
+
+Hooper is interrupted by the boom and banshee cries of
+a distant whale.
+
+
+192ANGLE - BRODY192
+
+springs out of his shallow sleep.
+
+   BRODY
+   What --  What the hell --- ?
+
+   HOOPER
+   (depressed)
+   A whale's out there.
+
+Quint sits in the fighting chair.
+
+   QUINT
+   So is he.
+
+
+193ANGLE - SEA193
+
+The light has surfaced a quarter of a mile away.
+
+   QUINT
+   Go on and sleep, the two of you.
+
+Brody sinks back, half awake and panting from his burst of
+fright.  Hooper looks at Quint a long time, suddenly a
+stranger again, then beds himself down in the balmy night
+air.  Quint starts to doze, massaging his missing tattoo.
+
+CUT TO
+
+
+194EXT. THE OCEAN - NIGHT194
+
+The Orca sits on unruffled waters.  A planetarium of star-
+life overhead with shooting stars, every now and again
+making incisions into the heavens and leaving green trails
+behind.  All is quiet, not a breath of wind.
+
+The barrel's strobe light pops into foreground, CLOSE.  It
+heads toward the Orca, carving neon blue phosphorescence
+into the water.  The massive dorsal fin surfaces in the
+night and circles the Orca, leaving phosphorescence in its
+broad wake.  The night skies, the silent waters are now
+alive in dancing light.
+
+
+195ANGLES - THE MEN195
+
+as the sleep.  A SOUND is heard.  A low protracted scraping.
+No one wakes.  The sound returns.  Another SCRAPE.  A SCRATCH-
+ING noise...almost sounds like CHEWING.  Then a gentle BUMP
+at the stern.  Quint stirs.  Brody turns over.  Hooper is
+sleeping soundly.  Then....
+
+A seizure of violent shaking.  A horrible splintering and
+popping noise.  Quint half falls, half springs, out of the
+chair.  Hooper is on his feet, but loses his footing.  The
+Orca is again bumped from underneath.  Brody holds on, his
+gun in hand.  Quint pulls out his M-1.
+
+   QUINT
+   Start the engine!
+
+Hooper is on the flybridge in six bounds.  Quint fires sea-
+ward over the transom.  The engine starts, but something in
+it sounds wrong.
+
+   QUINT
+   Cut it!  Cut it!
+
+Quint cranes to look down and around, but no light can be
+found.
+
+   QUINT
+   I don't know where he is!  Ripped
+   something loose -- shaft or some-
+   thin'.
+
+He hefts up a deckboard, pokes his small flashlight into
+the cavity.
+
+   HOOPER
+   I told you I have things to kill it
+   with...take over up there, I can --
+   Quint!
+
+   QUINT
+   (slams down board)
+   Start the pump, goddammit!
+
+Quint can't hide his fear now.
+
+   BRODY
+   Are we leaking?
+
+Sound -- pumps starting.
+
+   QUINT
+   We'll stay afloat.  Watch for
+   the barrel ---
+
+   BRODY
+   Can't I bail or something?
+
+Quint takes Brody by the arm and sits him down, pointing
+to starboard.
+
+   QUINT
+   Keep your eyes open, that's all --
+   out there!
+   (to Hooper)
+   And you keep looking that way,
+   killer!
+
+Quint takes up the opposite position and loads his M-1.
+Brody checks his gun.  Hooper looks with binoculars.
+
+   QUINT
+   And nobody sleeps.  Nobody!
+
+
+196ANGLE - ORCA196
+
+The three men standing sentinel.  Stars...quiet seas...
+phosphorescence lighting up the water.  HEAR the whale cry-
+ing from far away.
+
+
+197EXT. THE ORCA - DAWN197
+
+Brody leans against the windshield on the flybridge.  His
+arms hoist binoculars to his eyes.  Visible without binoculars
+is the signal-light and barrel, not moving, two hundred yards
+astern.  An angry racket filters up from below deck -- Quint
+is effecting engine repairs the only way he knows how.  Brody
+has learned a neat sailor's trick and nimbly slides down the
+hand piping, his feet avoiding the steps.  He sidles next to
+Hooper, who is struggling into his full wet suit.
+
+   QUINT (o.s.)
+   It moving?
+
+   BRODY
+   (loud and off)
+   No -- still there!
+
+Hooper is busy attaching the cage to the ginpole.  He is full
+of purpose, his hands working against the clock, short glances
+to the hatch from where Quint can be heard, cursing and wrench-
+ing.
+
+   BRODY
+   Please, Matt, don't get him sore.
+   He's loony enough.
+
+Hooper tests the rope, inspects his gear, selects a steel
+pole and opens a tiny green felt case.
+
+   BRODY
+   Put all that stuff away before he
+   finds out.
+
+
+198INSERT - GREEN FELT CASE198
+
+Hooper opens it, removing a deadly-looking syringe head.
+
+   HOOPER
+   (grim)
+   He had a turn, now I'll have a turn.
+   (mounting it
+   on steel pole)
+   Maybe you should have a turn, too.
+
+Brody tries to reason, when:
+
+
+199ANGLE - QUINT199
+
+emerges dirty, red-eyed and haggard, pauses to take it all
+in.
+
+   QUINT
+   What is this?
+
+   HOOPER
+   (without looking up)
+   Strychnine nitrate, 20 CC's.
+
+   QUINT
+   Wear all the Batman costumes you
+   want, sport.  But don't you inter-
+   fere with me.
+
+Quint starts to climb the bridge.
+
+   HOOPER
+   (to Quint)
+   All you need to do is lower me in ---
+
+   QUINT
+   (muttering
+    to himself)
+   I need a transom that don't leak
+   every time that --
+   (starts engine)
+   -- shaft goes around --
+   (an uneven sputter)
+   -- Bent!  Seams splitting open
+   there -- !
+
+Quint finesses the Orca "slow ahead" toward the barrel.  The
+engine sounds like a hamster treadmill.  Hooper climbs up
+beside him.
+
+   HOOPER
+   You know he'll go for the cage ---
+
+   QUINT
+   Not today, doc.  No injections.
+
+   HOOPER
+   I can finish him in sixty seconds.
+
+   QUINT
+   (listening
+   to engine)
+   Whole goddam housing's loose!  'He'
+   can hear it, too.
+
+   HOOPER
+   Can't you stop this Moby Dick crap?!
+
+   QUINT
+   We do this the way I know how.
+
+Quint cuts the engine once alongside the barrel.  Hooper
+barely controls himself.  Climbs down.
+
+Quint follows after him, putting a cautioning hand on Hooper's
+shoulder to walk softly, then motions Brody to stay on the
+flybridge and keep his eyes peeled.
+
+
+200QUINT - HOOPER200
+
+Tiptoe to the stern, Quint intercepting a harpoon along the
+way.  Hooper leans way out over the transom and poles the
+barrel closer.  It bobs around easily, arousing Quint's sus-
+picions.
+
+   QUINT
+   (softly)
+   Playin' possum....
+
+Hooper poles up the slick nylon rope, leaving the barrel
+untouched in the water.
+
+   QUINT
+   Pull up easy -- only want to goose
+   him up.  Second you feel he's run-
+   ning, drop it...If you want any
+   hands left.
+
+Hooper starts hand-reeling in.  Surprisingly, there is no
+resistance.  Both men share perplexed looks.  Then Quint
+reaches over, his whole body leaning over the side, putting
+down his harpoon.
+
+   QUINT
+   Here -- gimme.  I don't get what
+   he's....
+
+
+201WATER - ANGLE201
+
+Both men are draped over the side, their chins almost touching
+the water on the aft side.  From the opposite starboard
+direction, fully unfastened from the barrel, comes the Great
+White.  First the fin, then the conical nose and the upper
+border of wide, grinning teeth.  It knifes through the water
+in absolute silence, propelling itself with tremendous speed
+toward the unsuspecting men.
+
+
+202CLOSE - BRODY202
+
+His instincts shine -- as does his newly-acquired sense of
+direction.
+
+   BRODY
+   (top of his lungs)
+   Shark!  Starboard!  It's under
+   you -- !
+
+
+203CLOSE - HOOPER AND QUINT203
+
+They turn just in time, and a long spine-stretch saves them
+from instant decapitation.  The Great White passes the
+transom, the harpoon still in its side and trailing five feet
+of chewed off cable.  The monster rolls on its side and looks
+at them as it passes.  Then, with a great sweep of its tail,
+it lashes the side of the boat, ripping the rope from Quint's
+hand and shearing off five square yards of paint like a lathe.
+It makes a wide arc out to sea, only the fin showing now, and
+begins to circle around the boat.  Quint notices his hand,
+palm cut and bleeding, realizes he came that close to losing
+his whole hand.  He has never been more dangerous.
+
+   QUINT
+   (to Brody)
+   Haul in that rope -- it can foul
+   us!
+   (screaming
+   to Hooper)
+   Start the engine -- !
+
+Brody and Hooper exchange places.  The engine starts with a
+terrible grinding.
+
+   QUINT
+   (roaring)
+   Easy!  It'll tear right out!
+
+   BRODY
+   (next to him,
+   hauling in rope)
+   We can't do it ourselves....
+
+   QUINT
+   (seeing red)
+   Shut up!
+
+   BRODY
+   He chewed through this, he cracked
+   your boat -- radio in for help ---
+
+   QUINT
+   (to Hooper)
+   Pump her out a little...!
+
+   BRODY
+   I mean it!  Send out an S.O.S.!
+
+   QUINT
+   (spitting)
+   Don't make me laugh when I'm working.
+
+   BRODY
+   (sudden resolve)
+   I'll do it.
+
+Brody heads off for the cabin.
+
+
+204QUINT - CLOSE204
+
+A perfectly terrible look comes over him.  He raises up and
+starts after Brody.  Brody disappears into the cabin.  Quint
+pauses outside and sees:
+
+
+205INSERT - QUINT'S LEAD-CENTERED BASEBALL BAT205
+
+his calloused hand grabs it up fiercely.
+
+
+206INT. RADIO SHACK206
+
+Brody picks up the radio, flicking on knobs and lights on the
+complex console.
+
+   QUINT (o.s.)
+   Beg your pardon ---
+
+
+207ANGLE - DOORWAY207
+
+Quint appears, silhouetted in the hot light of the door,
+raising his bat.
+
+   QUINT
+   Duty first and pleasure after ---
+
+
+208CLOSE - BRODY208
+
+looking up in horror.
+
+
+209CLOSE - QUINT209
+
+Quint brings down the bat with all the strength he can muster.
+
+Crash!
+
+Sparks fly, lights blink and go out, plastic and sections of
+metal ricochet all over the cabin as Quint demolishes the ship-
+to-shore radio.
+
+Quint takes a happy breath, winks at Brody and hands him
+the bat.
+
+   QUINT
+   (leaving the cabin)
+   Excuse me!
+
+If he were ten years older, Brody would be on the floor with
+heart failure.
+
+
+210CLOSE - HOOPER210
+
+urgently pointing.
+
+   HOOPER
+   Coming right to us!
+
+Quint grabs up his harpoon.
+
+   QUINT
+   No -- comin' at us!  Slow ahead
+   he'll slam us, head on --
+   (the engine
+   clanks)
+   Slower!  Throttle back ---
+
+
+211ANGLE - OVER THE BOW211
+
+The shark is closing the gap, faster.
+
+   QUINT
+   (raising harpoon)
+   Hard to port!
+
+Hooper pulls the boat into a tight turn and Quint has a shot
+at the upward rolling flank.  He sinks it with careful pre-
+cision.
+
+   QUINT
+   Try shakin' that out!
+
+Brody emerges from the cabin as the rope zips overboard, and
+the barrel, changing over, catapults into the air before
+plunging into the ocean in a cloudy splash.
+
+   BRODY
+   (shouting to Hooper)
+   This won't kill it!
+
+   QUINT
+   (to Hooper)
+   Swing around!  After him!
+
+
+212ON THE FLYBRIDGE212
+
+Hooper can see the fin racing ahead of the barrel.  Diving
+down.  Up again -- Quint prepares another iron.
+
+   QUINT
+   More gas...go to half!  Get me
+   right alongside him ---
+
+The engine thuds and knocks.
+
+   HOOPER
+   (shouting down)
+   We can't rev it up this high ---
+
+Suddenly the barrel gongs into the side of the Orca.
+
+   QUINT
+   Watch it!
+
+Hooper skillfully avoids the speeding rope.
+
+   QUINT
+   Atta boy!
+
+Quint leans to one side, harpoon over his head.  The
+Great White breaks water and....
+
+   QUINT
+   Take two, they're small!
+
+He sinks it deep.  We hear shots.  As the new rope whips out,
+Brody can be seen standing on the gunwale, clutching the
+steel cage with one hand, firing his pistol at the shark
+with the other.
+
+Quint shakes his head in amused disbelief at this, as the
+barrel goes over.
+
+   HOOPER
+   (shouting at Brody)
+   Don't shoot him any more!  He's
+   crazy on his own blood already!
+
+   BRODY
+   I can't stand here doing nothing!
+
+   QUINT
+   Order in the court!
+
+
+213WATER LEVEL ANGLE213
+
+He has seen the two barrels pop to the surface.
+
+   QUINT
+   (racing over)
+   Three'll do it!  He's havin'
+   trouble with two!
+
+He yells to Hooper and Brody as he swings behind the controls.
+
+   QUINT
+   Grab yourselves a couple of poles!
+
+Quint steers "Slow Ahead," engine protesting, as he maneuvers
+toward the moving barrels.  Quint peers down, steering closer
+and closer.
+
+   QUINT
+   Get ready!  Now snag 'em!
+
+Together Brody and Hooper hook a barrel-rope and hold on for
+dear life as the shark changes course.
+
+   QUINT
+   Pull in the ropes and tie 'em onto
+   the transom -- free ride.
+
+Brody and Hooper pull in with all they are worth as Quint
+helps out by wheeling in a circle.  He laughs to himself,
+enjoying the spectacle.
+
+
+214CLOSE - HOOPER214
+
+securing the rope to a cleat but allowing the barrel to hang
+overboard.  He helps Brody with his chore on a second
+adjacent cleat.
+
+
+215WIDE ANGLE - ORCA215
+
+The boat is jarred violently from side to side as the under-
+water force of the Great White jerks and heaves them to and
+fro, up and down, side to side....
+
+
+216ANGLE - HOOPER AND BRODY216
+
+are both torn off their feet as the boat is thrust forward.
+
+
+217FLYBRIDGE - QUINT217
+
+sees the fin ahead.  It is pulling the boat.
+
+   QUINT
+   Get tired!  That's the idea!
+   Here's a little reverse for you!
+
+The shark leaps partially out of the water, and the sight is
+both horrifying and awesome.  Its jaws break water, snapping
+at the ropes that have him snarled and frustrated.
+
+Quint throws the Orca into neutral and shouts down:
+
+   QUINT
+   Haul in -- watch the prop!
+
+At that, Quint slides down to the prow, grabs up an iron.
+It is too light.  He grabs another, finding satisfaction in
+its heft and balance.  The shark can be seen directly ahead,
+threshing closer.
+
+   QUINT
+   Now!  Untie 'em!  Quick -- Now!
+
+He sinks the iron, and the shark veers downward in a gushing
+shower of spray.
+
+
+218HOOPER AND BRODY218
+
+They are trying to untie from the cleats, but both ropes are
+stretched too taut.  They jump out of the way as the ropes
+stretch down the side and behind the boat, knocking over
+objects as it skeeters across the deck.  A tight jerking
+motion, and the Orca is dragged through the water -- backwards.
+And much too fast.  Water is splashing up over the transom
+in its backward wake.
+
+   QUINT
+   I said untie them ---
+
+Wrenched to one side, Quint is knocked from his feet.
+
+
+219CLOSE - THE TWO CLEATS219
+
+A moment of slackness, and then a great surge of raw strength.
+
+The rope snaps the cleats off, screws and splintered wood
+spraying -- and the barrels fly into the water.  They dis-
+appear beneath the turbulent grey surface.
+
+The three men, breathing heavily, bruised and pouring sweat,
+look out at the blank water.
+
+
+220ANGLE - OCEAN220
+
+Pop -- pop -- pop.  One, two, three, the barrels surface --
+ready for more.
+
+   QUINT
+   He can't go deep now, or far,
+   either.  Not with those.  Not for
+   long.
+
+Brody looks down at his feet.  There is salt water up to their
+shoe tops.
+
+   BRODY
+   What about us?
+
+   QUINT
+   (mentally assessing
+   the damage)
+   Have to pump her steady, s'all.
+
+The barrels start a wide circle, each cuts through the water,
+pushing a wave before it and leaving a wake behind.
+
+   QUINT
+   (to Hooper)
+   Follow him --
+   (to Brody)
+   You start pumpin' out here.
+
+Quint tosses Brody the hand pump, then picks up his 30.06,
+checks the load.
+
+   QUINT
+   Maybe a brain shot...one lucky
+   hit....
+
+   HOOPER (o.s.)
+   (on bridge)
+   He's heading under -- !
+
+   QUINT
+   (incredulously)
+   No way!  He can't!
+
+
+221ANGLE - OCEAN221
+
+The barrels approaching the Orca dip below the surface, one
+-- two -- three.
+
+   BRODY
+   Where'd he go?
+
+Brody looks around.  Hooper on the flying bridge searching
+in all directions.  Quint is looking more appalled every
+second.
+
+   QUINT
+   (helplessly)
+   He can't stay down with three
+   barrels on him!  What are we
+   dealing with here?!  Where is he?!
+
+   BRODY
+   Have you ever had one do this?
+
+   QUINT
+   (and he means this)
+   No!
+
+BOOMING THUD at the keel.  Brody slides on the wet deck and
+Quint loses his footing, falling into Brody's arms.
+
+
+222HOOPER - FLY BRIDGE222
+
+With him we watch the barrels pop up ahead of the bow then
+veer briskly to the left and plunk down again.
+
+   QUINT
+   Follow him!
+
+   HOOPER
+   I can't see him!
+
+
+223CLOSE - BRODY223
+
+Panic-ridden, barely in control.
+
+   BRODY
+   There -- !
+
+The barrels have surfaced and we see the lengthy shadow passing
+underneath the Orca.  It is incredibly huge, there's always
+more of it.  There is a SCRAPING NOISE.  Quint looks down as
+two of the barrels drag along the sides of the boat.
+
+   BRODY
+   He's trying to sink us!
+
+   QUINT
+   (to Hooper)
+   Dead astern!  Zig-zag!
+
+There is something different about Quint.  He's quieter now,
+more icily calm.  The colorful cockiness has left him.  Brody
+senses that Quint knows he's in a fight for his life.
+
+The Orca taking evasive action.  But the three barrels are
+steadily closing the gap.  The engine makes SLOSHING NOISES
+now...missing and backfiring.
+
+   BRODY
+   He's chasing us...I don't believe
+   it.
+
+   QUINT
+   Full throttle -- to port!
+
+
+224HOOPER224
+
+He gooses the throttle but the engine only screeches and
+pounds erratically.  The three barrels pass beyond the boat,
+negotiating a tight circle and plowing mercilessly toward
+the Orca.  The tip of the fin aims for the stern.  Quint
+is ready with his rifle.
+
+The shark breaks water and rises like a rocket, snout, jaw
+and pectoral fins shooting straight up.  We see the smoke-
+white belly, the pelvic fin, as it clears the surface and
+falls sideways drenching Quint, who fires six times.
+
+The Orca shudders from side to side.  From Hooper's point of
+view we can just discern what is happening.  The shark has
+the lower transom in its jaws and is shaking the boat with
+each jolt of its head.  Quint shoots until spent.  Brody
+seizes a gaff and drives it down at the conical nose again
+and again.
+
+   QUINT
+   Throttle back -- !
+
+When they next peer out, the dorsal fin can be seen gliding
+away, beginning a long circle around the Orca.
+
+Right about now the Orca's engine breathes its final fumes
+and fails.
+
+
+225CLOSE - BRODY AND QUINT225
+
+Utter dismay.  Hooper turns the key, the motor wheezes...but
+the engine is dead.
+
+
+226ANGLE - QUINT226
+
+His eyes flick from Hooper to the transom.  It is cracked!
+Then out at the barrels...they don't seem to be moving.
+
+   BRODY
+   (noting this)
+   Maybe we killed it?
+
+   QUINT
+   (don't I wish)
+   We didn't kill it.
+
+In rebuttal the barrels begin to move again, closer, in
+tighter concentric circles.
+
+CUT TO
+
+
+227ON DECK - HOOPER227
+
+slipping into his weight-belt, strapping on his compressed
+air tanks.  Nobody wants to stop him this time...even Quint
+helps him on with things.
+
+   HOOPER
+   Your pumps are out too.  Drop me
+   down to twenty feet or so, okay?
+
+Hooper walks over to the cage.  Opens the steel doors and
+closes himself in.
+
+   HOOPER
+   (to Quint)
+   Try and keep him off me till I'm
+   down.
+
+Quint nods grimly and Hooper brandishes the pole with affixed
+syringe.  He give him a thumbs up and Hooper absently returns
+it.  Quint circles the deck, eye on the barrels.
+
+
+228HOOPER AND BRODY228
+
+on opposite sides of the bars.
+
+   HOOPER
+   (with a reassuring
+   smile)
+   Lower away, Chief.
+
+He pops his mouthpiece between teeth and lowers the face
+mask.  Unsure, Brody manages to undo the knot that starts the
+cage into the ocean.  He and Hooper stare at one another as
+their faces pass, Hooper's moving down, down into the slate-
+grey sea.  Brody curls the rope around his forearm for a
+stronger hold.
+
+   QUINT
+   That's the way Chief.
+
+   BRODY
+   Live and learn.
+
+
+229UNDERWATER - CAGE229
+
+HOOPER'S POINT OF VIEW
+
+Submerging.  The sky, horizon, water line, clean fresh sea
+air then...the magnificent innerspace, with bubbles sparkling
+in front of us.
+
+
+230ANGLE - HOOPER IN THE CAGE230
+
+as he floats to twenty feet Hooper never stops looking around
+360 degrees.  He removes the rubber guard from the needle and
+waits.
+
+
+231EXT. THE SURFACE - BRODY AND QUINT231
+
+Their turning heads tell us that the barrels are still
+circling.  Suddenly, both heads stop turning.
+
+
+232THE SEA232
+
+The barrels have come to a stop.  Delicately, they change
+course and meander toward the lowered cage.
+
+
+233UNDERWATER - HOOPER233
+
+His back is to us.  He is just now completing a visual sweep
+and turns, eyes front into closeup and:  fixes wildly on
+something monstrous...and fascinating.
+
+
+234HOOPER'S POINT OF VIEW234
+
+The water is clear and shafts of sunlight streak downward
+in the blue.  From the deep gloom -- diving slowly, smoothly
+-- comes the shark.  It move with no apparent effort, sinuous
+beyond comparison.  As it nears the cage, it turns, and its
+ghastly length passes right in front of him:  first the snout,
+then the jaw, slack and smiling, then the black eye.
+
+Hooper tentatively reaches out.  It is too far for the
+strychnine pole.  The vinyl flesh is pocked with bullet holes,
+iron scars, gaffing hooks and strange open wounds that tinge
+the passing currents with pink.
+
+
+235SURFACE235
+
+The trailing barrels GONG and SCRATCH the keel of the Orca
+above.  Brody and Quint leap back.
+
+
+236HOOPER - CLOSE236
+
+The shark has vanished into a cloud of rising silt.  Hooper,
+expecting the shark to attack out of that same general
+direction, braces himself, pole extended through the bars,
+breathing faster, straining his eyes into the gloom and...we
+see that the shark attacking from behind him.
+
+The cage is sent careening.  Hooper grabs the bars for dear
+life.  The shark has grabbed the steel struts in its brutal
+jaws, shaking the cage relentlessly from side to side, bending
+the bars like clothes hangers.  Hooper can't turn the point-
+end of the pole around, his body jammed as far away from the
+non-rational attacker as possible.
+
+Hooper is trapped.
+
+The shark withdraws to get some running room then charges again.
+The bleeding snout thrust deeper into the yawing bars, the
+jaws snapping and twisting, two feet from Hooper's torso, the
+tail thrusting it forward.  Hooper drops the strychnine pole
+between the bars and it tumbles slowly toward rapture depth.
+
+All the shark needs is one more good thrust before separating
+Hooper at the waistline.  Through frantic bubbles Hooper
+fumbles with the overhead hatch cover, kicking up and out
+of the cage.  The shark backpedals with its tail, but the
+broad head won't shake loose.
+
+Hooper rushes downwards, after the strychnine pole.
+
+
+238ANGLE - SHARK238
+
+As spirals of harmless bullets bead the water, the shark twists
+free of the cage and arrows downward after Hooper.
+
+Hooper nearly recovers the pole.  Again it slips from his
+frightened grasp and this time disappears into a narrow
+abyss.  Hooper turns and looks up.
+
+The Great White is lunging at him, twenty feet above.
+
+
+239SURFACE239
+
+One of the barrel ropes snakes around the cage rope and pulls
+taut.
+
+
+240HOOPER - DEEP240
+
+Turning to meet the monster which -- though held back for a
+moment by the snarled rope -- now surges forward.
+
+
+241SURFACE - BRODY AND QUINT241
+
+The Orca is listing dangerously aft, the ginpole bent almost
+to the breaking point.  Brody is in a frenzy trying to haul
+up the cage.  Quint attaches the end of Brody's rope to a
+hand-winch.  The GINPOLE IS SPLITTING!
+
+   QUINT
+   Let go of it!
+
+The pole gives way, the rope whipping down on the gunwale....
+the pulling of the tonnage below is tipping the Orca, dragging
+it, but Quint won't give up the winch.  Brody hauls on the
+rope barehanded.
+
+
+242UNDERWATER - HOOPER242
+
+maneuvering downward, away from the jaws...Suddenly the crazed
+shark veers upward for the surface.
+
+
+243SURFACE - QUINT243
+
+The winch is working faster now, Quint demonically winding
+it in.  The crushed cage bangs against the hull then breaks
+water.
+
+Brody is horrified.  THE CAGE IS EMPTY!
+
+   QUINT
+   (a horrible scream)
+   He's comin' up --- !
+
+
+244MASTER ANGLE244
+
+The shark breaks water right beside the Orca, rising with a
+great whooshing noise.  It rises vertically, towering over-
+head, blocking out the sun.  The pectoral fins seem to reach
+forward.  The shark, in all of its monstrous glory, falls onto
+the stern of the boat with a shattering crash, narrowly
+missing Quint and Brody.  It drives the stern underwater,
+the ocean pours in over the transom.  The jaws snap from side
+to side.  Brody flounders backwards away from it.  Quint
+gropes for his rifle and fires.  The shark heaves its terrible
+girth and Quint flies backwards onto his harpoon display.
+
+
+245CLOSE - QUINT245
+
+Skewered by a Number Twelve iron, Quint gulps blood and
+pitches into the onrushing sea.
+
+
+246NIGHTMARE ANGLE - BRODY246
+
+The Orca is tipping backwards, sinking stern first, tipping
+Brody toward the gaping thrusting jaws.  Deck chairs, irons,
+spent cartridges, thermos, beer cans all pour into the
+vacuum of the open gagging jaws.  It wants Brody now, its
+tail keeping him into position.
+
+Brody is sliding toward it with the rest of the debris as
+the bow raises thirty degrees.  He intercepts one of Hooper's
+compressed air tanks and just as he and everything else pours
+toward the whirlpool and into the jaws, Brody braces himself
+and shoves the tanks at the bottomless pit.  They jam between
+the upper and lower jaws and stick fast.
+
+The shark twists backward in the water and turns away.  Hooper,
+rising, is peering around for Brody and Quint.  The shark is
+spinning in crazed circles, the head-thrusts indicating that
+it can neither dislodge nor swallow the silver tanks.  It
+bites down at fifteen tons pressure per square inch. The
+TANKS EXPLODE!
+
+
+247SURFACE - EXPLOSION247
+
+A thirty-foot geyser of bright red water touches the black
+sky, spreading everywhere, missing nothing.
+
+
+248UNDERWATER248
+
+Clouds of blood -- shark's suspended carcass.  Another cloud
+-- Quint suspended.
+
+
+249SURFACE - THE ORCA249
+
+sinks with a rumble.
+
+
+250CLOSE - HOOPER ON SURFACE250
+
+Raising his mask from the water, he kicks toward Brody.
+
+
+251UNDERWATER251
+
+The steel-grey body of the shark is falling away, an apparition
+evanescing into the darkness -- sinking in a slow, graceful
+spiral, stopped by the bobbing barrels.
+
+
+252SURFACE - BRODY AND HOOPER252
+
+Brody is holding onto a cushion, barely afloat, in shock.
+
+   BRODY
+   Quint...Quint...is he dead?
+
+Hooper crosses Brody's chest with his left arm, keeping him
+up in the water.
+
+   HOOPER
+   Don't talk.  We've got a long way.
+
+
+253HIGH SHOT253
+
+The two tiny, miserable heroes, swimming from the debris.
+
+FADE OUT
+THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

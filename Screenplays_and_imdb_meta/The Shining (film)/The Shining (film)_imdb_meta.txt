@@ -1,0 +1,167 @@
+year	1980
+imdb score	8.5
+meta score	61
+genre	Horror
+genre	Mystery
+keyword	hotel
+keyword	caretaker
+keyword	winter
+keyword	ghost
+keyword	colorado
+keyword	insanity
+keyword	cabin fever
+keyword	telepathy
+keyword	cook
+keyword	writing
+keyword	writer's block
+keyword	writer
+keyword	job interview
+keyword	haunting
+keyword	snow
+keyword	psychic
+keyword	slasher
+keyword	pantry
+keyword	1980s
+keyword	famous score
+keyword	home sweet home
+keyword	typewriter
+keyword	axe
+keyword	elevator
+keyword	extrasensory perception
+keyword	bartender
+keyword	canned food
+keyword	murder
+keyword	dysfunctional family
+keyword	doctor
+keyword	rocky mountains
+keyword	husband wife relationship
+keyword	tricycle
+keyword	older woman nude
+keyword	kitchen
+keyword	airport
+keyword	snowstorm
+keyword	hit on the head
+keyword	cult
+keyword	good versus evil
+keyword	surrealism
+keyword	filmed in mirror
+keyword	female frontal nudity
+keyword	able to see the dead
+keyword	racial slur
+keyword	child in peril
+keyword	freezer
+keyword	labyrinth
+keyword	repetition
+keyword	cannibalism
+keyword	ice cream
+keyword	photograph
+keyword	skeleton
+keyword	ballroom dancing
+keyword	father son relationship
+keyword	haunted hotel
+keyword	child abuse
+keyword	nightmare
+keyword	writing the same words over and over
+keyword	reincarnation
+keyword	writing backwards
+keyword	psychological disintegration
+keyword	bathtub
+keyword	possession
+keyword	imaginary friend
+keyword	costume
+keyword	radio broadcast
+keyword	horror movie remade
+keyword	new year's eve
+keyword	villain played by lead actor
+keyword	uxoricide
+keyword	long take
+keyword	blood
+keyword	magical negro stereotype
+keyword	blockbuster
+keyword	breaking down a door
+keyword	bar
+keyword	filicide
+keyword	baseball bat
+keyword	bear suit
+keyword	tv news
+keyword	supernatural power
+keyword	airplane
+keyword	domestic violence
+keyword	wilderness
+keyword	forest ranger
+keyword	overhead camera shot
+keyword	talking backwards
+keyword	critically acclaimed
+keyword	child murder
+keyword	marriage
+keyword	helicopter
+keyword	chapter headings
+keyword	premonition
+keyword	based on the works of stephen king
+keyword	store room
+keyword	ghost child
+keyword	slow motion scene
+keyword	trance
+keyword	toy car
+keyword	identical twins
+keyword	denver colorado
+keyword	freezing to death
+keyword	cartoon on tv
+keyword	cult film
+keyword	abusive father
+keyword	isolation
+keyword	electronic music score
+keyword	falling down stairs
+keyword	home
+keyword	restroom
+keyword	hallucination
+keyword	pediatrician
+keyword	haunted house
+keyword	lifting a male into the air
+keyword	famous line
+keyword	alcoholic relapse
+keyword	mother son relationship
+keyword	lifting someone into the air
+keyword	miami florida
+keyword	butcher knife
+keyword	hedge maze
+keyword	chase
+keyword	axe murder
+keyword	mirror
+keyword	frozen body
+keyword	sole black character dies cliche
+keyword	butler
+keyword	redrum
+keyword	volkswagen beetle
+keyword	bathroom
+keyword	based on novel
+keyword	title spoken by character
+keyword	actor shares first name with character
+keyword	surprise ending
+keyword	
+cast	Jack Nicholson	Jack Torrance
+cast	Shelley Duvall	Wendy Torrance
+cast	Danny Lloyd	Danny Torrance
+cast	Scatman Crothers	Dick Hallorann
+cast	Barry Nelson	Stuart Ullman
+cast	Philip Stone	Delbert Grady
+cast	Joe Turkel	Lloyd the Bartender
+cast	Anne Jackson	Doctor
+cast	Tony Burton	Larry Durkin
+cast	Lia Beldam	Young Woman in Bath
+cast	Billie Gibson	Old Woman in Bath
+cast	Barry Dennen	Bill Watson
+cast	David Baxt	Forest Ranger #1
+cast	Manning Redwood	Forest Ranger #2
+cast	Lisa Burns	Grady Daughter
+cast	Louise Burns	Grady Daughter
+cast	Robin Pappas	Nurse
+cast	Alison Coleridge	Secretary
+cast	Burnell Tucker	Policeman
+cast	Jana Shelden	Stewardess
+cast	Kate Phelps	Receptionist
+cast	Norman Gay	Injured Guest
+cast	Vivian Kubrick	Smoking Guest on Ballroom Couch
+cast	Bertha Lynn	TV Newscaster
+cast	Derek Lyons	Overlook Hotel Bellhop
+cast	Glenn Rinker	Himself / Television news anchor

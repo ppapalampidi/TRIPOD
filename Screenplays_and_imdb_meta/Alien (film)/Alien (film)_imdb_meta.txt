@@ -1,0 +1,129 @@
+year	1979
+imdb score	8.5
+meta score	83
+genre	Horror
+genre	Sci-Fi
+keyword	spaceship
+keyword	egg
+keyword	warning
+keyword	parasite
+keyword	alien
+keyword	future
+keyword	computer
+keyword	colony
+keyword	mission
+keyword	creature
+keyword	blood
+keyword	escape
+keyword	mutilation
+keyword	robot
+keyword	impregnation
+keyword	expendable
+keyword	cryonics
+keyword	22nd century
+keyword	beacon
+keyword	navigator
+keyword	sole black character dies cliche
+keyword	techne
+keyword	survival horror
+keyword	combat
+keyword	technology
+keyword	cyberpunk
+keyword	escape pod
+keyword	body snatching
+keyword	alien intrusion
+keyword	corruption
+keyword	x rayed skeleton
+keyword	gothic
+keyword	claustrophobic setting
+keyword	outer space
+keyword	decapitation
+keyword	strobe light
+keyword	sole survivor
+keyword	trapped in space
+keyword	flamethrower
+keyword	cat
+keyword	code breaking
+keyword	undressing
+keyword	first of series
+keyword	death of title character
+keyword	violence
+keyword	heroine
+keyword	murder
+keyword	corrupting influence of capitalism
+keyword	one word title
+keyword	chest pains
+keyword	survival
+keyword	burial in space
+keyword	alien planet
+keyword	disembodied head
+keyword	trapped
+keyword	incubation
+keyword	cult film
+keyword	monster
+keyword	lens flare
+keyword	lifting a male into the air
+keyword	vomit
+keyword	claustrophobia
+keyword	acid
+keyword	cult film
+keyword	spacecraft
+keyword	malfunctioning android
+keyword	alien hunter
+keyword	tentacle
+keyword	android
+keyword	blockbuster
+keyword	alien contact
+keyword	alien possession
+keyword	space marine
+keyword	human body as an alien host
+keyword	cattle prod
+keyword	airshaft
+keyword	airlock
+keyword	character repeating someone else's dialogue
+keyword	spacesuit
+keyword	blood splatter
+keyword	critique of capitalism
+keyword	space travel
+keyword	xenophobia
+keyword	alien hunt
+keyword	expressionist
+keyword	neo noir
+keyword	slime
+keyword	lifting someone into the air
+keyword	gore
+keyword	alien reproduction
+keyword	female protagonist
+keyword	science officer
+keyword	lifting an adult into the air
+keyword	xenomorph
+keyword	cryogenics
+keyword	robot as menace
+keyword	paranoia
+keyword	suspended animation
+keyword	bio organic weapon
+keyword	vacuum
+keyword	homing beacon
+keyword	reverse footage
+keyword	death
+keyword	megacorporation
+keyword	video screen
+keyword	exploration
+keyword	exploding ship
+keyword	goth
+keyword	minimal cast
+keyword	self destructiveness
+keyword	hibernation
+keyword	creature feature
+keyword	title spoken by character
+keyword	
+cast	Tom Skerritt	Dallas
+cast	Sigourney Weaver	Ripley
+cast	Veronica Cartwright	Lambert
+cast	Harry Dean Stanton	Brett
+cast	John Hurt	Kane
+cast	Ian Holm	Ash
+cast	Yaphet Kotto	Parker
+cast	Bolaji Badejo	Alien
+cast	Helen Horton	Mother
+cast	Eddie Powell	Alien

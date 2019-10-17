@@ -1,0 +1,349 @@
+year	2001
+imdb score	6.1
+meta score	34
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	media
+keyword	fire
+keyword	criminal
+keyword	homicide
+keyword	detective
+keyword	partner
+keyword	video camera
+keyword	murder
+keyword	camera
+keyword	fire marshal
+keyword	nypd
+keyword	tabloid tv
+keyword	eastern european
+keyword	new york city
+keyword	lawyer
+keyword	flowers
+keyword	ex convict
+keyword	new york fire department
+keyword	witness protection
+keyword	russian
+keyword	police
+keyword	tied to a chair
+keyword	watching tv
+keyword	sociopath
+keyword	jealousy
+keyword	drinking
+keyword	pistol
+keyword	waiting in line
+keyword	photograph
+keyword	satire
+keyword	manhattan new york city
+keyword	czechoslovakian
+keyword	suitcase of money
+keyword	knife held to throat
+keyword	foot injury
+keyword	mace
+keyword	journalism
+keyword	pay phone
+keyword	firefighter
+keyword	serial murder
+keyword	nyfd
+keyword	dunking head in ice water
+keyword	reference to people magazine
+keyword	prisoner
+keyword	digit in title
+keyword	stabbed in the chest
+keyword	psychopath
+keyword	investigation
+keyword	reporter
+keyword	necklace
+keyword	running in traffic
+keyword	american flag
+keyword	throwing a chair through a window
+keyword	switchblade
+keyword	rapist
+keyword	tied to a tree
+keyword	escape
+keyword	rooftop
+keyword	fame
+keyword	restaurant
+keyword	arrest
+keyword	call girl
+keyword	neck breaking
+keyword	punched in the face
+keyword	knife
+keyword	times square manhattan new york city
+keyword	stabbed in the arm
+keyword	one million dollars
+keyword	snuff film
+keyword	fire station
+keyword	revenge
+keyword	burned body
+keyword	kerosene
+keyword	escort service
+keyword	hostage
+keyword	ambulance
+keyword	tv news
+keyword	stabbed with a knife
+keyword	axe
+keyword	reference to roseanne barr
+keyword	double jeopardy
+keyword	cigarette smoking
+keyword	dog
+keyword	shot in the chest
+keyword	murder witness
+keyword	rose
+keyword	death of boyfriend
+keyword	black and white scene
+keyword	planet hollywood restaurant manhattan new york city
+keyword	prison
+keyword	central park manhattan new york city
+keyword	bathtub
+keyword	police chase
+keyword	love
+keyword	men's bathroom
+keyword	chrysler building manhattan new york city
+keyword	fear
+keyword	polish american
+keyword	fistfight
+keyword	topless female nudity
+keyword	airport
+keyword	arson investigator
+keyword	statue of liberty new york city
+keyword	violence
+keyword	product placement
+keyword	news report
+keyword	bar
+keyword	journalist
+keyword	shotgun
+keyword	police brutality
+keyword	thong
+keyword	sister sister relationship
+keyword	tv host
+keyword	torture
+keyword	shot in the arm
+keyword	greed
+keyword	acetone
+keyword	police station
+keyword	interview
+keyword	car chase
+keyword	dachshund
+keyword	reference to frank capra
+keyword	new york police department
+keyword	hot dog stand
+keyword	hit with a chair
+keyword	police funeral
+keyword	videotape
+keyword	taxi
+keyword	spitting blood
+keyword	urination
+keyword	bare breasts
+keyword	temporary insanity
+keyword	boy
+keyword	policeman
+keyword	drunkenness
+keyword	throat cut
+keyword	pistol whip
+keyword	cameraman
+keyword	tour bus
+keyword	friendship
+keyword	murder of a police officer
+keyword	breaking a bottle over someone's head
+keyword	nudity
+keyword	close up of eyes
+keyword	home invasion
+keyword	handcuffs
+keyword	drawing
+keyword	corpse
+keyword	cemetery
+keyword	panties
+keyword	foot chase
+keyword	time for title
+keyword	camcorder
+keyword	arson
+keyword	f word
+keyword	telephone call
+keyword	witness
+keyword	dead body
+keyword	delusion
+keyword	shot in the foot
+keyword	rape
+keyword	death
+keyword	chase
+keyword	interviewer
+keyword	usa customs
+keyword	wallet
+keyword	reflection in a car mirror
+keyword	explosion
+keyword	female reporter
+keyword	blood
+keyword	tied to a chair
+keyword	low self esteem
+keyword	funeral
+keyword	killing rampage
+keyword	booby trap
+keyword	character says i love you
+keyword	held at gunpoint
+keyword	brawl
+keyword	insanity
+keyword	gasoline
+keyword	illegal immigrant
+keyword	shot to death
+keyword	falling from height
+keyword	ransom
+keyword	hair salon
+keyword	burnt hand
+keyword	stabbing
+keyword	celebrity
+keyword	scene during end credits
+keyword	robbery
+keyword	cafe
+keyword	taxi driver
+keyword	cigar smoking
+keyword	hit with a frying pan
+keyword	murder of a police officer
+keyword	filmed killing
+keyword	stabbed to death
+keyword	burnt body
+keyword	talking to one's self in a mirror
+keyword	boyfriend girlfriend relationship
+keyword	pillow over head
+keyword	face slap
+keyword	newscast
+keyword	paranoia
+keyword	police detective
+keyword	drink
+keyword	badge
+keyword	blood splatter
+keyword	talking to the camera
+keyword	immigrant
+keyword	double homicide
+keyword	tv show
+keyword	arm sling
+keyword	underwear
+keyword	thief
+keyword	fireman
+keyword	marriage proposal
+keyword	shot in the leg
+keyword	media coverage
+keyword	media manipulation
+keyword	reference to ludwig von beethoven
+keyword	forgiveness
+keyword	hotel
+keyword	person on fire
+keyword	engagement ring
+keyword	female nudity
+keyword	bare chested male
+keyword	home movie
+keyword	graveyard
+keyword	serial killer
+keyword	rikers island new york city
+keyword	psychiatrist
+keyword	justice
+keyword	betrayal
+keyword	cell phone
+keyword	sadism
+keyword	spit in the face
+keyword	jamaican
+keyword	apartment
+keyword	attempted murder
+keyword	death threat
+keyword	fight
+keyword	theft
+keyword	threatened with a knife
+keyword	murder of a nude woman
+keyword	prostitute
+keyword	two headed coin
+keyword	excedrin
+keyword	money
+keyword	subtitled scene
+keyword	husband wife relationship
+keyword	pepper spray
+keyword	fortune
+keyword	fire extinguisher
+keyword	death of friend
+keyword	title spoken by character
+keyword	number in title
+keyword	
+cast	Robert De Niro	Detective Eddie Flemming
+cast	Edward Burns	Fire Marshal Jordy Warsaw
+cast	Kelsey Grammer	Robert Hawkins
+cast	Avery Brooks	Detective Leon Jackson
+cast	Melina Kanakaredes	Nicolette Karas
+cast	Karel Roden	Emil Slovak
+cast	Oleg Taktarov	Oleg Razgul
+cast	Vera Farmiga	Daphne Handlova
+cast	John DiResta	Bobby Korfin
+cast	James Handy	Deputy Chief Fire Marshal Declan Duffy
+cast	Darius McCrary	Detective Tommy Cullen
+cast	Bruce Cutler	Himself
+cast	Charlize Theron	Rose Hearn
+cast	Kim Cattrall	Cassandra
+cast	David Alan Grier	Mugger in Central Park
+cast	Vladimir Mashkov	Milos Karlova
+cast	Irina Gasanova	Tamina Karlova
+cast	Noelle Evans	Honey the Hooker
+cast	Mindy Marin	Maggie
+cast	Christine Claibourne	Maggie's Assistant
+cast	Paul Herman	Detective Paulie
+cast	Gabriel Casseus	Unique
+cast	Joe Lisi	Police Captain
+cast	Stephen Davis	Murphy
+cast	William Stanton	Garcia
+cast	Louis F. Garcia	Fire Chief
+cast	Mike Camello	Fireman Camello
+cast	Tygh Runyan	Stephen Geller
+cast	Barry Blueian	Immigration Supervisor
+cast	Ritchie Coster	News Stand Vendor
+cast	Roseanne Barr	Herself
+cast	Ashton Dane	Talk Show Father
+cast	Gail Greaves	Talk Show Wife
+cast	Bobby Field	Talk Show Son
+cast	Anton Yelchin	Boy in Burning Building
+cast	Lynette Ruiz	Composite Artist
+cast	Kurt Andon	Pizza Man
+cast	Rikki Klieman	Daphne's Lawyer
+cast	Sebastian Roché	Ludwig the Hairdresser
+cast	Kata Dobó	Redhead at Ludwig's
+cast	Elma Vann	Escort Service Woman Linda
+cast	Olga Morgunova	Escort Service Woman #2
+cast	Dorit Sauer	Escort Service Woman #3
+cast	Haik Garibyan	Emigrant
+cast	Marco Khan	Emigrant
+cast	Toni Kalem	Woman at Planet Hollywood
+cast	Jorge H. Guzman	Bouncer at Planet Hollywood
+cast	Lennox Brown	Lookout Guy
+cast	George Poulos	Greek Waiter
+cast	Peter Arnett	Himself
+cast	Sylvia Lopez	TV Newscaster #1
+cast	Jane Velez-Mitchell	TV Newscaster #2
+cast	Bryan Foster	Hawkins' Cameraman
+cast	Alan Cohen	Hawkins' Sound Man
+cast	Spero Stamboulis	Nicolette's Cameraman
+cast	Joseph Alfieri	Reporter
+cast	Barry Primus	Cab Driver
+cast	Julieta Espinoza	Unique's Girlfriend
+cast	Brantley Bush	Fireman
+cast	Macy Merced	Paramedic #1
+cast	Tracey Mulqueen	Paramedic #2
+cast	Scott Dillin	Battery Park Policeman
+cast	Dominic Maglione	Police Officer #1
+cast	Ron Wall	Police Officer #2
+cast	Malcolm-Jamal Warner	
+cast	Dwayne Adway	Additional voices
+cast	Sophia Alexis	Witness
+cast	William H. Burns	Uniformed Cop
+cast	Jamie Burton-Oare	Reporter
+cast	Giovanni Capitello	Police Officer
+cast	Phillip V. Caruso	Arguing Husband
+cast	Mark Cheek	Cameraman
+cast	Rose Colasanti	Woman in Bar
+cast	Ben Fiore	Police Officer
+cast	Celeste Gregoire	Girl in Restaurant
+cast	Zuhair Haddad	Airport Passenger
+cast	Everton Lawrence	Restaurant Patron
+cast	Janean Christine Mariani	Restaurant Guest
+cast	Riley G. Matthews Jr.	NYPD Police Officer
+cast	George F. Miller	TV News Reporter
+cast	Leda Mulholland	Reporter
+cast	Floyd Resnick	NYPD Officer at Ludwig's
+cast	Erica Taylor	Nightclub Patron
+cast	Ellen Whyte	Woman #2 at Planet Hollywood

@@ -1,0 +1,218 @@
+year	2009
+imdb score	8.0
+meta score	67
+genre	Drama
+genre	Sci-Fi
+keyword	earth
+keyword	contract
+keyword	computer
+keyword	accident
+keyword	harvester
+keyword	rescue team
+keyword	time
+keyword	helium 3
+keyword	astronaut
+keyword	infirmary
+keyword	rescue
+keyword	plant
+keyword	moon
+keyword	solar storm
+keyword	miniature model
+keyword	artificial human
+keyword	knife
+keyword	memory
+keyword	headache
+keyword	cryogenics
+keyword	fictional tv commercial
+keyword	talking to a plant
+keyword	toilet
+keyword	communication satellite
+keyword	illness
+keyword	hair pulling
+keyword	nudity
+keyword	paranoia
+keyword	deception
+keyword	corporate greed
+keyword	cover up
+keyword	eating
+keyword	dream sequence
+keyword	sleeping
+keyword	trapped in space
+keyword	harvest moon
+keyword	eyeglasses
+keyword	bloody nose
+keyword	false memory
+keyword	panties
+keyword	replicant
+keyword	bleeding
+keyword	lie
+keyword	walking on the moon
+keyword	lunar vehicle
+keyword	talking to one's self
+keyword	treadmill
+keyword	blood
+keyword	pina colada
+keyword	little girl
+keyword	friendship
+keyword	cloning
+keyword	robot
+keyword	gardening
+keyword	tattoo
+keyword	head wound
+keyword	fuzzy dice
+keyword	smiley face
+keyword	hot water burn
+keyword	title appears in writing
+keyword	drawing
+keyword	buttocks
+keyword	beans
+keyword	video message
+keyword	modeling
+keyword	difficulty walking
+keyword	space travel
+keyword	mexico
+keyword	solitude
+keyword	mortality
+keyword	mental breakdown
+keyword	architectural model
+keyword	spacesuit
+keyword	husband wife relationship
+keyword	high five
+keyword	mining equipment
+keyword	fight
+keyword	spacecraft
+keyword	watching tv
+keyword	gas
+keyword	blood on shirt
+keyword	vomit
+keyword	talking computer
+keyword	bruise
+keyword	choking
+keyword	corporation
+keyword	energy
+keyword	death
+keyword	blood vomiting
+keyword	ping pong
+keyword	losing a tooth
+keyword	recreation room
+keyword	flashback
+keyword	brain damage
+keyword	bare chested male
+keyword	corpse
+keyword	dna
+keyword	space helmet
+keyword	vision
+keyword	newsreel footage
+keyword	aggression
+keyword	hawaii
+keyword	sun
+keyword	underwear
+keyword	speed bag
+keyword	hallucination
+keyword	dream
+keyword	clone
+keyword	male rear nudity
+keyword	contemplated murder
+keyword	nightmare
+keyword	dying
+keyword	shower
+keyword	wood carving
+keyword	wedding ring
+keyword	leg injury
+keyword	limp
+keyword	megacorporation
+keyword	mining
+keyword	father daughter relationship
+keyword	rescue mission
+keyword	human clone
+keyword	burnt hand
+keyword	dead body
+keyword	bare butt
+keyword	water spritzer
+keyword	minimal cast
+keyword	isolation
+keyword	loupe
+keyword	liar
+keyword	wing chair
+keyword	animated sequence
+keyword	long underwear
+keyword	reality
+keyword	lunar mining
+keyword	skipping rope
+keyword	count down
+keyword	sabotage
+keyword	password
+keyword	magnifying glass
+keyword	missing tooth
+keyword	loneliness
+keyword	voice over narration
+keyword	death of wife
+keyword	sex scene
+keyword	implanted memory
+keyword	moon base
+keyword	logic
+keyword	outer space
+keyword	artificial intelligence
+keyword	injury
+keyword	depression
+keyword	suspicion
+keyword	dying repeatedly
+keyword	search
+keyword	non person
+keyword	food
+keyword	satellite
+keyword	legal rights of artificial life form
+keyword	hidden room
+keyword	person
+keyword	memory implant
+keyword	telephone call
+keyword	lunar mission
+keyword	exercise
+keyword	male nudity
+keyword	concussion
+keyword	processed food
+keyword	sunglasses
+keyword	video
+keyword	bandaged hand
+keyword	x acto knife
+keyword	alarm clock
+keyword	jupiter the planet
+keyword	railgun
+keyword	critically acclaimed
+keyword	baseball cap worn backwards
+keyword	nonperson
+keyword	marriage
+keyword	listening to music
+keyword	lunar rover
+keyword	work accident
+keyword	one word title
+keyword	haircut
+keyword	carving
+keyword	mirror
+keyword	erased memory
+keyword	punching bag
+keyword	deprivation
+keyword	beard
+keyword	dancer
+keyword	dancing
+keyword	mother daughter relationship
+keyword	jumping rope
+keyword	dance
+keyword	bra
+keyword	photograph
+keyword	gore
+keyword	death of mother
+keyword	independent film
+keyword	title spoken by character
+keyword	actor shares first name with character
+cast	Sam Rockwell	Sam Bell
+cast	Kevin Spacey	GERTY
+cast	Dominique McElligott	Tess Bell
+cast	Rosie Shaw	Little Eve
+cast	Adrienne Shaw	Nanny
+cast	Kaya Scodelario	Eve
+cast	Benedict Wong	Thompson
+cast	Matt Berry	Overmeyers
+cast	Malcolm Stewart	Technician
+cast	Robin Chalk	Sam Bell Clone
+cast	Mary Tyler Moore	Herself

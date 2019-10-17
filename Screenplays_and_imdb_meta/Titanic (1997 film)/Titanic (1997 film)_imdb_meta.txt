@@ -1,0 +1,328 @@
+year	1997
+imdb score	7.7
+meta score	74
+genre	Drama
+genre	Romance
+keyword	titanic
+keyword	ship
+keyword	love
+keyword	artist
+keyword	diamond
+keyword	suicide
+keyword	iceberg
+keyword	drawing
+keyword	passenger
+keyword	north atlantic
+keyword	epic
+keyword	lifeboat
+keyword	safe
+keyword	steerage
+keyword	poker
+keyword	shipwreck
+keyword	salvage
+keyword	american
+keyword	dancing
+keyword	disaster
+keyword	survivor
+keyword	immigration
+keyword	rich snob
+keyword	grandmother granddaughter relationship
+keyword	love triangle
+keyword	woman punching a man
+keyword	necklace
+keyword	video footage
+keyword	string ensemble
+keyword	portrait sitting
+keyword	coal
+keyword	arrogance
+keyword	gift
+keyword	loss of virginity
+keyword	ship's crew
+keyword	starving artist
+keyword	southhampton england
+keyword	forbidden love
+keyword	sexual desire
+keyword	single mother
+keyword	obscene finger gesture
+keyword	ship sinking
+keyword	coitus
+keyword	suicide attempt
+keyword	dancer
+keyword	name change
+keyword	tuxedo
+keyword	dolphin
+keyword	handcuffs
+keyword	year 1912
+keyword	suicidal
+keyword	staircase
+keyword	flood
+keyword	titanic survivor
+keyword	old woman
+keyword	class conflict
+keyword	historical fiction
+keyword	corset
+keyword	face slap
+keyword	elderly
+keyword	young love
+keyword	whistle
+keyword	high society
+keyword	tv news
+keyword	attempted murder
+keyword	passion
+keyword	england
+keyword	cowardice
+keyword	distress call
+keyword	famous score
+keyword	framed
+keyword	bell
+keyword	nonlinear timeline
+keyword	unsubtitled foreign language
+keyword	u boat
+keyword	swimming
+keyword	voice over narration
+keyword	newsreel footage
+keyword	two suitors
+keyword	sailor's death
+keyword	heroine
+keyword	no opening credits
+keyword	star crossed lovers
+keyword	spit in the face
+keyword	wilhelm scream
+keyword	drowning
+keyword	nudity
+keyword	wet
+keyword	part computer animation
+keyword	chase
+keyword	domestic violence
+keyword	widow
+keyword	love at first sight
+keyword	crushed to death
+keyword	elevator
+keyword	topless female nudity
+keyword	belle epoque
+keyword	shipbuilder
+keyword	underwater
+keyword	statue of liberty new york city
+keyword	famous screen couple
+keyword	tearjerker
+keyword	female stockinged feet
+keyword	suitor
+keyword	melodrama
+keyword	copulation
+keyword	cleavage
+keyword	ship wreck
+keyword	self sacrifice
+keyword	dream sequence
+keyword	kissing while having sex
+keyword	jealousy
+keyword	freeze to death
+keyword	class differences
+keyword	tragedy
+keyword	lifting someone into the air
+keyword	nude modeling
+keyword	cruise ship
+keyword	sexual attraction
+keyword	leak
+keyword	reference to santa monica pier
+keyword	hypothermia
+keyword	one word title
+keyword	soul mate
+keyword	rich woman poor man
+keyword	breasts
+keyword	blockbuster
+keyword	helicopter
+keyword	mother daughter relationship
+keyword	steel tycoon
+keyword	guilt
+keyword	pottery
+keyword	bare breasts
+keyword	submarine
+keyword	oceanic expedition
+keyword	tragic love
+keyword	spitting
+keyword	power failure
+keyword	hero
+keyword	told in flashback
+keyword	axe
+keyword	premarital sex
+keyword	camera shot of feet
+keyword	main character dies
+keyword	slow motion
+keyword	historical event
+keyword	undressing
+keyword	battering ram
+keyword	lifting male in air
+keyword	social consciousness
+keyword	research ship
+keyword	heart of the ocean necklace
+keyword	pier
+keyword	lifting someone into the air
+keyword	valet
+keyword	arm wrestling
+keyword	lovers reunited after death
+keyword	engagement
+keyword	panic
+keyword	treasure hunter
+keyword	female nudity
+keyword	sea captain
+keyword	teenager
+keyword	prayer
+keyword	clock
+keyword	sex in car
+keyword	scantily clad female
+keyword	1910s
+keyword	falling from height
+keyword	theft
+keyword	transatlantic
+keyword	sex scene
+keyword	loss of boyfriend
+keyword	bribery
+keyword	female removes her clothes
+keyword	ocean liner
+keyword	social commentary
+keyword	rescue
+keyword	painter
+keyword	morse code
+keyword	protective male
+keyword	broken engagement
+keyword	title spoken by character
+keyword	
+cast	Leonardo DiCaprio	Jack Dawson
+cast	Kate Winslet	Rose DeWitt Bukater
+cast	Billy Zane	Caledon 'Cal' Hockley
+cast	Kathy Bates	Molly Brown
+cast	Frances Fisher	Ruth Dewitt Bukater
+cast	Gloria Stuart	Old Rose
+cast	Bill Paxton	Brock Lovett
+cast	Bernard Hill	Captain Edward James Smith
+cast	David Warner	Spicer Lovejoy
+cast	Victor Garber	Thomas Andrews
+cast	Jonathan Hyde	Bruce Ismay
+cast	Suzy Amis	Lizzy Calvert
+cast	Lewis Abernathy	Lewis Bodine
+cast	Nicholas Cascone	Bobby Buell
+cast	Anatoly M. Sagalevitch	Anatoly Milkailavich
+cast	Danny Nucci	Fabrizio
+cast	Jason Barry	Tommy Ryan
+cast	Ewan Stewart	1st Officer Murdoch
+cast	Ioan Gruffudd	5th Officer Harold Lowe
+cast	Jonny Phillips	2nd Officer Lightoller
+cast	Mark Lindsay Chapman	Chief Officer Wilde
+cast	Richard Graham	Quartermaster Rowe
+cast	Paul Brightwell	Quartermaster Hichens
+cast	Ron Donachie	Master at Arms
+cast	Eric Braeden	John Jacob Astor
+cast	Charlotte Chatton	Madeleine Astor
+cast	Bernard Fox	Col. Archibald Gracie
+cast	Michael Ensign	Benjamin Guggenheim
+cast	Fannie Brett	Madame Aubert
+cast	Jenette Goldstein	Irish Mommy
+cast	Camilla Overbye Roos	Helga Dahl
+cast	Linda Kerns	3rd Class Woman
+cast	Amy Gaipa	Trudy Bolt
+cast	Martin Jarvis	Sir Duff Gordon
+cast	Rosalind Ayres	Lady Duff Gordon
+cast	Rochelle Rose	Countess of Rothes
+cast	Jonathan Evans-Jones	Wallace Hartley
+cast	Brian Walsh	Irish Man
+cast	Rocky Taylor	Bert Cartmell
+cast	Alexandrea Owens	Cora Cartmell
+cast	Simon Crane	4th Officer Boxhall
+cast	Edward Fletcher	6th Officer Moody
+cast	Scott G. Anderson	Frederick Fleet
+cast	Martin East	Lookout Lee
+cast	Craig Kelly	Harold Bride
+cast	Gregory Cooke	Jack Phillips
+cast	Liam Tuohy	Chief Baker Joughin
+cast	James Lancaster	Father Byles
+cast	Elsa Raven	Ida Strauss
+cast	Lew Palter	Isidor Straus
+cast	Reece P. Thompson III	Irish Little Boy
+cast	Laramie Landis	Irish Little Grl
+cast	Amber Waddell	Cal's Crying Girl
+cast	Alison Waddell	Cal's Crying Girl
+cast	Mark Rafael Truitt	Yaley
+cast	John Walcutt	1st Class Husband
+cast	Terry Forrestal	Chief Engineer Bell
+cast	Derek Lea	Leading Stoker Barrett
+cast	Richard Ashton	Carpenter John Hutchinson
+cast	Sean Nepita	Elevator Operator
+cast	Brendan Connolly	Scotland Road Steward
+cast	David Cronnelly	Crewman
+cast	Garth Wilton	1st Class Waiter
+cast	Martin Laing	Promenade Deck Steward
+cast	Richard Fox	Steward #1
+cast	Nick Meaney	Steward #2
+cast	Kevin Owers	Steward #3
+cast	Mark Capri	Steward #4
+cast	Marc Cass	Hold Steward #1
+cast	Paul Herbert	Hold Steward #2
+cast	Emmett James	1st Class Steward
+cast	Chris Byrne	Stairwell Steward
+cast	Oliver Page	Steward Barnes
+cast	James Garrett	Titanic Porter
+cast	Erik Holland	Olaf Dahl
+cast	Jari Kinnunen	Bjorn Gunderson
+cast	Anders Falk	Olaus Gunderson
+cast	Martin Hub	Slovakian Father
+cast	Seth Adkins	Slovakian 3 Year Old Boy
+cast	Barry Dennen	Praying Man
+cast	Vern Urich	Man in Water
+cast	Rebecca Klingler	Mother at Stern
+cast	Tricia O'Neil	Woman
+cast	Kathleen S. Dunn	Woman in Water
+cast	Romeo Francis	Syrian Man
+cast	Mandana Marino	Syrian Woman
+cast	Van Ling	Chinese Man
+cast	Bjørn Olsen	Olaf
+cast	Dan Pettersson	Sven
+cast	Shay Duffin	Pubkeeper
+cast	Greg Ellis	Carpathia Steward
+cast	Diana Morgan	News Reporter
+cast	Lorenz Hasler	Orchestra Member
+cast	Thomas Füri	Orchestra Member
+cast	Ferenc Szedlák	Orchestra Member
+cast	Béla Szedlák	Orchestra Member
+cast	Werner Giger	Orchestra Member
+cast	Patrick Murphy	Steerage Band Member
+cast	Stephen Wehmeyer	Steerage Band Member
+cast	Stephen Twigger	Steerage Band Member
+cast	Shep Lonsdale	Steerage Band Member
+cast	Samantha Hunt	Steerage Band Member
+cast	Kris Andersson	Dancer
+cast	Bobbie Bates	Dancer
+cast	Aaron James Cash	Dancer
+cast	Anne Fletcher	Dancer
+cast	Edmond Alan Forsyth	Dancer
+cast	Andie Hicks	Dancer
+cast	Scott Hislop	Dancer
+cast	Stan Mazin	Dancer
+cast	Lisa Ratzin	Dancer
+cast	Julene Renee	Dancer
+cast	Brian Baines	Noble Sailor
+cast	Alexandra Boyd	1st Class Woman
+cast	Mike Butters	Musician / Baker
+cast	James Cameron	Steerage Dancer
+cast	Bruno Campolo	1st Class Man
+cast	Chris Cragnotti	Victor Giglio
+cast	Kevyn Currie	Titanic Crewmember
+cast	Kevin De La Noy	3rd Officer Pitman
+cast	Sean Howse	The Promenade Steward
+cast	Rudy Joffroy	'Safe' Bellboy
+cast	Tony Kenny	Deckhand
+cast	Sean Lawlor	Leading Stroker Charles Hendrickson
+cast	John Leonhardt	Second Class Passenger
+cast	Don Lynch	Frederick Spedden
+cast	Johnny Martin	Rescue Boat Crewman
+cast	Meghan McLeod	First Class Passenger
+cast	Mike O'Neal	Engine Room Crewman
+cast	Barbarella Pardo	Core extra
+cast	Phil Parlapiano	Button Accordionist
+cast	Judy Prestininzi	Praying Woman
+cast	Steven Quale	Engine Room Worker
+cast	Olivia Rosewood	Mary Marvin
+cast	John Slade	Ohio Man
+cast	Stephen Wolfe Smith	1st Class Dining Room Steward
+cast	R. Gern Trowbridge	Drowning Man
+cast	Miguel Angel Varela Fimbres	3rd Class Youngster Without Lifesaver Jacket
+cast	Francisco Váldez	Man Being Combed for Lice

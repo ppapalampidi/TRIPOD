@@ -1,0 +1,300 @@
+year	2002
+imdb score	7.7
+meta score	80
+genre	Action
+genre	Mystery
+genre	Sci-Fi
+genre	Thriller
+keyword	murder
+keyword	future
+keyword	washington d.c.
+keyword	year 2054
+keyword	arrest
+keyword	computer
+keyword	psychic
+keyword	hologram
+keyword	tragedy
+keyword	evidence
+keyword	eye scanning
+keyword	on the run
+keyword	halo
+keyword	futuristic train
+keyword	future shock
+keyword	altered version of studio logo
+keyword	stabbed in the chest
+keyword	fake photo
+keyword	kidnapping
+keyword	shot to death
+keyword	character repeating someone else's dialogue
+keyword	violence
+keyword	injection
+keyword	flight
+keyword	vine
+keyword	aerial combat
+keyword	rosary
+keyword	held at gunpoint
+keyword	product placement
+keyword	jumping from a car
+keyword	commercial
+keyword	beating
+keyword	terror prediction
+keyword	thrown through a window
+keyword	eyeball
+keyword	stabbed with scissors
+keyword	what happened to epilogue
+keyword	washington monument
+keyword	lake
+keyword	father son relationship
+keyword	neo noir
+keyword	foot chase
+keyword	cold
+keyword	drug addict
+keyword	car factory
+keyword	retina scan faked
+keyword	hit with a car door
+keyword	fugitive
+keyword	character's point of view camera shot
+keyword	runner
+keyword	falling through a rooftop window
+keyword	kicked in the face
+keyword	blood
+keyword	cyberpunk
+keyword	drug dealer
+keyword	premonition
+keyword	punched in the stomach
+keyword	surgeon
+keyword	greenhouse
+keyword	shot in the head
+keyword	future noir
+keyword	jet pack
+keyword	reference to tom sawyer
+keyword	eye gouging
+keyword	newspaper
+keyword	miranda warning
+keyword	reverse footage
+keyword	ball
+keyword	investigation
+keyword	disappearance
+keyword	subjective camera
+keyword	gettysburg address
+keyword	tech noir
+keyword	character says i love you
+keyword	wristwatch
+keyword	based on short story
+keyword	ex husband ex wife relationship
+keyword	mall
+keyword	husband wife relationship
+keyword	home movie
+keyword	domestic dispute
+keyword	jefferson memorial
+keyword	punched in the face
+keyword	twin brother
+keyword	crime prevention
+keyword	subway
+keyword	falling from height
+keyword	perfect crime
+keyword	no opening credits
+keyword	attempted murder
+keyword	lens flare
+keyword	police chief
+keyword	cut hand
+keyword	photograph
+keyword	futuristic car
+keyword	umbrella
+keyword	bare chested male
+keyword	wrongful imprisonment
+keyword	false accusation
+keyword	death
+keyword	advertising
+keyword	hotel
+keyword	balloon
+keyword	suicide by cop
+keyword	holding breath
+keyword	husband murders wife
+keyword	corporate logo
+keyword	eye transplant
+keyword	suspense
+keyword	blockbuster
+keyword	datamine
+keyword	precognition
+keyword	wheelchair bound
+keyword	bandaged face
+keyword	vomit
+keyword	train
+keyword	chase
+keyword	federal agent
+keyword	merry go round
+keyword	stabbed to death
+keyword	action noir
+keyword	loss of son
+keyword	interrupted sex
+keyword	swimming pool
+keyword	suicide
+keyword	2050s
+keyword	virtual reality
+keyword	butt grab
+keyword	long take
+keyword	eye surgery
+keyword	pistol
+keyword	infidelity
+keyword	clairvoyant
+keyword	drowning
+keyword	shot in the chest
+keyword	seeing the future
+keyword	refrigerator
+keyword	underwater
+keyword	flashback
+keyword	robot spider
+keyword	falling through a window
+keyword	blind man
+keyword	conspiracy
+keyword	bathtub
+keyword	prison
+keyword	poisonous plant
+keyword	rain
+keyword	death of mother
+keyword	title spoken by character
+keyword	surprise ending
+cast	Tom Cruise	Chief John Anderton
+cast	Max von Sydow	Director Lamar Burgess
+cast	Steve Harris	Jad
+cast	Neal McDonough	Fletcher
+cast	Patrick Kilpatrick	Knott
+cast	Jessica Capshaw	Evanna
+cast	Richard Coca	Pre-Crime Cop
+cast	Keith Campbell	Pre-Crime Cop
+cast	Kirk B.R. Woller	Pre-Crime Cop
+cast	Klea Scott	Pre-Crime Cop
+cast	Frank Grillo	Pre-Crime Cop
+cast	Anna Maria Horsford	Casey
+cast	Sarah Simmons	Lamar Burgess' Secretary
+cast	Eugene Osment	Jad's Technician
+cast	James Henderson	Office Worker
+cast	Vene L. Arcoraci	Office Worker
+cast	Erica Ford	Employee
+cast	Keith Flippen	Tour Guide
+cast	Nathan Taylor	Kid Tourist
+cast	Radmar Agana Jao	Technician
+cast	Karina Logue	Technician
+cast	Elizabeth Anne Smith	Technician
+cast	Victoria Garcia-Kelleher	Technician
+cast	Jim Rash	Technician
+cast	Colin Farrell	Danny Witwer
+cast	Stephen Ramsey	Jucket - Agent #1
+cast	Tom Choi	Paymen - Agent #2
+cast	Tom Whitenight	Price - Agent #3
+cast	William Morts	Foley - Agent #4
+cast	Samantha Morton	Agatha
+cast	Daniel London	Wally the Caretaker
+cast	Michael Dickman	Arthur
+cast	Matthew Dickman	Dashiell
+cast	Lois Smith	Dr. Iris Hineman
+cast	Tim Blake Nelson	Gideon
+cast	George Wallace	Chief Justice Pollard
+cast	Ann Ryerson	Dr. Katherine James
+cast	Kathryn Morris	Lara Clarke
+cast	Tyler Patrick Jones	Older Sean
+cast	Dominic Scott Kay	Younger Sean
+cast	Arye Gross	Howard Marks
+cast	Ashley Crow	Sarah Marks
+cast	Mike Binder	Leo Crow
+cast	Joel Gretsch	Donald Dubin
+cast	Jessica Harper	Anne Lively
+cast	Bertell Lawrence	John Doe
+cast	Jason Antoon	Rufus Riley at Cyber Parlor
+cast	William Mesnik	Cyber Parlor Customer
+cast	Scott Frank	Conceited Customer
+cast	Severin Wunderman	Skiing Customer
+cast	Max Trumpower	Homeless Person
+cast	Allie Raye	Hamburger Mom
+cast	Rocael Leiva	Hamburger Dad
+cast	Nicholas Edwin Barb	Homework Boy
+cast	Catfish Bates	Tenement Snitch
+cast	Peter Stormare	Dr. Solomon Eddie
+cast	Caroline Lagerfelt	Greta van Eyck
+cast	Danny Parker-Lopes	Man
+cast	Vanessa Cedotal	Woman
+cast	Katy Boyer	Mother
+cast	Adrianna Kamosa	Child
+cast	Kari Gordon	Child
+cast	Elizabeth Kamosa	Child
+cast	Raquel Gordon	Child
+cast	Laurel Kamosa	Child
+cast	Fiona Hale	Old Woman
+cast	Pamela Roberts	Violent Wife
+cast	Clement Blake	Husband
+cast	Jerry Perchesky	Grandfather
+cast	Victor Raider-Wexler	Attorney General Nash
+cast	Nancy Linehan Charles	Celeste Burgess
+cast	Nadia Axakowsky	Reporter
+cast	Dude Walker	Reporter
+cast	Tony Hill	Reporter
+cast	Drakeel Burns	Reporter
+cast	William Mapother	Hotel Clerk
+cast	Morgan Hasson	Paperboy
+cast	Andrew Sandler	Marks' Son
+cast	Bonnie Morgan	Contortionist
+cast	Kathi Copeland	Murder Bystander
+cast	Ana Maria Quintana	Murder Bystander
+cast	Lucille M. Oliver	Murder Bystander
+cast	Gene Wheeler	Murder Bystander
+cast	Tonya Ivey	Gap Girl
+cast	David Stifel	Lycon - Seller of Black Inhalers
+cast	Kurt Sinclair	Adulation #1
+cast	Rebecca Ritz	Adulation #2
+cast	Beverly Morgan	Adulation #3
+cast	John Bennett	Adulation #4
+cast	Maureen Dunn	Adulation #5
+cast	Ron Ulstad	Adulation #6
+cast	Blake Bashoff	Pre-Crime Public Service Announcer
+cast	David Doty	Pre-Crime Public Service Announcer
+cast	Gina Gallego	Pre-Crime Public Service Announcer
+cast	David Hornsby	Pre-Crime Public Service Announcer
+cast	Anne Judson-Yager	Pre-Crime Public Service Announcer
+cast	Meredith Monroe	Pre-Crime Public Service Announcer
+cast	Benita Krista Nall	Pre-Crime Public Service Announcer
+cast	Shannon O'Hurley	Pre-Crime Public Service Announcer
+cast	Jorge-Luis Pallo	Pre-Crime Public Service Announcer
+cast	Elizabeth Payne	Pre-Crime Public Service Announcer
+cast	Ethan Sherman	Revo Sunglass Model
+cast	Jarah Mariano	AMEX Polynesian Woman
+cast	Miles Dinsmoor	Guinness Man
+cast	Vanessa Asbert	Bulgari Model
+cast	Michael Ahl	Agent
+cast	Markus Alexander	Captain of Industry
+cast	Paul Thomas Anderson	Passenger on Train
+cast	Don Austin	Pre-Crime Officer
+cast	Seth Bailey	Balloon Vendor
+cast	Spencer A. Beckett II	Man on Bicycle
+cast	Robert Randolph Caton	Dignitary
+cast	Cameron Crowe	Bus Passenger
+cast	Tom Cutler	Banquet Guest
+cast	Lisa Danielle	
+cast	Cameron Diaz	Bus Passenger
+cast	Pamela Donnelly	Woman with Stroller
+cast	Jumbe Fletcher	Prisoner
+cast	Bourke Floyd	Pre-Crime Officer
+cast	Kimiko Gelman	Mother on Metro
+cast	Steven Hack	PSA #10
+cast	Tristan Jackson	Pre-Crime Cop
+cast	Baron Jay	Pre-Crime Officer
+cast	Nina Kaczorowski	Virtual Girl
+cast	Rick Kain	Metro Cop
+cast	George Kardulias	Wealthy Patron
+cast	Payman Kayvanfar	Card Player
+cast	Sunny Malick	Pre-Crime Employee
+cast	Kelli Mandruk	Virtual Reality Girl
+cast	Miguel Mas	Passenger on Train
+cast	Sumalee Montano	Talking Billboard
+cast	Rana Morrison	Lady at Party
+cast	Peechee Neric	Tourist
+cast	Marilyn Rising	Contortionist
+cast	Ian Salmon	Pre-Crime Cop
+cast	Riley Schmidt	Pre-Crime Employee
+cast	Jay Shindell	Man in Car
+cast	Daniel Browning Smith	Contortionist
+cast	Dollar Tan	PSA Crime Guy
+cast	Christian Taylor	Pre-Crime Officer
+cast	Marty Terry	Pre-Crime PSA
+cast	Clyde Tull	Party Guest
+cast	Paul Wesley	Nathan with Bicycle

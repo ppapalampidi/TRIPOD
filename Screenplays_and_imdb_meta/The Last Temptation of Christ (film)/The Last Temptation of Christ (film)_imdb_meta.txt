@@ -1,0 +1,162 @@
+year	1988
+imdb score	7.6
+meta score	80
+genre	Drama
+keyword	temptation
+keyword	cross
+keyword	roman
+keyword	blood spatter
+keyword	hypocrisy
+keyword	religion
+keyword	revolt
+keyword	dancing
+keyword	prostitution
+keyword	buttocks
+keyword	nudity
+keyword	christianity
+keyword	based on the bible
+keyword	prisoner
+keyword	1st century
+keyword	delusion
+keyword	visions
+keyword	jewish
+keyword	beating
+keyword	electronic score
+keyword	desert
+keyword	surrealism
+keyword	stoning
+keyword	betrayal
+keyword	voice over
+keyword	roman judea
+keyword	sword
+keyword	cobra
+keyword	miracle
+keyword	mother son relationship
+keyword	vagina
+keyword	musician in cast
+keyword	follower
+keyword	chained
+keyword	female nudity
+keyword	palm tree
+keyword	blasphemy
+keyword	mysticism
+keyword	epic
+keyword	sex
+keyword	resurrection
+keyword	heart in hand
+keyword	bare chested male bondage
+keyword	anger
+keyword	nailed to cross
+keyword	violence
+keyword	angel
+keyword	prophet
+keyword	celebration
+keyword	prophecy
+keyword	messiah
+keyword	anguish
+keyword	funeral rite
+keyword	reference to god
+keyword	prostitute
+keyword	sheep
+keyword	jew
+keyword	market
+keyword	torture
+keyword	sliced off ear
+keyword	reference to jesus christ
+keyword	wedding
+keyword	self sacrifice
+keyword	breasts
+keyword	dementia
+keyword	corpse
+keyword	ancient rome
+keyword	serpent
+keyword	baptist
+keyword	revolutionary
+keyword	temple
+keyword	singing
+keyword	soldier
+keyword	murder
+keyword	alternate history
+keyword	roman soldier
+keyword	devil
+keyword	male full frontal nudity
+keyword	disciple
+keyword	bible
+keyword	israel
+keyword	preacher
+keyword	jerusalem
+keyword	blood
+keyword	guardian angel
+keyword	rabbi
+keyword	reference to satan
+keyword	apostle
+keyword	camel
+keyword	memory
+keyword	spit in face
+keyword	dream
+keyword	bare chested male
+keyword	female full frontal nudity
+keyword	crucifixion
+keyword	public execution
+keyword	lion
+keyword	controversy
+keyword	prologue
+keyword	based on novel
+keyword	character name in title
+keyword	
+cast	Willem Dafoe	Jesus
+cast	Harvey Keitel	Judas
+cast	Paul Greco	Zealot
+cast	Steve Shill	Centurian
+cast	Verna Bloom	Mary, Mother of Jesus
+cast	Barbara Hershey	Mary Magdalene
+cast	Roberts Blossom	Aged Master
+cast	Barry Miller	Jeroboam
+cast	Gary Basaraba	Andrew, Apostle
+cast	Irvin Kershner	Zebedee
+cast	Victor Argo	Peter, Apostle
+cast	Michael Been	John, Apostle
+cast	Paul Herman	Phillip, Apostle
+cast	John Lurie	James, Apostle
+cast	Leo Burmester	Nathaniel, Apostle
+cast	Andre Gregory	John The Baptist
+cast	Peggy Gormley	Martha, Sister of Lazarus
+cast	Randy Danson	Mary, Sister of Lazarus
+cast	Robert Spafford	Man At Wedding
+cast	Doris von Thury	Woman with Mary, Mother of Jesus
+cast	Tomas Arana	Lazarus / Crowd Member
+cast	Alan Rosenberg	Thomas, Apostle
+cast	Del Russel	Money Changer
+cast	Nehemiah Persoff	Rabbi
+cast	Donald Hodson	Saducee
+cast	Harry Dean Stanton	Saul / Paul
+cast	Peter Berling	Beggar
+cast	David Bowie	Pontius Pilate
+cast	Juliette Caton	Girl Angel
+cast	Mohammed Mabsout	Other Apostles
+cast	Ahmed Nacir	Other Apostles
+cast	Mokhtar Salouf	Other Apostles
+cast	Mahamed Ait Fdil Ahmed	Other Apostles
+cast	Russel Case	People at Sermon
+cast	Mary Seller	People at Sermon
+cast	Donna Magnani	Crowd Member
+cast	Penny Brown	Crowd Member
+cast	Gabi Ford	Crowd Member
+cast	Dale Wyatt	Crowd Member
+cast	Domenico Fiore	Crowd Member
+cast	Ted Rusoff	Crowd Member
+cast	Leo Damian	Crowd Member
+cast	Robert Laconi	Crowd Member
+cast	Jonathan Zhivago	Crowd Member
+cast	Illeana Douglas	Crowd Member
+cast	David Sharp	Crowd Member
+cast	Khalid Benghrib	Dancer
+cast	Redouane Farhane	Dancer
+cast	Fabienne Panciatili	Dancer
+cast	Naima Skikes	Dancer
+cast	Souad Rahal	Dancer
+cast	Otmane Chbani Idrissi	Dancer
+cast	Jamal Belkhayat	Dancer
+cast	Giovanni Cianfriglia	Roman Soldier
+cast	Rod Dana	Soldier.
+cast	Leo Marks	Satan / Archangel

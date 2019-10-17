@@ -1,0 +1,92 @@
+year	2012
+imdb score	6.7
+meta score	73
+genre	Drama
+genre	Thriller
+keyword	dead woman with eyes open
+keyword	adultery
+keyword	involuntary manslaughter
+keyword	fleeing the scene of an accident
+keyword	dead woman
+keyword	separation agreement
+keyword	death of mistress
+keyword	husband wife relationship
+keyword	business deal
+keyword	police investigation
+keyword	car accident
+keyword	car explosion
+keyword	accidental death
+keyword	father daughter relationship
+keyword	new york city
+keyword	accounting fraud
+keyword	financier
+keyword	central park
+keyword	destroying evidence
+keyword	one word title
+keyword	blackmail
+keyword	car crash
+keyword	billionaire
+keyword	grand jury
+keyword	marital infidelity
+keyword	faked evidence
+keyword	white collar crime
+keyword	courtroom
+cast	Richard Gere	Robert Miller
+cast	Susan Sarandon	Ellen Miller
+cast	Tim Roth	Det. Michael Bryer
+cast	Brit Marling	Brooke Miller
+cast	Laetitia Casta	Julie Côte
+cast	Nate Parker	Jimmy Grant
+cast	Stuart Margolin	Syd Felder
+cast	Chris Eigeman	Gavin Briar
+cast	Graydon Carter	James Mayfield
+cast	Bruce Altman	Chris Vogler
+cast	Larry Pine	Jeffrey Greenberg
+cast	Curtiss Cook	Det. Mills
+cast	Reg E. Cathey	Earl Monroe
+cast	Felix Solis	A.D.A. Deferlito
+cast	Tibor Feldman	Judge Rittenband
+cast	Austin Lysy	Peter Miller
+cast	Monica Raymund	Reina
+cast	Gabrielle Lazure	Sandrine Côte
+cast	Shawn Elliott	Flores
+cast	Sophie Curtis	Ava Stanton
+cast	Ted Neustadt	Ben
+cast	Maria Bartiromo	Maria Bartiromo
+cast	David Faber	CNBC Newscaster
+cast	Josh Pais	John Aimes
+cast	Paul Fitzgerald	Paul Barnes
+cast	Julian Niccolini	Four Seasons Maitre'd
+cast	Evelina Turen	Julie's Assistant
+cast	Alyssa Sutherland	Jeffrey's Receptionist
+cast	Paula Devicq	Cindy
+cast	Io Bottoms	Mae
+cast	Zack Robidas	Tom
+cast	Betsy Aidem	Vogler's Secretary
+cast	Sam Kitchin	Brent
+cast	Glen Lee	Robert's Houseman
+cast	Jennifer Lee Crowl	Receptionist
+cast	Quinn Friedman	Grandchild #1
+cast	Olivia Salerno	Grandchild #2
+cast	Tyler Turen	Grandchild #3
+cast	Michael Leif O'Brien	Painter
+cast	Angel Picard-Ami	Woman in Gallery
+cast	Jamie Johnson	Julie's Suitor
+cast	Anthony Auriemma	Supporting
+cast	Jennifer Butler	Trader
+cast	Fabrizia Dal Farra	Event coordinator
+cast	Marshall Factora	Funeral Director
+cast	James Farley	Gala Guest
+cast	Pete Fasanelli	Bartender
+cast	William Friedkin	
+cast	Darryl Reuben Hall	Financial Trader
+cast	Rachel Heller	Rachel
+cast	Alex Kruz	Four Seasons Wealthy Patron
+cast	Nicole Roderick	Friend of Julie Cote
+cast	Jenny Rostain	Gala Guest
+cast	Lipica Shah	Miller Capital Assistant
+cast	Harlan J. Strauss	Grand Jury Foreman
+cast	Barbara Vincent	Four Seasons Patron
+cast	Darly Wanatick	Four Seasons guest
+cast	Paul Weaver	Bar patron
+cast	William Henderson White	Alex Stanton

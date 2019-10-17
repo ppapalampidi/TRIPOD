@@ -1,0 +1,327 @@
+year	2002
+imdb score	7.2
+meta score	41
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	neighbor
+keyword	murder
+keyword	undercover
+keyword	singer
+keyword	reference to judas iscariot
+keyword	shower curtain
+keyword	drug dealer
+keyword	drug addiction
+keyword	robbery
+keyword	explosion
+keyword	shot in the leg
+keyword	shooting
+keyword	energy shot
+keyword	husband wife relationship
+keyword	friend
+keyword	medical bill
+keyword	airplane crash
+keyword	fbi agent
+keyword	massacre
+keyword	music teacher
+keyword	falling down stairs
+keyword	beach
+keyword	nonlinear timeline
+keyword	hand vacuum cleaner
+keyword	held at gunpoint
+keyword	district attorney
+keyword	sting operation
+keyword	wedding ring
+keyword	marriage
+keyword	death
+keyword	title appears in writing
+keyword	shot in the head
+keyword	ski face mask
+keyword	ring
+keyword	benzedrine
+keyword	face mask
+keyword	japanese
+keyword	montage
+keyword	police
+keyword	motorcycle
+keyword	american flag
+keyword	gay slur
+keyword	slow motion scene
+keyword	key
+keyword	blackmail
+keyword	reference to julia child
+keyword	person on fire
+keyword	syringe
+keyword	shot in the chest
+keyword	gas station
+keyword	killing an animal
+keyword	shot in the stomach
+keyword	black and white scene
+keyword	arm wound
+keyword	hospital
+keyword	reference to the prodigal son
+keyword	machine gun
+keyword	torture
+keyword	deception
+keyword	remote control
+keyword	brain
+keyword	gun held to head
+keyword	bus
+keyword	shotgun
+keyword	drug laboratory
+keyword	los angeles california
+keyword	tequilla libre
+keyword	paranoia
+keyword	shower
+keyword	car rollover
+keyword	shot to death
+keyword	jewelry
+keyword	getaway driver
+keyword	church
+keyword	fbi investigation
+keyword	overdose
+keyword	rabies
+keyword	fish out of water
+keyword	dyed hair
+keyword	garbage bin
+keyword	injection
+keyword	bare chested male
+keyword	heroin
+keyword	cross
+keyword	murder of wife
+keyword	crucifix
+keyword	badger
+keyword	stabbed in the shoulder
+keyword	guitar player
+keyword	revenge
+keyword	hit by a car
+keyword	reference to jesus christ
+keyword	housewife
+keyword	ex convict
+keyword	central valley college
+keyword	lake
+keyword	exploding trailer
+keyword	money
+keyword	garbage truck
+keyword	cowboy
+keyword	fast motion scene
+keyword	death of wife
+keyword	policeman
+keyword	reference to shakespeare's hamlet
+keyword	rooftop
+keyword	severed nose
+keyword	guitar
+keyword	psychopath
+keyword	atomic bomb
+keyword	impostor
+keyword	mother in law
+keyword	del amo fashion mall
+keyword	penis
+keyword	knife
+keyword	told in flashback
+keyword	mother daughter relationship
+keyword	newsreel footage
+keyword	jazz
+keyword	rifle
+keyword	truck
+keyword	shot in the face
+keyword	children
+keyword	drug addict
+keyword	wilhelm scream
+keyword	sex
+keyword	pistol
+keyword	reference to winnie the pooh
+keyword	sunglasses
+keyword	gun under a table
+keyword	spider
+keyword	blood splatter
+keyword	lesbian kiss
+keyword	corrupt cop
+keyword	cigarette smoking
+keyword	violence
+keyword	california
+keyword	hit by an ambulance
+keyword	pager
+keyword	gun dealer
+keyword	pigeon
+keyword	beef brains
+keyword	revelation
+keyword	jumping off a roof
+keyword	disguise
+keyword	fluffer
+keyword	duct tape
+keyword	urination
+keyword	drug use
+keyword	bullet proof vest
+keyword	cocaine
+keyword	listening to a tape recorder
+keyword	kamikaze
+keyword	shot in the back
+keyword	walk on the wild side
+keyword	plastic nose
+keyword	heist
+keyword	playing pool
+keyword	stakeout
+keyword	cage
+keyword	blind man
+keyword	drug dealing
+keyword	party
+keyword	voice over narration
+keyword	wheelchair
+keyword	surveillance
+keyword	murder of a police officer
+keyword	palmdale california
+keyword	spear gun
+keyword	colombian necktie
+keyword	father son relationship
+keyword	singing
+keyword	eating brains
+keyword	movie camera
+keyword	self inflicted gunshot wound
+keyword	meth lab
+keyword	mushroom cloud
+keyword	gun
+keyword	drug overdose
+keyword	rain
+keyword	inner title card
+keyword	speed freak
+keyword	skull ring
+keyword	missing nose
+keyword	punk haircut
+keyword	leg on fire
+keyword	song
+keyword	beer
+keyword	fire
+keyword	crying
+keyword	drug deal
+keyword	corruption
+keyword	shot through a door
+keyword	musician
+keyword	shot in the shoulder
+keyword	nuclear explosion
+keyword	photograph
+keyword	underwear
+keyword	bathroom
+keyword	microphone
+keyword	hypodermic needle
+keyword	artificial nose
+keyword	methadone
+keyword	fbi
+keyword	tattoo
+keyword	love
+keyword	broken heart
+keyword	biker
+keyword	dexadrine
+keyword	multiple identities
+keyword	blood
+keyword	tunnel
+keyword	feces
+keyword	cameraman
+keyword	bag of money
+keyword	trumpet
+keyword	flashback
+keyword	night vision
+keyword	fake identity
+keyword	coward
+keyword	world war two
+keyword	grocery store
+keyword	dual identity
+keyword	grave
+keyword	salton sea
+keyword	beating
+keyword	stabbing
+keyword	graveyard
+keyword	bar
+keyword	neo noir
+keyword	double cross
+keyword	tweaker
+keyword	corpse
+keyword	fantasy sequence
+keyword	methamphetamine
+keyword	sheriff
+keyword	forgiveness
+keyword	sadist
+keyword	rhyming
+keyword	cutting a skull open with a hacksaw
+keyword	loss of wife
+keyword	filling station
+keyword	cocaine snorting
+keyword	taser
+keyword	cemetery
+keyword	police detective
+keyword	car accident
+keyword	trucker
+keyword	reference to william shakespeare
+keyword	kicked in the face
+keyword	kennedy assassination
+keyword	lapd
+keyword	drunkenness
+keyword	lock
+keyword	domestic abuse
+keyword	trumpet player
+keyword	drinking
+keyword	masked man
+keyword	junkie
+keyword	apartment fire
+keyword	friendship
+keyword	boyfriend girlfriend relationship
+keyword	abusive boyfriend
+keyword	tears
+keyword	texas
+keyword	motel
+keyword	informant
+keyword	methedrine
+keyword	flashback within a flashback
+keyword	silencer
+keyword	drunk driving
+keyword	wiretap
+keyword	nose
+keyword	school bus
+keyword	hiding
+keyword	courier
+keyword	stabbed in the throat
+keyword	drink
+keyword	jfk
+keyword	title spoken by character
+keyword	surprise ending
+cast	Val Kilmer	Danny Parker / Tom Van Allen
+cast	Vincent D'Onofrio	Pooh-Bear
+cast	Adam Goldberg	Kujo
+cast	Luis Guzmán	Quincy
+cast	Doug Hutchison	Gus Morgan
+cast	Anthony LaPaglia	Al Garcetti
+cast	Glenn Plummer	Bobby
+cast	Peter Sarsgaard	Jimmy the Finn
+cast	Deborah Kara Unger	Colette
+cast	Chandra West	Liz
+cast	BD Wong	Bubba
+cast	R. Lee Ermey	Verne Plummer
+cast	Shalom Harlow	Nancy
+cast	Shirley Knight	Nancy Plummer
+cast	Meat Loaf	Bo
+cast	Azura Skye	Teresa
+cast	Josh Todd	Big Bill
+cast	Danny Trejo	Little Bill
+cast	Ricky Trammell	Creeper
+cast	Kenji Nakamura	Kamikaze Pilot
+cast	Paula Scarpino	50's Housewife
+cast	Mike Randleman	60's Trucker
+cast	Justine Visone	Supermarket Cashier
+cast	Jerry Gauny	Freak Cook
+cast	Tanner Giles	Bobby's Daughter
+cast	Rachel Ezra	Bobby's Girlfriend
+cast	Mpho Koaho	Kid Selling Guns
+cast	Chuck Kuespert	Bar Owner
+cast	Charles Carroll	Zapruder
+cast	Lee Holmes	Oswald
+cast	Val Lauren	Third Shooter
+cast	Tom Fitzpatrick	Karaoke Man
+cast	Christian J. Fletcher	Stool Sample Courier
+cast	Bob Brown	Man in Salton Sea House
+cast	Dana Lynn Caruso	Female FBI Agent
+cast	Rene Rivera	FBI Agent One
+cast	Kevin Quinn	FBI Agent Two
+cast	Rex Linn	Detective Bookman
+cast	Al Barker Jr.	FBI Agent Repairing Motel Sign
+cast	Doc Duhame	Skipper

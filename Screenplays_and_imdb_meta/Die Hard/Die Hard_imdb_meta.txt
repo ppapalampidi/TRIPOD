@@ -1,0 +1,278 @@
+year	1988
+imdb score	8.3
+meta score	70
+genre	Action
+genre	Thriller
+keyword	terrorist
+keyword	hostage
+keyword	christmas
+keyword	party
+keyword	christmas party
+keyword	robbery
+keyword	vault
+keyword	christmas eve
+keyword	fbi
+keyword	held at gunpoint
+keyword	detective
+keyword	hero
+keyword	blood
+keyword	maiden name
+keyword	part of series
+keyword	weapon
+keyword	barefoot
+keyword	rolex watch
+keyword	corpse
+keyword	reporter
+keyword	police brutality
+keyword	heist
+keyword	monologue
+keyword	television
+keyword	machismo
+keyword	fistfight
+keyword	1980s
+keyword	mexican standoff
+keyword	one against many
+keyword	junk food
+keyword	falling from height
+keyword	police officer shot in the head
+keyword	stealing from a dead body
+keyword	cameraman
+keyword	wisecrack humor
+keyword	one man army
+keyword	showdown
+keyword	evil man
+keyword	pregnancy
+keyword	blood splatter
+keyword	fragments of glass
+keyword	death of brother
+keyword	villain not really dead cliche
+keyword	terrorist group
+keyword	bearer bonds
+keyword	body landing on a car
+keyword	stupid victim
+keyword	elevator
+keyword	elevator shaft
+keyword	falling down stairs
+keyword	shooting
+keyword	one day
+keyword	one night
+keyword	slow motion scene
+keyword	character repeating someone else's dialogue
+keyword	silencer
+keyword	beating
+keyword	murder
+keyword	hand to hand combat
+keyword	reference to beethoven's ninth
+keyword	quick draw
+keyword	police officer killed
+keyword	gore
+keyword	bare chested male
+keyword	brawl
+keyword	stockholm syndrome
+keyword	soldier killed
+keyword	reference to john wayne
+keyword	free fall
+keyword	claustrophobia
+keyword	news report
+keyword	police officer shot
+keyword	karate
+keyword	pistol whip
+keyword	faked accent
+keyword	hip hop music
+keyword	reluctant hero
+keyword	walkie talkie
+keyword	shot in the head
+keyword	swiss watch
+keyword	unlikely hero
+keyword	california
+keyword	gun duel
+keyword	christmas tree
+keyword	exploding helicopter
+keyword	beretta
+keyword	violence
+keyword	action hero
+keyword	maverick cop
+keyword	unsubtitled foreign language
+keyword	suspense
+keyword	mixed martial arts
+keyword	walking on broken glass
+keyword	car accident
+keyword	karate chop
+keyword	gunfight
+keyword	soldier strangulated
+keyword	german stereotype
+keyword	los angeles california
+keyword	explosion
+keyword	loose cannon
+keyword	against the odds
+keyword	c4 explosives
+keyword	talking to one's self
+keyword	santa claus costume
+keyword	martial arts
+keyword	japanese businessman
+keyword	fire hose used as rope
+keyword	black comedy
+keyword	glass
+keyword	soliloquy
+keyword	neck breaking
+keyword	warrior
+keyword	marital problem
+keyword	race against time
+keyword	battle of wits
+keyword	limousine
+keyword	terrorist plot
+keyword	false name
+keyword	disaster
+keyword	police officer shot in the chest
+keyword	damsel in distress
+keyword	vendetta
+keyword	reference to gary cooper
+keyword	skyscraper
+keyword	power outage
+keyword	terrorism
+keyword	exploding car
+keyword	tough cop
+keyword	reference to roy rogers
+keyword	police detective
+keyword	airport
+keyword	gunslinger
+keyword	rocket launcher
+keyword	hacker
+keyword	woman punching a man
+keyword	outrunning explosion
+keyword	shot in the forehead
+keyword	media coverage
+keyword	one liner
+keyword	critically acclaimed
+keyword	police
+keyword	first part
+keyword	helicopter
+keyword	captive
+keyword	stuffed animal
+keyword	reference to grace kelly
+keyword	negotiator
+keyword	shot in the chest
+keyword	gash in the face
+keyword	computer cracker
+keyword	imperative in title
+keyword	airplane
+keyword	cigarette smoking
+keyword	writing in blood
+keyword	shot to death
+keyword	estranged couple
+keyword	catch phrase
+keyword	bare feet
+keyword	air vent
+keyword	female nudity
+keyword	anti hero
+keyword	gun
+keyword	los angeles police department
+keyword	escape
+keyword	shot in the knee
+keyword	kicked in the face
+keyword	shot in the leg
+keyword	shootout
+keyword	estranged wife
+keyword	rescue mission
+keyword	sniper
+keyword	chainsaw
+keyword	cult film
+keyword	caught having sex
+keyword	shot in the arm
+keyword	kidnapping
+keyword	u.s. treasury
+keyword	hanged man
+keyword	criminal
+keyword	power saw
+keyword	first of series
+keyword	bullet ballet
+keyword	rescue
+keyword	fight
+keyword	assault rifle
+keyword	tough guy
+keyword	die hard scenario
+keyword	blood on shirt
+keyword	comic relief
+keyword	revenge
+keyword	greed
+keyword	famous line
+keyword	mercenary
+keyword	driving backwards
+keyword	donut
+keyword	shooting out a window
+keyword	rogue cop
+keyword	machine gun
+keyword	teddy bear
+keyword	death
+keyword	fbi agent
+keyword	strangulation
+keyword	camera shot of feet
+keyword	blockbuster
+keyword	based on book
+keyword	based on novel
+keyword	surprise ending
+cast	Bruce Willis	Officer John McClane
+cast	Bonnie Bedelia	Holly Gennaro McClane
+cast	Reginald VelJohnson	Sgt. Al Powell
+cast	Paul Gleason	Deputy Police Chief Dwayne T. Robinson
+cast	William Atherton	Richard Thornburg
+cast	Hart Bochner	Harry Ellis
+cast	James Shigeta	Joseph Yoshinobu Takagi
+cast	Alan Rickman	Hans Gruber
+cast	Alexander Godunov	Karl
+cast	Bruno Doyon	Franco
+cast	De'voreaux White	Argyle
+cast	Andreas Wisniewski	Tony
+cast	Clarence Gilyard Jr.	Theo
+cast	Joey Plewa	Alexander
+cast	Lorenzo Caccialanza	Marco
+cast	Gérard Bonn	Kristoff
+cast	Dennis Hayden	Eddie
+cast	Al Leong	Uli
+cast	Gary Roberts	Heinrich
+cast	Hans Buhringer	Fritz
+cast	Wilhelm von Homburg	James
+cast	Robert Davi	FBI Special Agent Big Johnson
+cast	Grand L. Bush	FBI Agent Little Johnson
+cast	Bill Marcus	City Engineer
+cast	Rick Ducommun	Walt, City Worker
+cast	Matt Landers	Capt. Mitchell
+cast	Carmine Zozzora	Rivers
+cast	Dustyn Taylor	Ginny
+cast	George Christy	Dr. Hasseldorf
+cast	Anthony Peck	Young Cop
+cast	Cheryl Baker	Woman
+cast	Richard Parker	Man
+cast	David Ursin	Harvey Johnson
+cast	Mary Ellen Trainor	Gail Wallens
+cast	Diana James	Police Supervisor
+cast	Shelley Pogoda	Dispatcher
+cast	Selma Archerd	Hostage
+cast	Scot Bennett	Hostage
+cast	Rebecca Broussard	Hostage
+cast	Kate Finlayson	Hostage
+cast	Shanna Higgins	Hostage
+cast	Kym Malin	Hostage
+cast	Taylor Fry	Lucy McClane
+cast	Noah Land	John McClane Jr.
+cast	Betty Carvalho	Paulina
+cast	Kip Waldo	Convenience Store Clerk
+cast	Mark Goldstein	Station Manager
+cast	Tracy Reiner	Thornburg's Assistant
+cast	Rick Cicetti	Guard
+cast	Fred Lerner	Guard
+cast	Bill Margolin	Producer
+cast	Bob Jennings	Cameraman
+cast	Bruce P. Schultz	Cameraman
+cast	David Katz	Soundman
+cast	Robert Lesser	Businessman
+cast	Stella Hall	Stewardess
+cast	Terri Lynn Doss	Girl at Airport
+cast	Jon E. Greene	Boy at Airport
+cast	P. Randall Bowers	Kissing Man
+cast	Michele Laybourn	Girl in Window
+cast	Rick Bross	Cameraman
+cast	Marshall Dancing Elk Lucas	Police Officer
+cast	Charlie Picerni	Dwayne T. Robinson's Driver
+cast	Gary Pinkston	Hostage
+cast	Mark Winn	Police Detective

@@ -1,0 +1,121 @@
+year	2001
+imdb score	6.8
+meta score	47
+genre	Drama
+genre	Romance
+keyword	newspaper
+keyword	tragedy
+keyword	aunt
+keyword	capsize
+keyword	isolation
+keyword	seaside
+keyword	survival
+keyword	compassion
+keyword	sex
+keyword	ibm
+keyword	single father
+keyword	single mother
+keyword	widower
+keyword	abusive wife
+keyword	urn
+keyword	piracy
+keyword	accordion
+keyword	box office flop
+keyword	kidnapping
+keyword	car crash
+keyword	parenthood
+keyword	back from the dead
+keyword	adultery
+keyword	thong
+keyword	photograph
+keyword	kiss
+keyword	incest
+keyword	mother son relationship
+keyword	sex with a minor
+keyword	redemption
+keyword	winter
+keyword	small town
+keyword	newfoundland canada
+keyword	father daughter relationship
+keyword	incest rape
+keyword	journalism
+keyword	marital problem
+keyword	driving
+keyword	telephone
+keyword	severed head
+keyword	outsider
+keyword	fisherman
+keyword	river
+keyword	poverty
+keyword	rape
+keyword	death
+keyword	drunkenness
+keyword	bra
+keyword	rain
+keyword	paper airplane
+keyword	child rape
+keyword	marriage
+keyword	curse
+keyword	single parent
+keyword	television
+keyword	camera
+keyword	ocean
+keyword	pulitzer prize source
+keyword	tea
+keyword	outhouse
+keyword	storm
+keyword	typewriter
+keyword	haunted by the past
+keyword	mother daughter relationship
+keyword	starting over
+keyword	landscape
+keyword	ashes
+keyword	aunt nephew relationship
+keyword	nursery school
+keyword	car accident
+keyword	house
+keyword	death in family
+keyword	wire
+keyword	adulterous wife
+keyword	reporter
+keyword	dinner
+keyword	boat accident
+keyword	based on novel
+cast	Kevin Spacey	Quoyle
+cast	Julianne Moore	Wavey Prowse
+cast	Judi Dench	Agnis Hamm
+cast	Cate Blanchett	Petal
+cast	Pete Postlethwaite	Tert Card
+cast	Scott Glenn	Jack Buggit
+cast	Rhys Ifans	Beaufield Nutbeem
+cast	Gordon Pinsent	Billy Pretty
+cast	Jason Behr	Dennis Buggit
+cast	Larry Pine	Bayonet Melville
+cast	Jeannetta Arnette	Silver Melville
+cast	Robert Joy	EMS Officer
+cast	Alyssa Gainer	Bunny Quoyle
+cast	Kaitlyn Gainer	Bunny Quoyle
+cast	Lauren Gainer	Bunny Quoyle
+cast	John Dunsworth	Guy Quoyle
+cast	Anthony Cipriano	Quoyle - Age 7
+cast	Kyle Timothy Smith	Quoyle - Age 12
+cast	Ken James	Newspaper Boss
+cast	Roman Podhora	Muscular Man
+cast	Luke Fisher	Barfly
+cast	Terry Daly	Hunky Guy
+cast	Gary Levert	Newspaper Employee
+cast	Stephen Morgan	Bartender Dave
+cast	Katherine Moennig	Grace Moosup
+cast	Daniel Kash	Detective Danzig
+cast	Will McAllister	Herry Prowse
+cast	Marc Lawrence	Cousin Nolan
+cast	Kathryn Fraser	Daycare Mom
+cast	Nancy Beatty	Mavis Bangs
+cast	R.D. Reid	Alvin Yark
+cast	Deborah Grover	Edna Buggit
+cast	Jon Whalen	Big Guy
+cast	Nicole Underhay	Beety Buggit
+cast	Emma Taylor-Isherwood	Agnis Hamm - Age 12
+cast	Andrew Fowler	Guy Quoyle - Age 15
+cast	John MacEachern	Drunken Guy
+cast	Jonathan Creaser	Paramedic

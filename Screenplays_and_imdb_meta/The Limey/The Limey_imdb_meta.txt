@@ -1,0 +1,205 @@
+year	1999
+imdb score	7.1
+meta score	73
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	actress
+keyword	investigation
+keyword	death
+keyword	swimming pool
+keyword	beach
+keyword	nonlinear timeline
+keyword	restaurant
+keyword	teacher
+keyword	grocery store
+keyword	drinking
+keyword	hitman
+keyword	narc
+keyword	gay slur
+keyword	robbery
+keyword	gunshot
+keyword	mulholland drive los angeles
+keyword	drug use
+keyword	storytelling
+keyword	reference to christopher cross
+keyword	chase
+keyword	gunfire
+keyword	snuff film
+keyword	revenge
+keyword	los angeles california
+keyword	supermarket
+keyword	cremation
+keyword	cigarette smoking
+keyword	fire
+keyword	money
+keyword	theft
+keyword	london england
+keyword	stabbed in the back
+keyword	valet
+keyword	bathtub
+keyword	sturgis south dakota
+keyword	reference to george clooney
+keyword	airplane
+keyword	murder for hire
+keyword	murder
+keyword	mansion
+keyword	ex convict
+keyword	binoculars
+keyword	bare breasts
+keyword	convicted felon
+keyword	motel
+keyword	broken neck
+keyword	security consultant
+keyword	crime boss
+keyword	pacific ocean
+keyword	vengeance
+keyword	reference to einstein
+keyword	flashback
+keyword	actor
+keyword	cockney
+keyword	towel
+keyword	briton abroad
+keyword	teacher student relationship
+keyword	thief
+keyword	hallucination
+keyword	heroin
+keyword	pool cue
+keyword	bar
+keyword	flash forward
+keyword	falling from height
+keyword	marijuana
+keyword	shootout
+keyword	penis
+keyword	cleaning teeth
+keyword	blood
+keyword	neo noir
+keyword	hired gun
+keyword	beating
+keyword	friendship
+keyword	party
+keyword	police
+keyword	british
+keyword	punched in the crotch
+keyword	violence
+keyword	knife wound
+keyword	homosexual
+keyword	cockney gangster
+keyword	cremated remains
+keyword	photograph
+keyword	friend
+keyword	falling into a canyon
+keyword	vagina
+keyword	policeman
+keyword	airport
+keyword	father daughter relationship
+keyword	gun
+keyword	drugs
+keyword	drink
+keyword	racial slur
+keyword	bodyguard
+keyword	criminal
+keyword	search
+keyword	car alarm
+keyword	car over cliff
+keyword	organized crime
+keyword	big sur california
+keyword	englishman abroad
+keyword	voice coach
+keyword	acting class
+keyword	pool table
+keyword	sex
+keyword	kicking
+keyword	cockney rhyming slang
+keyword	swimming
+keyword	thrown over a railing
+keyword	park
+keyword	banging head against wall
+keyword	undercover operation
+keyword	drug enforcement
+keyword	older man younger woman relationship
+keyword	watching tv
+keyword	prime suspect
+keyword	cell phone
+keyword	filmmaking
+keyword	drug dealing
+keyword	cafe
+keyword	hired killer
+keyword	gay
+keyword	wire cutter
+keyword	gangster
+keyword	music promoter
+keyword	motorcycle
+keyword	statuette
+keyword	basketball court
+keyword	reference to che guevara
+keyword	suicide
+keyword	stabbing
+keyword	poster
+keyword	dead body
+keyword	showdown
+keyword	playing pool
+keyword	car accident
+keyword	shooting
+keyword	music producer
+keyword	suntan
+keyword	knife
+keyword	armed robbery
+keyword	playground
+keyword	bath
+keyword	black cop
+keyword	suspect
+keyword	reference to god
+keyword	cockney accent
+keyword	fight
+keyword	death of daughter
+keyword	pornography filmmaking
+keyword	repeated scene
+keyword	black comedy
+keyword	death of mother
+keyword	independent film
+cast	Terence Stamp	Wilson
+cast	Lesley Ann Warren	Elaine
+cast	Luis Guzmán	Eduardo Roel
+cast	Barry Newman	Jim Avery
+cast	Joe Dallesandro	Uncle John
+cast	Nicky Katt	Stacy the Hitman
+cast	Peter Fonda	Terry Valentine
+cast	Amelia Heinle	Adhara
+cast	Melissa George	Jennifer 'Jenny' Wilson
+cast	William Lucking	Warehouse Foreman
+cast	Matthew Kimbrough	Tom Johannson
+cast	John Robotham	Rick
+cast	Steve Heinze	Larry
+cast	Nancy Lenehan	Lady on Plane
+cast	Wayne Pére	Pool Hall Creep
+cast	John Cothran	DEA Guy
+cast	Ousaun Elam	DEA Guy
+cast	Dwayne McGee	DEA Guy
+cast	Brian Bennet	DEA Guy
+cast	Allan Graf	Gordon
+cast	Carl Ciarfalio	Warehouse Thug
+cast	George Marshall Ruge	Warehouse Thug
+cast	Lincoln Simonds	Warehouse Thug
+cast	Rainbow Borden	Warehouse Sweeper
+cast	Michaela Gallo	Young Jennifer
+cast	Jose Perez	Teen Gun Dealer
+cast	Alex Perez	Teen Gun Dealer
+cast	Brandon Keener	Excited Guy
+cast	Jim Jenkins	Party Guy
+cast	Mark Gerschwin	Party Guy #2
+cast	Johnny Sanchez	Valet
+cast	Brooke Marie Bridges	Child Actress
+cast	Randy Lowell	Director
+cast	Eva Rodriguez	Ed's Sister
+cast	James Earl Olmedo	Ed's Nephew
+cast	Jamie Lin Olmedo	Ed's Niece
+cast	Clement Blake	Pool Hall Bartender
+cast	Tom Pardoe	Party Bartender
+cast	Ann-Margret	Terry Valentine's Ex-Wife
+cast	George Clooney	Himself
+cast	Bill Duke	Head DEA Agent
+cast	Deirdre O'Brien	Party Girl
+cast	David Ward	Edward Ford
+cast	Carol White	Wilson's Wife

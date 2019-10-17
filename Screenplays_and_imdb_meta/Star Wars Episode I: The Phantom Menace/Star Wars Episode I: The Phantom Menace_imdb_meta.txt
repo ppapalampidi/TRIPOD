@@ -1,0 +1,252 @@
+year	1999
+imdb score	6.5
+meta score	51
+genre	Action
+genre	Adventure
+genre	Fantasy
+genre	Sci-Fi
+keyword	planet
+keyword	queen
+keyword	apprentice
+keyword	warrior
+keyword	alien
+keyword	desert
+keyword	lightsaber
+keyword	jedi knight
+keyword	desert planet
+keyword	future
+keyword	space battle
+keyword	android
+keyword	part of trilogy
+keyword	cult figure
+keyword	spacecraft
+keyword	pit droid
+keyword	funeral pyre
+keyword	war hero
+keyword	space station
+keyword	battle
+keyword	underwater
+keyword	actor playing multiple roles
+keyword	mechanic
+keyword	ambush
+keyword	probe droid
+keyword	slobber
+keyword	lifting someone into the air
+keyword	funeral
+keyword	martial arts
+keyword	elongated cry of no
+keyword	lifting male in air
+keyword	star wars
+keyword	mother son relationship
+keyword	council
+keyword	chosen one
+keyword	sticking out tongue
+keyword	space western
+keyword	laser gun
+keyword	space opera
+keyword	eaten alive
+keyword	main character dies
+keyword	impersonation
+keyword	seven word title
+keyword	sucked into jet engine
+keyword	sword fight
+keyword	christ allegory
+keyword	subjective camera
+keyword	cannon
+keyword	stealing food
+keyword	blockbuster
+keyword	undersea city
+keyword	no opening credits
+keyword	disarming someone
+keyword	training
+keyword	hand grenade
+keyword	reluctant hero
+keyword	origin story
+keyword	siege
+keyword	hero
+keyword	good versus evil
+keyword	divine conception
+keyword	villain
+keyword	betting
+keyword	war violence
+keyword	allegory of multiple historical events.
+keyword	tank
+keyword	robot
+keyword	alien race
+keyword	hand to hand combat
+keyword	racing
+keyword	jedi mind trick
+keyword	tough guy
+keyword	gunfight
+keyword	invented language
+keyword	sliced in two
+keyword	first part
+keyword	warp speed
+keyword	torso cut in half
+keyword	epic
+keyword	female fighter
+keyword	space shuttle
+keyword	impostor
+keyword	punctuation in title
+keyword	hyphen in title
+keyword	boyfriend girlfriend relationship
+keyword	mixed martial arts
+keyword	computer
+keyword	prequel
+keyword	action hero
+keyword	laser cannon
+keyword	child flying spacecraft
+keyword	fictional war
+keyword	battlefield
+keyword	shot with a laser gun
+keyword	hologram
+keyword	combat
+keyword	shootout
+keyword	palace
+keyword	part computer animation
+keyword	telekinesis
+keyword	double
+keyword	outer space
+keyword	long tongue
+keyword	first of series
+keyword	two man army
+keyword	laser pistol
+keyword	space war
+keyword	kendo
+keyword	roman numeral in title
+keyword	cult director
+keyword	force speed
+keyword	falling from height
+keyword	prequel to cult film
+keyword	flatulence
+keyword	disguise
+keyword	galactic war
+keyword	two against one
+keyword	saga
+keyword	shield
+keyword	comic relief
+keyword	famous score
+keyword	symphonic music score
+keyword	chase
+keyword	cult film
+keyword	gun battle
+keyword	decoy
+keyword	colon in title
+keyword	wuxia fiction
+keyword	slavery
+keyword	wilhelm scream
+keyword	orchestral music score
+keyword	adoption
+keyword	aerial combat
+keyword	honor
+keyword	victory
+keyword	messiah
+keyword	hidden city
+keyword	warp engine
+keyword	leitmotif
+keyword	showdown
+keyword	mentor protégé relationship
+keyword	life debt
+keyword	sword duel
+keyword	split in two
+keyword	death of friend
+keyword	number in title
+cast	Liam Neeson	Qui-Gon Jinn
+cast	Ewan McGregor	Obi-Wan Kenobi
+cast	Natalie Portman	Queen Amidala / Padmé
+cast	Jake Lloyd	Anakin Skywalker
+cast	Ian McDiarmid	Senator Palpatine
+cast	Pernilla August	Shmi Skywalker
+cast	Oliver Ford Davies	Sio Bibble
+cast	Hugh Quarshie	Captain Panaka
+cast	Ahmed Best	Jar Jar Binks
+cast	Anthony Daniels	C-3PO
+cast	Kenny Baker	R2-D2
+cast	Frank Oz	Yoda
+cast	Terence Stamp	Chancellor Valorum
+cast	Brian Blessed	Boss Nass
+cast	Andy Secombe	Watto
+cast	Ray Park	Darth Maul
+cast	Lewis Macleod	Sebulba
+cast	Warwick Davis	Wald / Pod race spectator / Mos Espa Citizen
+cast	Steve Speirs	Captain Tarpals
+cast	Silas Carson	Nute Gunray / Ki-Adi-Mundi / Lott Dodd / Republic Cruiser Pilot
+cast	Jerome Blake	Rune Haako / Mas Amedda / Oppo Rancisis / Orn Free Taa
+cast	Alan Ruscoe	Daultay Dofine / Plo Koon / Bib Fortuna
+cast	Ralph Brown	Ric Olié
+cast	Celia Imrie	Fighter Pilot Bravo 5
+cast	Benedict Taylor	Fighter Pilot Bravo 2
+cast	Clarence Smith	Fighter Pilot Bravo 3
+cast	Samuel L. Jackson	Mace Windu
+cast	Dominic West	Palace Guard
+cast	Karol Cristina da Silva	Rabé
+cast	Liz Wilson	Eirtaé
+cast	Candice Orwell	Yané
+cast	Sofia Coppola	Saché
+cast	Keira Knightley	Sabé
+cast	Bronagh Gallagher	Republic Cruiser Captain
+cast	John Fensom	TC-14
+cast	Greg Proops	Fode
+cast	Scott Capurro	Beed
+cast	Margaret Towner	Jira
+cast	Dhruv Chanchani	Kitster
+cast	Oliver Walpole	Seek
+cast	Katie Lucas	Amee
+cast	Megan Udall	Melee
+cast	Hassani Shapi	Eeth Koth
+cast	Gin Clarke	Adi Gallia
+cast	Khan Bonfils	Saesee Tiin
+cast	Michelle Taylor	Yarael Poof
+cast	Michaela Cottrell	Even Piell
+cast	Dipika O'Neill Joti	Depa Billaba
+cast	Phil Eason	Yaddle
+cast	Mark Coulier	Aks Moe
+cast	Lindsay Duncan	TC-14
+cast	Peter Serafinowicz	Darth Maul / Battle Droid Commander / Gungan Scout
+cast	James Taylor	Rune Haako
+cast	Chris Sanders	Daultay Dofine
+cast	Toby Longworth	Sen. Lott Dodd / Gragra
+cast	Marc Silk	Aks Moe
+cast	Amanda Lucas	Tey How / Diva Funquita
+cast	Simon Allen	Flag Bearer
+cast	Richard Armitage	Naboo Fighter Pilot
+cast	Don Bies	Pod Race Mechanic
+cast	Trisha Biggar	Orn Free Taa's Aide
+cast	Michonne Bourriague	Aurra Sing
+cast	Ben Burtt	Naboo Courier
+cast	Doug Chiang	Flag Bearer
+cast	Rob Coleman	Pod Race Spectator in Jabba's Private Box
+cast	Roman Coppola	Senate Guard
+cast	Matt Daniel-Baker	Naboo Foot Soldier
+cast	Russell Darling	Naboo Royal Security Guard
+cast	Philip Delancy	Naboo Starship Pilot
+cast	C. Michael Easton	Pod Race Spectator
+cast	Andrew Elias	Naboo Royal Guard
+cast	John Ellis	Pod race spectator
+cast	Ned Gorman	Naboo Citizen
+cast	Joss Gower	Naboo Fighter Pilot
+cast	Raymond Griffiths	GONK Droid
+cast	Nathan Hamill	Pod Race Spectator / Naboo Palace Guard
+cast	Tim Harrington	Naboo Security Guard
+cast	Jack Haye	Pod Race Spectator in Jabba's Private Box
+cast	Nifa Hindes	Ann Gella
+cast	Nishan Hindes	Tann Gella
+cast	Alexi Kaye Campbell	Naboo Guard
+cast	John Knoll	Lt. Rya Kirsch - Bravo 4 / Flag Bearer
+cast	Kamay Lau	Sei Taria - Senators Aide
+cast	Dan Madsen	Kaadu Handler
+cast	Iain McCaig	Orn Free Taa's Aide
+cast	Rick McCallum	Naboo Courier
+cast	João Costa Menezes	Naboo Fighter Pilot
+cast	Taylor Murphy	Battle Droid
+cast	Jeff Olson	Pod Race Spectator in Jabba's Private Box
+cast	Lorne Peterson	Mos Espa Citizen
+cast	Steve Sansweet	Naboo Courier
+cast	Mike Savva	Naboo Royal Guard
+cast	Christian J. Simpson	Lt. Gavyn Sykes - Bravo 6
+cast	Paul Martin Smith	Naboo Courier
+cast	Scott Squires	Naboo Speeder Driver
+cast	Tom Sylla	Battle Droid
+cast	Bill Tlusty	Chokk, Jabba's Bodyguard
+cast	Danny Wagner	Mawhonic
+cast	Matthew Wood	Bib Fortuna / Ody Mandrell

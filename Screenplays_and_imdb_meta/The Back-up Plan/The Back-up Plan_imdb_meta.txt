@@ -1,0 +1,154 @@
+year	2010
+imdb score	5.1
+meta score	34
+genre	Comedy
+genre	Romance
+keyword	baby
+keyword	pregnant
+keyword	artificial insemination
+keyword	twin
+keyword	cheese
+keyword	single mother
+keyword	pregnancy
+keyword	pet shop
+keyword	doctor
+keyword	water birth
+keyword	conga line
+keyword	mcdonald's mcflurry
+keyword	acura
+keyword	ford motor company
+keyword	sex
+keyword	wedding
+keyword	baby bottle
+keyword	big mac
+keyword	honda civic
+keyword	gmc truck
+keyword	lexus gs 450
+keyword	expectant mother
+keyword	twins
+keyword	gmc w series
+keyword	sperm bank
+keyword	land rover
+keyword	honda fit
+keyword	kiss
+keyword	new baby
+keyword	sperm
+keyword	bare chested male
+keyword	bmw 3 e46
+keyword	lexus
+keyword	birth
+keyword	camera shot of feet
+keyword	motherhood
+keyword	chick flick
+keyword	mcdonald's restaurant
+keyword	female sitting on a toilet
+keyword	reference to naked
+keyword	hairy chest
+keyword	female protagonist
+keyword	french fries
+keyword	support group
+keyword	mcflurry
+keyword	mcdonald's big mac
+keyword	bmw
+keyword	pregnant woman's water breaks
+keyword	ford crown victoria
+keyword	orgasm
+keyword	childbirth
+keyword	hyundai sonata
+keyword	lincoln town car
+keyword	rolls royce phantom v
+keyword	vomit
+keyword	rolls royce phantom
+keyword	acura integra
+keyword	ford escape hybrid
+keyword	toyota
+keyword	interracial romance
+keyword	interracial relationship
+keyword	lincoln automobile
+keyword	morning sickness
+keyword	toyota camry
+keyword	giving birth
+keyword	pillow
+keyword	land rover range rover series i
+keyword	sperm donor
+keyword	breast feeding
+keyword	honda
+keyword	ford 4600
+keyword	pregnant woman
+keyword	kissing
+keyword	reference to friday
+keyword	lingerie slip
+keyword	toyota sienna
+keyword	single parent
+keyword	home birth
+cast	Jennifer Lopez	Zoe
+cast	Alex O'Loughlin	Stan
+cast	Michaela Watkins	Mona
+cast	Eric Christian Olsen	Clive
+cast	Anthony Anderson	Playground Dad
+cast	Noureen DeWulf	Daphne
+cast	Melissa McCarthy	Carol
+cast	Tom Bosley	Arthur
+cast	Maribeth Monroe	Lori
+cast	Danneel Ackles	Olivia
+cast	Robert Klein	Dr. Scott Harris
+cast	Linda Lavin	Nana
+cast	Carlease Burke	Tabitha
+cast	Amy Block	Sara
+cast	Jennifer Elise Cox	Baby Store Sales Clerk
+cast	Adam Rose	Louie
+cast	Cesar Millan	Cesar Millan
+cast	Peggy Miley	Shirley
+cast	Sadie May Beebe	Dakota
+cast	Logan Lauriston	Mack
+cast	Barbara Perry	Wedding Singer
+cast	Chalo González	Band Leader
+cast	Art Frankel	"Not Me" Man
+cast	Anslem King	Cab Driver
+cast	Elisabeth Abbott	Pregnant Woman #1
+cast	Lili Mirojnick	Pregnant Woman #2
+cast	Donna Ponterotto	Woman in Gym
+cast	Manos Gavras	Mario
+cast	Riley B. Smith	Mona's Kid
+cast	Samantha Hall	Mona's Kid
+cast	Jared Gilmore	Mona's Kid
+cast	Rowan Blanchard	Mona's Kid
+cast	Wes Whitehead	Cheese Customer
+cast	John Ronald Dennis	Conga Line Dancer
+cast	Bunny Gibson	Conga Line Dancer
+cast	Stan Mazin	Conga Line Dancer
+cast	Beverly Polcyn	Conga Line Dancer
+cast	Bobbie Bates	Conga Line Dancer
+cast	Birl Jonns	Conga Line Dancer
+cast	Anushka Jones	Conga Line Dancer
+cast	Skip Cunningham	Conga Line Dancer
+cast	Jack Mattis	Conga Line Dancer
+cast	Felix Chavez	Conga Line Dancer
+cast	Olivia Jones	Infant
+cast	Riley Jones	Infant
+cast	Isabelle Jones	Infant
+cast	Skylar Weber	Infant
+cast	Zachary Weber	Infant
+cast	Nubbins	Nuts
+cast	Nip	Nuts
+cast	Tuck	Nuts
+cast	Frank Welker	Nuts
+cast	Don Abernathy	Farmers Market Shopper
+cast	Jason Babinsky	Dog Walker
+cast	Taylor Benson	Flower Girl
+cast	Rich Campbell	Jogger
+cast	Adriene Couvillion	Hostess
+cast	Brenda Grate	Subway Girl
+cast	Brandon Herman	Farmer's Market Vendor
+cast	Jian	
+cast	Cailin Loesch	Child in Park
+cast	Hannah Loesch	Child in Park
+cast	Christine Lozano	Single Mom
+cast	Payton Lucas	Skylar
+cast	Eder López	Fitness Trainer
+cast	Louis C. Oberlander	Farmer's Market Shopper
+cast	Marlowe Peyton	Lucy
+cast	Erin Pickett	Farmer's Market Shopper
+cast	Carter Sand	Cole
+cast	Shoniqua Shandai	Single Mother
+cast	Kara Elizabeth Silva	Single Goth Mom

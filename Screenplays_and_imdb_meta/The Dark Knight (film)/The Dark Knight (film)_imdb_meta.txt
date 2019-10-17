@@ -1,0 +1,620 @@
+year	2008
+imdb score	9.0
+meta score	82
+genre	Action
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	gotham
+keyword	criminal
+keyword	vigilante
+keyword	criminal mastermind
+keyword	district attorney
+keyword	hero
+keyword	chaos
+keyword	organized crime
+keyword	love triangle
+keyword	fire
+keyword	robbery
+keyword	hope
+keyword	money
+keyword	clown
+keyword	scarecrow
+keyword	bank robbery
+keyword	panic
+keyword	bank
+keyword	hong kong
+keyword	bodyguard
+keyword	psychological torture
+keyword	vigilante justice
+keyword	fake nurse
+keyword	sniper rifle
+keyword	russian mafia
+keyword	lens flare
+keyword	returning character killed off
+keyword	crime fighter
+keyword	slow motion scene
+keyword	number in character's name
+keyword	rocket
+keyword	comic hero
+keyword	courage
+keyword	handcuffs
+keyword	trial
+keyword	blackmail
+keyword	interrogation room
+keyword	face paint
+keyword	detective
+keyword	scarred face
+keyword	explosion
+keyword	tied up
+keyword	exploding car
+keyword	mafia boss
+keyword	ferry
+keyword	party
+keyword	body landing on a car
+keyword	evacuation
+keyword	shot in the chest
+keyword	based on comic
+keyword	broken ankle
+keyword	pool table
+keyword	media coverage
+keyword	half face burned with gasoline
+keyword	clown mask
+keyword	impalement
+keyword	clown makeup
+keyword	rooftop
+keyword	policewoman
+keyword	star died before release
+keyword	conflicted hero
+keyword	fire truck
+keyword	interview
+keyword	secret identity
+keyword	court
+keyword	dog
+keyword	self sacrifice
+keyword	playing card
+keyword	joker card
+keyword	exploding helicopter
+keyword	anti hero
+keyword	masked villain
+keyword	thrown from a car
+keyword	bruise
+keyword	killed in car
+keyword	gangster
+keyword	corpse
+keyword	blockbuster
+keyword	thrown off a balcony
+keyword	gasoline
+keyword	electronic music score in style of orchestral music score
+keyword	knife
+keyword	pool cue
+keyword	impostor
+keyword	domestic terrorism
+keyword	revenge
+keyword	penthouse
+keyword	2000s
+keyword	nurse uniform
+keyword	police station
+keyword	master servant relationship
+keyword	corrupt cop
+keyword	exploding body
+keyword	judge
+keyword	fear
+keyword	bomb
+keyword	gas grenade
+keyword	bulletproof vest
+keyword	mother daughter relationship
+keyword	school bus
+keyword	man wearing a wig
+keyword	super villain
+keyword	concept car
+keyword	mutilation
+keyword	mob boss
+keyword	falling from height
+keyword	neo noir
+keyword	deformed face
+keyword	hand to hand combat
+keyword	car crash
+keyword	tough guy
+keyword	apartment
+keyword	costumed hero
+keyword	gang
+keyword	masked criminal
+keyword	shot to death
+keyword	masked hero
+keyword	bag of money
+keyword	superhero
+keyword	three word title
+keyword	overturning car
+keyword	promises
+keyword	secret past
+keyword	vigilantism
+keyword	pool hall
+keyword	dark past
+keyword	father daughter relationship
+keyword	gash in the face
+keyword	no opening credits
+keyword	lifting someone into the air
+keyword	masked superhero
+keyword	shotgun
+keyword	burning a document
+keyword	jumping from a rooftop
+keyword	one man army
+keyword	dual identity
+keyword	faked death
+keyword	bullet proof automobile
+keyword	jail cell
+keyword	disfigurement
+keyword	police
+keyword	coin flip
+keyword	altered version of studio logo
+keyword	parking garage
+keyword	sequel to a reboot
+keyword	opening action scene
+keyword	face mask
+keyword	moral dilemma
+keyword	lawyer
+keyword	tragic hero
+keyword	police funeral
+keyword	idealism
+keyword	appeared on tv news
+keyword	car chase
+keyword	evil smile
+keyword	green hair
+keyword	torture
+keyword	press conference
+keyword	double life
+keyword	rocket launcher
+keyword	broken limb
+keyword	fistfight
+keyword	female cop
+keyword	sniper
+keyword	evil
+keyword	danger
+keyword	clown face
+keyword	watching tv
+keyword	armored truck
+keyword	mafia
+keyword	rivalry
+keyword	death of cast member
+keyword	sitting
+keyword	magic trick
+keyword	sarcastic clapping
+keyword	epic
+keyword	armored car
+keyword	anger
+keyword	nightclub
+keyword	villain arrested
+keyword	death threat
+keyword	ruthlessness
+keyword	police detective
+keyword	funeral
+keyword	evil clown
+keyword	mother son relationship
+keyword	british actor playing american character
+keyword	arrest
+keyword	terrorist
+keyword	mask
+keyword	glasgow smile
+keyword	kiss
+keyword	gunfight
+keyword	showdown
+keyword	schizophrenia
+keyword	disguise
+keyword	murder
+keyword	shootout
+keyword	homoerotic
+keyword	conscience
+keyword	man with no name
+keyword	kidnapping
+keyword	burned alive
+keyword	killer clown
+keyword	gadget
+keyword	damsel in distress
+keyword	drug dealer
+keyword	night
+keyword	police brutality
+keyword	strapped to a bomb
+keyword	broken leg
+keyword	bomb detonation device
+keyword	rottweiler
+keyword	subjective camera
+keyword	assassination
+keyword	friendship
+keyword	bank manager
+keyword	costume
+keyword	pushed from height
+keyword	disfigured face
+keyword	false confession
+keyword	returning character with different actor
+keyword	blood
+keyword	police corruption
+keyword	jujitsu
+keyword	violence
+keyword	ambiguous ending
+keyword	car accident
+keyword	heroism
+keyword	based on comic book
+keyword	child in peril
+keyword	ballet dancer
+keyword	double cross
+keyword	poison
+keyword	camouflage
+keyword	burnt face
+keyword	mass murderer
+keyword	one against many
+keyword	mauling
+keyword	man with glasses
+keyword	hanging upside down
+keyword	cult film
+keyword	kung fu
+keyword	man dressed as a woman
+keyword	father figure
+keyword	hate
+keyword	butler
+keyword	hand grenade
+keyword	terrorism
+keyword	broken neck
+keyword	visionary
+keyword	dynamite
+keyword	interrogation
+keyword	sadism
+keyword	pencil
+keyword	dc comics
+keyword	swat team
+keyword	no title at beginning
+keyword	warrior
+keyword	chief executive officer
+keyword	character's point of view camera shot
+keyword	husband wife relationship
+keyword	knife in shoe
+keyword	sadist
+keyword	police officer
+keyword	darkness
+keyword	reference to abraham lincoln
+keyword	hospital
+keyword	reference to elvis presley
+keyword	black mask
+keyword	voice over letter
+keyword	insanity
+keyword	acid
+keyword	thrown from a building
+keyword	blocking a door with a chair
+keyword	text message
+keyword	bank vault
+keyword	rescue
+keyword	sonar
+keyword	cape
+keyword	investigation
+keyword	telling someone to shut up
+keyword	death
+keyword	helicopter
+keyword	billionaire
+keyword	accountant
+keyword	wuxia fiction
+keyword	timebomb
+keyword	cellular phone
+keyword	character repeating someone else's dialogue
+keyword	fundraiser
+keyword	marriage proposal
+keyword	psychological manipulation
+keyword	flying
+keyword	pile of money
+keyword	foreshadow
+keyword	axe
+keyword	dog attack
+keyword	disarming someone
+keyword	gadget car
+keyword	brawl
+keyword	chase
+keyword	electrocution
+keyword	justice
+keyword	rpg
+keyword	news reporter
+keyword	boyfriend girlfriend relationship
+keyword	face burn
+keyword	famous line
+keyword	sequel
+keyword	heist
+keyword	abandoned hospital
+keyword	death of girlfriend
+keyword	coin
+keyword	falling down stairs
+keyword	lamborghini
+keyword	servant
+keyword	escape
+keyword	prison
+keyword	news report
+keyword	scar
+keyword	uzi
+keyword	car set on fire
+keyword	rescue attempt
+keyword	deception
+keyword	urban setting
+keyword	jumping from height
+keyword	gothic
+keyword	seaplane
+keyword	second part
+keyword	business card
+keyword	newscaster
+keyword	dagger
+keyword	critically acclaimed
+keyword	false accusation
+keyword	crime boss
+keyword	machine gun
+keyword	ambiguous title
+keyword	secret laboratory
+keyword	billiards
+keyword	lifting a male into the air
+keyword	helicopter crash
+keyword	mass murder
+keyword	hostage
+keyword	masked man
+keyword	threatened with a knife
+keyword	female judge
+keyword	remote detonator
+keyword	fictional city
+keyword	grenade
+keyword	honor
+keyword	police commissioner
+keyword	ambulance
+keyword	beating
+keyword	father son relationship
+keyword	tragic villain
+keyword	mixed martial arts
+keyword	secretary
+keyword	villain
+keyword	thrown through a window
+keyword	bank heist
+keyword	good versus evil
+keyword	cell phone
+keyword	caught in a net
+keyword	stylized violence
+keyword	detonator
+keyword	fall to death
+keyword	coin tossing
+keyword	henchman
+keyword	parallel montage
+keyword	laughing
+keyword	broken bone
+keyword	betrayal
+keyword	school bus driver
+keyword	video footage
+keyword	mayor
+keyword	held at gunpoint
+keyword	action hero
+keyword	anti villain
+keyword	limousine
+keyword	same director as prequel
+keyword	bound and gagged
+keyword	fight
+keyword	motorcycle
+keyword	title at the end
+keyword	dark hero
+keyword	martial arts
+keyword	death of loved one
+keyword	burning money
+keyword	revolver
+keyword	assassin
+keyword	money laundering
+keyword	bar
+keyword	silencer
+keyword	psychopath
+keyword	pistol
+keyword	masked vigilante
+keyword	attempted murder
+keyword	boat
+keyword	evil man
+keyword	social commentary
+keyword	exploding building
+keyword	shot in the back
+keyword	near death experience
+keyword	letter
+keyword	race against time
+keyword	police officer killed
+keyword	restaurant
+keyword	electronic music score
+keyword	prison escape
+keyword	duel
+keyword	police chase
+keyword	death of friend
+keyword	title spoken by character
+keyword	surprise ending
+cast	Christian Bale	Bruce Wayne
+cast	Heath Ledger	Joker
+cast	Aaron Eckhart	Harvey Dent
+cast	Michael Caine	Alfred
+cast	Maggie Gyllenhaal	Rachel
+cast	Gary Oldman	Gordon
+cast	Morgan Freeman	Lucius Fox
+cast	Monique Gabriela Curnen	Ramirez
+cast	Ron Dean	Wuertz
+cast	Cillian Murphy	Scarecrow
+cast	Chin Han	Lau
+cast	Nestor Carbonell	Mayor
+cast	Eric Roberts	Maroni
+cast	Ritchie Coster	Chechen
+cast	Anthony Michael Hall	Mike Engel
+cast	Keith Szarabajka	Stephens
+cast	Colin McFarlane	Loeb
+cast	Joshua Harto	Reese
+cast	Melinda McGraw	Barbara Gordon
+cast	Nathan Gamble	James Gordon, Jr.
+cast	Michael Vieau	Rossi
+cast	Michael Stoyanov	Dopey
+cast	William Smillie	Happy
+cast	Danny Goldring	Grumpy
+cast	Michael Jai White	Gambol
+cast	Matthew O'Neill	Chuckles
+cast	William Fichtner	Bank Manager
+cast	Olumiji Olawumi	Drug Dealer
+cast	Greg Beam	Drug Buyer
+cast	Erik Hellman	Junkie
+cast	Beatrice Rosen	Natascha
+cast	Vincenzo Nicoli	Crime Boss
+cast	Edison Chen	LSI VP
+cast	Nydia Rodriguez Terracina	Judge Surrillo
+cast	Andy Luther	Brian
+cast	James Farruggio	Man No. 1
+cast	Tom McElroy	Man No. 2
+cast	Will Zahrn	Assistant DA
+cast	James Fierro	Thug at Party
+cast	Patrick Leahy	Gentleman at Party
+cast	Sam Derence	Male Guest
+cast	Jennifer Knox	Female Guest
+cast	Patrick Clear	Judge Freel
+cast	Sarah Jayne Dunn	Maroni's Mistress
+cast	Charles Venn	Gambol's Bodyguard
+cast	Winston Ellis	Gambol's Bodyguard
+cast	David Dastmalchian	Joker's Thug
+cast	Sophia Hinshelwood	Reporter
+cast	Keith Kupferer	Heckler
+cast	Joseph Luis Caballero	Cop Heckler
+cast	Richard Dillane	Acting Commissioner
+cast	Daryl Satcher	Officer at Intersection
+cast	Chris Petschler	Convoy Leader
+cast	Aidan Feore	Fat Thug
+cast	Philip Bulcock	Murphy
+cast	Paul Birchard	Cop with Fat Thug
+cast	Walter Lewis	Medic
+cast	Vincent Riotta	Cop at 250 52nd St.
+cast	Nancy Crane	Nurse
+cast	K. Todd Freeman	Polk
+cast	Matt Shallenberger	Berg
+cast	Michael Andrew Gorman	Cop at Hospital
+cast	Lanny Lutz	Bartender
+cast	Peter Defaria	Civilian
+cast	Matt Rippy	First Mate
+cast	Andrew Bicknell	Prison Ferry Pilot
+cast	Ariyon Bakare	Guard Commander
+cast	Doug Ballard	Businessman
+cast	Helene Wilson	Mother
+cast	Tommy Campbell	Passenger
+cast	Craig Heaney	Passenger
+cast	Lorna Gayle	Passenger
+cast	Lisa McAllister	Passenger
+cast	Peter Brooke	Passenger
+cast	Joshua Rollins	SWAT Sniper
+cast	Dale Rivera	SWAT Leader
+cast	Matthew Leitch	Prisoner on Ferry
+cast	Tommy 'Tiny' Lister	Tattooed Prisoner
+cast	Thomas Gaitsch	Reporter #3
+cast	William Armstrong	Evans
+cast	Adam Kalesperis	Honor Guard Man
+cast	Tristan Tait	Uniform Cop
+cast	Bronson Webb	Bounty Hunter
+cast	David Ajala	Bounty Hunter
+cast	Gertrude Mosley	Fox's Secretary
+cast	Jonathan Ryland	Passenger Ferry Pilot
+cast	James Scales	Guardsman
+cast	Nigel Carrington	Warden
+cast	Ian Pirie	Corrections Officer
+cast	Lateef Lovejoy	Prisoner
+cast	Grahame Edwards	Prisoner
+cast	Roger Monk	Prisoner
+cast	Ronan Summers	Prisoner
+cast	Wai Wong	Hong Kong Detective
+cast	Michael Corey Foster	Honor Guard Leader
+cast	Hannah Gunn	Gordon's Daughter
+cast	Brandon Lambdin	Armored Car SWAT
+cast	Jeff Albertson	National Guard / Police Officer
+cast	Tracy L. Aldaz	Emergency Medical Technician
+cast	Matthew W. Allen	Civilian
+cast	Stephen Armourae	Ferry Prisoner
+cast	Mike Bach	Board Room Member
+cast	Wayne Baker	Loading Dock Supervisor
+cast	Martin Ballantyne	Joker's Henchman
+cast	Tommy Bartlett	Maroni's D.A.
+cast	Blayne Bennett	Inmate
+cast	Jon Lee Brody	Waiter
+cast	Debbi Burns	Bank Patron
+cast	Maritza Cabrera	Party Guest
+cast	Shirin Caiola	Party Guest with Glass
+cast	Josh Chapman	Bar Patron
+cast	Laura Chernicky	Party Guest
+cast	Matt Cho	Lau Henchman
+cast	Henry Milton Chu	Lau Henchman
+cast	Kelli Clevenger	Paramedic
+cast	Bruce Allen Dawson	Ferry Prisoner
+cast	Danielle Day	Bruce's Supermodel Girlfriend #2
+cast	Richard Divizio	Chechen Gangster
+cast	Tony Domino	Press Conference Heckler
+cast	Jessica Doyle	Hospital Patient
+cast	David William James Elliott	Extra
+cast	Gene Fojtik	Pedestrian
+cast	Reese Foster	Party Guest
+cast	Jason Frederick	Party Guest
+cast	Darren Elliot Fulsher	Police Officer
+cast	David Fultz	Pedestrian
+cast	Scott Ganyo	EMT
+cast	Marisol Giraud	Party Guest
+cast	Tim Glanfield	Hostage
+cast	Dan Gossen	SWAT Officer
+cast	Sharlene Grover	Party Guest
+cast	Natalie Hallam	Ferry Passenger
+cast	Alexander Hathaway	Prisoner
+cast	Jordon Hodges	Police Officer
+cast	John Hoving	Bank Vault Manager
+cast	Bill Ibrahim	Maroni Gangster
+cast	Erron Jay	Prisoner
+cast	Daniel Jefferson	Immigrant Ferry Passenger
+cast	Ramses Jimenez	National Guard
+cast	Will Jones	High-Ranking Officer
+cast	Bob Kaliebe	Police Officer
+cast	Nicky Katt	Shotgun SWAT
+cast	Mark Keiser	Businessman / Crime Scene Witness
+cast	Charlie Kierscht	Party Guest
+cast	Thomas Kosik	Parade Police Officer
+cast	Don Kress	Maroni's Henchman
+cast	Tim Krueger	Assistant D.A.
+cast	Michael Kuster	Party Guest
+cast	Dan Latham	Police Sgt. Spellman / Gotham Bomb Squad
+cast	Joseph Lazicki	Party Guest
+cast	David Lesley	Detective
+cast	Ivan Lovegren	Party Guest
+cast	Deborah Lynn	Party Guest
+cast	Noelle Lynn	Pedestrian
+cast	Jonathan Macchi	Party Guest
+cast	J.R. Martino	Firefighter / Citizen
+cast	Joseph Mazurk	Bailiff / Parade Policeman
+cast	Tom McComas	Helicopter SWAT Sniper
+cast	Krista McEnany	Party Guest
+cast	James Mellor	Ferry Passanger
+cast	Joe Nelson	Police Officer
+cast	Sal Ozbay	Gang Member
+cast	Libby Pedersen	Party Guest
+cast	Ernest Pierce	Shotgun SWAT
+cast	Rory Plante	Evacuating Hospital Patient
+cast	Charles Query	Businessman
+cast	Marc Radz	Party Guest
+cast	Buster Reeves	Joker's Thug #2
+cast	Sara Ritz	Ballerina
+cast	Peter Rnic	Prisoner
+cast	Gary Ryder	Man on Boulevard
+cast	Elisa Schleef	Extra
+cast	Greg Schweiner	Assistant D.A.
+cast	Jan Seybold	Dent's Secretary
+cast	Amit Shah	Party Guest
+cast	Vivek Shah	Middle Eastern Bank Hostage
+cast	Michelle Shields	Angry Hospital Relative
+cast	Sofiya Smirnova	Evacuee
+cast	John Snowden	Detective
+cast	Lorea Solabarrieta	Secretary
+cast	Dwight Sora	Mob Lawyer
+cast	Bruce Spielbauer	High-Ranking Police Official
+cast	January Stern	Party Guest
+cast	Robert Patrick Stern	Extra
+cast	Robert Stone	Dept. of Corrections Resident
+cast	Richard Strobel	Detective
+cast	Chris D. Thomas	Courtroom Spectator
+cast	John Thurner	Party Guest
+cast	Tom Townsend	Police Officer
+cast	Chuen Tsou	Lau's Henchman with TV
+cast	John Turk	Chechen's Bodyguard
+cast	John Warman	Detective
+cast	Mike Whyte	Police Officer
+cast	Erik A. Williams	Party Guest
+cast	Chris Wilson	Major Crime Unit Detective
+cast	Lisa Wolf	Businesswoman
+cast	Essa Zahir	Prisoner on Boat
+cast	Kevin Zaideman	Party Staff

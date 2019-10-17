@@ -1,0 +1,317 @@
+year	2010
+imdb score	7.1
+meta score	86
+genre	Comedy
+genre	Drama
+keyword	sperm
+keyword	sperm donor
+keyword	biological father
+keyword	college
+keyword	motorcycle
+keyword	secret
+keyword	teenager
+keyword	dinner
+keyword	18 year old
+keyword	restaurant
+keyword	sex
+keyword	argument
+keyword	artificial insemination
+keyword	garden
+keyword	15 year old
+keyword	friend
+keyword	aspirator in wine
+keyword	lesbian couple
+keyword	virgin
+keyword	urinating on a dog
+keyword	university of california los angeles
+keyword	car
+keyword	landscaping
+keyword	teenage girl
+keyword	sleeping on a couch
+keyword	father son relationship
+keyword	vegetable garden
+keyword	high school graduation speech
+keyword	family secret
+keyword	tension
+keyword	cocaine
+keyword	furniture import business
+keyword	brother sister relationship
+keyword	table tennis
+keyword	adultery
+keyword	shower
+keyword	record album
+keyword	rough housing
+keyword	perfectionist
+keyword	claim in title
+keyword	kissing
+keyword	cunnilingus
+keyword	restaurant owner
+keyword	crying
+keyword	southern california
+keyword	writing
+keyword	black american
+keyword	doggystyle sex
+keyword	architecture student
+keyword	drinking
+keyword	hair
+keyword	female in shower
+keyword	giving a toast
+keyword	thank you note
+keyword	hispanic american
+keyword	subjective camera
+keyword	learning identity of father
+keyword	nickname
+keyword	outdoor cafe
+keyword	remote control
+keyword	teenage boy
+keyword	eating
+keyword	awkward situation
+keyword	rubbing noses
+keyword	steak
+keyword	man with glasses
+keyword	sex standing up
+keyword	driving
+keyword	watching porn on a computer
+keyword	roof
+keyword	african american
+keyword	bathtub
+keyword	organic co op farm
+keyword	watching a video on tv
+keyword	lesbian kiss
+keyword	bisexual interest
+keyword	eyeglasses
+keyword	control freak
+keyword	tea
+keyword	family relationships
+keyword	lesbian love
+keyword	crush
+keyword	singer
+keyword	love
+keyword	landscaper
+keyword	oral sex
+keyword	los angeles dodgers
+keyword	bath
+keyword	vagina
+keyword	record collection
+keyword	fertility
+keyword	laptop computer
+keyword	gardener
+keyword	female female kiss
+keyword	drumming thumbs on a tabletop
+keyword	bedroom
+keyword	title directed by female
+keyword	computer
+keyword	basketball
+keyword	watching a video on a computer
+keyword	gay slur
+keyword	infidelity
+keyword	going away to college
+keyword	photograph
+keyword	woman with glasses
+keyword	organic food
+keyword	father daughter relationship
+keyword	landscape gardening
+keyword	mother daughter relationship
+keyword	dumpster
+keyword	montage
+keyword	woman on top
+keyword	drug use
+keyword	dog
+keyword	bare breasts
+keyword	woman smoker
+keyword	woman in bath
+keyword	blowing nose
+keyword	pickup truck
+keyword	wrapped in a towel
+keyword	sunglasses
+keyword	money
+keyword	cell phone
+keyword	injury
+keyword	watching a gay porn video
+keyword	boyfriend girlfriend relationship
+keyword	pillow
+keyword	fight
+keyword	panties
+keyword	lesbian marriage
+keyword	candle
+keyword	pajamas
+keyword	shopping cart
+keyword	strawberry rhubarb pie
+keyword	coffee
+keyword	college campus
+keyword	kitchen
+keyword	pie
+keyword	knocking over a garbage can
+keyword	nudity
+keyword	same sex marriage
+keyword	backache
+keyword	high school athlete
+keyword	justification of drinking
+keyword	grammatically incorrect title
+keyword	shared bath
+keyword	ping pong
+keyword	exposed thong
+keyword	interloper
+keyword	bra
+keyword	electric toothbrush
+keyword	reference to joni mitchell
+keyword	search for birth father
+keyword	mother son relationship
+keyword	dildo
+keyword	pepper
+keyword	california
+keyword	hat
+keyword	cigarette smoking
+keyword	betrayal
+keyword	dorm room
+keyword	gardening store
+keyword	lesbian
+keyword	reference to advil
+keyword	drain
+keyword	los angeles california
+keyword	interracial sex
+keyword	female nudity
+keyword	mistaken for gay
+keyword	regret
+keyword	skateboard
+keyword	ecology
+keyword	lighting a candle
+keyword	team sports
+keyword	shame
+keyword	shooting hoops
+keyword	bed
+keyword	burial
+keyword	topless female nudity
+keyword	landscape designer
+keyword	stunt
+keyword	half brother half sister relationship
+keyword	lesbian sex
+keyword	saying goodbye
+keyword	f word
+keyword	lesbian relationship
+keyword	same sex parents
+keyword	animal cruelty
+keyword	hairy chest
+keyword	jealousy
+keyword	snooping
+keyword	sense of hearing
+keyword	gay pornography
+keyword	teasing
+keyword	echo park california
+keyword	alleyway
+keyword	answering machine
+keyword	reference to valium
+keyword	friendship
+keyword	food services industry
+keyword	white male black female relationship
+keyword	falling from height
+keyword	kiss
+keyword	having sex while watching porn
+keyword	break up
+keyword	caught watching pornography
+keyword	singing
+keyword	tongue
+keyword	thong
+keyword	scrabble
+keyword	composting
+keyword	skateboarding
+keyword	redhead
+keyword	character says what you see is what you get
+keyword	patio
+keyword	urination
+keyword	drunkenness
+keyword	interracial relationship
+keyword	sperm bank
+keyword	unfaithfulness
+keyword	barbecue
+keyword	motorcycle helmet
+keyword	micromanagement
+keyword	suspected homosexual
+keyword	dvd
+keyword	vibrator
+keyword	cremation
+keyword	coming of age
+keyword	nervousness
+keyword	hugging
+keyword	song
+keyword	rough sex
+keyword	tears
+keyword	lesbian mother
+keyword	packing
+keyword	fecundity
+keyword	wine
+keyword	gay parent
+keyword	unconditional love
+keyword	leaving home
+keyword	guilt
+keyword	lesbian interest
+keyword	gardening
+keyword	organic farming
+keyword	apology
+keyword	party
+keyword	holding hands
+keyword	waitress
+keyword	male nudity
+keyword	bare butt
+keyword	punched in the face
+keyword	cynicism
+keyword	buenos aires argentina
+keyword	telephone call
+keyword	fired from the job
+keyword	marital problem
+keyword	waving goodbye
+keyword	allergy
+keyword	drink
+keyword	bicycle
+keyword	get well card
+keyword	college freshman
+keyword	hair brush
+keyword	reference to home depot
+keyword	bathroom
+keyword	peace symbol
+keyword	cafe
+keyword	character's point of view camera shot
+keyword	cooking
+keyword	doctor
+keyword	snorting cocaine
+keyword	undressing
+keyword	brushing teeth
+keyword	lesbianism
+keyword	food
+keyword	group hug
+keyword	penis
+keyword	baja california
+keyword	watching tv
+keyword	video camera
+keyword	bare chested male
+keyword	watching porn
+keyword	bar
+keyword	marriage
+keyword	character says i shall return
+keyword	fear of a motorcycle accident
+keyword	balcony
+keyword	drugs
+keyword	plant nursery
+keyword	extramarital affair
+keyword	awkwardness
+keyword	face slap
+keyword	sexuality
+keyword	mother dislikes son's friend
+cast	Julianne Moore	Jules
+cast	Annette Bening	Nic
+cast	Mark Ruffalo	Paul
+cast	Mia Wasikowska	Joni
+cast	Josh Hutcherson	Laser
+cast	Yaya Alafia	Tanya
+cast	Kunal Sharma	Jai
+cast	Eddie Hassell	Clay
+cast	Zosia Mamet	Sasha
+cast	Joaquín Garrido	Luis
+cast	Rebecca Lawrence Levy	Brooke
+cast	Lisa Eisner	Stella
+cast	Eric Eisner	Joel
+cast	Sasha Spielberg	Waify Girl
+cast	James MacDonald	Clay's Dad
+cast	Margo Victor	Bartender
+cast	Stuart Blumberg	Sous-chef
+cast	Diego Calderón	Waiter

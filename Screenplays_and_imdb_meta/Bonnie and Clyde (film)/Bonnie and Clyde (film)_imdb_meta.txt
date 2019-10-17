@@ -1,0 +1,324 @@
+year	1967
+imdb score	8.0
+meta score	81
+genre	Biography
+genre	Crime
+genre	Drama
+genre	Romance
+keyword	bank
+keyword	love
+keyword	robbery
+keyword	gang
+keyword	violence
+keyword	crime spree
+keyword	small town
+keyword	texas
+keyword	oklahoma
+keyword	prison
+keyword	newspaper
+keyword	bank robbery
+keyword	fugitive
+keyword	platte city iowa
+keyword	lovers on the lam
+keyword	villain played by lead actor
+keyword	making faces
+keyword	gas station
+keyword	migrant camp
+keyword	car chase
+keyword	checkers
+keyword	brother brother relationship
+keyword	filling station
+keyword	wound
+keyword	reference to jesse james
+keyword	pear
+keyword	auto theft
+keyword	crossing a stream
+keyword	bank foreclosure
+keyword	groceries
+keyword	eye wound
+keyword	shot in the arm
+keyword	doomed love
+keyword	poetess
+keyword	great depression
+keyword	on the run
+keyword	riding on a running board
+keyword	stealing
+keyword	crying
+keyword	money
+keyword	house rental
+keyword	auto mechanic
+keyword	black american
+keyword	eyeglasses
+keyword	praying on knees
+keyword	watching through window
+keyword	knocking on door
+keyword	field
+keyword	motel
+keyword	bounty hunter
+keyword	broken sunglasses
+keyword	gore
+keyword	running gunfight
+keyword	car theft
+keyword	betrayal
+keyword	flirting
+keyword	snoring
+keyword	watching a movie
+keyword	thief
+keyword	murder of a police officer
+keyword	female rear nudity
+keyword	bullet ballet
+keyword	chain smoking
+keyword	carried over threshold
+keyword	shot repeatedly
+keyword	singing
+keyword	family reunion
+keyword	restlessness
+keyword	interrogation
+keyword	rowboat
+keyword	sunglasses
+keyword	overturning car
+keyword	white trash
+keyword	target practice
+keyword	blood splatter
+keyword	wisconsin
+keyword	rain
+keyword	loss of brother
+keyword	gun moll
+keyword	shooting through window
+keyword	shooting
+keyword	flashlight
+keyword	rifle
+keyword	stealing a car
+keyword	shot in the face
+keyword	marriage
+keyword	braggadocio
+keyword	father son relationship
+keyword	joke
+keyword	hot wiring a car
+keyword	police raid
+keyword	telephone call
+keyword	shot in the eye
+keyword	blindness
+keyword	waitress
+keyword	eating a pear
+keyword	car accident
+keyword	moll
+keyword	female nudity
+keyword	baptist
+keyword	banjo
+keyword	celebrity criminal
+keyword	on the road
+keyword	restaurant
+keyword	gun battle
+keyword	shot through car windshield
+keyword	slow motion scene
+keyword	ex convict
+keyword	dying
+keyword	joplin missouri
+keyword	losing one's home
+keyword	bank alarm
+keyword	poem
+keyword	flat tire
+keyword	explosion
+keyword	gangster
+keyword	hospital
+keyword	car
+keyword	gun
+keyword	rolling downhill
+keyword	murder
+keyword	kidnapping
+keyword	death of brother
+keyword	reckless driving
+keyword	shooting out window
+keyword	father daughter relationship
+keyword	shot in the stomach
+keyword	bare chested male
+keyword	loss of husband
+keyword	looking at one's self in a mirror
+keyword	humiliation
+keyword	husband wife relationship
+keyword	sexual frustration
+keyword	1930s
+keyword	abandoned house
+keyword	gunfire
+keyword	set up
+keyword	tattoo
+keyword	talking through car window
+keyword	theatre audience
+keyword	killing spree
+keyword	cornfield
+keyword	turning one's own son in to the police
+keyword	mirror
+keyword	saying goodbye
+keyword	shot in water
+keyword	storytelling
+keyword	shot to death
+keyword	shooting a car
+keyword	face slap
+keyword	ice cream parlor
+keyword	villainess played by lead actress
+keyword	sand
+keyword	children
+keyword	death
+keyword	delivery boy
+keyword	refuge
+keyword	rowena texas
+keyword	figurine
+keyword	thrill seeker
+keyword	blood
+keyword	missouri
+keyword	farmer
+keyword	undertaker
+keyword	west dallas texas
+keyword	blood stain
+keyword	armored vehicle
+keyword	whispering
+keyword	movie theatre
+keyword	family relationships
+keyword	borderline
+keyword	running
+keyword	roadblock
+keyword	chase
+keyword	run for the border
+keyword	cafe
+keyword	shooting a mirror
+keyword	theft
+keyword	policeman
+keyword	oral sex
+keyword	ambush
+keyword	controversy
+keyword	firearm
+keyword	gunshot wound
+keyword	underwear
+keyword	car explosion
+keyword	singer
+keyword	hysteria
+keyword	piggly wiggly grocery store
+keyword	handcuffs
+keyword	reward
+keyword	shot in the chest
+keyword	little boy
+keyword	iowa
+keyword	homelessness
+keyword	mother daughter relationship
+keyword	crime epic
+keyword	jail
+keyword	infamy
+keyword	song
+keyword	armed robbery
+keyword	impotence
+keyword	hillbilly
+keyword	camera
+keyword	folk hero
+keyword	hiding under a truck
+keyword	badge
+keyword	screaming
+keyword	woman shot
+keyword	arm sling
+keyword	machismo
+keyword	fear
+keyword	police car
+keyword	shot in the leg
+keyword	tears
+keyword	gunfight
+keyword	eating in car
+keyword	jumping into water
+keyword	playing horsey
+keyword	police chase
+keyword	ice cream
+keyword	sex
+keyword	gun fu
+keyword	mattress
+keyword	cigarette smoking
+keyword	african american
+keyword	sand pit
+keyword	anti hero
+keyword	true crime
+keyword	brother in law sister in law relationship
+keyword	reading a newspaper
+keyword	spit in face
+keyword	old woman
+keyword	photographer
+keyword	lake
+keyword	rural setting
+keyword	mattress as shield
+keyword	eye bandage
+keyword	reference to myrna loy
+keyword	shot in the head
+keyword	cops and robbers
+keyword	sharing food
+keyword	driving off road
+keyword	diner
+keyword	farm hand
+keyword	cult film
+keyword	preacher's daughter
+keyword	fight
+keyword	death of husband
+keyword	adrift in rowboat
+keyword	cigar smoking
+keyword	gas mask
+keyword	shootout
+keyword	head wound
+keyword	farm
+keyword	pay phone
+keyword	water canteen
+keyword	foreclosure
+keyword	getaway driver
+keyword	revenge
+keyword	bullet hole in windshield
+keyword	shoulder holster
+keyword	confession
+keyword	texas ranger
+keyword	migrant
+keyword	grocery store
+keyword	hairy chest
+keyword	wheat field
+keyword	mailbox
+keyword	picnic
+keyword	criminal gang
+keyword	photograph
+keyword	falling into water
+keyword	jail break
+keyword	disciple of christ
+keyword	hamburger
+keyword	tourist court
+keyword	pursuit
+keyword	reference to franklin d roosevelt
+keyword	gunshot
+keyword	bed
+keyword	kiss
+keyword	police
+keyword	machine gun
+keyword	pretending to change flat tire
+keyword	meat cleaver
+keyword	sheriff
+keyword	reading
+keyword	based on true story
+keyword	character name in title
+keyword	title spoken by character
+keyword	
+cast	Warren Beatty	Clyde Barrow
+cast	Faye Dunaway	Bonnie Parker
+cast	Michael J. Pollard	C.W. Moss
+cast	Gene Hackman	Buck Barrow
+cast	Estelle Parsons	Blanche
+cast	Denver Pyle	Frank Hamer
+cast	Dub Taylor	Ivan Moss
+cast	Evans Evans	Velma Davis
+cast	Gene Wilder	Eugene Grizzard
+cast	Martha Adcock	Bank Customer
+cast	Harry Appling	Bonnie's Uncle
+cast	Owen Bush	Policeman
+cast	Mabel Cavitt	Bonnie's Mother
+cast	Patrick Cranshaw	Bank Teller
+cast	Frances Fisher	Bonnie's Aunt
+cast	Sadie French	Bank Customer
+cast	Garry Goodgion	Billy
+cast	Clyde Howdy	Deputy
+cast	Russ Marker	Bank Guard
+cast	Ken Mayer	Sheriff Smoot
+cast	Ken Miller	Police Officer
+cast	Ann Palmer	Bonnie's Sister
+cast	Stuart Spates	Boy at Bank
+cast	James Stiver	Grocery Store Owner
+cast	Ada Waugh	Bonnie's Aunt

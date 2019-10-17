@@ -1,0 +1,252 @@
+year	2011
+imdb score	7.9
+meta score	71
+genre	Crime
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	journalist
+keyword	computer hacker
+keyword	disappearance
+keyword	background check
+keyword	research
+keyword	cottage
+keyword	libel
+keyword	investigation
+keyword	murder
+keyword	woman punching a man
+keyword	video recording
+keyword	teenage daughter
+keyword	wiretap
+keyword	gash in the face
+keyword	nazi
+keyword	scandal
+keyword	revenge
+keyword	lesbian bar
+keyword	lens flare
+keyword	dead cat
+keyword	tattoo parlor
+keyword	internet research
+keyword	shower
+keyword	car accident
+keyword	rain
+keyword	goth girl
+keyword	severed head
+keyword	rape and revenge
+keyword	exploding car
+keyword	gps
+keyword	gagged
+keyword	cocktail party
+keyword	fireplace
+keyword	mob of reporters
+keyword	passenger train
+keyword	revelation
+keyword	police record
+keyword	woman on top
+keyword	orgasm
+keyword	pressed flower
+keyword	pierced nipple
+keyword	female rear nudity
+keyword	car explosion
+keyword	killing a pet
+keyword	vengeance
+keyword	bible quote
+keyword	umbrella
+keyword	oral sex
+keyword	missing girl
+keyword	bisexual woman
+keyword	knife
+keyword	motorcycle
+keyword	parade
+keyword	serial killer
+keyword	sex
+keyword	island
+keyword	flashback
+keyword	cigarette smoking
+keyword	news report
+keyword	hung from a hook
+keyword	investigator
+keyword	train
+keyword	lawsuit
+keyword	secret code
+keyword	female in shower
+keyword	forced blow job
+keyword	birthday present
+keyword	anti semitism
+keyword	leather jacket
+keyword	sexual sadism
+keyword	stroke
+keyword	infidelity
+keyword	fraud
+keyword	tied to a bed
+keyword	elevator
+keyword	stroke victim
+keyword	old money
+keyword	father daughter incest
+keyword	stray cat
+keyword	undressing
+keyword	clothes ripping
+keyword	anal sex
+keyword	foreign language adaptation
+keyword	body piercing
+keyword	google
+keyword	lesbian kiss
+keyword	pistol
+keyword	notebook
+keyword	younger version of character
+keyword	rape with a dildo
+keyword	lawyer
+keyword	tabby cat
+keyword	disguise
+keyword	sniper
+keyword	bare chested male
+keyword	wikipedia
+keyword	riding motorcycle
+keyword	bridge
+keyword	gas
+keyword	uncle nephew relationship
+keyword	bisexual
+keyword	torture
+keyword	stockholm sweden
+keyword	1960s
+keyword	mohawk
+keyword	rape
+keyword	brother sister incest
+keyword	no cellphone signal
+keyword	subway
+keyword	german shepherd
+keyword	anal rape
+keyword	hit with a golf club
+keyword	taser
+keyword	grandfather
+keyword	laptop computer
+keyword	father daughter relationship
+keyword	character repeating someone else's dialogue
+keyword	crime scene photograph
+keyword	car fire
+keyword	man with glasses
+keyword	daughter murders father
+keyword	attempted robbery
+keyword	london england
+keyword	tattoo
+keyword	snow
+keyword	uncle niece relationship
+keyword	hiding in a car trunk
+keyword	magazine editor
+keyword	threat
+keyword	bag over head
+keyword	female frontal nudity
+keyword	bible
+keyword	topless female nudity
+keyword	phone booth
+keyword	fellatio
+keyword	hidden camera
+keyword	loan
+keyword	child molester
+keyword	year 1966
+keyword	ward of the state
+keyword	photograph
+keyword	video surveillance
+keyword	slow motion scene
+keyword	older man younger woman relationship
+keyword	blackmail
+keyword	train station
+keyword	death
+keyword	suffocation
+keyword	corpse
+keyword	corrupt lawyer
+keyword	newspaper archive
+keyword	merkin wig
+keyword	deception
+keyword	police station
+keyword	dysfunctional family
+keyword	head wound
+keyword	killing an animal
+keyword	blonde wig
+keyword	based on novel
+keyword	surprise ending
+cast	Daniel Craig	Mikael Blomkvist
+cast	Rooney Mara	Lisbeth Salander
+cast	Christopher Plummer	Henrik Vanger
+cast	Stellan Skarsgård	Martin Vanger
+cast	Steven Berkoff	Dirch Frode
+cast	Robin Wright	Erika Berger
+cast	Yorick van Wageningen	Nils Bjurman
+cast	Joely Richardson	Anita Vanger
+cast	Geraldine James	Cecilia Vanger
+cast	Goran Visnjic	Dragan Armansky
+cast	Donald Sumpter	Detective Inspector Gustaf Morell
+cast	Ulf Friberg	Hans-Erik Wennerström
+cast	Bengt C.W. Carlsson	Holger Palmgren
+cast	Tony Way	Plague
+cast	Per Myrberg	Harald Vanger
+cast	Josefin Asplund	Pernilla Blomkvist
+cast	Eva Fritjofson	Anna Nygren
+cast	Moa Garpendal	Harriet Vanger
+cast	Maya Hansson-Bergqvist	Young Anna Nygren
+cast	Sarah Appelberg	Young Cecilia Vanger
+cast	Julian Sands	Young Henrik Vanger
+cast	Anna Björk	Young Isabella Vanger
+cast	Gustaf Hammarsten	Young Harald Vanger
+cast	Simon Reithner	Young Martin Vanger
+cast	David Dencik	Young Gustaf Morell
+cast	Marcus Johansson	Young Gunnar Nilsson
+cast	Mathilda von Essen	Young Anita Vanger
+cast	Mathias Palmér	Young Birger Vanger
+cast	Martin Jarvis	Birger Vanger
+cast	Inga Landgré	Isabella Vanger
+cast	Reza Dehban	Hussein
+cast	Anders Berg	Young Dirch Frode
+cast	Mats Andersson	Gunnar Nilsson
+cast	Anders Jansson	Doctor
+cast	Jürgen Klein	Gottfried
+cast	Kalle Josephson	Tech at MacJesus
+cast	Sandra Andreis	Photo Editor
+cast	Arly Jover	Liv
+cast	Pierre Sjö Östergren	Tattoo Artist
+cast	Tess Panzer	TV Newscaster
+cast	Alastair Duncan	Greger
+cast	Alan Dale	Detective Isaksson
+cast	Julia Rose	Nurse
+cast	Peter Carlberg	Hardware Clerk
+cast	Jan Abramson	Forsman
+cast	Lena Strömdahl	Mildred
+cast	Matthew Wolf	Tech Clerk
+cast	Anne-Li Norberg	Lindgren
+cast	Leo Bill	Trinity
+cast	Albrecht Marco	Junkie
+cast	Martina Lotun	Reporter at Vanger
+cast	Anna Carlson	FSA Official
+cast	Yvonne Åstrand	FSA Reporter
+cast	Fredrik Dolk	Wennerström's Lawyer
+cast	Christian Heller	Banker
+cast	Werner Biermeier	Banker
+cast	Christine Adams	Barbados TV Reporter
+cast	Peter Hottinger	Zurich TV Reporter
+cast	Joyce Giraud	Spain TV Reporter
+cast	Bengt Wallgren	Tailor
+cast	Elodie Yung	Miriam Wu
+cast	Anna Charlotta Gunnarson	Reporter
+cast	Andreas Björklund	Reporter
+cast	Embeth Davidtz	Annika Blomkvist Giannini
+cast	Joel Kinnaman	Christer Malm
+cast	Karen E. Wright	Magda Lovison
+cast	Leah Shaw	Book of Death Victim
+cast	George Gerdes	Udevalla Detective
+cast	Sahlima	Flight Attendant
+cast	Jenifer Brougham	Murder Victim
+cast	Melissa Ciesla	Mari Holmberg
+cast	Amanda Dyar	Bar Patron
+cast	Laurence Fuller	Hospital Visitor
+cast	Henry Hereford	Lars
+cast	Patrick Holland	CNN Newscaster
+cast	Darri Ingolfsson	Karlstad Police Officer
+cast	Ian Kitzmiller	Swedish Police
+cast	Christopher Maleki	Hanzel
+cast	Annica McCrudden	TV Reporter
+cast	Cate Montgomery	Liv 'Eva' Gustavsson, Murder Victim
+cast	Alessandro Piersimoni	Annika's Husband
+cast	Britt Soderberg	Millennium Employee
+cast	Malin Toverud	Abused woman
+cast	Yasmine Vine	Assyrian Immigrant
+cast	Mike Zehr	The Locksmith

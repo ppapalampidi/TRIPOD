@@ -1,0 +1,189 @@
+year	1998
+imdb score	8.0
+meta score	90
+genre	Comedy
+genre	Drama
+genre	Sci-Fi
+keyword	island
+keyword	hidden camera
+keyword	morality
+keyword	boat accident
+keyword	simulated reality
+keyword	voyeurism
+keyword	lawn mower
+keyword	supermarket
+keyword	mother son relationship
+keyword	blockbuster
+keyword	filmmaking
+keyword	moon
+keyword	bar
+keyword	adoption
+keyword	bus
+keyword	search party
+keyword	talk show in plot
+keyword	marketing
+keyword	marital separation
+keyword	mirror
+keyword	hollywood sign
+keyword	newsstand
+keyword	storm at sea
+keyword	suspicion
+keyword	hermetic world
+keyword	shakespearean
+keyword	bathroom
+keyword	three word title
+keyword	mental torture
+keyword	traffic jam
+keyword	rainstorm
+keyword	radio broadcast
+keyword	fictional tv show
+keyword	searchlight
+keyword	artifice
+keyword	friendship
+keyword	television
+keyword	nuclear accident
+keyword	elevator
+keyword	insurance agent
+keyword	acting
+keyword	basement
+keyword	god complex
+keyword	snorricam
+keyword	fictional reality show
+keyword	infiltration
+keyword	school
+keyword	film in film
+keyword	wall of fire
+keyword	golf
+keyword	bathtub
+keyword	deja vu
+keyword	small town
+keyword	no opening credits
+keyword	television producer
+keyword	christmas
+keyword	cult film
+keyword	drowning
+keyword	creator creation relationship
+keyword	1990s
+keyword	finger crossing
+keyword	twins
+keyword	flashback
+keyword	satire
+keyword	father son relationship
+keyword	betrayal
+keyword	controlled environment
+keyword	florida
+keyword	innocence lost
+keyword	travel agency
+keyword	object falling from the sky
+keyword	library
+keyword	sadness
+keyword	hospital
+keyword	escape
+keyword	dancing
+keyword	media hype
+keyword	man with glasses
+keyword	improvisation
+keyword	beach
+keyword	deceit
+keyword	future
+keyword	identity
+keyword	simple man
+keyword	surgery
+keyword	bravery
+keyword	alternative reality
+keyword	video surveillance
+keyword	ego
+keyword	weather manipulation
+keyword	bridge
+keyword	marriage
+keyword	loss of father
+keyword	fear of water
+keyword	vending machine
+keyword	college
+keyword	nurse
+keyword	paranoia
+keyword	product placement
+keyword	bicycle
+keyword	fictional talk show
+keyword	collage
+keyword	spatial loop
+keyword	sailboat
+keyword	revolving door
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Jim Carrey	Truman Burbank
+cast	Laura Linney	Meryl Burbank / Hannah Gill
+cast	Noah Emmerich	Marlon
+cast	Natascha McElhone	Lauren / Sylvia
+cast	Holland Taylor	Truman's Mother
+cast	Brian Delate	Truman's Father
+cast	Blair Slater	Young Truman
+cast	Peter Krause	Lawrence
+cast	Heidi Schanz	Vivien
+cast	Ron Taylor	Ron
+cast	Don Taylor	Don
+cast	Ted Raymond	Spencer
+cast	Judy Clayton	Travel Agent
+cast	Fritz Dominique	Truman's Neighbor
+cast	Angel Schmiedt	Truman's Neighbor
+cast	Nastassja Schmiedt	Truman's Neighbor
+cast	Muriel Moore	Teacher
+cast	Mal Jones	News Vendor
+cast	Judson Vaughn	Insurance Co-Worker
+cast	Earl Hilliard Jr.	Ferry Worker
+cast	David Andrew Nash	Bus Driver / Ferry Captain
+cast	Jim Towers	Bus Supervisor
+cast	Savannah Swafford	Little Girl in Bus
+cast	Antoni Corone	Security Guard
+cast	Mario Ernesto Sánchez	Security Guard
+cast	John Roselius	Man at Beach
+cast	Kade Coates	Truman
+cast	Marcia DeBonis	Nurse
+cast	Sam Kitchin	Surgeon
+cast	Sebastian Youngblood	Orderly
+cast	Dave Corey	Hospital Security Guard
+cast	Mark Alan Gillott	Policeman at Power Plant
+cast	Jay Saiter	Policeman at Truman's House
+cast	Tony Todd	Policeman at Truman's House
+cast	Marco Rubeo	Man in Christmas Box
+cast	Darryl Davis	Couple at Picnic Table
+cast	Robert Davis	Couple at Picnic Table
+cast	R.J. Murdock	Production Assistant
+cast	Matthew McDonough	Man at Newsstand
+cast	Larry McDowell	Man at Newsstand
+cast	Joseph Lucus	Ticket Taker
+cast	Logan Kirksey	TV Host
+cast	Ed Harris	Christof
+cast	Paul Giamatti	Control Room Director
+cast	Adam Tomei	Control Room Director
+cast	Harry Shearer	Mike Michaelson
+cast	Una Damon	Chloe
+cast	Philip Baker Hall	Network Executive
+cast	John Pleshette	Network Executive
+cast	Philip Glass	Keyboard Artist
+cast	John Pramik	Keyboard Artist
+cast	O-Lan Jones	Bar Waitress
+cast	Krista Lynn Landolfi	Bar Waitress
+cast	Joe Minjares	Bartender
+cast	Al Foster	Bar Patron
+cast	Zoaunne LeRoy	Bar Patron
+cast	Millie Slavin	Bar Patron
+cast	Terry Camilleri	Man in Bathtub
+cast	Donna Hardy	Senior Citizen
+cast	Jeanette Miller	Senior Citizen
+cast	Joel McKinnon Miller	Garage Attendant
+cast	Tom Simmons	Garage Attendant
+cast	Susan Angelo	Mother
+cast	Carly Smiga	Daughter
+cast	Yuji Okumoto	Japanese Family
+cast	Kiyoko Yamaguchi	Japanese Family
+cast	Saemi Nakamura	Japanese Family
+cast	Jake Eberle	Classical Clive
+cast	Melissa Fitzgerald	Girl Dancing with Marlon
+cast	Marc Macaulay	
+cast	Mickalean McCormick	Assistant to Christof
+cast	Lorin Moore	Ticket Handler
+cast	Courtney Pakiz	German linguist / interpreter
+cast	Kevin D. Ross	Talk Show Caller
+cast	Erica Taylor	Prom Guest

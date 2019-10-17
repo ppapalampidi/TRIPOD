@@ -1,0 +1,140 @@
+year	1993
+imdb score	8.0
+meta score	68
+genre	Adventure
+genre	Sci-Fi
+keyword	dinosaur
+keyword	island
+keyword	tour
+keyword	theme park
+keyword	computer
+keyword	lawyer
+keyword	paleontologist
+keyword	children
+keyword	tyrannosaurus
+keyword	triceratops
+keyword	entrepreneur
+keyword	tyrannosaurus rex
+keyword	mathematician
+keyword	scientist
+keyword	monster
+keyword	part computer animated
+keyword	two word title
+keyword	technophobic
+keyword	hunter
+keyword	electrocution
+keyword	rainstorm
+keyword	science goes awry
+keyword	deoxyribonucleic acid
+keyword	vegetarian
+keyword	suspense
+keyword	rifle
+keyword	egg
+keyword	heavy rain
+keyword	animal attack
+keyword	power outage
+keyword	insect in amber
+keyword	tongue
+keyword	experiment
+keyword	eaten alive
+keyword	babe scientist
+keyword	virtual reality
+keyword	disaster
+keyword	slow motion scene
+keyword	jeep
+keyword	female hacker
+keyword	killing an animal
+keyword	microscope
+keyword	rain
+keyword	biology
+keyword	security breach
+keyword	child's point of view
+keyword	computer hacker
+keyword	t rex
+keyword	comic relief
+keyword	science runs amok
+keyword	cult film
+keyword	sole black character dies cliche
+keyword	shotgun
+keyword	outhouse
+keyword	corporate logo
+keyword	1990s
+keyword	night vision goggles
+keyword	security guard
+keyword	blockbuster
+keyword	gene manipulation
+keyword	brontosaurus
+keyword	creature feature
+keyword	raptor
+keyword	epic
+keyword	rampage
+keyword	lifting someone into the air
+keyword	violence
+keyword	famous score
+keyword	chaos theory
+keyword	millionaire
+keyword	amusement park
+keyword	helicopter
+keyword	laboratory
+keyword	electric fence
+keyword	tropical island
+keyword	industrial espionage
+keyword	fossil
+keyword	unix
+keyword	surveillance
+keyword	computer cracker
+keyword	museum
+keyword	paleontology
+keyword	teenage girl
+keyword	experiment gone wrong
+keyword	secret island
+keyword	genetic engineering
+keyword	flare
+keyword	no opening credits
+keyword	part animation
+keyword	jungle
+keyword	child in peril
+keyword	cloning
+keyword	lifting an adult into the air
+keyword	science
+keyword	first of series
+keyword	megacorporation
+keyword	dung
+keyword	mosquito
+keyword	security camera
+keyword	severed arm
+keyword	sabotage
+keyword	ice cream
+keyword	lifting a male into the air
+keyword	chase
+keyword	part computer animation
+keyword	product placement
+keyword	based on novel
+keyword	title spoken by character
+cast	Sam Neill	Dr. Alan Grant
+cast	Laura Dern	Dr. Ellie Sattler
+cast	Jeff Goldblum	Dr. Ian Malcolm
+cast	Richard Attenborough	John Hammond
+cast	Bob Peck	Robert Muldoon
+cast	Martin Ferrero	Donald Gennaro
+cast	Joseph Mazzello	Tim Murphy
+cast	Ariana Richards	Lex Murphy
+cast	Samuel L. Jackson	Ray Arnold
+cast	BD Wong	Henry Wu
+cast	Wayne Knight	Dennis Nedry
+cast	Gerald R. Molen	Gerry Harding
+cast	Miguel Sandoval	Juanito Rostagno
+cast	Cameron Thor	Lewis Dodgson
+cast	Christopher John Fields	Volunteer #1
+cast	Whit Hertford	Volunteer Boy
+cast	Dean Cundey	Mate
+cast	Jophery C. Brown	Worker in Raptor Pen
+cast	Tom Mishler	Helicopter Pilot
+cast	Greg Burson	Mr. D.N.A.
+cast	Adrian Escober	Worker at Amber Mine
+cast	Richard Kiley	Jurassic Park Tour Voice
+cast	Brad M. Bucklin	Lab Technician
+cast	Laura Burnett	Archeologist
+cast	Gary Rodriguez	Miner - Dug Out Mosquito
+cast	Brian Smrz	Driver of Grant, Sattler & Malcolm's Jeep
+cast	Robert 'Bobby Z' Zajonc	InGen Helicopter Pilot

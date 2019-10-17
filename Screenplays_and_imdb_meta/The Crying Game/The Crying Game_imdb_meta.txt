@@ -1,0 +1,117 @@
+year	1992
+imdb score	7.3
+meta score	90
+genre	Crime
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	soldier
+keyword	hairdresser
+keyword	escape
+keyword	friendship
+keyword	irish republican army
+keyword	vomiting after sex
+keyword	unlikely friendship
+keyword	love affair
+keyword	male on male oral sex
+keyword	interracial relationship
+keyword	psychological drama
+keyword	hostage
+keyword	n word
+keyword	twisted love
+keyword	male frontal nudity
+keyword	deception
+keyword	impersonation
+keyword	platonic love
+keyword	sex
+keyword	lesbian slur
+keyword	scorpion
+keyword	ireland
+keyword	chase in the woods
+keyword	freak accident
+keyword	stockholm syndrome
+keyword	terrorism
+keyword	revenge
+keyword	famous twist
+keyword	stalking
+keyword	vomit
+keyword	controversy
+keyword	title based on song
+keyword	tied to a bed
+keyword	romantic misunderstanding
+keyword	sexuality
+keyword	nudity
+keyword	african anglo
+keyword	false identification
+keyword	penis
+keyword	blood splatter
+keyword	gay
+keyword	crying
+keyword	doomed romance
+keyword	transvestite
+keyword	gender bending
+keyword	fable
+keyword	bmw
+keyword	bisexuality
+keyword	political thriller
+keyword	bible quote
+keyword	person in hiding
+keyword	secret life
+keyword	interracial romance
+keyword	northern ireland
+keyword	f word
+keyword	suicide attempt
+keyword	critically acclaimed
+keyword	long hair
+keyword	assassination plot
+keyword	loyalty
+keyword	actual animal killed
+keyword	gay bar
+keyword	shootout
+keyword	assassination
+keyword	prison
+keyword	construction worker
+keyword	transvestism
+keyword	sexual disgust
+keyword	amusement park
+keyword	guinness
+keyword	fatal attraction
+keyword	london england
+keyword	surprise
+keyword	tragic love
+keyword	redemption
+keyword	three word title
+keyword	haunted by the past
+keyword	kidnapping
+keyword	sexual thriller
+keyword	accidental death
+keyword	burned with a cigarette
+keyword	frog
+keyword	promise
+keyword	traffic accident
+keyword	machine gun
+keyword	sexual orientation
+keyword	violence against women
+keyword	urination
+keyword	love at first sight
+keyword	independent film
+keyword	surprise ending
+keyword	plot twist
+cast	Forest Whitaker	Jody
+cast	Miranda Richardson	Jude
+cast	Stephen Rea	Fergus
+cast	Adrian Dunbar	Maguire
+cast	Breffni McKenna	Tinker
+cast	Joe Savino	Eddie
+cast	Birdy Sweeney	Tommy
+cast	Jaye Davidson	Dil
+cast	Andrée Bernard	Jane
+cast	Jim Broadbent	Col
+cast	Ralph Brown	Dave
+cast	Tony Slattery	Deveroux
+cast	Jack Carr	Franknum
+cast	Josephine White	Bar Performer 1
+cast	Shar Campbell	Bar Performer 2
+cast	Bryan Coleman	Judge
+cast	Ray De-Haan	Security Man 1
+cast	David Crionelly	Security Man 2

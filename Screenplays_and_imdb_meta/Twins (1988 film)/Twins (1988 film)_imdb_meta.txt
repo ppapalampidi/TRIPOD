@@ -1,0 +1,94 @@
+year	1988
+imdb score	5.9
+meta score	53
+genre	Comedy
+genre	Drama
+keyword	brother
+keyword	twins
+keyword	artist colony
+keyword	brother brother relationship
+keyword	lost mother
+keyword	mother superior
+keyword	twins separated at birth
+keyword	nun
+keyword	biological experiment
+keyword	silencer
+keyword	stolen car
+keyword	criminal
+keyword	blockbuster
+keyword	brotherhood
+keyword	new mexico
+keyword	car theft
+keyword	catholic orphanage
+keyword	desert island
+keyword	opposites
+keyword	low intelligence
+keyword	delivery
+keyword	scientist
+keyword	actor breaking typecast
+keyword	genius
+keyword	one word title
+keyword	perfection
+keyword	texas
+keyword	killer
+keyword	jet engine
+keyword	deception
+keyword	male virgin
+keyword	loss of virginity
+keyword	arizona
+keyword	california
+keyword	redemption
+keyword	same habits
+keyword	title spoken by character
+cast	Arnold Schwarzenegger	Julius Benedict
+cast	Danny DeVito	Vincent Benedict
+cast	Kelly Preston	Marnie Mason
+cast	Chloe Webb	Linda Mason
+cast	Bonnie Bartlett	Old Mary Ann Benedict
+cast	Trey Wilson	Beetroot McKinley
+cast	Marshall Bell	Webster
+cast	David Caruso	Al Greco
+cast	Hugh O'Brian	Granger
+cast	Nehemiah Persoff	Mitchell Traven
+cast	Maury Chaykin	Burt Klane
+cast	Tony Jay	Werner
+cast	Tom McCleister	Bob Klane
+cast	David Efron	Morris Klane
+cast	Peter Dvorsky	Peter Garfield
+cast	Robert Harper	Gilbert Larsen
+cast	Rosemary Dunsmore	Miss Busby
+cast	Lora Milligan	Stewardess
+cast	Richard deFaut	Custodian
+cast	Richard Portnow	Chop Shop Owner
+cast	S.A. Griffin	Hollywood Biker #1
+cast	Billy D. Lucas	Hollywood Biker #2
+cast	Lew Hopson	Cop
+cast	Frances Bay	Mother Superior
+cast	Marvin J. McIntyre	McKinley's Man
+cast	Cary-Hiroyuki Tagawa	Oriental Man
+cast	Wayne Grace	Cell Guard
+cast	Thomas Wagner	Visiting Room Guard
+cast	Jay Arlen Jones	Mover #1
+cast	Ty Granderson Jones	Mover #2
+cast	Elizabeth Kaitan	Secretary
+cast	Tom Platz	Granger Son #1
+cast	Roger Callard	Granger Son #2
+cast	Jason Reitman	Granger Grandson
+cast	Catherine Reitman	Granger Granddaughter
+cast	Dendrie Taylor	Female Neighbor
+cast	Sven-Ole Thorsen	Sam Klane
+cast	Gus Rethwisch	Dave Klane
+cast	Linda Porter	Painter
+cast	Bruce McBroom	Handsome Father
+cast	Joe Medjuck	Photographer
+cast	Frank Davis	Security Guard
+cast	John Michael Bolger	Security Guard
+cast	Steve Reevis	Indian
+cast	Jeff Beck	Lead Guitarist
+cast	Terry Bozzio	Drums
+cast	Tony Hymas	Keyboards
+cast	Nicolette Larson	Singer
+cast	Jill Avery	Bass Player
+cast	Dustin Amy	Picture Taker #2
+cast	Heather Graham	Young Mary Ann Benedict
+cast	Raymond Storti	Bar Patron

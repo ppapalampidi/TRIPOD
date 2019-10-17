@@ -1,0 +1,254 @@
+year	1990
+imdb score	7.5
+meta score	57
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	memory
+keyword	reality
+keyword	colony
+keyword	planet
+keyword	dream
+keyword	construction worker
+keyword	false memory
+keyword	mutant
+keyword	vacation
+keyword	rebel
+keyword	mining
+keyword	secret agent
+keyword	intelligence
+keyword	future
+keyword	implanted memory
+keyword	nightmare
+keyword	shot in the forehead
+keyword	gunfight
+keyword	outer space
+keyword	shootout
+keyword	pantsuit
+keyword	impersonation
+keyword	reference to george washington
+keyword	shot to death
+keyword	underground resistance
+keyword	dystopia
+keyword	sole black character dies cliche
+keyword	machine gun
+keyword	timebomb
+keyword	human shield
+keyword	explosion
+keyword	redemption
+keyword	lack of oxygen
+keyword	panties
+keyword	pill
+keyword	hologram
+keyword	conspiracy
+keyword	kicked in the face
+keyword	black comedy
+keyword	megacorporation
+keyword	generator
+keyword	space western
+keyword	held at gunpoint
+keyword	uzi
+keyword	bar
+keyword	prostitute
+keyword	neck breaking
+keyword	weapon
+keyword	karate
+keyword	robot
+keyword	product placement
+keyword	class differences
+keyword	falling from height
+keyword	drilling machine
+keyword	gore
+keyword	famous line
+keyword	catfight
+keyword	2080s
+keyword	stomping on someone's groin
+keyword	subway
+keyword	spaceship
+keyword	social commentary
+keyword	face slap
+keyword	taxi
+keyword	rage
+keyword	future shock
+keyword	bare breasts
+keyword	crotch grab
+keyword	futuristic train
+keyword	exploding car
+keyword	husband murders wife
+keyword	action hero
+keyword	21st century
+keyword	nudity
+keyword	murder
+keyword	trans world airline
+keyword	rebellion
+keyword	aquarium
+keyword	based on short story
+keyword	poetic justice
+keyword	ambiguity
+keyword	explosive decompression
+keyword	rat
+keyword	towel
+keyword	utopia
+keyword	prejudice
+keyword	telling someone to shut up
+keyword	mine
+keyword	bar fight
+keyword	mars the planet
+keyword	car chase
+keyword	alien
+keyword	stabbed in the throat
+keyword	severed arm
+keyword	credits as currency
+keyword	exploding head
+keyword	oppression
+keyword	surrealism
+keyword	alien technology
+keyword	tough guy
+keyword	racism
+keyword	brawl
+keyword	misunderstanding
+keyword	cyberpunk
+keyword	oxygen
+keyword	divorce
+keyword	ambiguous ending
+keyword	video telephone
+keyword	jackhammer
+keyword	kicked in the groin
+keyword	pursuit
+keyword	vestigial twin
+keyword	hit in the crotch
+keyword	nightclub
+keyword	simulated reality
+keyword	terraforming
+keyword	evil man
+keyword	hero
+keyword	reverse footage
+keyword	hand to hand combat
+keyword	man disguised as a woman
+keyword	brothel
+keyword	gadget
+keyword	blood
+keyword	stabbed to death
+keyword	paranoia
+keyword	virtuality
+keyword	axe
+keyword	three breasted woman
+keyword	blockbuster
+keyword	showdown
+keyword	watching tv
+keyword	spaceman
+keyword	betrayal
+keyword	brainwashing
+keyword	punched in the face
+keyword	chase
+keyword	techne
+keyword	woman shot in the forehead
+keyword	destruction
+keyword	commercial
+keyword	impalement
+keyword	dwarf
+keyword	taxi driver
+keyword	remote control
+keyword	freak
+keyword	tough girl
+keyword	construction site
+keyword	cult film
+keyword	knife
+keyword	anti hero
+keyword	mountain
+keyword	foot chase
+keyword	opening action scene
+keyword	spacesuit
+keyword	villainess
+keyword	male protagonist
+keyword	on the run
+keyword	mutation
+keyword	corruption
+keyword	martial law
+keyword	spit in the face
+keyword	gunshot
+keyword	deformity
+keyword	catacomb
+keyword	asphyxiation
+keyword	erased memory
+keyword	axe murder
+keyword	time
+keyword	x rayed skeleton
+keyword	violence
+keyword	news report
+keyword	elevator
+keyword	tracking device
+keyword	two word title
+keyword	good versus evil
+keyword	pistol
+keyword	third breast
+keyword	customs
+keyword	amnesia
+keyword	suitcase
+keyword	train
+keyword	fistfight
+keyword	resistance
+keyword	psychic
+keyword	hero murders a woman
+keyword	anger
+keyword	handcuffs
+keyword	telepathy
+keyword	corpse
+keyword	martial arts
+keyword	raised middle finger
+keyword	title spoken by character
+keyword	surprise ending
+cast	Arnold Schwarzenegger	Douglas Quaid / Hauser
+cast	Rachel Ticotin	Melina
+cast	Sharon Stone	Lori
+cast	Ronny Cox	Vilos Cohaagen
+cast	Michael Ironside	Richter
+cast	Marshall Bell	George / Kuato
+cast	Mel Johnson Jr.	Benny
+cast	Michael Champion	Helm
+cast	Roy Brocksmith	Dr. Edgemar
+cast	Ray Baker	Bob McClane
+cast	Rosemary Dunsmore	Dr. Lull
+cast	David Knell	Ernie
+cast	Alexia Robinson	Tiffany
+cast	Dean Norris	Tony
+cast	Mark Carlton	Bartender
+cast	Debbie Lee Carrington	Thumbelina
+cast	Lycia Naff	Mary
+cast	Robert Costanzo	Harry
+cast	Michael LaGuardia	Stevens
+cast	Priscilla Allen	Fat Lady
+cast	Ken Strausbaugh	Immigration Officer
+cast	Marc Alaimo	Everett
+cast	Michael Gregory	Rebel Lieutenant
+cast	Ken Gildin	Hotel Clerk
+cast	Mickey Jones	Burly Miner
+cast	Parker Whitman	Martian Husband
+cast	Ellen Gollas	Martian Wife
+cast	Gloria Dorson	Woman in Phone Booth
+cast	Erika Carlsson	Miss Lonelyhearts
+cast	Benny Corral	Punk Cabbie
+cast	Bob Tzudiker	Doctor
+cast	Erik Cord	Lab Assistant
+cast	Frank Kopyc	Technician
+cast	Chuck Sloan	Scientist
+cast	Dave Nicolson	Scientist
+cast	Paula McClure	Newscaster
+cast	Rebecca Ruth	Reporter
+cast	Milt Tarver	Commercial Announcer
+cast	Roger Cudney	Agent
+cast	Monica Steuer	Mutant Mother
+cast	Sasha Rionda	Mutant Child
+cast	Linda Howell	Tennis Pro
+cast	Robert Picardo	Voice of Johnnycab
+cast	Kamala Lopez	Additional Voices
+cast	Morgan Lofting	Additional Voices
+cast	Patti Attar	Additional Voices
+cast	Bob Bergen	Additional Voices
+cast	Joe Unger	Additional Voices
+cast	Karlyn Michelson	Additional Voices
+cast	Andy Armstrong	Richter's Henchman
+cast	Allan Graf	Harry's Henchman
+cast	Peter Kent	Richter's Subway Agent
+cast	Joel Kramer	Harry's Henchman
+cast	Bennie Moore	Richter's Subway Agent

@@ -1,0 +1,114 @@
+year	1998
+imdb score	7.1
+meta score	43
+genre	Drama
+genre	Fantasy
+genre	Mystery
+genre	Romance
+keyword	death
+keyword	love
+keyword	media mogul
+keyword	birthday
+keyword	toast
+keyword	mansion
+keyword	father daughter relationship
+keyword	wealth
+keyword	heart attack
+keyword	indoor pool
+keyword	husband wife relationship
+keyword	coffee shop
+keyword	doctor
+keyword	firework
+keyword	corporate mogul
+keyword	jamaican
+keyword	head of company
+keyword	helicopter
+keyword	board of directors
+keyword	resignation
+keyword	grim reaper
+keyword	son in law
+keyword	hospital
+keyword	manipulation
+keyword	vacation
+keyword	sister sister relationship
+keyword	fired from the job
+keyword	party
+keyword	pedestrian
+keyword	business tycoon
+keyword	engagement
+keyword	fireworks
+keyword	power struggle
+keyword	internal revenue service
+keyword	miyvarxar
+keyword	sex
+keyword	fiancé fiancée relationship
+keyword	world trade center manhattan new york city
+keyword	dying woman
+keyword	old man
+keyword	machiavellianism
+keyword	swimming pool
+keyword	widower
+keyword	affection
+keyword	remake
+keyword	business takeover
+keyword	business
+keyword	loss of job
+keyword	coronary
+keyword	peanut butter
+keyword	board meeting
+keyword	deliberate cruelty
+keyword	new york city
+keyword	car accident
+keyword	manhattan new york city
+keyword	dance
+keyword	birthday party
+keyword	fear of death
+keyword	traffic accident
+keyword	race against time
+keyword	swimming
+keyword	body swap
+keyword	death personified
+keyword	fish out of water
+keyword	fiancé
+keyword	cake
+keyword	old woman
+keyword	based on play
+keyword	character name in title
+keyword	surprise ending
+cast	Brad Pitt	Joe Black / Young Man in Coffee Shop
+cast	Anthony Hopkins	William Parrish
+cast	Claire Forlani	Susan Parrish
+cast	Jake Weber	Drew
+cast	Marcia Gay Harden	Allison
+cast	Jeffrey Tambor	Quince
+cast	David S. Howard	Eddie Sloane
+cast	Lois Kelly-Miller	Jamaican Woman
+cast	Jahnni St. John	Jamaican Woman's Daughter
+cast	Richard Clarke	Butler
+cast	Marylouise Burke	Lillian
+cast	Diane Kagan	Jennifer
+cast	June Squibb	Helen
+cast	Gene Canfield	Construction Foreman
+cast	Suzanne Hevner	Florist
+cast	Steve Coats	Electrician
+cast	Madeline Balmaceda	Madeline
+cast	Julie Lund	Drew's Secretary
+cast	Kay Gaffney	Boardmember
+cast	Anthony Kane	Boardmember
+cast	Joe H. Lamb	Boardmember
+cast	Robert C. Lee	Boardmember
+cast	Jim Taylor McNickle	Boardmember
+cast	Hardy Phippen Jr.	Boardmember
+cast	Stephen Adly Guirgis	Hospital Receptionist
+cast	Leo Marks	Party Waiter
+cast	Michelle Youell	Party Guest
+cast	Gene Leverone	Party Guest
+cast	Eric Bruno Borgman	Van Winkle Tent Man
+cast	Brian Eggleston	Party Guest
+cast	Marshall Factora	Chef
+cast	Christine Jones	Miriam
+cast	Carl Landi	Construction Worker
+cast	Trish McGettrick	Doctor
+cast	Rana Morrison	Lady at Party
+cast	Glenn Phillips	Construction Worker
+cast	J.T. Turner	Worker

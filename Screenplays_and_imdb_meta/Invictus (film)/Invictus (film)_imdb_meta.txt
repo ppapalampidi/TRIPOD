@@ -1,0 +1,261 @@
+year	2009
+imdb score	7.4
+meta score	74
+genre	Biography
+genre	Drama
+genre	History
+genre	Sport
+keyword	rugby
+keyword	south africa
+keyword	nelson mandela
+keyword	president
+keyword	apartheid
+keyword	nation
+keyword	rugby team
+keyword	release from prison
+keyword	1990s
+keyword	one word title
+keyword	watching tv
+keyword	sports fan
+keyword	voting
+keyword	black president
+keyword	pretoria south africa
+keyword	plea for forgiveness
+keyword	national anthem
+keyword	poverty
+keyword	political party
+keyword	stadium
+keyword	abandoned prison
+keyword	celebration
+keyword	johannesburg south africa
+keyword	racism
+keyword	politician
+keyword	singing
+keyword	race relations
+keyword	forgiveness
+keyword	inspiration
+keyword	prison cell
+keyword	birth of a nation
+keyword	reciting poetry
+keyword	title based on poem
+keyword	sports star
+keyword	political prisoner
+keyword	reconciliation
+keyword	international relations
+keyword	archive footage
+keyword	emblem
+keyword	cape town south africa
+keyword	helicopter
+keyword	athlete
+keyword	ends with real life photos
+keyword	racial diversity
+keyword	cheering crowd
+keyword	little boy
+keyword	security officer
+keyword	island prison
+keyword	crowd
+keyword	no opening credits
+keyword	political speech
+keyword	exhaustion
+keyword	street celebration
+keyword	rugby player
+keyword	bodyguard
+keyword	united nations
+keyword	ethnic diversity
+keyword	united nations general assembly
+keyword	ex prisoner
+keyword	profanity
+keyword	sports history
+keyword	title appears in writing
+keyword	historical landmark
+keyword	poem
+keyword	based on book
+keyword	
+cast	Morgan Freeman	Nelson Mandela
+cast	Matt Damon	Francois Pienaar
+cast	Tony Kgoroge	Jason Tshabalala
+cast	Patrick Mofokeng	Linga Moonsamy
+cast	Matt Stern	Hendrick Booyens
+cast	Julian Lewis Jones	Etienne Feyder
+cast	Adjoa Andoh	Brenda Mazibuko
+cast	Marguerite Wheatley	Nerine
+cast	Leleti Khumalo	Mary
+cast	Patrick Lyster	Mr. Pienaar
+cast	Penny Downie	Mrs. Pienaar
+cast	Sibongile Nojila	Eunice
+cast	Bonnie Henna	Zindzi
+cast	Shakes Myeko	Minister of Sport
+cast	Louis Minnaar	Springbok Coach
+cast	Danny Keogh	Rugby President
+cast	Dan Robbertse	Boer
+cast	Robin Smith	Johan De Villiers
+cast	David Dukas	Captain of 747
+cast	Grant Swanby	Co-Captain of 747
+cast	Josias Moleele	Face Painter
+cast	Langley Kirkwood	Presidential Guard
+cast	Robert Hobbs	Presidential Guard
+cast	Melusi Yeni	Presidential Guard
+cast	Vuyo Dabula	Presidential Guard
+cast	Daniel Hadebe	Presidential Guard
+cast	Jodi Botha	High School Boy
+cast	Henie Bosman	High School Coach
+cast	Refiloe Mpakanyane	Jessie
+cast	Jakkie Groenewald	Johannesburg Cop
+cast	Murray Todd	Johannesburg Cop
+cast	Japan Mthembu	Local Cop
+cast	Albert Maritz	Springbok Manager
+cast	Sello Motloung	Mandela's Doctor
+cast	Meren Reddy	Minister of the Environment
+cast	Lida Botha	Mrs. Brits
+cast	Susan Danford	Mrs. Cole
+cast	Sylvia Mngxekeza	Mrs. Dlamini
+cast	James Lithgow	New Zealand PM
+cast	Malusi Skenjana	NSC Firebrand
+cast	Bart Fouche	Prison Guard
+cast	Johnny Cicco	Staff Member
+cast	Wayne Harrison	Staff Member
+cast	Ashley Taylor	Team Crew
+cast	Gift Leotlela	Team Crew
+cast	Kgosi Mongake	Sipho
+cast	Given Stuurman	Township Kid
+cast	Vuyolwethu Stevens	Township Kid
+cast	Ayabulela Stevens	Township Kid
+cast	Nambitha Mpumlwana	Trophy Wife
+cast	Andre Jacobs	T.V. Announcer
+cast	J.R. Redlinghaus	Helicopter Pilot
+cast	Mark Rickard	Announcer
+cast	Grant Roberts	South African Springbok
+cast	Scott Eastwood	South African Springbok
+cast	Mark Bown-Davies	South African Springbok
+cast	Dale Stephen Dunn	South African Springbok
+cast	Graham Lindemann	South African Springbok
+cast	Louis Ackerman	South African Springbok
+cast	Andries Le Grange	South African Springbok
+cast	Thomas Boyd	South African Springbok
+cast	Clive Richard Samuel	South African Springbok
+cast	Richard Abrahamse	South African Springbok
+cast	Sean Pypers	South African Springbok
+cast	Herman Botha	South African Springbok
+cast	Riaan Wolmarans	South African Springbok
+cast	Louis Pieterse	South African Springbok
+cast	Ryan Scott	South African Springbok
+cast	Daniel Deon Wessels	South African Springbok
+cast	Vaughn Thompson	South African Springbok
+cast	Charl Engelbrecht	South African Springbok
+cast	Rolf E. Fitschen	South African Springbok
+cast	Richard Morris	South African Springbok
+cast	Ryan Olivier	South African Springbok
+cast	Warren Edwards	South African Springbok
+cast	Andrew Nel	South African Springbok
+cast	Rudi Zandberg	South African Springbok
+cast	Renzo Puccini	South African Springbok
+cast	Abraham Vlok	South African Springbok
+cast	Geoff Brown	South African Springbok / Australian Wallaby
+cast	McNeil Hendricks	Chester Williams - South African Springbok
+cast	John Paul Chapman	New Zealand All Blacks
+cast	Sililo Victor Martens	New Zealand All Blacks
+cast	Epeli Taione	New Zealand All Blacks
+cast	Aukusitino Junior Poluleuligaga	New Zealand All Blacks
+cast	Patrick Bell	New Zealand All Blacks
+cast	Anton Coosner	New Zealand All Blacks
+cast	Simon Peter Blakeley	New Zealand All Blacks
+cast	Salman Safodien Davids	New Zealand All Blacks / Western Samoa
+cast	Warrick Ireland	New Zealand All Blacks
+cast	Warren Taylor	New Zealand All Blacks
+cast	Karl Bergemann	New Zealand All Blacks
+cast	Jean-Pierre Van Zyl	New Zealand All Blacks
+cast	Mohammed Ridhaa Oamon	New Zealand All Blacks
+cast	Mark Snodgrass	New Zealand All Blacks
+cast	Theodore Groyers	New Zealand All Blacks
+cast	Gordon Johnston	New Zealand All Blacks
+cast	Conrad Marais	New Zealand All Blacks
+cast	Pieter Engelbrecht	New Zealand All Blacks
+cast	Bjorn Steinbach	New Zealand All Blacks
+cast	Clinton Prinsloo	New Zealand All Blacks
+cast	Yusuf Abrahams	New Zealand All Blacks
+cast	Jody Burch	New Zealand All Blacks
+cast	Wynand Collins	New Zealand All Blacks
+cast	Abu Bakr Davids	New Zealand All Blacks
+cast	Emile Olivier	New Zealand All Blacks
+cast	Zak Feaunati	Jonah Lomu - New Zealand All Blacks
+cast	Anthony Burns	England Rose
+cast	Marius Erwee	England Rose
+cast	Mfundo Galada	England Rose
+cast	Michael van Schalkwyk	England Rose
+cast	Dan Visser	England Rose
+cast	Jethro Mickleburgh	England Rose
+cast	Ryan Williams	England Rose
+cast	Gareth Rowe	England Rose
+cast	Stuart Calder	England Rose
+cast	Jonathan Van der Walt	England Rose
+cast	Shane Vallender	England Rose
+cast	Abbas Hendricks	England Rose
+cast	Karlo Aspeling	England Rose
+cast	Calvin Kotze	England Rose
+cast	Sivuyile Ngesi	England Rose
+cast	Joe Probyn	England Rose
+cast	Eugene Butterworth	England Rose
+cast	Mzikayise Rala	England Rose
+cast	Brendon Shields	France
+cast	Reagan Anderson	France
+cast	Willem Mouton	France
+cast	Devan Gericke	France
+cast	Richard Williams	France
+cast	Ashley Down	France
+cast	Clint Van Rensburg	France
+cast	Patrick Holman	France
+cast	Sarel du Plessis	France
+cast	Len Berter	France
+cast	Shawn du Plooy	France
+cast	Joel Serman	France
+cast	Enrico Blaauw	France
+cast	Warren Butler	France
+cast	Jamie Holtzhausen	France
+cast	Shaun Harding	France
+cast	Callan Artus	France
+cast	Juan Coetzer	France
+cast	Jake Levin	France
+cast	Keith Daly	France
+cast	Shaffiq Nordien	France
+cast	Richard Smith	France / Australian Wallaby
+cast	Edward O'Sullivan	Australian Wallaby
+cast	Jaco Pieterse	Australian Wallaby
+cast	Michael Ledwidge	Australian Wallaby
+cast	Hendrix Franken	Australian Wallaby
+cast	William Festers	Australian Wallaby
+cast	Henry Temple	Australian Wallaby
+cast	Dane Gallery	Australian Wallaby
+cast	David John Fourie	Australian Wallaby
+cast	Jadeon du Tait	Australian Wallaby
+cast	Riaan Van der Vyver	Australian Wallaby
+cast	Gerhard Gerber	Australian Wallaby
+cast	Ross Peacock	Australian Wallaby
+cast	Troy Futter	Australian Wallaby
+cast	Michael La Grange	Australian Wallaby
+cast	Morne Vletter	Australian Wallaby
+cast	Andrew Rose	Australian Wallaby
+cast	Brandon Hendricks	Western Samoa
+cast	Bradley Contereal	Western Samoa
+cast	Zuhair Achmat	Western Samoa
+cast	Pedro Noronha	Western Samoa
+cast	Tahir Achmat	Western Samoa
+cast	Faseegh Mallick	Western Samoa
+cast	Mario Jacobs	Western Samoa
+cast	Kurt Kuhn	Western Samoa
+cast	Mark Katzen	Western Samoa
+cast	Adenaan Bazier	Western Samoa
+cast	Brendell Brandt	Western Samoa
+cast	Stewart Palmer	Western Samoa
+cast	Ryan Roman	Western Samoa
+cast	Hyron Thyse	Western Samoa
+cast	Abu-Bakr Hendricks	Western Samoa
+cast	Gerard Pedersen	Western Samoa
+cast	Nezaan Bewee	Western Samoa
+cast	Niklaas Soutman	Western Samoa
+cast	Don Eiman	Western Samoa
+cast	Taariq Davids	Western Samoa
+cast	Gideon Emery	News Announcer
+cast	Sean Cameron Michael	Springbok Equipment Manager
+cast	Matthew Dylan Roberts	Cabinet Minister
+cast	Stelio Savante	Radio Rugby Announcer
+cast	Patrick John Walton	Springbok Trainer

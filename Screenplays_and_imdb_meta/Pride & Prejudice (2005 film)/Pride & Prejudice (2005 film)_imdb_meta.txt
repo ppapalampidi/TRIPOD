@@ -1,0 +1,102 @@
+year	2005
+imdb score	7.8
+meta score	82
+genre	Drama
+genre	Romance
+keyword	love
+keyword	georgian
+keyword	england
+keyword	pride
+keyword	bachelor
+keyword	prejudice
+keyword	gentleman
+keyword	mansion
+keyword	suitor
+keyword	marriage
+keyword	rural setting
+keyword	letter
+keyword	melodrama
+keyword	brother sister relationship
+keyword	class conflict
+keyword	britain
+keyword	parade
+keyword	eavesdropping
+keyword	corset
+keyword	derbyshire
+keyword	engagement
+keyword	english country dance
+keyword	georgian romance
+keyword	ballroom
+keyword	country life
+keyword	snobbery
+keyword	aristocracy
+keyword	soldier
+keyword	husband wife relationship
+keyword	irish wolfhound
+keyword	19th century
+keyword	teenage girl
+keyword	sarcasm
+keyword	family relationships
+keyword	estate
+keyword	priest
+keyword	father daughter relationship
+keyword	courtship
+keyword	cousin cousin relationship
+keyword	sister sister relationship
+keyword	pianoforte
+keyword	handkerchief
+keyword	sunrise
+keyword	jane austen
+keyword	ampersand in title
+keyword	dancing
+keyword	comedy of manners
+keyword	costume drama
+keyword	farm
+keyword	marriage proposal
+keyword	class differences
+keyword	mother daughter relationship
+keyword	elopement
+keyword	1790s
+keyword	self centeredness
+keyword	long take
+keyword	sculpture
+keyword	lake
+keyword	dysfunctional family
+keyword	lieutenant
+keyword	piano
+keyword	empire fashion
+keyword	class system
+keyword	based on novel
+cast	Keira Knightley	Elizabeth Bennet
+cast	Talulah Riley	Mary Bennet
+cast	Rosamund Pike	Jane Bennet
+cast	Jena Malone	Lydia Bennet
+cast	Carey Mulligan	Kitty Bennet
+cast	Donald Sutherland	Mr. Bennet
+cast	Brenda Blethyn	Mrs. Bennet
+cast	Claudie Blakley	Charlotte Lucas
+cast	Sylvester Morand	Sir William Lucas
+cast	Simon Woods	Mr. Bingley
+cast	Kelly Reilly	Caroline Bingley
+cast	Matthew Macfadyen	Mr. Darcy
+cast	Pip Torrens	Netherfield Butler
+cast	Janet Whiteside	Mrs. Hill
+cast	Sinead Matthews	Betsy
+cast	Roy Holder	Mr. Hill
+cast	Rupert Friend	Mr. Wickham
+cast	Tom Hollander	Mr. Collins
+cast	Jay Simpson	Meryton Milliner
+cast	Judi Dench	Lady Catherine de Bourg
+cast	Rosamund Stephen	Miss de Bourg
+cast	Samantha Bloom	Rosings Governess
+cast	Cornelius Booth	Colonel Fitzwilliam
+cast	Penelope Wilton	Mrs. Gardiner
+cast	Peter Wight	Mr. Gardiner
+cast	Meg Wynn Owen	Mrs. Reynolds
+cast	Tamzin Merchant	Georgiana Darcy
+cast	Moya Brady	Lambton Maid
+cast	Mark Arends	Dancer
+cast	Kate Copeland	Dancer
+cast	Stephen Humby	Soldier
+cast	No Name	Dancer
+cast	Liam Thomas	Gentleman

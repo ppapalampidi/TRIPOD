@@ -1,0 +1,106 @@
+year	1999
+imdb score	7.0
+meta score	66
+genre	Comedy
+genre	Romance
+keyword	friend
+keyword	bookstore
+keyword	actress
+keyword	love
+keyword	kiss
+keyword	press conference
+keyword	paparazzi
+keyword	nudity
+keyword	london england
+keyword	north london
+keyword	dinner
+keyword	cameo
+keyword	nerd
+keyword	coincidence
+keyword	restaurateur
+keyword	wheelchair
+keyword	american abroad
+keyword	street life
+keyword	public nudity
+keyword	in joke
+keyword	happy birthday to you
+keyword	birthday party
+keyword	book seller
+keyword	impostor
+keyword	hotel
+keyword	fake reporter
+keyword	park
+keyword	orange juice
+keyword	best friend
+keyword	notting hill london
+keyword	welshman
+keyword	spilling drink on self
+keyword	friendship
+keyword	bathtub
+keyword	celebrity
+keyword	party
+keyword	tea
+keyword	brother sister relationship
+keyword	male nudity
+keyword	american in the uk
+keyword	roommate
+keyword	chick flick
+keyword	man with glasses
+keyword	bare butt
+keyword	fame
+keyword	movie star
+keyword	blockbuster
+keyword	filmmaking
+keyword	title spoken by character
+keyword	
+cast	Julia Roberts	Anna Scott
+cast	Hugh Grant	William Thacker
+cast	Richard McCabe	Tony
+cast	Rhys Ifans	Spike
+cast	James Dreyfus	Martin
+cast	Dylan Moran	Rufus the Thief
+cast	Roger Frost	Annoying Customer
+cast	Henry Goodman	Ritz Concierge
+cast	Julian Rhind-Tutt	'Time Out' Journalist
+cast	Lorelei King	Anna's Publicist
+cast	John Shrapnel	PR Chief
+cast	Clarke Peters	'Helix' Lead Actor
+cast	Arturo Venegas	Foreign Actor
+cast	Yolanda Vazquez	Interpreter
+cast	Mischa Barton	12-Year-Old Actress
+cast	Tim McInnerny	Max
+cast	Gina McKee	Bella
+cast	Emma Chambers	Honey
+cast	Hugh Bonneville	Bernie
+cast	Dorian Lough	Loud Man in Restaurant
+cast	Sanjeev Bhaskar	Loud Man in Restaurant
+cast	Paul Chahidi	Loud Man in Restaurant
+cast	Matthew Whittle	Loud Man in Restaurant
+cast	Melissa Wilson	Tessa
+cast	Emma Bernard	Keziah
+cast	Emily Mortimer	Perfect Girl
+cast	Tony Armatrading	Security Man
+cast	September Buckley	Third Assistant Director
+cast	Phillip Manikum	Harry the Sound Man
+cast	Samuel West	Anna's Co-Star
+cast	Dennis Matsuki	Japanese Businessman
+cast	Patrick Barlow	Savoy Concierge
+cast	Andy de la Tour	Journalist
+cast	Maureen Hibbert	Journalist
+cast	Rupert Procter	Journalist
+cast	David Sternberg	Journalist
+cast	Ann Beach	William's Mother
+cast	Sally Phillips	Caroline
+cast	Alec Baldwin	Jeff King
+cast	Ian Boo Khoo	Journalist
+cast	Simon Callow	Himself in Film within Film
+cast	Joe Cornish	Fan Receiving Anna's Autograph
+cast	Sean Cronin	Walk On
+cast	Omid Djalili	Cashier at Coffee Shop
+cast	Ray Donn	Journalist
+cast	Michael Higgs	Man at Market
+cast	João Costa Menezes	Journalist
+cast	Matthew Modine	Movie-Within-Movie Actor
+cast	Taylor Murphy	Journalist
+cast	Vivienne Soan	Bystander
+cast	Richard Woolfenden	Press Photographer

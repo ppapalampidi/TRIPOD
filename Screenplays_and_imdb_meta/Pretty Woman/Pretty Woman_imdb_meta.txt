@@ -1,0 +1,224 @@
+year	1990
+imdb score	6.9
+meta score	51
+genre	Comedy
+genre	Romance
+keyword	prostitute
+keyword	prince
+keyword	businessman
+keyword	polo
+keyword	party
+keyword	escort
+keyword	love
+keyword	money
+keyword	cinderella
+keyword	boutique
+keyword	los angeles california
+keyword	cell phone
+keyword	red dress
+keyword	fairy tale
+keyword	1990s
+keyword	crime scene
+keyword	department store
+keyword	pygmalion
+keyword	opera
+keyword	doorman
+keyword	roommate
+keyword	rodeo drive beverly hills
+keyword	f word
+keyword	swimming pool
+keyword	jazz music
+keyword	see through bra
+keyword	dinner
+keyword	product placement
+keyword	sex in a bed
+keyword	blow job
+keyword	nosebleed
+keyword	damsel in distress
+keyword	corporate raider
+keyword	fish out of water
+keyword	limousine
+keyword	bathtub
+keyword	falling in love
+keyword	rescue
+keyword	foreplay
+keyword	sexuality
+keyword	stockings
+keyword	cocktail
+keyword	topless female nudity
+keyword	female removes her clothes
+keyword	redhead
+keyword	condom
+keyword	ex boyfriend ex girlfriend relationship
+keyword	magic trick
+keyword	call girl
+keyword	chess
+keyword	implied sex
+keyword	bathroom
+keyword	bath
+keyword	shoulder holster
+keyword	nightclub
+keyword	automobile
+keyword	motorcycle
+keyword	flowers
+keyword	boardroom
+keyword	san francisco california
+keyword	wig
+keyword	cult film
+keyword	punched in the nose
+keyword	hotel manager
+keyword	mergers and acquisitions
+keyword	street walker
+keyword	fear of heights
+keyword	training
+keyword	self discovery
+keyword	fire escape
+keyword	class differences
+keyword	piano
+keyword	black bra and panties
+keyword	hotel
+keyword	companion
+keyword	title based on song
+keyword	face slap
+keyword	penthouse
+keyword	sports car
+keyword	shower
+keyword	bar
+keyword	pool table
+keyword	ends with a kiss
+keyword	friendship
+keyword	oral sex
+keyword	sex reference
+keyword	taxi
+keyword	restaurant
+keyword	pimp
+keyword	strawberry
+keyword	tattoo
+keyword	opposites attract
+keyword	prostitution
+keyword	hotel suite
+keyword	love interest
+keyword	chewing gum
+keyword	nude body double
+keyword	fight
+keyword	shopping
+keyword	lawyer
+keyword	bare breasts
+keyword	rich snob
+keyword	1980s
+keyword	capitalism
+keyword	police officer
+keyword	tycoon
+keyword	montage
+keyword	nudity
+keyword	beverly hills california
+keyword	attempted rape
+keyword	seduction
+keyword	bare chested male
+keyword	black bra
+keyword	nightie
+keyword	hollywood california
+keyword	champagne
+keyword	fistfight
+keyword	redemption
+keyword	private jet
+keyword	dental floss
+keyword	chick flick
+keyword	landlord
+keyword	shipbuilder
+keyword	elevator
+keyword	hollywood sign
+keyword	affection
+keyword	female in bra and panties
+keyword	black comedy
+keyword	violence
+keyword	kissing while having sex
+keyword	stealing a car
+keyword	blonde wig
+keyword	shared bath
+keyword	secretary
+keyword	lingerie slip
+keyword	elevator operator
+keyword	pianist
+keyword	high heel boots
+keyword	cinderella story
+keyword	culture clash
+keyword	stocktrader
+keyword	premarital sex
+keyword	dress
+keyword	blockbuster
+keyword	ballroom
+keyword	legs
+keyword	surprise ending
+keyword	
+cast	Richard Gere	Edward Lewis
+cast	Julia Roberts	Vivian Ward
+cast	Ralph Bellamy	James Morse
+cast	Jason Alexander	Philip Stuckey
+cast	Laura San Giacomo	Kit De Luca
+cast	Alex Hyde-White	David Morse
+cast	Amy Yasbeck	Elizabeth Stuckey
+cast	Elinor Donahue	Bridget
+cast	Hector Elizondo	Barney Thompson
+cast	Judith Baldwin	Susan
+cast	Jason Randal	Magician
+cast	Bill Applebaum	Howard
+cast	Tracy Bjork	Female Guest
+cast	Gary Greene	Male Guest
+cast	Billy Gallo	Carlos
+cast	Abdul Salaam El Razzac	Happy Man
+cast	Hank Azaria	Detective
+cast	Larry Hankin	Landlord
+cast	Julie Paris	Rachel
+cast	Rhonda Hansome	Bermuda
+cast	Harvey Keenan	Man in Car
+cast	Marty Nadler	Tourist Man
+cast	Lynda Goodfriend	Tourist Woman
+cast	Reed Anthony	Cruiser
+cast	Frank Campanella	Pops
+cast	Jackie O'Brien	Artist
+cast	Cheri Caspari	Angel
+cast	Scott Marshall	Skateboard Kid
+cast	Patrick Richwood	Night Elevator Operator Dennis
+cast	Kathleen Marshall	Day Desk Clerk
+cast	Laurelle Mehus	Night Desk Clerk
+cast	Don Feldstein	Male Desk Clerk
+cast	Marvin Braverman	Room Service Waiter
+cast	Al Sapienza	Night Doorman
+cast	Jeff Michalski	Day Doorman
+cast	James Patrick Stuart	Day Bellhop
+cast	Lloyd T. Williams	Bellhop
+cast	R. Darrell Hunter	Darryl The Limo Driver
+cast	James Patrick Dunne	Lounge Pianist
+cast	Valorie Armstrong	Woman in Lobby
+cast	Steve Restivo	Italian Businessman
+cast	Rodney Kageyama	Japanese Businessman
+cast	Douglas Stitzel	American Businessman
+cast	Larry Miller	Mr. Hollister
+cast	Dey Young	Snobby Saleswoman
+cast	Shane Ross	Marie
+cast	Carol Williard	Saleswoman
+cast	Minda Burr	Saleswoman
+cast	Robyn Peterson	Saleswoman
+cast	Mariann Aalda	Saleswoman
+cast	R.C. Everbeck	Tie Salesman
+cast	Michael French	Maitre D'
+cast	Allan Kent	Waiter
+cast	Stacy Keach Sr.	Senator Adams
+cast	Lucinda Crosby	Olsen Sister
+cast	Nancy Locke	Olsen Sister
+cast	Calvin Remsberg	Sod Stomping Announcer
+cast	Lloyd Nelson	Game Announcer
+cast	Norman Large	Polite Husband
+cast	Tracy Reiner	Woman at Car
+cast	Tom Nolan	Vance
+cast	John David Carson	Mark
+cast	Daniel Bardol	Jake
+cast	Karin Calabro	Violetta in "La Traviata"
+cast	Bruce Eckstut	Alfredo in "La Traviata"
+cast	Amzie Strickland	Matron
+cast	Mychael Bates	Usher
+cast	Garry Marshall	Bum Tour Guide
+cast	Charles Minsky	Janitor with Water Hose
+cast	Blair Richwood	Blair
+cast	Randall Rutledge	Security Guard

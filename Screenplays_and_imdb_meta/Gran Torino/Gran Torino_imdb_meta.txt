@@ -1,0 +1,260 @@
+year	2008
+imdb score	8.2
+meta score	72
+genre	Drama
+keyword	gang
+keyword	hmong
+keyword	gran torino
+keyword	teenager
+keyword	veteran
+keyword	korean war veteran
+keyword	old man
+keyword	widower
+keyword	birthday
+keyword	gangster
+keyword	priest
+keyword	car
+keyword	bigotry
+keyword	workshop
+keyword	racial diversity
+keyword	title appears in song
+keyword	no opening credits
+keyword	hip hop music
+keyword	tough guy
+keyword	garden gnome
+keyword	dysfunctional family
+keyword	bigot
+keyword	zippo lighter
+keyword	grandfather granddaughter relationship
+keyword	racial intolerance
+keyword	immigrant
+keyword	ethnic humor
+keyword	shaman
+keyword	golden retriever
+keyword	misanthropy
+keyword	driveby shooting
+keyword	bigoted neighbor
+keyword	child translates for adult
+keyword	uzi
+keyword	off screen rape
+keyword	detroit michigan
+keyword	korea veteran
+keyword	handyman
+keyword	blood
+keyword	provocation
+keyword	barber shop
+keyword	shot to death
+keyword	hardware store
+keyword	father son relationship
+keyword	cousin cousin relationship
+keyword	nasty neighbor
+keyword	barber
+keyword	irish american
+keyword	asian mob
+keyword	loner
+keyword	product placement
+keyword	father figure
+keyword	drive by shooting
+keyword	cough foreshadows death
+keyword	wd 40 oil
+keyword	heroism
+keyword	woman doctor
+keyword	redemption
+keyword	shot in the chest
+keyword	barbecue grill
+keyword	held at gunpoint
+keyword	horoscope
+keyword	incest overtones
+keyword	haunted by the past
+keyword	ford torino
+keyword	confession
+keyword	handgun
+keyword	teen angst
+keyword	husband wife relationship
+keyword	directed by star
+keyword	silver star
+keyword	compassion
+keyword	punched in the face
+keyword	incest
+keyword	incest rape
+keyword	street gang
+keyword	vintage car
+keyword	ghetto
+keyword	ceiling fan
+keyword	urban decay
+keyword	thug
+keyword	mentor
+keyword	racist joke
+keyword	gift
+keyword	curmudgeon
+keyword	disrespect
+keyword	bar
+keyword	racial issues
+keyword	asian american
+keyword	machismo
+keyword	american flag
+keyword	disinheritance
+keyword	death of protagonist
+keyword	male bonding
+keyword	teen smoking
+keyword	villain arrested
+keyword	revenge
+keyword	alpha male
+keyword	murder
+keyword	catholic priest
+keyword	tragic event
+keyword	coughing blood
+keyword	racism
+keyword	culture clash
+keyword	racial barrier
+keyword	gardening
+keyword	title appears in writing
+keyword	bath
+keyword	medal of valor
+keyword	tradition
+keyword	self sacrifice
+keyword	cooler
+keyword	tradition versus modernity
+keyword	bully
+keyword	raised middle finger
+keyword	death of wife
+keyword	granddaughter
+keyword	wasted life
+keyword	generation gap
+keyword	beating
+keyword	insult
+keyword	confession booth
+keyword	kicked in the face
+keyword	rifle
+keyword	bully comeuppance
+keyword	construction
+keyword	lapsed catholic
+keyword	rape victim
+keyword	ethnic slur
+keyword	malcontent
+keyword	beer
+keyword	house repairs
+keyword	racial tension
+keyword	rap music
+keyword	spitting
+keyword	tools
+keyword	film with ambiguous title
+keyword	shallow
+keyword	rape
+keyword	race relations
+keyword	anti hero
+keyword	racist neighbor
+keyword	forgiveness
+keyword	bias
+keyword	will reading
+keyword	polish american
+keyword	blockbuster
+keyword	classic car
+keyword	tragic hero
+keyword	crucified hero pose
+keyword	greed
+keyword	pabst blue ribbon beer
+keyword	funeral repast
+keyword	shot repeatedly
+keyword	two word title
+keyword	boy
+keyword	funeral
+keyword	cat
+keyword	confrontation
+keyword	gun
+keyword	italian american
+keyword	white male pretending to be black
+keyword	burned with a cigarette
+keyword	anti semitism
+keyword	tool belt
+keyword	catholic
+keyword	navel piercing
+keyword	male virgin
+keyword	cigarette smoking
+keyword	misanthrope
+keyword	pistol
+keyword	racial discrimination
+keyword	self parody
+keyword	racial prejudice
+keyword	moral transformation
+keyword	finger gun
+keyword	racist insult
+keyword	shot multiple times
+keyword	pearl necklace
+keyword	bathtub
+keyword	birthday party
+keyword	battle fatigue
+keyword	lung cancer
+keyword	dog
+keyword	nose ring
+keyword	christ figure
+keyword	duct tape
+keyword	war medal
+keyword	gang rape
+keyword	medal
+keyword	machine gun
+keyword	brother sister relationship
+keyword	community service
+keyword	doctor
+keyword	death of friend
+keyword	title spoken by character
+cast	Clint Eastwood	Walt Kowalski
+cast	Christopher Carley	Father Janovich
+cast	Bee Vang	Thao
+cast	Ahney Her	Sue
+cast	Brian Haley	Mitch Kowalski
+cast	Geraldine Hughes	Karen Kowalski
+cast	Dreama Walker	Ashley Kowalski
+cast	Brian Howe	Steve Kowalski
+cast	John Carroll Lynch	Barber Martin
+cast	William Hill	Tim Kennedy
+cast	Brooke Chia Thao	Vu
+cast	Chee Thao	Grandma
+cast	Choua Kue	Youa
+cast	Scott Eastwood	Trey
+cast	Xia Soua Chang	Kor Khue
+cast	Sonny Vue	Smokie
+cast	Doua Moua	Spider
+cast	Greg Trzaskoma	Bartender
+cast	John Johns	Al
+cast	Davis Gloff	Darrell
+cast	Thomas D. Mahard	Mel
+cast	Cory Hardrict	Duke
+cast	Nana Gbewonyo	Monk
+cast	Arthur Cartwright	Prez
+cast	Austin Douglas Smith	Daniel Kowalski
+cast	Conor Liam Callaghan	David Kowalski
+cast	Michael E. Kurowski	Josh Kowalski
+cast	Julia Ho	Dr. Chu
+cast	Maykao K. Lytongpao	Gee
+cast	Carlos Guadarrama	Head Latino
+cast	Andrew Tamez-Hull	Latino Gangbanger
+cast	Ramon Camacho	Latino Gangbanger
+cast	Antonio Mireles	Latino Gangbanger
+cast	Ia Vue Yang	Hmong Flower Woman
+cast	Zoua Kue	Hmong Flower Woman
+cast	Elvis Thao	Hmong Gangbanger
+cast	Jerry Lee	Hmong Gangbanger
+cast	Lee Mong Vang	Hmong Gangbanger
+cast	Tru Hang	Hmong Grandfather
+cast	Alice Lor	Hmong Granddaughter
+cast	Tong Pao Kue	Hmong Husband
+cast	Douacha Ly	Hmong Man
+cast	Parng D. Yarng	Hmong Neighbor
+cast	Nelly Yang Sao Yia	Hmong Wife
+cast	Marty Bufalini	Lawyer
+cast	My-Ishia Cason-Brown	Muslim Receptionist
+cast	Clint Ward	Officer
+cast	Stephen Kue	Officer Chang
+cast	Rochelle Winter	Waitress
+cast	Claudia Rodgers	White Woman Neighbor
+cast	Vincent Bonasso	Tailor
+cast	Sean Baligian	Old Man on Porch
+cast	Jeffrey Feingold	Neighbor
+cast	William C. Fox	Family Friend
+cast	Vong Lee	Hmong Neighbor With Baby
+cast	Rio Scafone	Family Friend
+cast	Jeffrey Scott Basham	Man on Street
+cast	Tony Stef'Ano	Man on Street
+cast	Carey Torrice	Blonde
+cast	Kevin Walsh	Extra - Hardware Store exterior

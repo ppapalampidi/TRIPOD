@@ -1,0 +1,180 @@
+year	1994
+imdb score	6.8
+meta score	56
+genre	Comedy
+genre	Crime
+genre	Fantasy
+genre	Romance
+keyword	mask
+keyword	bank
+keyword	bank clerk
+keyword	gangster
+keyword	loki
+keyword	crime boss
+keyword	hero
+keyword	deception
+keyword	norse god
+keyword	love interest
+keyword	lieutenant
+keyword	betrayal
+keyword	lifting someone into the air
+keyword	based on comic book
+keyword	super villain
+keyword	damsel in distress
+keyword	torture
+keyword	balloon
+keyword	mockery
+keyword	interrogation
+keyword	gunfight
+keyword	nightclub
+keyword	prison escape
+keyword	fictional city
+keyword	fistfight
+keyword	psychologist
+keyword	crazy humor
+keyword	pistol
+keyword	part computer animation
+keyword	tommy gun
+keyword	catch phrase
+keyword	imitation
+keyword	good versus evil
+keyword	animal licking someone
+keyword	psychiatrist
+keyword	underwater scene
+keyword	landlord
+keyword	man with glasses
+keyword	reference to dirty harry
+keyword	dynamite
+keyword	detective
+keyword	watching tv
+keyword	comeuppance
+keyword	object in rectum
+keyword	gag
+keyword	machine gun
+keyword	bridge
+keyword	black humor
+keyword	boyfriend girlfriend relationship
+keyword	dark horse comics
+keyword	landfill
+keyword	shootout
+keyword	abandoned warehouse
+keyword	chase
+keyword	dirty harry
+keyword	reference to clint eastwood
+keyword	part live action
+keyword	mafia
+keyword	police officer
+keyword	one man army
+keyword	pig latin
+keyword	animal urination
+keyword	stylized violence
+keyword	necktie
+keyword	timebomb
+keyword	park
+keyword	superhero
+keyword	violence
+keyword	hidden camera
+keyword	transformation
+keyword	shotgun
+keyword	red hair
+keyword	car trouble
+keyword	police
+keyword	journalist
+keyword	police detective
+keyword	police station
+keyword	bank robbery
+keyword	green skin
+keyword	dream sequence
+keyword	cigarette smoking
+keyword	cartoon on tv
+keyword	slapstick comedy
+keyword	unlikely hero
+keyword	super powers
+keyword	jail cell
+keyword	comic hero
+keyword	x rayed skeleton
+keyword	double life
+keyword	camera shot of feet
+keyword	cult film
+keyword	award
+keyword	organized crime
+keyword	limousine
+keyword	high heels
+keyword	legs
+keyword	villain
+keyword	bazooka
+keyword	wolf
+keyword	blockbuster
+keyword	breaking the fourth wall
+keyword	martial arts
+keyword	bad luck
+keyword	nightclub singer
+keyword	mechanic
+keyword	pantyhose
+keyword	mayor
+keyword	comic violence
+keyword	long tongue
+keyword	date
+keyword	rescue
+keyword	stolen money
+keyword	anti hero
+keyword	famous line
+keyword	reference to napoleon
+keyword	humor
+keyword	dog
+keyword	blonde
+keyword	female stockinged feet
+keyword	independent film
+keyword	title spoken by character
+keyword	character name in title
+keyword	surprise ending
+cast	Jim Carrey	Stanley Ipkiss / The Mask
+cast	Peter Riegert	Lt. Mitch Kellaway
+cast	Peter Greene	Dorian Tyrell
+cast	Amy Yasbeck	Peggy Brandt
+cast	Richard Jeni	Charlie Schumaker
+cast	Orestes Matacena	Niko
+cast	Tim Bagley	Irv Ripley
+cast	Nancy Fish	Mrs. Peenman
+cast	Johnny Williams	Burt Ripley
+cast	Reg E. Cathey	Freeze
+cast	Jim Doughan	Detective Doyle
+cast	Denis Forest	Sweet Eddy
+cast	Cameron Diaz	Tina Carlyle
+cast	Joseph Alfieri	Police Officer
+cast	B.J. Barie	Alley Punk #1
+cast	Catherine Berge	Cigarette Girl
+cast	Phil Boardman	Guard
+cast	Krista Buonauro	Lady Cop
+cast	Debra Casey	Alley Punk #3
+cast	Blake Clark	Murray
+cast	Christopher Darga	Paramedic #3
+cast	Suzanne Dunn	Reporter
+cast	Joely Fisher	Maggie
+cast	Kevin Grevioux	Henchman #7
+cast	Peter Jazwinski	Park Policeman
+cast	Howard Kay	Niko's Thug #2
+cast	Robert Keith	Police Officer
+cast	Beau Lotterman	Megaphone Cop
+cast	Scott McElroy	Niko's Thug #1
+cast	Richard Montes	Henchman #1
+cast	Ivory Ocean	Mayor Mitchell Tilton
+cast	Robert O'Reilly	The Figure
+cast	Louis Ortiz	Coco Bongo Vallet
+cast	Daniel James Peterson	Henchman #6
+cast	Jeremy Roberts	Bobby the Bouncer
+cast	Eamonn Roche	Mr. Dickey
+cast	Randi Ruimy	Screaming Lady
+cast	Ben Stein	Dr. Arthur Neuman
+cast	Nils Allen Stewart	Orlando
+cast	Chris Taylor	Coco Bongo Cop #1
+cast	Bullet Valmont	Alley Punk #2
+cast	Wendy L. Walsh	Herself
+cast	Meadow Williams	Pebbles
+cast	Max	Milo the Dog
+cast	Susan Boyd	Tina Carlyle
+cast	Leslie Cook	Dancing policewoman
+cast	Krista Miller	Dancer
+cast	Richard Raynesford	Bodyguard
+cast	Rebecca Ryiz	Uncredited
+cast	Garret Sato	

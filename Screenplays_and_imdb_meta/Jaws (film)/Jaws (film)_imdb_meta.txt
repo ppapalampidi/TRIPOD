@@ -1,0 +1,203 @@
+year	1975
+imdb score	8.1
+meta score	79
+genre	Adventure
+genre	Horror
+genre	Thriller
+keyword	shark
+keyword	island
+keyword	great white shark
+keyword	mayor
+keyword	beach
+keyword	fisherman
+keyword	boat
+keyword	boy
+keyword	shark attack
+keyword	hospital
+keyword	shock
+keyword	police chief
+keyword	high concept
+keyword	fishing boat
+keyword	billboard
+keyword	new york
+keyword	world war two veteran
+keyword	barrel
+keyword	severed head
+keyword	one word title
+keyword	rubber raft
+keyword	marijuana
+keyword	small town
+keyword	boat accident
+keyword	responsibility
+keyword	mariner hero
+keyword	mother son relationship
+keyword	policeman
+keyword	sailboat
+keyword	child eaten
+keyword	ichthyologist
+keyword	killing a dog
+keyword	repair
+keyword	woman slaps a man
+keyword	suspense
+keyword	solitaire
+keyword	prank
+keyword	character's point of view camera shot
+keyword	autopsy
+keyword	rifle
+keyword	severed leg
+keyword	imitation
+keyword	face slap
+keyword	author cameo
+keyword	graffiti
+keyword	famous opening theme
+keyword	inflatable raft
+keyword	famous score
+keyword	skinny dipping
+keyword	fear of water
+keyword	greed
+keyword	vertigo shot
+keyword	eaten alive
+keyword	nude bathing
+keyword	class differences
+keyword	blockbuster
+keyword	resort community
+keyword	female nudity
+keyword	nipples
+keyword	part of trilogy
+keyword	creature feature
+keyword	man with glasses
+keyword	scientist hero
+keyword	woman killed by a shark
+keyword	contemporary setting
+keyword	subjective camera
+keyword	reference to jack the ripper
+keyword	predatorial horror
+keyword	dog
+keyword	male bonding
+keyword	little boy
+keyword	lifting someone into the air
+keyword	license plate
+keyword	scar
+keyword	fourth of july
+keyword	television reporter
+keyword	swimming
+keyword	panic
+keyword	ferry boat
+keyword	cult film
+keyword	female rear nudity
+keyword	loss of son
+keyword	limerick
+keyword	ocean
+keyword	father son relationship
+keyword	gore
+keyword	bare breasts
+keyword	explosion
+keyword	ship wreck
+keyword	town meeting
+keyword	scuba diving
+keyword	fishing
+keyword	fingernails on chalkboard
+keyword	ship sinking
+keyword	oxygen tank
+keyword	night swimming
+keyword	marina
+keyword	helicopter
+keyword	fire
+keyword	shark cage
+keyword	day for night
+keyword	slow motion scene
+keyword	dolly zoom
+keyword	singing
+keyword	eaten by shark
+keyword	underwater
+keyword	husband wife relationship
+keyword	north atlantic
+keyword	child in peril
+keyword	characters killed one by one
+keyword	female slaps male
+keyword	killer shark
+keyword	martha's vineyard
+keyword	marriage
+keyword	child killed by an animal
+keyword	tattoo
+keyword	cult director
+keyword	first of series
+keyword	raft
+keyword	based on novel
+cast	Roy Scheider	Brody
+cast	Robert Shaw	Quint
+cast	Richard Dreyfuss	Hooper
+cast	Lorraine Gary	Ellen Brody
+cast	Murray Hamilton	Vaughn
+cast	Carl Gottlieb	Meadows
+cast	Jeffrey Kramer	Hendricks
+cast	Susan Backlinie	Chrissie
+cast	Jonathan Filley	Cassidy
+cast	Ted Grossman	Estuary Victim
+cast	Chris Rebello	Michael Brody
+cast	Jay Mello	Sean Brody
+cast	Lee Fierro	Mrs. Kintner
+cast	Jeffrey Voorhees	Alex Kintner
+cast	Craig Kingsbury	Ben Gardner
+cast	Robert Nevin	Medical Examiner
+cast	Peter Benchley	Interviewer
+cast	Chris Anastasio	Out of Towner
+cast	John Bahr	Beach Guitarist
+cast	Gilbert Brand	Victim
+cast	Allison Caine	Additional Townswomen
+cast	Jean Canha	Fat Lady
+cast	Edwin C. Carlson	Man with Goff
+cast	Henry Carreiro	Felix
+cast	Robert Carroll	Mr. Polk
+cast	Edward Chalmers Jr.	Mr. Denherder
+cast	Robert Chambers	Charlie
+cast	Denise Cheshire	Swimming Chrissie - First Victim
+cast	Fritzi Jane Courtney	Mrs. Taft
+cast	Gregory S. Dole	Sonar Operator
+cast	Cyprian R. Dube	Mr. Posner
+cast	Stephen Earle	Converted Extra
+cast	David Engelbach	Research Assistant
+cast	Dorothy Fielding	Girl in Music Store
+cast	Francis A. Frank	Boat Rental Man
+cast	Brendan Gallagher	Man with Dynamite
+cast	Elizabeth K. Gifford	Island Wife
+cast	Willis B. Gifford	Man
+cast	Alston Goff	Lynwood Shop Keeper
+cast	Paul Goulart	Clarinet Player in Music Store
+cast	Beardsley Graham	Mainlander
+cast	Eleanor L. Harvey	Motorboat Skipper
+cast	Mike Haydn	Bonfire Guitarist
+cast	Richard P. Hewitt	Walter
+cast	Carla Hogendyk	Artist
+cast	Wally Hooper Jr.	Harry
+cast	Janice T. Hull	Lady Fisherman
+cast	Stephanie Hull	Swimming Girl
+cast	Wayne Iacono	Spotter
+cast	Duncan Inches	Townsperson
+cast	Joseph G. Kraetzer	Local Merchant
+cast	Joe La Creta	Barwood
+cast	William Lymon	Ensign
+cast	Belle McDonald	Mrs. Posner
+cast	Phil Murray	Mr. Taft
+cast	Philip Norton	Mr. Stands
+cast	William O'Gorman	Man with Dynamite
+cast	William Pfluger	Sailboat Skipper
+cast	Donald Poole	Frank Silva - Harbor Master
+cast	Steven Potter	Man with Dog
+cast	Beverly Powers	Topless Swimmer
+cast	Ayn Ruymen	Nurse
+cast	Christopher Sands	Lifeguard
+cast	Henry E. Scott III	Man with Rifle
+cast	Peggy Scott	Polly
+cast	John Searle	Converted Extra
+cast	Steven Spielberg	Amity Point Lifestation Worker
+cast	Joy Stuart	Woman Tourist #1
+cast	Jerome S. Tartar	Boat Captain
+cast	Julie Taylor	Nurse
+cast	Paul G. Thibodeau	Fisherman in Boat
+cast	Rex Trailer	Scout Master
+cast	Paul F. Tremblay	Deputy #2
+cast	Hershel West	Salvatore
+cast	Robert Whelden Jr.	Policeman
+cast	Alfred Wilde	Harry Wiseman
+cast	Dick Young	Pratt

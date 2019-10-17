@@ -1,0 +1,138 @@
+year	1999
+imdb score	8.2
+meta score	64
+genre	Drama
+genre	Mystery
+genre	Thriller
+keyword	boy
+keyword	child psychologist
+keyword	patient
+keyword	spirit
+keyword	ghost
+keyword	psychiatrist
+keyword	seeing dead people
+keyword	spirituality
+keyword	blood
+keyword	psycho thriller
+keyword	mother son relationship
+keyword	school play
+keyword	teacher
+keyword	written and directed by cast member
+keyword	conspiracy
+keyword	supernatural power
+keyword	tragedy
+keyword	blockbuster
+keyword	sixth sense
+keyword	precocious child
+keyword	compassion
+keyword	misfit
+keyword	urination
+keyword	bus ride
+keyword	psychology
+keyword	hanged family
+keyword	psychic power
+keyword	hanged child
+keyword	soul
+keyword	hidden camera
+keyword	switch
+keyword	extrasensory perception
+keyword	filicide
+keyword	murderess
+keyword	watching a video
+keyword	director cameo
+keyword	spiral staircase
+keyword	writer director
+keyword	elementary school
+keyword	child's point of view
+keyword	1990s
+keyword	emaciation
+keyword	single parent
+keyword	suspense
+keyword	understanding
+keyword	flashback
+keyword	hero
+keyword	able to hear the dead
+keyword	stuttering
+keyword	enlightenment
+keyword	death
+keyword	christ allegory
+keyword	munchausen syndrome by proxy
+keyword	wine cellar
+keyword	vcr tape
+keyword	single mother
+keyword	paranormal phenomena
+keyword	able to see the dead
+keyword	poison
+keyword	funeral
+keyword	fear
+keyword	vomiting
+keyword	therapeutic alliance
+keyword	zoloft
+keyword	affection
+keyword	obsession
+keyword	ghost child
+keyword	misunderstanding
+keyword	pennsylvania
+keyword	psychic
+keyword	philadelphia pennsylvania
+keyword	secret
+keyword	the color red
+keyword	chilled air
+keyword	bully
+keyword	church
+keyword	road accident
+keyword	redemption
+keyword	child in peril
+keyword	trauma
+keyword	sanctuary
+keyword	toy
+keyword	plot twist
+keyword	surprise ending
+cast	Bruce Willis	Dr. Malcolm Crowe
+cast	Haley Joel Osment	Cole Sear
+cast	Toni Collette	Lynn Sear
+cast	Olivia Williams	Anna Crowe
+cast	Trevor Morgan	Tommy Tammisimo
+cast	Donnie Wahlberg	Vincent Grey
+cast	Peter Anthony Tambakis	Darren
+cast	Jeffrey Zubernis	Bobby
+cast	Bruce Norris	Stanley Cunningham
+cast	Glenn Fitzgerald	Sean
+cast	Greg Wood	Mr. Collins
+cast	Mischa Barton	Kyra Collins
+cast	Angelica Page	Mrs. Collins
+cast	Lisa Summerour	Bridesmaid
+cast	Firdous Bamji	Young Man Buying Ring
+cast	Samia Shoaib	Young Woman Buying Ring
+cast	Hayden Saunier	Darren's Mom
+cast	Janis Dardaris	Kitchen Woman
+cast	Neill Hartley	Visitor #2
+cast	Sarah Ripard	Visitor #3
+cast	Heidi Fischer	Visitor #4
+cast	KaDee Strickland	Visitor #5
+cast	Michael J. Lyons	Visitor #6
+cast	Samantha Fitzpatrick	Kyra's Sister
+cast	Holly Rudkin	Society Lady #1
+cast	Kate Kearney-Patch	Society Lady #2
+cast	Marilyn Shanok	Woman at Accident
+cast	M. Night Shyamalan	Dr. Hill
+cast	Wes Heywood	Commercial Narrator
+cast	Nico Woulard	Hanged Child
+cast	Carol Nielson	Hanged Female
+cast	Keith Woulard	Hanged Male
+cast	Jodi Dawson	Burnt Teacher
+cast	Tony Michael Donnelly	Gunshot Boy
+cast	Ronnie Lea	Secretary
+cast	Carlos Xavier Lopez	Spanish Ghost on Tape
+cast	Gino Inverso	Young Vincent
+cast	Ellen Sheppard	Mrs. Sloan
+cast	Tom McLaughlin	Anna's Father
+cast	Candy Aston-Dennis	Anna's Mother
+cast	Patrick McDade	Shaken Driver
+cast	Jose L. Rodriguez	Husband
+cast	Gina Allegro	Bride's Friend
+cast	Bob Bowersox	Restaurant Patron
+cast	Kym Cohen	Bride's maid
+cast	Colleen June McQuaide	Tommy's TV Mom
+cast	Sean Oliver	Ghost in the Dungeon
+cast	Alison Robertson	Waitress

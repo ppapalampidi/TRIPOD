@@ -1,0 +1,147 @@
+year	1999
+imdb score	7.2
+meta score	70
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	school
+keyword	shrew
+keyword	shakespeare
+keyword	dating
+keyword	love
+keyword	high school
+keyword	tutor
+keyword	feminist
+keyword	pool table
+keyword	balisong
+keyword	teenage boy
+keyword	teenager
+keyword	modern day adaptation
+keyword	teen movie
+keyword	cigarette smoking
+keyword	woman with glasses
+keyword	dancing on a table
+keyword	marijuana
+keyword	teen romance
+keyword	seattle space needle
+keyword	reference to ernest hemingway
+keyword	feminine mystique
+keyword	bob marley impersonator
+keyword	french lesson
+keyword	flasher
+keyword	prom
+keyword	model
+keyword	shakespeare in modern dress
+keyword	soccer
+keyword	teacher
+keyword	adolescent girl
+keyword	deception
+keyword	intolerance
+keyword	football stadium
+keyword	english literature
+keyword	anti smoking
+keyword	motorcycle
+keyword	dream girl
+keyword	shakespeare adaptation
+keyword	shakespeare adaption
+keyword	sister sister relationship
+keyword	black humor
+keyword	feminism
+keyword	female protagonist
+keyword	drunkenness
+keyword	teenage daughter
+keyword	detention
+keyword	sexual humor
+keyword	marching band
+keyword	car driving
+keyword	adolescent boy
+keyword	single parent
+keyword	bloopers during credits
+keyword	archery
+keyword	love triangle
+keyword	girl with glasses
+keyword	school life
+keyword	teenage girl
+keyword	teen comedy
+keyword	paintball
+keyword	shot with an arrow
+keyword	misanthrope
+keyword	high school shakespeare adaptation
+keyword	reference to fabio
+keyword	shot in the butt
+keyword	attraction
+keyword	shakespearean quote
+keyword	rastafarian
+keyword	serenade
+keyword	guitar
+keyword	car
+keyword	bad poetry
+keyword	party
+keyword	shakespeare's the taming of the shrew
+keyword	overprotective parent
+keyword	misfit
+keyword	father daughter relationship
+keyword	resentment
+keyword	opposites attract
+keyword	concussion
+keyword	vomit
+keyword	poetry
+keyword	bookstore
+keyword	based on play
+keyword	number in title
+keyword	
+cast	Heath Ledger	Patrick Verona
+cast	Julia Stiles	Kat Stratford
+cast	Joseph Gordon-Levitt	Cameron James
+cast	Larisa Oleynik	Bianca Stratford
+cast	David Krumholtz	Michael
+cast	Andrew Keegan	Joey Donner
+cast	Susan May Pratt	Mandella
+cast	Gabrielle Union	Chastity
+cast	Larry Miller	Walter Stratford
+cast	Daryl Mitchell	Mr. Morgan
+cast	Allison Janney	Ms. Perky
+cast	David Leisure	Mr. Chapin
+cast	Greg Jackson	Scruvy
+cast	Kyle Cease	Bogie Lowenstien
+cast	Terence Heuston	Derek
+cast	Cameron Fraser	Trevor
+cast	Eric Riedmann	Audio Visual Guy
+cast	Quinn Maixner	Beautiful Jock
+cast	Demegio Kimbrough	Coffee Kid #1
+cast	Todd Butler	Coffee Kid #2
+cast	Dennis Mosley	Cohort
+cast	Bianca Kajlich	Coffee Girl
+cast	Nick Vukelic	Drugged Out Loser
+cast	Ben Laurance	Wimpy Loser
+cast	Aidan Kennedy	Laughing Loser
+cast	Jelani Quinn	Crying Loser
+cast	Jesse Dyer	Screaming Loser
+cast	Aaron Therol	Detention Student
+cast	Carlos Lacamara	Bartender
+cast	Joshua Thorpe	Jock
+cast	J.R. Johnson	Mba Guy at Party
+cast	Wendy Gottlieb	Heather
+cast	Brian Hood	Clem
+cast	Travis Muller	Cowboy
+cast	Ari Karczag	Kissing Guy
+cast	Laura Kenny	Judith
+cast	Alice Evans	Perky Girl
+cast	Jesper Inglis	Buckaroo Bartender
+cast	Nick Brown	Biker
+cast	Monique Powell	Save Ferris Singer
+cast	Brian Mashburn	Save Ferris Singer
+cast	Kay Hanley	Letters To Cleo Singer
+cast	Michael Eisenstein	Letters To Cleo Singer
+cast	Michelle Babin	Girl in Night Club
+cast	Tim Bennett	School Administrator
+cast	Shelsie Blake	Bookstore Patron
+cast	Gil Junger	Teacher
+cast	Daniel Kountz	Admirer #1
+cast	Alisa Mackay	Coffee Girl #2
+cast	Katy Magnuson	Beautiful Girl
+cast	Amber Matthews	Club Dancer #1
+cast	Joshua Mosley	Cohort
+cast	Bridget O'Neill	Beautiful Girl
+cast	Tommy Snider	Student
+cast	Jay Zorich	Roland / High School Security Cop

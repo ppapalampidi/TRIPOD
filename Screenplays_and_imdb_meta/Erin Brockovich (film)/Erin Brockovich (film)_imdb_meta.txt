@@ -1,0 +1,268 @@
+year	2000
+imdb score	7.2
+meta score	73
+genre	Biography
+genre	Drama
+keyword	lawsuit
+keyword	single mother
+keyword	toxic waste
+keyword	class action lawsuit
+keyword	water
+keyword	car accident
+keyword	hexavalent chromium
+keyword	doctor
+keyword	real estate
+keyword	water supply
+keyword	lawyer
+keyword	chromium
+keyword	chicken
+keyword	newspaper
+keyword	extortion
+keyword	construction worker
+keyword	female protagonist
+keyword	picture frame
+keyword	plumbing
+keyword	wrongful termination
+keyword	rover hockey
+keyword	law school
+keyword	terminal illness
+keyword	mortgage
+keyword	food
+keyword	cleanup and abatement order
+keyword	white blood cell
+keyword	numbers
+keyword	marijuana
+keyword	barn
+keyword	nosebleed
+keyword	pity
+keyword	san fernando valley california
+keyword	dress code
+keyword	krispy kreme
+keyword	babysitter
+keyword	car crash
+keyword	reference to david vs. goliath
+keyword	mother daughter relationship
+keyword	divorcee
+keyword	husband wife relationship
+keyword	water sprinkler
+keyword	trust
+keyword	cameo appearance by real life subject
+keyword	tumor
+keyword	waitress
+keyword	begging
+keyword	uterus
+keyword	beauty queen
+keyword	baby
+keyword	dairy
+keyword	father daughter relationship
+keyword	kiss
+keyword	tiara
+keyword	swimming pool
+keyword	environmental crime
+keyword	flash forward
+keyword	attorney
+keyword	necktie
+keyword	los angeles times
+keyword	fired from the job
+keyword	broken fingernail
+keyword	contaminated water
+keyword	bad luck
+keyword	diabetes
+keyword	tears
+keyword	miscarriage
+keyword	at will termination
+keyword	sexism
+keyword	geek
+keyword	year 1993
+keyword	poison
+keyword	unemployment
+keyword	toxicology
+keyword	eating
+keyword	marriage
+keyword	ecological
+keyword	reference to love canal
+keyword	dairy farmer
+keyword	reference to ed mcmahon
+keyword	hodgkin's disease
+keyword	contamination
+keyword	receptionist
+keyword	law
+keyword	debt
+keyword	crohn's disease
+keyword	mother son relationship
+keyword	fake fainting
+keyword	earring
+keyword	binding arbitration
+keyword	misunderstanding
+keyword	lahontan california
+keyword	injustice
+keyword	liar
+keyword	desert
+keyword	feminism
+keyword	small town
+keyword	picnic
+keyword	birth control pill
+keyword	dead frog
+keyword	toxic poisoning
+keyword	illness
+keyword	law firm
+keyword	judge
+keyword	prologue
+keyword	courtroom
+keyword	pollution
+keyword	poverty
+keyword	pay phone
+keyword	neck brace
+keyword	coworker relationship
+keyword	corporate crime
+keyword	parking ticket
+keyword	hysterectomy
+keyword	working single mother
+keyword	pacific gas and electric company
+keyword	uterine cancer
+keyword	environmentally induced disease
+keyword	card playing
+keyword	breast cancer
+keyword	montage
+keyword	at will employee
+keyword	toxicologist
+keyword	trial
+keyword	heart bypass surgery
+keyword	harley davidson
+keyword	disease
+keyword	employer employee relationship
+keyword	want ads
+keyword	paralegal
+keyword	investigation
+keyword	job seeking
+keyword	insurance
+keyword	respect
+keyword	money
+keyword	monopoly the board game
+keyword	water gun
+keyword	biker
+keyword	motorcycle gang
+keyword	running a red light
+keyword	job interview
+keyword	san bernardino county california
+keyword	apology
+keyword	pot smoking
+keyword	telephone call
+keyword	barstow california
+keyword	motorcycle
+keyword	cockroach
+keyword	courtroom drama
+keyword	cigarette smoking
+keyword	law office
+keyword	spine deterioration
+keyword	family relationships
+keyword	pain killer
+keyword	college campus
+keyword	hinkley california
+keyword	poker the card game
+keyword	mobile phone
+keyword	university of california los angeles
+keyword	medical expenses
+keyword	environmental
+keyword	cell phone
+keyword	carcinoma
+keyword	unprofessional conduct
+keyword	photograph
+keyword	miss wichita
+keyword	children
+keyword	threat
+keyword	court
+keyword	legs
+keyword	watching tv
+keyword	charm school
+keyword	neighbor
+keyword	water department
+keyword	cafe
+keyword	survival
+keyword	phone booth
+keyword	push up bra
+keyword	environmental issue
+keyword	crying
+keyword	public health
+keyword	tort
+keyword	justice
+keyword	tattoo
+keyword	restaurant
+keyword	sex
+keyword	buxom
+keyword	labor relations
+keyword	jury
+keyword	single parent
+keyword	accountability
+keyword	bar
+keyword	playing pool
+keyword	ground water
+keyword	carcinosin
+keyword	freeway
+keyword	1990s
+keyword	whistleblower
+keyword	cancer
+keyword	lympohoma
+keyword	lie
+keyword	arbitration
+keyword	cow
+keyword	coughing
+keyword	based on true story
+keyword	title spoken by character
+keyword	character name in title
+keyword	surprise ending
+cast	Julia Roberts	Erin Brockovich
+cast	David Brisbin	Dr. Jaffe
+cast	Dawn Didawick	Rosalind
+cast	Albert Finney	Ed Masry
+cast	Valente Rodriguez	Donald
+cast	Conchata Ferrell	Brenda
+cast	George Rocky Sullivan	Los Angeles Judge
+cast	Pat Skipper	Defending Lawyer
+cast	Jack Gill	Defendant
+cast	Irene Olga López	Mrs. Morales
+cast	Emily Marks	Beth Brockovich - 8 Months
+cast	Julie Marks	Beth Brockovich - 8 Months
+cast	Scotty Leavenworth	Matthew Brockovich
+cast	Gemmenne de la Peña	Katie Brockovich
+cast	Erin Brockovich-Ellis	Julia, the Waitress
+cast	Adilah Barnes	Anna
+cast	Irina V. Passmoore	Babysitter
+cast	Aaron Eckhart	George
+cast	Ron Altomare	Biker Friend
+cast	Charles John Bukey	Biker Friend
+cast	Marg Helgenberger	Donna Jensen
+cast	Randy Lowell	Brian Frankel
+cast	Jamie Harrold	Scott
+cast	Sarah Ashley	Ashley Jensen
+cast	Scarlett Pomers	Shanna Jensen
+cast	T.J. Thyne	David Foil
+cast	Joe Chrest	Tom Robinson
+cast	Meredith Zinner	Mandy Robinson
+cast	Michael Harney	Pete Jensen
+cast	William Lucking	Bob Linwood
+cast	Mimi Kennedy	Laura Ambrosino
+cast	Scott Sowers	Mike Ambrosino
+cast	Cherry Jones	Pamela Duncan
+cast	Kristina Malota	Annabelle Daniels
+cast	Wade Williams	Ted Daniels
+cast	Cordelia Richards	Rita Daniels
+cast	Ashley Pimental	Beth Brockovich - 18 Months
+cast	Brittany Pimental	Beth Brockovich - 18 Months
+cast	Tracey Walter	Charles Embry
+cast	Larry Martinez	Nelson Perez
+cast	LeRoy A. Simmons	Himself
+cast	Don Snell	PG&E Lawyer
+cast	Michael Shamberg	PG&E Lawyer
+cast	Gina Gallego	Ms. Sanchez, PG&E Representative
+cast	Peter Coyote	Kurt Potter
+cast	Ronald E. Hairston	Car Messenger
+cast	Veanne Cox	Theresa Dallavale
+cast	Scott Allen	Town Meeting Plaintiff
+cast	Sheila Shaw	Ruth Linwood
+cast	Matthew Kimbrough	Bartender
+cast	Jason Cervantes	Check Messenger
+cast	Mike Malone	Baxter
+cast	Norma Maldonado	Woman #1
+cast	Tom Tangen	Ned
+cast	Julie Wagner	E.R. Admitting Nurse

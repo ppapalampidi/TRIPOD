@@ -1,0 +1,207 @@
+year	1998
+imdb score	5.9
+meta score	N/A
+genre	Action
+genre	Drama
+genre	Sci-Fi
+keyword	soldier
+keyword	planet
+keyword	crash survivor
+keyword	survivor
+keyword	sergeant
+keyword	waste
+keyword	colony
+keyword	waste planet
+keyword	fight
+keyword	escape
+keyword	one word title
+keyword	crying
+keyword	fistfight
+keyword	hostage
+keyword	stranded
+keyword	child in peril
+keyword	bravery
+keyword	nosebleed
+keyword	snow
+keyword	burned to death
+keyword	tear on cheek
+keyword	explosion
+keyword	flashback
+keyword	killing civilians
+keyword	hand to hand combat
+keyword	hiding underwater
+keyword	exploding bus
+keyword	slow motion scene
+keyword	falling from height
+keyword	poisonous snake
+keyword	2030s
+keyword	held at gunpoint
+keyword	rain
+keyword	eye gouging
+keyword	spacecraft
+keyword	army
+keyword	military academy
+keyword	exploding car
+keyword	abandoned airplane
+keyword	hog
+keyword	battlefield
+keyword	burning man
+keyword	genetic engineering
+keyword	gas mask
+keyword	shootout
+keyword	graveyard
+keyword	broken arm
+keyword	shot to death
+keyword	climb
+keyword	year 2036
+keyword	throat slitting
+keyword	brawl
+keyword	one against many
+keyword	training
+keyword	blood splatter
+keyword	performance enhancing drugs
+keyword	military
+keyword	showdown
+keyword	ex soldier
+keyword	battle
+keyword	wetting pants
+keyword	shot in the chest
+keyword	war veteran
+keyword	knife
+keyword	trained from birth
+keyword	spaceship
+keyword	weightlifting
+keyword	pistol
+keyword	rocket launcher
+keyword	snake
+keyword	super strength
+keyword	card game
+keyword	timebomb
+keyword	one man army
+keyword	shooting range
+keyword	o positive blood type
+keyword	tough guy
+keyword	hummer
+keyword	action hero
+keyword	martial arts
+keyword	presumed dead
+keyword	machine gun
+keyword	alarm
+keyword	future
+keyword	stabbed in the eye
+keyword	tattoo
+keyword	eating fast
+keyword	person on fire
+keyword	tank
+keyword	foot race
+keyword	female soldier
+keyword	hero
+keyword	jumping from height
+keyword	face paint
+keyword	gatling gun
+keyword	fisticuffs
+keyword	fire fight
+keyword	punching bag
+keyword	super soldier
+keyword	extreme close up
+keyword	christmas
+keyword	unconsciousness
+keyword	die hard scenario
+keyword	anti hero
+keyword	outer space
+keyword	kitchen
+keyword	warrior
+keyword	child execution
+keyword	flamethrower
+keyword	scar
+keyword	rescue
+keyword	dancing
+keyword	crushed to death
+keyword	future
+keyword	heavy rain
+keyword	reference to blade runner
+keyword	facial scar
+keyword	bite
+keyword	fictional war
+keyword	target practice
+keyword	colonel
+keyword	impalement
+keyword	superhuman strength
+keyword	year 1996
+keyword	competition
+keyword	murder of a child
+keyword	hand signal
+keyword	courage
+keyword	gunfight
+keyword	neck breaking
+keyword	exploding planet
+keyword	military training
+keyword	camouflage
+keyword	santa claus
+keyword	combat
+keyword	revenge
+keyword	dust storm
+keyword	missile
+keyword	death
+keyword	uzi
+keyword	burned alive
+keyword	boxing
+keyword	commando
+keyword	fire and water
+keyword	christmas party
+keyword	santa claus suit
+keyword	flame thrower
+keyword	space western
+keyword	future war
+keyword	wet pants
+keyword	title spoken by character
+keyword	
+cast	Kurt Russell	Todd 3465
+cast	Jason Scott Lee	Caine 607
+cast	Jason Isaacs	Colonel Mekum
+cast	Connie Nielsen	Sandra
+cast	Sean Pertwee	Mace
+cast	Jared Thorne	Nathan
+cast	Taylor Thorne	Nathan
+cast	Mark Bringelson	Rubrick
+cast	Gary Busey	Church
+cast	K.K. Dodds	Sloan
+cast	James Black	Riley
+cast	Mark De Alessandro	Goines
+cast	Vladimir Orlov	Romero
+cast	Carsten Norgaard	Green
+cast	Duffy Gaver	Chelsey
+cast	Brenda Wehle	Hawkins
+cast	Michael Chiklis	Jimmy Pig
+cast	Elizabeth Dennehy	Jimmy Pig's Wife
+cast	Paul Dillon	Slade
+cast	Max Daniels	Red
+cast	Paul Sklar	Melton 249
+cast	Jesse D. Goins	Chester
+cast	Ashley Nolan	Judith
+cast	Ellen Crawford	Ilona
+cast	Don Pulford	Singh
+cast	Conni Marie Brazelton	Eva
+cast	Kyle Sullivan	Tommy
+cast	Corbin Bleu	Johnny
+cast	Danny Turner	Omar
+cast	Patrick Tyler	Bucky
+cast	Sara Paxton	Angie
+cast	Elizabeth Huett	Janice
+cast	Janelle Ginestra	Sarah
+cast	Sydney Berry	Ellen
+cast	Jesse Littlejohn	Will
+cast	Shawn Manley	Sean
+cast	Jimmy Baker	Todd - Age 8
+cast	Alex Mandelberg	11-Year-Old Straggler
+cast	Wyatt Russell	Todd - Age 11
+cast	Celina Muehlbauer	Little Crossfire Girl
+cast	M.G. Mills	Doctor
+cast	Laura Gray	Nurse #1
+cast	Chandra De Alessandro	Nurse #2
+cast	Alexander Denk	Military Observer
+cast	Shawn Quinn	Aggressive Kid
+cast	Bill Anagnos	
+cast	Jeremy Bolt	Enemy Soldier
+cast	Tom Schultz	Driver#1
+cast	Greg Stechman	Trainee 101

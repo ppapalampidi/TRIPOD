@@ -1,0 +1,374 @@
+year	2000
+imdb score	6.4
+meta score	50
+genre	Comedy
+genre	Drama
+genre	Music
+keyword	writer
+keyword	minstrel show
+keyword	actor
+keyword	television
+keyword	blackface
+keyword	television industry
+keyword	satire
+keyword	african american
+keyword	protest
+keyword	destroying property
+keyword	sexist
+keyword	reference to al jolson
+keyword	tap dancer
+keyword	black american
+keyword	drug use
+keyword	verdict
+keyword	shaving head
+keyword	united paramount network
+keyword	dixie
+keyword	reference to whoopi goldberg
+keyword	jewelry
+keyword	father son relationship
+keyword	reference to bill cosby
+keyword	jail
+keyword	penis
+keyword	gold tooth
+keyword	media
+keyword	death
+keyword	reference to desmond piper
+keyword	servant
+keyword	african american studies
+keyword	reference to chris rock
+keyword	slacker
+keyword	dead body
+keyword	reference to o.j. simpson
+keyword	reference to aunt jemima
+keyword	reference to morgan freeman
+keyword	tap dancing
+keyword	slave
+keyword	reference to wesley snipes
+keyword	murder
+keyword	band
+keyword	church
+keyword	public access television
+keyword	hallucination
+keyword	voice over narration
+keyword	white house
+keyword	south carolina
+keyword	staff meeting
+keyword	recording
+keyword	drink
+keyword	dance
+keyword	singing
+keyword	bus
+keyword	illegitimate child
+keyword	slavery
+keyword	ridicule
+keyword	interracial relationship
+keyword	paranoia
+keyword	superficiality
+keyword	abduction
+keyword	gold chain
+keyword	white gloves
+keyword	reference to uncle tom
+keyword	harvard university
+keyword	headmaster
+keyword	reference to mark twain
+keyword	gospel music
+keyword	selma alabama
+keyword	internship
+keyword	boarding school
+keyword	stealing a chicken
+keyword	reference to muhammad ali
+keyword	harlem manhattan new york city
+keyword	hip hop
+keyword	american broadcasting company
+keyword	revolutionary
+keyword	talk radio
+keyword	dancing on top of conference table
+keyword	stand up comedian
+keyword	reference to james baldwin
+keyword	sidekick
+keyword	cnn
+keyword	reference to matt dillon the actor
+keyword	reference to sleep 'n' eat
+keyword	mockery
+keyword	reference to mother teresa
+keyword	record player
+keyword	integrity
+keyword	riot
+keyword	reference to shakespeare's hamlet
+keyword	nbc
+keyword	police
+keyword	reference to mohammed ali
+keyword	song
+keyword	puerto rican american
+keyword	crack cocaine
+keyword	holocaust
+keyword	bullet hole
+keyword	reference to rudy giuliani
+keyword	gangsta rap
+keyword	manhattan new york city
+keyword	1960 olympics
+keyword	reference to ten little niggers
+keyword	backstage
+keyword	reference to abraham lincoln
+keyword	reference to samuel l. jackson
+keyword	audition
+keyword	reference to vanilla ice
+keyword	reference to frankenstein
+keyword	cocoa butter
+keyword	assumed superiority
+keyword	mirror
+keyword	racial stereotype
+keyword	political correctness
+keyword	tv commercial
+keyword	watermelon
+keyword	reference to charles darwin
+keyword	emmy award
+keyword	cigarette smoking
+keyword	magical negro stereotype
+keyword	talking to the camera
+keyword	rehearsal
+keyword	family relationships
+keyword	chicken
+keyword	revolution
+keyword	narration from the grave
+keyword	backstage magazine
+keyword	award ceremony
+keyword	tragedy
+keyword	live television
+keyword	reference to johnny cochran
+keyword	laziness
+keyword	africa
+keyword	crack pipe
+keyword	interracial marriage
+keyword	boycott
+keyword	millennium
+keyword	american flag
+keyword	unemployment
+keyword	reference to clarence thomas
+keyword	chicken thief
+keyword	tv ratings
+keyword	money
+keyword	african american stereotype
+keyword	animated sequence
+keyword	inferiority complex
+keyword	tv studio
+keyword	jewish
+keyword	reference to joseph
+keyword	reference to denzel washington
+keyword	reference to danny glover
+keyword	painted face
+keyword	face paint
+keyword	reference to eddie murphy
+keyword	watching tv
+keyword	conference call
+keyword	eviction
+keyword	lip enlargement
+keyword	street life
+keyword	courage
+keyword	brooklyn new york city
+keyword	fired from the job
+keyword	subjective camera
+keyword	lipstick
+keyword	one word title
+keyword	brother sister relationship
+keyword	racism
+keyword	convict
+keyword	phd
+keyword	reference to al sharpton
+keyword	reference to jimmie j.j. walker
+keyword	drinking
+keyword	tv pilot
+keyword	fellatio
+keyword	death of brother
+keyword	theatre audience
+keyword	chicken costume
+keyword	new york university
+keyword	clown
+keyword	ghetto
+keyword	aunt nephew relationship
+keyword	variety show
+keyword	reference to rastus
+keyword	jew
+keyword	oreo cookie
+keyword	rooftop
+keyword	pool hall
+keyword	rhyming
+keyword	split screen
+keyword	gloves
+keyword	reference to mike tyson
+keyword	ignorance
+keyword	stupidity
+keyword	recording studio
+keyword	manifesto
+keyword	reference to the virgin mary
+keyword	reference to uncle sam
+keyword	applause
+keyword	reference to bill bojangles robinson
+keyword	reference to little black sambo
+keyword	breaking the fourth wall
+keyword	reference to bert williams
+keyword	comedian
+keyword	dancer
+keyword	dressing room
+keyword	improvisation
+keyword	bazooka
+keyword	unwed pregnancy
+keyword	montage
+keyword	yale university
+keyword	limousine
+keyword	gun
+keyword	repeated scene
+keyword	middle class
+keyword	dignity
+keyword	cotton
+keyword	tv writer
+keyword	singer
+keyword	reference to bill clinton
+keyword	reference to sammy davis jr.
+keyword	hanging
+keyword	afro
+keyword	embarrassment
+keyword	racial slur
+keyword	usa
+keyword	welfare
+keyword	reference to martin luther king jr.
+keyword	mau mau
+keyword	black power
+keyword	reference to will smith
+keyword	advertisement
+keyword	new york city
+keyword	alabama
+keyword	iowa
+keyword	race relations
+keyword	bar
+keyword	execution
+keyword	censorship
+keyword	plantation
+keyword	demonstration
+keyword	fake commercial
+keyword	reference to pigmeat martin
+keyword	rifle
+keyword	reference to william shakespeare
+keyword	face slap
+keyword	reference to spike lee
+keyword	erection
+keyword	blood
+keyword	newsreel footage
+keyword	tied up
+keyword	mother son relationship
+keyword	tv producer
+keyword	dancing
+keyword	black american stereotype
+keyword	reference to clint eastwood
+keyword	telephone call
+keyword	computer
+keyword	stereotype
+keyword	sexism
+keyword	policeman
+keyword	reference to diana ross
+keyword	north american aerospace defense command
+keyword	reference to topsy
+keyword	reference to matthew modine
+keyword	reference to quentin tarantino
+keyword	times square manhattan new york city
+keyword	shooting
+keyword	partner
+keyword	makeup
+keyword	housing project
+keyword	controversy
+keyword	independent film
+keyword	
+cast	Damon Wayans	Pierre Delacroix
+cast	Savion Glover	Manray / Mantan
+cast	Jada Pinkett Smith	Sloan Hopkins
+cast	Tommy Davidson	Womack / Sleep'n Eat
+cast	Michael Rapaport	Thomas Dunwitty
+cast	Thomas Jefferson Byrd	Honeycutt
+cast	Paul Mooney	Junebug
+cast	Sarah Jones	Dot
+cast	Gillian Iliana Waters	Verna
+cast	Susan Batson	Orchid Dothan
+cast	Mos Def	Mau Mau: Big Blak Afrika
+cast	M.C. Serch	Mau Mau: 1 / 16th Blak
+cast	Gano Grills	Mau Mau: Double Blak
+cast	Canibus	Mau Mau: Mo Blak
+cast	DJ Scratch	Mau Mau: Jo Blak
+cast	Charli Baltimore	Mau Mau: Smooth Blak
+cast	Craig muMs Grant	Mau Mau: Hard Blak
+cast	Dormeshia Sumbry	Pickaninny: Topsy
+cast	Tyheesha Collins	Pickaninny: Aunt Jemima
+cast	Cartier Williams	Pickaninny: Lil'nigger Jim
+cast	Jason Bernard	Pickaninny: Jungle Bunny
+cast	Baakari Wilder	Pickaninny: Sambo
+cast	Sekou Torbet	Pickaninny: Rastus
+cast	Ahmir-Khalib Thompson	Alabama Porch Monkeys: Levi - Musical Director
+cast	Tariq Trotter	Alabama Porch Monkey
+cast	James 'Kamal' Gray	Alabama Porch Monkey
+cast	Leonard 'Hub' Hubbard	Alabama Porch Monkey
+cast	Kyle 'Scratch' Jones	Alabama Porch Monkey
+cast	Christopher Wynkoop	Massa Charlie
+cast	Jani Blom	Jukka Laks
+cast	Dina Pearlman	Myrna Goldfarb
+cast	Imhotep Gary Byrd	Himself
+cast	Johnnie L. Cochran Jr.	Himself
+cast	Al Sharpton	Himself
+cast	Matthew Modine	Himself
+cast	Mira Sorvino	Herself
+cast	Arthur J. Nascarella	Police Chief
+cast	Liza Jessie Peterson	Ruth
+cast	Don Ezzard Peavy II	Auditioning Dancer
+cast	Tony Arnaud	Auditioning 'Digeroo-Doo Player'
+cast	Tuffy Questell	Auditioning 'Singer'
+cast	David Wain	Bunning
+cast	Ron Lawrence	Mau Maus' Engineer
+cast	Al Palagonia	Bobby
+cast	Mildred Clinton	Louise
+cast	Ephraim Benton	Tre
+cast	Tanesha Marie Gary	Stacy
+cast	Shannon Walker Williams	Young Black Woman
+cast	Matthew Cole Weiss	Young White Man
+cast	Coati Mundi	Papo
+cast	Caridad 'La Bruja' De La Luz	Cuca
+cast	Rodney 'Bear' Jackson	Stage Security Guard
+cast	Rafael Osorio	Stage Security Guard
+cast	Anna Hsieh	Joan
+cast	Kris Park	Fish
+cast	Cheryl Lynn Bowers	Mona
+cast	Julie Dretzin	Beth
+cast	Steven McElroy	Seth
+cast	Stephen Kunken	David
+cast	Katie MacNichol	Anna
+cast	Joshua Weinstein	Kirk
+cast	A.D. Miles	Aaron
+cast	Daniel Milder	Peter
+cast	Jason Winther	Jeff
+cast	Ed Onipede Blunt	CNS Security Guard
+cast	Renton Kirk	CNS Security Guard
+cast	Kim Director	Starlet
+cast	Conni Freestone	Starlet
+cast	Rayietta Hill	Hottie
+cast	John Wallace	Dawg
+cast	Arthur Thomas	Dawg
+cast	Lisa Ferreira	Da Bomb Girl
+cast	Kiki Haynes	Da Bomb Girl
+cast	Judah Jacobs	Da Bomb Girl
+cast	Light Eyes	Da Bomb Girl
+cast	Chyna	Da Bomb Girl
+cast	Luz Whitney	Da Bomb Girl
+cast	Danny Hoch	Timmi Hillnigger
+cast	Shawna Bermender	Performer
+cast	Ruby Campbell	Marie
+cast	Marcia Clark	Herself - Behind O.J. Simpson
+cast	Bill Clinton	Himself
+cast	Tracy Coogan	Baywatch Girl
+cast	Ross Haines	Newsroom Supervisor
+cast	Mario Macaluso	Comedy Writer
+cast	Tracy Morgan	TV Personality
+cast	Jessica Prince	Task Force 2 Leader
+cast	Chris Rock	Himself
+cast	George Siegmann	Silas Lynch
+cast	O.J. Simpson	Himself
+cast	Joseph Lyle Taylor	Task Force Leader
+cast	Stelianie Tekmitchov	Beach Force 2 Babe
+cast	Bert Williams	
+cast	Leah Yananton	Studio PA

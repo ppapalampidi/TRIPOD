@@ -1,0 +1,237 @@
+year	2001
+imdb score	7.6
+meta score	28
+genre	Drama
+keyword	the beatles
+keyword	lawyer
+keyword	love
+keyword	pro bono
+keyword	custody
+keyword	school
+keyword	hospital
+keyword	answering machine
+keyword	single father
+keyword	dancing
+keyword	century city los angeles
+keyword	montage
+keyword	halloween party
+keyword	children
+keyword	locked door
+keyword	swimming pool
+keyword	tears
+keyword	mother son relationship
+keyword	adoption
+keyword	pizza hut
+keyword	obscene finger gesture
+keyword	girl
+keyword	dog walking
+keyword	dog walker
+keyword	little girl
+keyword	7 eleven
+keyword	recording
+keyword	custody battle
+keyword	retarded parent
+keyword	coffee shop
+keyword	single parent
+keyword	husband wife relationship
+keyword	parenthood
+keyword	obsession
+keyword	sadness
+keyword	single mother
+keyword	starbucks coffee
+keyword	anger
+keyword	cheating husband
+keyword	mentally handicapped man
+keyword	i hop restaurant
+keyword	father daughter relationship
+keyword	prostitute
+keyword	checkers
+keyword	kidnapping
+keyword	handheld camera
+keyword	children's book
+keyword	u.s. president
+keyword	title directed by female
+keyword	neighbor
+keyword	rhyme in title
+keyword	new baby
+keyword	autism
+keyword	runaway
+keyword	halloween
+keyword	police
+keyword	school recess
+keyword	patience
+keyword	reference to green eggs and ham
+keyword	swing
+keyword	shoes
+keyword	down syndrome
+keyword	artificial sweetener
+keyword	slow motion
+keyword	halloween costume
+keyword	fear of learning
+keyword	book
+keyword	reference to mr. egg
+keyword	dr seuss
+keyword	mentally challenged male
+keyword	reference to paul mccartney
+keyword	birth
+keyword	reference to john lennon
+keyword	foster child
+keyword	seven year old
+keyword	stuffed rabbit
+keyword	child and family services
+keyword	lost
+keyword	reading
+keyword	overhead shot
+keyword	painting
+keyword	court
+keyword	coffee
+keyword	paper airplane
+keyword	custody hearing
+keyword	compassion
+keyword	porsche
+keyword	bob's big boy restaurant
+keyword	pain
+keyword	girl scout cookies
+keyword	abbey road album cover recreation
+keyword	balloon
+keyword	scooter
+keyword	soccer referee
+keyword	classroom
+keyword	crying
+keyword	kiss
+keyword	costume party
+keyword	foster mother
+keyword	teacher
+keyword	pic 'n save discount store
+keyword	reference to god
+keyword	fatherhood
+keyword	making coffee
+keyword	foster parent
+keyword	friendship
+keyword	hate
+keyword	arrest
+keyword	park
+keyword	tunnel
+keyword	pillow fight
+keyword	running
+keyword	dog
+keyword	watching tv
+keyword	hugging
+keyword	watching a video
+keyword	psychologist
+keyword	mentally impaired man
+keyword	learning
+keyword	family relationships
+keyword	restaurant
+keyword	second job
+keyword	stupidity
+keyword	changing a baby's diaper
+keyword	disability
+keyword	anxiety attack
+keyword	social worker
+keyword	fear
+keyword	origami
+keyword	yellow pages
+keyword	father love
+keyword	coffee shop manager
+keyword	female lawyer
+keyword	baby
+keyword	unhappiness
+keyword	foster home
+keyword	freeze frame
+keyword	self deprecation
+keyword	cartoon on tv
+keyword	child custody
+keyword	barred window
+keyword	friend
+keyword	piano
+keyword	divorce
+keyword	suffering
+keyword	birthday
+keyword	courtroom
+keyword	climbing out a window
+keyword	handicap
+keyword	judge
+keyword	child endangerment
+keyword	tape recorder
+keyword	los angeles california
+keyword	california
+keyword	costume
+keyword	crossing fingers
+keyword	girl scout
+keyword	attorney
+keyword	anxiety
+keyword	shoe store
+keyword	mental retardation
+keyword	girls' soccer
+keyword	toy piano
+keyword	soccer
+keyword	bedtime story
+keyword	sitting in a tree
+keyword	education
+keyword	critically bashed
+keyword	birthday party
+keyword	boy dog relationship
+keyword	soccer match
+keyword	social services
+keyword	foster care
+keyword	character name in title
+cast	Sean Penn	Sam Dawson
+cast	Michelle Pfeiffer	Rita Harrison Williams
+cast	Dakota Fanning	Lucy Diamond Dawson
+cast	Dianne Wiest	Annie Cassell
+cast	Loretta Devine	Margaret Calgrove
+cast	Richard Schiff	Mr. Turner
+cast	Laura Dern	Randy Carpenter
+cast	Brad Silverman	Brad
+cast	Joseph Rosenberg	Joe
+cast	Stanley DeSantis	Robert
+cast	Doug Hutchison	Ifty
+cast	Rosalind Chao	Lily
+cast	Ken Jenkins	Judge Philip McNeily
+cast	Wendy Phillips	Miss Wright
+cast	Mason Lucero	Conner Rhodes
+cast	Scott Paulin	Duncan Rhodes
+cast	Bobby Cooper	George
+cast	Kit McDonough	Ms. Davis
+cast	Kimberly Scott	Gertie
+cast	Michael B. Silver	Dr. Jaslow
+cast	Caroline Keenan	Rebecca
+cast	Eileen Ryan	Estelle Dawson
+cast	Mary Steenburgen	Dr. Blake
+cast	Marin Hinkle	Patricia
+cast	Chase MacKenzie Bebak	Willy Harrison
+cast	Rafer Weigel	Bruce
+cast	Emiko Parise	Nurse
+cast	Pamela Dunlap	Grace
+cast	Brent Spiner	Shoe Salesman
+cast	David Nathan Schwartz	Principal
+cast	Kathleen Robertson	Big Boy Waitress
+cast	Karen Bankhead	Rita's Colleague
+cast	Janet Adderley	Obnoxious Mom
+cast	Katie McGloin	Cristina
+cast	Steven Maines	Collin
+cast	Dennis Fanning	Vice Cop
+cast	David Poynter	Cafeteria Worker
+cast	R.D. Call	Cop at Park
+cast	John Paizis	Starbucks Father
+cast	Russ Fega	Starbucks Angry Man
+cast	Erinn Seaghda Rice Goletz	Starbucks Barista
+cast	Julie Claire	Starbucks Customer
+cast	Marnie Martin	Starbucks Woman
+cast	Tony Abatemarco	Court Clerk
+cast	Will Wallace	Bill Carpenter
+cast	Scott Weintraub	Scarecrow
+cast	Nicholas Mele	Booking Cop
+cast	Brian Bialick	Brian
+cast	Molly Gordon	Callie
+cast	Nora Kroopf	Sara
+cast	Allison Thormahlen	Lucy Infant
+cast	Jillian Thormahlen	Lucy Infant
+cast	Ryan Williams	Lucy 6 Months
+cast	Felicity Ann Forbes	Lucy 18 Months
+cast	Makindra Sherry Forbes	Lucy 18 Months
+cast	Elle Fanning	Lucy 2 Years
+cast	Amanda Lehaf	Lucy 4 Years
+cast	Roma Maffia	First Family Court Judge
+cast	Michael McElroy	

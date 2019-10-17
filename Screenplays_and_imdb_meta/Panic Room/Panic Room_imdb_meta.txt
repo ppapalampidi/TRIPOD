@@ -1,0 +1,222 @@
+year	2002
+imdb score	6.8
+meta score	65
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	panic
+keyword	panic room
+keyword	brownstone
+keyword	money
+keyword	burglar
+keyword	break in
+keyword	diabetic
+keyword	police
+keyword	home
+keyword	safe
+keyword	elevator
+keyword	secret room
+keyword	home invasion
+keyword	intruder
+keyword	cat and mouse
+keyword	divorce
+keyword	blood
+keyword	low blood sugar
+keyword	security system
+keyword	telephone
+keyword	security company
+keyword	insulin
+keyword	sos
+keyword	propane
+keyword	neighbor
+keyword	eyeglasses
+keyword	seizure
+keyword	moving van
+keyword	chronic illness
+keyword	police officer
+keyword	manipulation
+keyword	sick child
+keyword	new york city
+keyword	divorcee
+keyword	teenage girl
+keyword	shot in the head
+keyword	pistol
+keyword	nyquil
+keyword	video screen
+keyword	surveillance camera
+keyword	refrigerator
+keyword	one night
+keyword	morse code
+keyword	staircase
+keyword	attempted murder
+keyword	home security system
+keyword	hypoglycemia
+keyword	urination
+keyword	husband wife relationship
+keyword	inheritance
+keyword	dead body
+keyword	sledge hammer
+keyword	foot chase
+keyword	video camera
+keyword	first night in new house
+keyword	bonds theft
+keyword	theft
+keyword	park bench
+keyword	battered woman
+keyword	safe room
+keyword	propane explosion
+keyword	razor scooter
+keyword	psychopath
+keyword	bathtub
+keyword	central park manhattan new york city
+keyword	sos with flashlight
+keyword	burnt face
+keyword	one day
+keyword	tank top
+keyword	scooter
+keyword	midol
+keyword	f word
+keyword	classified ad
+keyword	robbery gone awry
+keyword	basement
+keyword	falling down stairs
+keyword	redemption
+keyword	motion detector
+keyword	diabetes
+keyword	policeman
+keyword	basketball
+keyword	photograph
+keyword	woman in jeopardy
+keyword	bathroom
+keyword	gun
+keyword	psycho killer
+keyword	greed
+keyword	toilet
+keyword	floor safe
+keyword	ex husband ex wife relationship
+keyword	millionaire
+keyword	beating
+keyword	robbery
+keyword	conscience
+keyword	lifting female in air
+keyword	barefoot
+keyword	thief
+keyword	organized crime
+keyword	safecracker
+keyword	serial killer
+keyword	housing ad
+keyword	medicine
+keyword	heist
+keyword	punched in the face
+keyword	wine
+keyword	drink
+keyword	death
+keyword	sadist
+keyword	upper west side manhattan new york city
+keyword	fire escape
+keyword	door lock
+keyword	drinking
+keyword	bath
+keyword	torture
+keyword	mother daughter relationship
+keyword	bearer bonds
+keyword	broken mirror
+keyword	pizza
+keyword	burglary
+keyword	kicking
+keyword	newspaper
+keyword	laser
+keyword	injection
+keyword	syringe
+keyword	sadism
+keyword	fire starting lighter
+keyword	trap
+keyword	suspense
+keyword	cell phone
+keyword	silencer
+keyword	mayflower moving van
+keyword	cleavage
+keyword	breaking and entering
+keyword	skylight
+keyword	extortion
+keyword	shot in the forehead
+keyword	reference to joe pesci
+keyword	violence
+keyword	stabbed in the neck
+keyword	falling off a balcony
+keyword	pills
+keyword	person on fire
+keyword	held at gunpoint
+keyword	park
+keyword	key
+keyword	psychological torture
+keyword	manhattan new york city
+keyword	shooting
+keyword	heist gone wrong
+keyword	soda
+keyword	circular staircase
+keyword	diabetic child
+keyword	botched robbery
+keyword	fire
+keyword	hand caught in a door
+keyword	compassion
+keyword	home security
+keyword	danger
+keyword	child in peril
+keyword	death threat
+keyword	dragging a body
+keyword	hostage
+keyword	hidden money
+keyword	slow motion scene
+keyword	electric drill
+keyword	swat team
+keyword	crushed hand
+keyword	crying
+keyword	locked in a room
+keyword	tool
+keyword	sociopath
+keyword	hypodermic needle
+keyword	videotape
+keyword	ski mask
+keyword	father daughter relationship
+keyword	psycho
+keyword	sanctuary
+keyword	gun held to one's head
+keyword	flashlight
+keyword	explosion
+keyword	neo noir
+keyword	escrow
+keyword	reference to elmore leonard
+keyword	intercom
+keyword	brutality
+keyword	tears
+keyword	blood spatter
+keyword	reference to the beatles
+keyword	lifting someone into the air
+keyword	murder
+keyword	robber
+keyword	bench
+keyword	truck
+keyword	rain
+keyword	real estate agent
+keyword	walking on broken glass
+keyword	female victim
+keyword	ambulance
+keyword	attacked with a knife
+keyword	title spoken by character
+cast	Jodie Foster	Meg Altman
+cast	Kristen Stewart	Sarah Altman
+cast	Forest Whitaker	Burnham
+cast	Dwight Yoakam	Raoul
+cast	Jared Leto	Junior
+cast	Patrick Bauchau	Stephen Altman
+cast	Ann Magnuson	Lydia Lynch
+cast	Ian Buchanan	Evan Kurlander
+cast	Andrew Kevin Walker	Sleepy Neighbor
+cast	Paul Schulze	Officer Keeney
+cast	Mel Rodriguez	Officer Morales
+cast	Richard Conant	SWAT Cop
+cast	Paul Simon	SWAT Cop
+cast	Victor Thrash	SWAT Cop
+cast	Ken Turner	SWAT Cop
+cast	Nicole Kidman	Stephen's Girlfriend on the Phone

@@ -1,0 +1,259 @@
+year	1995
+imdb score	8.7
+meta score	65
+genre	Crime
+genre	Mystery
+genre	Thriller
+keyword	detective
+keyword	seven deadly sins
+keyword	serial killer
+keyword	gluttony
+keyword	john doe
+keyword	alley
+keyword	breaking down a door
+keyword	rape
+keyword	news report
+keyword	delivery service
+keyword	husband wife relationship
+keyword	cartoon on tv
+keyword	scantily clad female
+keyword	severed hand
+keyword	scene of the crime
+keyword	shot in the head
+keyword	blockbuster
+keyword	tragedy
+keyword	gore
+keyword	white panties
+keyword	pride
+keyword	forced suicide
+keyword	bulletproof vest
+keyword	1990s
+keyword	sleeping pills
+keyword	severed head
+keyword	held at gunpoint
+keyword	violence
+keyword	mutilation
+keyword	serial murder
+keyword	photograph
+keyword	tied up
+keyword	one word title
+keyword	jumping from a rooftop
+keyword	police station
+keyword	switchblade
+keyword	handcuffs
+keyword	el train
+keyword	bare chested male
+keyword	swat team
+keyword	tied to a bed
+keyword	clue
+keyword	interracial relationship
+keyword	number 7 in title
+keyword	writing in blood
+keyword	metronome
+keyword	chase
+keyword	knife throwing
+keyword	bible
+keyword	district attorney
+keyword	library
+keyword	offscreen killing
+keyword	police partner
+keyword	police
+keyword	freeze frame
+keyword	pedophile
+keyword	blood
+keyword	dead dog
+keyword	plea bargain
+keyword	maniac
+keyword	cult film
+keyword	intentionally misspelled title
+keyword	envy
+keyword	diner
+keyword	star wars reference
+keyword	car accident
+keyword	swat
+keyword	neo noir
+keyword	ambulance
+keyword	lawyer
+keyword	spiral staircase
+keyword	hit by a car
+keyword	typewriter
+keyword	jealousy
+keyword	living person mistaken for a dead body
+keyword	interview
+keyword	lust
+keyword	cut off nose
+keyword	psychological torture
+keyword	flashlight
+keyword	teacher
+keyword	sloth
+keyword	hospital
+keyword	tape recorder
+keyword	pistol
+keyword	forced eating
+keyword	girl in panties
+keyword	gay slur
+keyword	wearing a sound wire
+keyword	cockroach
+keyword	subway
+keyword	disfigurement
+keyword	black detective
+keyword	brothel
+keyword	fbi agent
+keyword	rooftop
+keyword	obesity
+keyword	corpse
+keyword	poker
+keyword	age difference
+keyword	psycho thriller
+keyword	gothic
+keyword	partner
+keyword	face bandage
+keyword	card game
+keyword	dart board
+keyword	metropolis
+keyword	coroner
+keyword	anger
+keyword	police detective
+keyword	religion
+keyword	decapitation
+keyword	nightclub
+keyword	stairwell
+keyword	datamine
+keyword	sadist
+keyword	suicide
+keyword	spaghetti
+keyword	police captain
+keyword	greed
+keyword	mixed alpha numeric title
+keyword	photographer
+keyword	rapist
+keyword	prostitution
+keyword	blood splatter
+keyword	shotgun
+keyword	panties
+keyword	interrogation
+keyword	number as title
+keyword	shot to death
+keyword	investigation
+keyword	dog
+keyword	helicopter
+keyword	loss of wife
+keyword	photo lab
+keyword	murder
+keyword	abandoned apartment
+keyword	rain
+keyword	desert
+keyword	death by overeating
+keyword	homicidal maniac
+keyword	psychopath
+keyword	torture
+keyword	shootout
+keyword	bar
+keyword	wrath
+keyword	urban decay
+keyword	hyperventilation
+keyword	tragic event
+keyword	crucifix
+keyword	revenge
+keyword	revolver
+keyword	attempted murder
+keyword	urban setting
+keyword	urban gothic
+keyword	arrest
+keyword	autopsy
+keyword	mass murderer
+keyword	shot in the forehead
+keyword	model
+keyword	sociopath
+keyword	slasher
+keyword	human monster
+keyword	digit in title
+keyword	old dark house
+keyword	death
+keyword	credits rolling down
+keyword	police protagonist
+keyword	insanity
+keyword	fingerprints
+keyword	murder investigation
+keyword	apartment
+keyword	security guard
+keyword	fingerprint
+keyword	box
+keyword	taxi
+keyword	informant
+keyword	tv news
+keyword	pregnancy
+keyword	reference to ernest hemingway
+keyword	two way mirror
+keyword	barbershop
+keyword	victim invited to dinner
+keyword	pimp
+keyword	homeless person
+keyword	razor blade
+keyword	self mutilation
+keyword	sadness
+keyword	body shaving
+keyword	prostitute
+keyword	independent film
+keyword	title spoken by character
+keyword	number in title
+keyword	surprise ending
+cast	Morgan Freeman	Somerset
+cast	Andrew Kevin Walker	Dead Man at 1st Crime Scene
+cast	Daniel Zacapa	Detective Taylor
+cast	Brad Pitt	Mills
+cast	Gwyneth Paltrow	Tracy
+cast	John Cassini	Officer Davis
+cast	Bob Mack	Gluttony Victim
+cast	Peter Crombie	Dr. O'Neill
+cast	Reg E. Cathey	Dr. Santiago
+cast	R. Lee Ermey	Police Captain
+cast	George Christy	Workman at door of Somerset's Office
+cast	Endre Hules	Cab Driver
+cast	Hawthorne James	George the Night Guard at the Library
+cast	William Davidson	First Guard at the Library
+cast	Bob Collins	Second Guard at the Library
+cast	Jimmy Dale Hartsell	Library Janitor
+cast	Richard Roundtree	Talbot
+cast	Charline Su	TV News Reporter
+cast	Dominique Jennings	TV News Reporter
+cast	Allan Kolman	First Forensic Man in the Law Office
+cast	Beverly Burke	TV Anchor Woman
+cast	Gene Borkan	Eli Gould - Greed Victim
+cast	Julie Araskog	Mrs. Gould
+cast	Mario Di Donato	Fingerprint Forensic Man in Law Office
+cast	Alfonso Freeman	Fingerprint Technician
+cast	John C. McGinley	California
+cast	Harrison White	Cop on SWAT Team
+cast	Bob Stephenson	Cop on SWAT Team
+cast	Michael Reid MacKay	Victor - Sloth Victim
+cast	Kevin Spacey	John Doe
+cast	Richard Portnow	Dr. Beardsley
+cast	Tudor Sherrard	Coupon Man outside Pizza Parlour
+cast	Mark Boone Junior	Greasy F.B.I. Man
+cast	Pamala Tyson	Thin Vagrant Woman by John Doe's Apartment
+cast	Lennie Loftin	Policeman who takes statement from vagrant
+cast	Sarah Reinhardt	Police Sketch Artist
+cast	Emily Wagner	Detective Sara at John Doe's Apartment
+cast	Martin Serene	Wild Bill
+cast	Michael Massee	Man in Booth at Massage Parlour Booth
+cast	David Correia	First Cop at Massage Parlour
+cast	Ron Blair	Second Cop at Massage Parlour
+cast	Cat Mueller	Lust Victim
+cast	Leland Orser	Crazed Man in Massage Parlour
+cast	Lexie Bigham	Sweating Cop at Massage Parlour
+cast	Evan Mirand	Paramedic at Massage Parlour
+cast	Paul Eckstein	Paramedic at Massage Parlour
+cast	Harris Savides	911 Operator
+cast	Rachel Flanagan	Additional 911 Operator
+cast	Heidi Schanz	Pride Victim
+cast	Brian Evers	Duty Sergeant
+cast	Shannon Wilcox	Woman Cop Behind Desk
+cast	Richard Schiff	Mark Swarr
+cast	James Deeth	Helicopter Pilot
+cast	John Santin	Helicopter Pilot
+cast	Charles A. Tamburro	SWAT Helicopter Pilot
+cast	Richmond Arquette	Delivery Man
+cast	Duffy Gaver	Marksman in Helicopter
+cast	Charles S. Dutton	Cop
+cast	Grigori	Los Angeles SWAT

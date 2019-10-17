@@ -1,0 +1,178 @@
+year	1998
+imdb score	7.1
+meta score	45
+genre	Action
+genre	Fantasy
+genre	Horror
+keyword	vampire
+keyword	blade
+keyword	blood
+keyword	vampire hunter
+keyword	revenge
+keyword	english subtitles in original
+keyword	action hero
+keyword	death by sunrise
+keyword	hypodermic needle
+keyword	throat ripping
+keyword	prophecy
+keyword	gore
+keyword	hand to hand combat
+keyword	shot to death
+keyword	shot in the forehead
+keyword	stabbed through the chin
+keyword	racial slur
+keyword	hospital
+keyword	fistfight
+keyword	1990s
+keyword	serum
+keyword	urban gothic
+keyword	neck breaking
+keyword	pump action shotgun
+keyword	body landing on a car
+keyword	electric shock
+keyword	master vampire
+keyword	stylized violence
+keyword	train
+keyword	father son relationship
+keyword	superhero
+keyword	student mentor relationship
+keyword	mouth guard
+keyword	teeth extraction
+keyword	martial arts master
+keyword	sword
+keyword	elevator
+keyword	suicide
+keyword	cult film
+keyword	blood
+keyword	vampire vs vampire
+keyword	mother son relationship
+keyword	one man army
+keyword	expansion
+keyword	ultraviolet light
+keyword	sword duel
+keyword	bar fight
+keyword	bloodbath
+keyword	father figure
+keyword	katana
+keyword	capoeira
+keyword	sliced in two
+keyword	chosen one
+keyword	quick draw
+keyword	arm cut off
+keyword	decapitation
+keyword	torso cut in half
+keyword	rave
+keyword	blown to pieces
+keyword	mission
+keyword	brawl
+keyword	nightclub
+keyword	ambush
+keyword	bullet time
+keyword	exploding head
+keyword	impalement
+keyword	dislocated shoulder
+keyword	x rayed skeleton
+keyword	secret headquarters
+keyword	disarming someone
+keyword	shootout
+keyword	reverse footage
+keyword	severed arm
+keyword	switchblade
+keyword	bar brawl
+keyword	tough guy
+keyword	automatic pistol
+keyword	uzi
+keyword	automobile
+keyword	part of trilogy
+keyword	burned body
+keyword	adoption
+keyword	violence
+keyword	mixed martial arts
+keyword	marvel comics
+keyword	machine gun
+keyword	blood splatter
+keyword	microscope
+keyword	katana sword
+keyword	vampire driving a car
+keyword	bullet dodging
+keyword	syringe
+keyword	torture
+keyword	one against many
+keyword	exploding body
+keyword	martial artist
+keyword	tragic hero
+keyword	regeneration
+keyword	hapkido
+keyword	marvel entertainment
+keyword	subway
+keyword	based on comic book
+keyword	mentor
+keyword	motorcycle
+keyword	samurai sword
+keyword	gunfight
+keyword	tough guy voice
+keyword	kicked in the groin
+keyword	injection
+keyword	gun fu
+keyword	sword fight
+keyword	crotch grab
+keyword	babe scientist
+keyword	spit in the face
+keyword	oral sex
+keyword	dark hero
+keyword	stabbed in the eye
+keyword	person on fire
+keyword	martial arts
+keyword	hero
+keyword	good versus evil
+keyword	vampire slayer
+keyword	character name in title
+keyword	surprise ending
+cast	Wesley Snipes	Blade
+cast	Stephen Dorff	Deacon Frost
+cast	Kris Kristofferson	Whistler
+cast	N'Bushe Wright	Karen
+cast	Donal Logue	Quinn
+cast	Udo Kier	Dragonetti
+cast	Arly Jover	Mercury
+cast	Traci Lords	Racquel
+cast	Kevin Patrick Walls	Krieger
+cast	Tim Guinee	Curtis Webb
+cast	Sanaa Lathan	Vanessa
+cast	Eric Edwards	Pearl
+cast	Donna Wong	Nurse
+cast	Carmen Thomas	Senior Resident
+cast	Shannon Lee	Resident
+cast	Kenny Johnson	Heatseeking Dennis
+cast	Clint Curtis	Creepy Morgue Guy
+cast	Judson Scott	Pallantine
+cast	Sidney S. Liufau	Japanese Doorman
+cast	Keith Leon Williams	Kam
+cast	Andray Johnson	Paramedic
+cast	Stephen R. Peluso	Paramedic
+cast	Marcus Aurelius	Pragmatic Policeman
+cast	John Enos III	Blood Club Bouncer
+cast	Eboni 'Chrystal' Adams	Martial Arts Kid
+cast	Lyle Conway	Reichardt
+cast	Freeman White	Menacing Stud
+cast	D.V. DeVincentis	Vampire Underling
+cast	Marcus Salgado	Frost's Goon
+cast	Esau McKnight Jr.	Frost's Goon
+cast	Erl Van Douglas	Von Esper
+cast	Matt Schulze	Crease
+cast	Lennox Brown	Pleading Goon
+cast	Yvette Ocampo	Party Girl
+cast	Irena Stepic	Slavic Vampire Lord
+cast	Jenya Lano	Russian Woman
+cast	Levan Uchaneyshvili	Russian Vampire
+cast	Richard 'Dr.' Baily	Cardboard cut-out in Subway
+cast	Nikki DiSanto	Vampire Victim
+cast	Ryan Glorioso	Blood Bath Vampire
+cast	Jeff Imada	Henchman
+cast	Elliott James	Blood Club
+cast	Ted King	Vampire at rave
+cast	Stephen Norrington	Vampire
+cast	Gerald Okamura	Vampire
+cast	Frankie Ray	Vampire Lord
+cast	Carrie Seeley	Woman in Elevator
+cast	Beth Theriac	Woman in Elevator

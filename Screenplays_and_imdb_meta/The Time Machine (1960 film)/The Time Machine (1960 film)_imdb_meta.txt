@@ -1,0 +1,101 @@
+year	1960
+imdb score	7.6
+meta score	N/A
+genre	Adventure
+genre	Fantasy
+genre	Romance
+genre	Sci-Fi
+genre	Thriller
+keyword	future
+keyword	time machine
+keyword	distant future
+keyword	morlock
+keyword	dinner party
+keyword	living underground
+keyword	1900s
+keyword	subterranean
+keyword	bikini
+keyword	year 1966
+keyword	skeleton
+keyword	year 802,701
+keyword	decomposing body
+keyword	critique of capitalism
+keyword	volcanic eruption
+keyword	world war one
+keyword	whip
+keyword	bomb shelter
+keyword	rescue
+keyword	world war two
+keyword	tribe
+keyword	dystopia
+keyword	803rd century
+keyword	world war three
+keyword	year 1917
+keyword	cannibalism
+keyword	1970s
+keyword	man beast
+keyword	surrealism
+keyword	housekeeper
+keyword	air raid
+keyword	utopia quest
+keyword	alternate history
+keyword	19th century
+keyword	1890s
+keyword	told in flashback
+keyword	stop motion animation
+keyword	year 1940
+keyword	end of civilization
+keyword	human harvesting
+keyword	big ben london
+keyword	lava
+keyword	idol
+keyword	inventor
+keyword	802700s
+keyword	jungle
+keyword	time travel
+keyword	altering history
+keyword	england
+keyword	steampunk
+keyword	london england
+keyword	1910s
+keyword	river
+keyword	post apocalypse
+keyword	escape
+keyword	20th century
+keyword	friendship
+keyword	stranded
+keyword	destruction of a city
+keyword	pile of bones
+keyword	fire
+keyword	year 1899
+keyword	flashback
+keyword	indifference
+keyword	year 1900
+keyword	nuclear war
+keyword	explosion
+keyword	corpse
+keyword	library
+keyword	time lapse photography
+keyword	mannequin
+keyword	1960s
+keyword	cult film
+keyword	new year's eve
+keyword	1940s
+keyword	rescue from drowning
+keyword	rural setting
+keyword	sundial
+keyword	dual role
+keyword	cigar smoking
+keyword	based on novel
+keyword	
+cast	Rod Taylor	H. George Wells
+cast	Alan Young	David Filby / James Filby
+cast	Yvette Mimieux	Weena
+cast	Sebastian Cabot	Dr. Philip Hillyer
+cast	Tom Helmore	Anthony Bridewell
+cast	Whit Bissell	Walter Kemp
+cast	Doris Lloyd	Mrs. Watchett
+cast	Bob Barran	Eloi Man
+cast	Paul Frees	Talking Rings
+cast	Josephine Powell	Eloi Girl
+cast	James Skelly	Second Eloi Man

@@ -1,0 +1,59 @@
+year	1999
+imdb score	5.9
+meta score	40
+genre	Drama
+genre	Romance
+keyword	regaining sight
+keyword	based on article
+keyword	box office flop
+keyword	massage therapist
+keyword	blindness
+keyword	based on true story
+cast	Val Kilmer	Virgil Adamson
+cast	Mira Sorvino	Amy Benic
+cast	Kelly McGillis	Jennie Adamson
+cast	Steven Weber	Duncan Allanbrook
+cast	Bruce Davison	Dr. Charles Aaron
+cast	Nathan Lane	Phil Webster
+cast	Ken Howard	Virgil's Father
+cast	Laura Kirk	Betsy Ernst
+cast	Margo Winkler	Nancy Bender
+cast	Diana Krall	Singer
+cast	Brett Robbins	Ethan
+cast	Willie C. Carpenter	Jack Falk
+cast	Charles Winkler	Health Instructor
+cast	Drena De Niro	Caroline
+cast	Kelly Chapman	Susan
+cast	Jack Dodick	Dr. Goldman
+cast	Nina Griscom	Christie Evans
+cast	Mort Zuckerman	Homeless Man
+cast	Gene Kirkwood	Marshall
+cast	Richard Euell	Carl Kipling
+cast	Carl J. Matusovich	Tommy
+cast	John Guidera	Virgil's Co-Worker
+cast	Jack Cooper	Overweight Man
+cast	Jennifer Wachtell	Eva
+cast	Marty Davey	School Mother
+cast	Ben Wolfe	Bass Player
+cast	Casey W. Harris	Casey
+cast	Ricky Trammell	Loft D.J.
+cast	J.P. Patterson	Waiter
+cast	Bonnie Deutsch	Worker
+cast	Sheryl Allington Carter	Reporter
+cast	Oliver Sacks	Reporter
+cast	Angela Wang	Reporter
+cast	Claude Ravier	Reporter
+cast	Robert Philip Marcus	Carpenter
+cast	Dar Billingham	Restaurant Patron
+cast	Daryl Burton	Party Guest
+cast	Elena Christiana	Hockey Fan
+cast	Daniel Franco	Running Man
+cast	Wayne Gretzky	Himself
+cast	Linda Harmon	Singer
+cast	Rob Harris	Casey's Dad
+cast	Elizabeth Hipwell	Pedestrian
+cast	Natalie Marie Hughes	Aerobics Instructor
+cast	Raisa Ivanic	Raisa
+cast	Marshall Dancing Elk Lucas	Passerby
+cast	Crystal Rose	Ice Skater
+cast	Nick Stellate	Businessman

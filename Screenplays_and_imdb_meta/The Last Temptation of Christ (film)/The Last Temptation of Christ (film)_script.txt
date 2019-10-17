@@ -1,0 +1,5698 @@
+Last Temptation of Christ (1988) movie script - Screenplays for You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+try {
+var pageTracker = _gat._getTracker("UA-11048248-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
+
+
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter2880262 = new Ya.Metrika(2880262);
+             yaCounter2880262.clickmap(true);
+
+        } catch(e) {}
+    });
+})(window, 'yandex_metrika_callbacks');
+
+
+&lt;div style="position:absolute"&gt;&lt;img src="//mc.yandex.ru/watch/2880262" alt="" /&gt;&lt;/div&gt;
+
+
+
+
+
+Screenplays for You - free movie scripts and screenplays
+
+About   Links  
+
+
+
+
+
+
+
+
+Screenplays and movie scripts organized alphabetically:#  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z   PDF
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "6005341666";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+Last Temptation of Christ (1988) movie scriptby Paul Schrader.Based on a novel by Nikos Kazantzakis.
+More info about this movie on IMDb.com
+
+
+EXT. NAZARETH - MORNING
+
+From above: Flying close over a thick grove of olive trees. 
+MUSIC fades into the sound of wings beating through the air. 
+We hear (OVER) the voice of a young man, thoughtful but 
+strong.
+
+          JESUS (V.O.)
+     The feeling begins. It's a light 
+     tingling at first. Right on the top 
+     of my head. Very tender. Like a 
+     caress. Soft wings carrying me to 
+     Paradise. Then the pain starts.
+
+Now we see JESUS, the son of Mary, 28 years-old, sleeping 
+under an olive tree. The mid-morning sun (OVER-EXPOSED) shines 
+on his stubby face. He is dreaming.
+
+          JESUS (V.O.)
+     It feels like the bird has grabbed 
+     me from behind. Just above the neck. 
+     Talons slip underneath the skin and 
+     work and claw their way up the back 
+     of my neck. Then the real pain begins. 
+     Each claw digs into the soft matter 
+     behind my brain, and then across the 
+     top of my head toward my eyes. Just 
+     before they reach my eyes, they dig 
+     down...
+
+Jesus wakens. He looks around.
+
+          JESUS (V.O.)
+     And I remember. I have to make a 
+     cross.
+
+While he is still speaking he reaches up to touch the back 
+of his head, where the pain started. He pulls his fingers 
+away. There is blood on them.
+
+                              CUT TO:
+
+INT. CARPENTER'S WORKSHOP - DAY
+
+Jesus shapes a long piece of timber with an adze. His patched 
+tunic rests on the workbench. Walls are hung with tools.
+
+A nail-studded belt hangs from a hook above his head. The 
+belt is speckled with dried blood. Two drops of fresh blood 
+drip off the belt onto the ground.
+
+          JESUS (V.O.)
+     At first I fasted for three months. 
+     Then I whipped myself before sleeping. 
+     At first it worked, then the headaches 
+     returned. I know it's God. Or the 
+     devil. Who can tell them apart? They 
+     exchange faces; God sometimes becomes 
+     all darkness, the devil all light, 
+     and they become confused in my mind.
+
+Outside, there are NOISES of a crowd gathering nearby. 
+Undistracted, he finishes off the piece of timber, which has 
+become the crossbar of a cross. He places the crossbar between 
+two brackets on the wall, then puts himself halfway between 
+them and stretches out his arms, gauging the proper 
+proportion.
+
+                              CUT TO:
+
+EXT. NAZARETH STREET - DAY
+
+Narrow and crowded with citizens on their way to a 
+crucifixion. A ROMAN SOLDIER watches them with professional 
+disinterest. His armour is non-existent, his uniform is 
+certainly not splendid. He looks like a sloppy traffic cop. 
+PEOPLE come from behind him and walk in front.
+
+Over the soldier's left shoulder appears a man with blazing 
+red hair and beard, moving with the crowd. He walks close 
+behind the soldier for just a moment. Very professionally, 
+he cuts his throat. The soldier falls to the ground. The man 
+keeps walking calmly and the camera follows as, in the 
+background, people start to notice that a soldier has been 
+stabbed.
+
+A WOMAN screams. Two other MEMBERS of the crowd grab her and 
+silence her, while SEVERAL OTHERS drag the body off into a 
+hut.
+
+The red-haired man keeps walking. This is JUDAS.
+
+                              CUT TO:
+
+EXT. NAZARETH CARPENTER'S WORKSHOP - DAY
+
+Jesus looks toward the door, almost as if he has felt the 
+murder.
+
+          JESUS (V.O.)
+     Who is it? Who are you? Why are you 
+     following me?
+
+Judas enters, sees Jesus working on the cross.
+
+          JUDAS
+     Are you ready?
+
+Jesus doesn't answer.
+
+          JUDAS
+     I said are you ready?
+
+He grabs him. Jesus still doesn't answer. He keeps working.
+
+          JUDAS
+     You're a disgrace.
+
+Jesus smiles at him.
+
+          JESUS
+     I'm the disgrace? Judas, I see the 
+     blood on your knife.
+
+Judas lets go of him. He takes the knife from inside his 
+cloak and removes it from its scabbard. He wipes the blood 
+off the blade with a rag.
+
+          JUDAS
+     Come with us. Help us.
+
+          JESUS
+     Leave me alone.
+
+          JUDAS
+     No. This time you won't finish.
+
+He grabs Jesus' hands and holds them.
+
+          JUDAS
+     Listen. Everything's ready. We're 
+     going to save the Zealot. He could 
+     be the one we've been waiting for. 
+     You can't just pray for the Messiah. 
+     You've got to help him. You can't 
+     expect God to do everything. He needs 
+     our help too.
+
+          JESUS
+     He'll have to do it without me.
+
+          JUDAS
+     You might be killing the Messiah. 
+     This Zealot today is not like all 
+     the others. I feel it. He's different. 
+     Don't finish the cross. Come with 
+     us. Don't you want to be part of it? 
+     You want the Romans to be here 
+     forever?
+
+          JESUS
+     The Messiah has nothing to do with 
+     the Romans.
+
+          JUDAS
+     Yes he does. How else do you expect 
+     to be free? If this Zealot is the 
+     Messiah and we don't save him, then 
+     he'll die and we'll never know. But 
+     if we save him, the miracle might 
+     happen.
+
+          JESUS
+     What miracle?
+
+          JUDAS
+     The sign, the signal. The royal crown 
+     of David will shine on his head.
+
+          JESUS
+     It can't be much of a miracle if we 
+     have to help.
+
+          JUDAS
+     You're not even ashamed.
+
+          JESUS
+     No.
+
+          JUDAS
+     Romans can't find carpenters to make 
+     crosses. Except for you. You throw 
+     yourself into it like a madman. 
+     Everybody thinks you're crazy. But 
+     not me. I can see through this act 
+     of yours. Fainting, hearing voices, 
+     having visions. Everyone thinks you're 
+     a madman. But I know what your are. 
+     You're an enemy. You're worse than 
+     the Romans. You're a Jew who's killing 
+     Jews. And you're not ashamed. You 
+     don't even have any pride.
+
+          JESUS
+     No, I don't have any pride. I don't 
+     go to Synagogue. I disobey the 
+     commandments. I work on the Sabbath. 
+     Your Messiahs? You find them, I'll 
+     crucify them.
+
+Judas hits Jesus across the mouth.
+
+          JUDAS
+     You're lucky you're a Jew.
+
+          JESUS
+     Why?
+
+          JUDAS
+     Anyone else would have been dead by 
+     now. You think Zealots are murderers? 
+     We're pathfinders, we're patriots, 
+     and you're in the way.
+
+          JESUS
+     Then get me out of the way.
+
+Judas and Jesus stare each other down.
+
+          JUDAS
+     I will. In my time. Not yours. When 
+     I'm told.
+
+          JESUS
+     When did you ever need permission to 
+     kill anybody?
+
+          JUDAS
+     To kill a Roman, never. To kill a 
+     Jew, we all have to agree. We have 
+     more respect for Jews than you do. 
+     The next time I see you, you're dead.
+
+                              CUT TO:
+
+EXT. CARPENTER'S WORKSHOP - DAY
+
+A CENTURION pushes his way through a small crowd.
+
+Jesus stands ready outside the workshop, the crossbar resting 
+against a wall. The crowd is taunting him with cries of 
+"Crossmaker!," "Traitor," "Cooperator," "Collaborator," but 
+he ignores them.
+
+Someone throws something. A MAN in the crowd deliberately 
+jostles him roughly, trying to start a fight. The Centurion 
+breaks things up.
+
+          CENTURION
+     Leave him alone. You ready?
+          (as Jesus nods)
+     Come on.
+
+Jesus buckles the nail-studded belt around his waist. The 
+Centurion helps Jesus heft the cross-beam to his shoulders. 
+The Centurion leads Jesus through a gauntlet the crowd has 
+formed from the village to the crucifixion site on the edge 
+of Nazareth. Ahead, six Roman soldiers lead the protesting 
+ZEALOT. Two mounted soldiers flank the group. The Zealot's 
+hands are tied behind him. His clothes are torn and bloody, 
+his long hair and grey beard matted with blood and sweat.
+
+          ZEALOT
+     You're the people of Israel! God is 
+     with us! He's judging us now! Fight!
+
+The soldiers push him along.
+
+          MAN IN CROWD
+     How long do we have to wait for the 
+     Messiah?
+
+          ANOTHER MAN
+     Until you die! Because he's not 
+     coming.
+
+          WOMAN IN CROWD
+     He forgot about us! He doesn't want 
+     us!
+
+          YOUNG MAN
+     Listen to the Zealot! God is strength.
+
+          MAN
+     Give us strength now!
+
+A Roman soldier slams the Man against the wall, then shoves 
+the crowd back as the Zealot passes. The crowd cools down a 
+little.
+
+Now the villagers heap abuse on Jesus. MARY, 56, mother of 
+Jesus, pushes her way through the crowd. A MAN is about to 
+throw a stone at Jesus. She grabs his arm, tries to pry the 
+stone from his fingers.
+
+          MARY (MOTHER OF JESUS)
+     Don't touch him. Get away from him.
+
+She starts pushing people away in angry desperation.
+
+          WOMAN IN CROWD
+     You defend him.
+
+          MARY (MOTHER OF JESUS)
+     Yes. He's my son. He doesn't know 
+     what he's doing.
+
+The crowd now starts pushing Mary. She resists. A Centurion 
+breaks up the melee. Jesus continues on his way.
+
+The Zealot has reached the crucifixion site: a rocky, flint 
+covered mound. The soldiers wait for the cross.
+
+Children throw pebbles at Jesus as he approaches the Zealot. 
+The Roman guards brace themselves for violence.
+
+Jesus sets the cross down beside the Zealot who is held by 
+guards.
+
+Mary comes through the crowd, takes her son by the arm.
+
+          MARY (MOTHER OF JESUS)
+     Alright. Come away now.
+
+Jesus pulls away from her. She goes after him but a guard 
+yanks her back into the crowd. The Centurion gathers some 
+pieces of parchment together as the Zealot's voice rings 
+out:
+
+          ZEALOT
+     Listen! Don't be afraid! God is 
+     strong. Rome is smoke. God will blow 
+     it away. Remember the Maccabees, 
+     remember how they threw out the 
+     Greeks! We'll throw out the Romans 
+     the same way. There's only one God 
+     of Hosts and he's our God!
+
+          CENTURION
+          (he's heard it all 
+          before)
+     Finished?
+
+Without waiting for an answer, the Centurion begins to read 
+the charges against the Zealot.
+
+          CENTURION
+     'This man naked before you now is 
+     condemned for sedition, for lifting 
+     his hand against Rome. Even as a boy 
+     he pulled the Imperial Eagle from 
+     walls. He ran to the mountains and 
+     rallied the people to Revolution. He 
+     promised a Messiah would come from 
+     among the people to rise up and 
+     destroy Rome...'
+
+He starts paging through the parchment, his interest 
+wandering.
+
+          CENTURION
+     '...murder... betrayal' ...so on... 
+     'looting...' and so on... 'and 
+     therefore he is condemned to die. 
+     Rome condemns him. All the Gods of 
+     Rome condemn him.' And I condemn 
+     him. Start.
+
+The Zealot has been stripped naked and laid down on the cross-
+bar. The guards prepare to drive the nails into his wrists. 
+A hush comes over the crowd.
+
+The spike is placed in the Zealot's wrist. The hammer drives 
+it home. The Zealot's scream (almost ecstatic) is echoed by 
+the crowd.
+
+Blood spurts from his wounds: a drop splatters on Jesus' 
+lips.
+
+                              CUT TO:
+
+INT. HOUSE - NIGHT
+
+Close angle on Jesus, who is speaking vehemently.
+
+          JESUS
+     Speak softer! I can't understand! 
+     Softer!
+
+Silence.
+
+          JESUS
+     I still can't... stop... Are you 
+     trying to make me understand, or do 
+     you just want to hurt me?
+          (pause; then, as if 
+          answering)
+     Well, if I don't belong here, with 
+     men, where do I belong? Tell me! Or 
+     do you just want to punish me?
+
+Still silence.
+
+Now we see the whole room, which is a small area just off 
+the kitchen. Jesus is alone. His Mother enters. Jesus looks 
+over.
+
+          MARY (MOTHER OF JESUS)
+     What are you hearing?
+
+She sits near him and puts her hand over his.
+
+          JESUS
+     They want to know if I'm afraid. 
+     Afraid! Of course I'm afraid!
+          (looking up)
+     Hear that? I am afraid. Is that what 
+     you want? Alright.
+
+          MARY (MOTHER OF JESUS)
+     What do they want?
+
+          JESUS
+     They want me to speak. To go out and 
+     speak!
+
+          MARY (MOTHER OF JESUS)
+     Speak about what?
+
+          JESUS
+     About the Kingdom of Heaven. But I 
+     don't care about the Kingdom of 
+     Heaven. I like earth. I like to eat, 
+     sleep, see a woman without my head 
+     being torn in half.
+
+          MARY (MOTHER OF JESUS)
+     But you can have that right now.
+
+          JESUS
+     No! Because anytime I try to get 
+     what everybody else has, the pain 
+     starts. And the voices.
+
+          MARY (MOTHER OF JESUS)
+     And so you make crosses!
+
+          JESUS
+     Yes, I make crosses! To keep him 
+     quiet. To make God hate me! To make 
+     him find somebody else.
+
+          MARY (MOTHER OF JESUS)
+     You're sure it's God? You're sure 
+     it's not the Devil?
+
+          JESUS
+     I'm not sure. I'm not sure of 
+     anything.
+
+          MARY (MOTHER OF JESUS)
+     If it's the devil, the devil can be 
+     cast out.
+
+          JESUS
+     What if it's God? You can't cast out 
+     God.
+
+          MARY (MOTHER OF JESUS)
+     But if it's God, why should he hurt 
+     you?
+
+          JESUS
+     Because he loves me. And I don't 
+     want him to love me. I want him to 
+     hate me! I want to crucify every one 
+     of his Messiahs.
+
+          MARY (MOTHER OF JESUS)
+     The more you dare God, the more you 
+     make him angry. Maybe that's why 
+     he's made you so unhappy here.
+
+          JESUS
+     Where?
+
+          MARY (MOTHER OF JESUS)
+     Here. With people. Maybe you shouldn't 
+     be here.
+
+          JESUS
+     If I don't belong with people, who 
+     do I belong with, God?
+
+          MARY (MOTHER OF JESUS)
+     I don't know. Go and ask him. Go 
+     where God is.
+
+                              CUT TO:
+
+EXT. EDGE OF NAZARETH - DAWN
+
+Jesus begins his journey to go where God is. He walks with a 
+certainty we have not seen before.
+
+Nazareth, seen behind him, is stirring to life. Jesus' path 
+takes him past the crucifixion site of the day before. At 
+the foot of the cross are several GUARDS who are dividing up 
+the Zealot's clothes. One of the Guards sees Jesus and calls 
+to him.
+
+          GUARD
+     Crossmaker! Here's your share.
+
+The Guard throws the Zealot's bloody headcloth. Jesus holds 
+it for a moment.
+
+          GUARD
+     What's the matter? Don't you want 
+     it?
+
+          JESUS
+     Yes. I want it.
+
+He puts the headcloth on.
+
+                              CUT TO:
+
+EXT. ROAD OUTSIDE NAZARETH - EARLY MORNING
+
+Jesus strides across a grassy plain. Much of the "lake 
+district" of Galilee was a fertile and pleasant valley. Jesus 
+leans his body into the wind as he reaches a ridge.
+
+          JESUS (V.O.)
+     All this time I've been cursing him, 
+     trying to make him hate me. All that 
+     pain for something so simple, I should 
+     have realized. He just wants me to 
+     devote my life to him. If that's 
+     what it takes to stop the pain, I'm 
+     happy. Only one road leads to God. 
+     And it comes out in the desert. God's 
+     waiting for me in a well in the 
+     monastery. He does love me. I'll 
+     hide under his wings.
+
+Jesus watches a small caravan in the distance and follows 
+its path.
+
+                              CUT TO:
+
+EXT. GALILEE - DAY
+
+Jesus passes two PEASANT GIRLS reaping in an open field. 
+Their partially open dresses reveal their bodies. Their open 
+sexuality intimidates Jesus.
+
+          PEASANT GIRL
+     Are you going to Magela?
+
+          JESUS
+     No. To the monastery.
+
+They laugh.
+
+          SECOND GIRL
+     Then you take the other road.
+
+          PEASANT GIRL
+     If you really want to.
+
+          SECOND GIRL
+     Why not stop and have some bread 
+     with us?
+
+They're teasing him a little now and he's slightly 
+embarrassed.
+
+          JESUS
+     No, thank you. I can't.
+
+They smile as they watch him go.
+
+                              CUT TO:
+
+LATER - JESUS
+
+Walks alone along the windy seashore.
+
+          JESUS (V.O.)
+     Lord, thank you for everything, for 
+     the loneliness, the hunger, the cold. 
+     I don't need anything else.
+
+Hearing FOOTSTEPS, he stops abruptly. Turns and looks.
+
+          JESUS (V.O.)
+     Who's that? Who's following me?
+
+Seeing nothing, Jesus starts again. The FOOTSTEPS return -- 
+LOUDER.
+
+          JESUS (V.O.)
+     Is that you?
+
+He clutches his head, collapses to his knees in pain:
+
+          JESUS (V.O.)
+     Magdalene! Magdalene!
+
+                              CUT TO:
+
+EXT. MAGDALA - DAY
+
+Three camels in the forefront of a caravan kneel to the 
+ground. Their riders and the camels are completely covered 
+with sand. As the camels rest, the riders open their cloaks 
+revealing bright robes of red, blue and gold and exotic 
+jewelry.
+
+Jesus walks past the caravan on the main plaza of Magdala, 
+where TOWNSPEOPLE are salting fish in a public market. The 
+streets are crowded with camels, donkeys, Mongols on 
+horseback, Afghans laden with rugs and blankets, Nubian slaves 
+following their Greek and Roman masters. A Berber woman 
+dances. She is caked with dust. As she dances, the dust flies 
+away, revealing her dress, her jewelry, her body.
+
+Jesus passes a well where a woman is seated, drawing water. 
+Her naked breasts are painted. He tries to avoid her glance.
+
+          JESUS (V.O.)
+     Thank you Lord for bringing me where 
+     I did not want to come.
+
+He pushes his way through the crowd until he reaches the 
+home of Mary Magdalene. On her door, there is a painting of 
+two intertwined snakes, one black, one white, and above the 
+LINTEL, a painting of a large yellow lizard with its legs 
+stretched out as if crucified. A row of camels, horses and 
+donkeys stand outside. Jesus enters.
+
+A young Indian nobleman with an aristocratic air, passes by 
+Jesus and into the courtyard, Jesus stares and follows behind 
+him.
+
+          JESUS (V.O.)
+     He must be one of God's angels. He 
+     came down to show me the way.
+
+                              CUT TO:
+
+EXT. MARY MAGDALENE'S COURTYARD - DAY
+
+Jesus and the nobleman take their places seated on the ground 
+in Magdalene's courtyard. About a dozen men wait for their 
+turn with Magdalene.
+
+Besides the young Indian nobleman (with three gold bands 
+around his ankles), there are three Bedounin, three old men 
+with painted eyelashes and nails, two young men with black 
+beards and moustaches, and two rich black merchants. An old 
+lady is off to one side crouched on the ground with a small 
+cage containing some crabs. A small fire is beside her on 
+which she is cooking food. There is no door to Magdalene's 
+room where she does business, only a wispy half torn curtain 
+floating in the infrequent breeze. This affords her waiting 
+clients a half-darkened view of the proceedings. An Arab 
+makes love to her. She is nude, and good at her work.
+
+The young Indian nobleman lowers his eyelids, begins swaying 
+his upper body back and forth and moves his lips as if in 
+prayer. Jesus and the others glance at him. One of the black 
+merchants pushes him with his knee and smiles.
+
+          BLACK MERCHANT
+     Prince of India, what does your God 
+     have to say about all this?
+
+          INDIAN NOBLEMAN
+          (opening his eyes)
+     All what?
+
+          BLACK MERCHANT
+     Here, in front of you.
+
+          INDIAN NOBLEMAN
+     That everything is a dream.
+
+One of the old men, using prayer beads, turns to them.
+
+          OLD MAN
+     Well, if it's a dream, then don't 
+     wake us.
+
+Jesus stares straight ahead. At that moment the Arab comes 
+out from Magdalene's room. All the men groan as if saying 
+"about time." The old man gets up and enters.
+
+          YOUNG MAN
+     Don't take all day, old man. There's 
+     six more here before me.
+
+                              CUT TO:
+
+LATER - THE SUN
+
+is waning. Three merchants wait with Jesus. Two are eating.
+
+An Egyptian emerges from the Magdalene's house. Another man 
+gets up. Jesus defers to him.
+
+                              CUT TO:
+
+LATER - IT'S DARK
+
+Jesus sits alone. The last customer closes the courtyard 
+door.
+
+Jesus stands, enters Magdalene's room.
+
+                              CUT TO:
+
+INT. MAGDALENE'S ROOM - DARK - AMBERLIT - NIGHT
+
+Mary, lies naked on a stack of blankets, covered with the 
+sweat of all nations. Facing the wall, she calls:
+
+          MAGDALENE
+     Is there anyone else?
+
+Jesus stops in the middle of the room.
+
+Mary turns and recognizes Jesus. She instinctively pulls 
+back.
+
+          MAGDALENE
+     What are you doing here.
+
+          JESUS
+     I want you to forgive me.
+
+The Magdalene doesn't understand.
+
+          JESUS
+     I've done too many wrong things. I'm 
+     going to the desert. To the monastery. 
+     Before I go I want you to forgive 
+     me. Please.
+
+          MAGDALENE
+     Oh, I see. You sit out there all day 
+     with the others. Then you come in 
+     there with your head bowed, saying 
+     'Forgive me, forgive me.' Well it's 
+     not that easy. Just because you need 
+     forgiveness don't ask me to do it.
+
+          JESUS
+     Mary, I'm sorry.
+
+          MAGDALENE
+     I don't want your pity. I'm fine, 
+     just fine. I don't need help from 
+     anybody. Especially you or your God.
+
+          JESUS
+     God can save your soul.
+
+          MAGDALENE
+     I don't want him. He's already broken 
+     my heart. Say the truth.
+
+Mary is half in darkness. As she speaks her legs partially 
+open and one hand slips between them. Her other hand covers 
+her breasts.
+
+          MAGDALENE
+     You want to save my soul? This is 
+     where you'll find it. You're the 
+     same as the others only you can't 
+     admit it. You lie about it. You're 
+     pitiful. I hate you. Here's my body. 
+     Kiss it. Save it.
+
+Jesus, angry, lunges for her and hits her hand away very 
+hard. She pulls back on the couch and they stare at each 
+other. When Magdalene speaks again she is calmer, but even 
+sadder.
+
+          MAGDALENE
+     Is that the way you show you're a 
+     man? You never had the courage to be 
+     one. If you weren't hanging onto 
+     your mother, you were hanging onto 
+     me. Now you're hanging onto God, 
+     going to the desert to hide because 
+     you're scared. Well go. Whenever I 
+     see you my heart breaks. Don't look 
+     at me.
+
+She stands and puts on a dress.
+
+                              CUT TO:
+
+LATER
+
+Mary takes a casserole from the fire, pours it into a bowl 
+and hands it to Jesus with a barley roll. Jesus eats 
+ravenously.
+
+          MAGDALENE
+     Is that the way you eat? Without 
+     thanking God? Don't you think you 
+     should thank him for giving you all 
+     this: bread, beans, whores, wine...
+
+          JESUS
+     Let me eat and let me go.
+
+Mary looks at him and touches his face. As she speaks, Jesus 
+doesn't respond.
+
+          MAGDALENE
+     I remember when we were children. 
+     When I was five and you were three. 
+     I remember when we laid under the 
+     tree together. I watched you. Later 
+     I wanted you to come to me but not 
+     before you suffered...
+
+Magdalene is coming on to him. He is her lifetime love. No 
+matter what he does, she will never stop loving him.
+
+          JESUS
+     Stop it.
+
+He stands and walks over to the fire.
+
+          MAGDALENE
+     I never felt so much tenderness toward 
+     anyone as I felt for you then... all 
+     I ever wanted was you... nothing 
+     else.
+
+          JESUS
+     And what do you think I wanted? Do 
+     you think I wanted this? God help 
+     me.
+
+          MAGDALENE
+     To do what?
+
+It takes him a moment to answer, but when he finally speaks 
+it is with some tenderness.
+
+          JESUS
+     To leave.
+
+          MAGDALENE
+     Please... stay.
+          (pause)
+     Here, it's cold. Sleep by the fire.
+          (she reaches for him)
+     Is it so bad, sharing a prostitute's 
+     room? You'll still have your virginity 
+     for the desert. I promise.
+
+          JESUS
+     I can't stay, Mary. I'm sorry.
+
+                              CUT TO:
+
+EXT. MONASTERY - NIGHT
+
+A small desert commune huddled near the edge of a precipice. 
+The monastery is actually an unconnected series of low mud 
+huts. Jesus strides toward them. The wind blows.
+
+          VOICE
+     This way.
+
+Jesus turns. And aged MASTER is revealed standing by the 
+huts.
+
+Jesus joins him. The Master looks into his careworn face and 
+smiles serenely, then leads him inside.
+
+                              CUT TO:
+
+INT. MONASTERY - HUT - NIGHT
+
+Jesus and the Master enter. Above the wind outside, Jesus 
+can hear the sounds of prayer and singing.
+
+          JESUS
+     Do you pray this late at night?
+
+          MASTER
+     It's a funeral. The Master of the 
+     monastery died.
+
+          JESUS
+     I'll pray with you.
+
+          MASTER
+          (smiling)
+     No. Sleep well. You must be tired. 
+     'First came the wings and then the 
+     angel.' God be praised.
+
+He leaves.
+
+                              CUT TO:
+
+INT. MONASTERY HUT - MORNING
+
+A monk, JEROBOAM, is shaking Jesus awake.
+
+          JEROBOAM
+     Who are you? What are you doing here?
+
+          JESUS
+     I was brought here.
+
+          JEROBOAM
+     By who?
+
+          JESUS
+     An old man.
+
+          JEROBOAM
+     There are a lot of old men here. 
+     What was his name? Did he say 
+     anything?
+
+          JESUS
+     He didn't say his name. He just said 
+     'First came the wings and then the 
+     angel.' That was all he said.
+
+Jeroboam is startled.
+
+                              CUT TO:
+
+INT. MONASTERY HUT - DAY
+
+Another hut. A simple room with a menorah. The Master who 
+showed Jesus to the room lies on an open shroud on the floor, 
+hands folded over his chest. His naked body is partially 
+obscured by by mourners. One MONK kisses his closed eyes. 
+ANOTHER his upturned palms, OTHERS his beard and his feet. 
+Jesus and Jeroboam watch.
+
+          JESUS
+     This was the man who let me in last 
+     night. Did he just die?
+
+          JEROBOAM
+     This was the Master of the monastery. 
+     He's been dead since yesterday 
+     morning. And you've come in his place.
+
+                              CUT TO:
+
+EXT. MONASTERY - DAY
+
+Carrying the Master's remains, the monks move through blowing 
+sand. The dunes seem almost to sway like the rise and fall 
+of the sea.
+
+The procession, with Jesus at the end, stops at a pit. The 
+monks, buffeted by the wind, roll the Master's remains into 
+the pit.
+
+Jeroboam shouts a prayer over the howling wind, but we cannot 
+hear it.
+
+JEROBOAM'S PRAYER:
+
+          JEROBOAM
+     The Master's soul has gone to heaven, 
+     his body's work is completed. It 
+     walked under the sun and moon, over 
+     stone and sand, sinned, felt pain, 
+     yearned for heaven. We commend his 
+     remains to the earth and his soul to 
+     our God. Flesh, the Master no longer 
+     needs you. Melt away.
+
+Even as he speaks, the wind leaves a fine layer of sand on 
+the Master's body; the face, beard, and hands sink away.
+
+                              CUT TO:
+
+EXT. MONASTERY - DAY
+
+Later. The sandstorm is over, the air is still. Jesus and 
+Jeroboam walk close together. They are in the midst of 
+conversation.
+
+          JEROBOAM
+     In our period of mourning for the 
+     Master we believe we'll feel his 
+     presence here for forty days, advising 
+     us, scolding us. It actually appeared 
+     to you. And showed you the way to 
+     his room. His own room. He treated 
+     you like a royal visitor. He 
+     recognized you.
+
+          JESUS
+     He couldn't have recognized me for 
+     anything. I only came here to serve 
+     God and nothing else. That's all he 
+     wants from me, I'm sure of it.
+
+          JEROBOAM
+     God brought you here, didn't he?
+
+          JESUS
+     All he brought here is my shame.
+
+          JEROBOAM
+     Shame is also a temptation.
+
+          JESUS
+     God hunts me. He drives his nails 
+     into my heart. He wants to push me 
+     over.
+
+Jesus' hand sweeps out. We follow. He is gesturing toward 
+the steep precipice only a few yards away.
+
+          JESUS
+     He wants me to speak. But he didn't 
+     touch my lips with burning coals. 
+     How can I speak? I sinned.
+
+          JEROBOAM
+     We all sin.
+
+          JESUS
+     Not my sins. What does He want from 
+     me? Can't he see what's inside me? 
+     All my sins. I'm Lucifer.
+
+          JEROBOAM
+     Be quiet!
+
+          JESUS
+     No! I'm a liar. A hypocrite. I'm 
+     afraid of everything. I never tell 
+     the truth. I don't have the courage. 
+     When I see a woman, I blush and look 
+     away. But inside I have lust. For 
+     God, I smother the lust, and that 
+     satisfies my pride. But my pride 
+     destroys Magdalene. I never steal or 
+     fight, or kill... not because I don't 
+     want to but because I'm afraid. I 
+     want to rebel against everything, 
+     everybody... against God!... but I'm 
+     afraid. If you look inside me you 
+     see fear, that's all. Fear is my 
+     mother, my father, my God.
+
+          JEROBOAM
+     The more devils we have inside of 
+     us, the more chance we have to make 
+     angels. 'Angel' is the name for the 
+     devils who repent... so, you have to 
+     have faith. Have you ever slept with 
+     a woman?
+
+          JESUS
+     No...
+
+          JEROBOAM
+     And you don't want to?
+
+          JESUS
+     I do... No, I don't.
+
+          JEROBOAM
+     Why not?
+
+          JESUS
+     It's not enough for me.
+
+          JEROBOAM
+     Well, then what do you want?
+          (pause)
+     ...Why don't you answer me?
+
+          JESUS
+          (smiling)
+     I am Saint Blasphemer, Father. So 
+     you'd better not ask me anything 
+     else, or I'll start my blasphemies.
+
+          JEROBOAM
+     Start your blasphemies. You'll be 
+     relieved. Start.
+
+          JESUS
+     There's Lucifer inside of me saying, 
+     You're not the son of the Carpenter, 
+     you're the son of King David. You're 
+     not a man, you're the son of man. 
+     And further: the son of God. And 
+     further than that: God.
+
+Jeroboam is speechless.
+
+          JESUS
+     Do you want to ask me anything else?
+
+          JEROBOAM
+     No.
+
+                              CUT TO:
+
+INT. JESUS' HUT - NIGHT
+
+Jesus sleeps on a woven mat.
+
+He hears a HISSING SOUND. His eyes open, he sits up.
+
+A snake emerges from a hole in the wall and slithers across 
+the earthen floor. Another snake follows it. The snakes coil 
+around each other and copulate.
+
+Jesus watches, his back to the wall.
+
+          JESUS (V.O.)
+     Why now after all this time? Coupling. 
+     This is why we were thrown out of 
+     Paradise.
+
+He looks at one of the snakes. It speaks to him in Mary 
+Magdalene's voice.
+
+          MAGDALENE
+     Jesus, I forgive you.
+
+(fast dolly in as) Jesus grabs his chest; the snakes hiss 
+inside his breast.
+
+          JESUS
+     Leave me. Leave me alone.
+
+Jesus breathes a sigh of relief. The snakes are gone. Jesus 
+looks up. Jeroboam stands in the door. Jeroboam enters and 
+puts his fingers to Jesus' lips.
+
+(follow hand around and to lips 36 fps)
+
+          JESUS
+     They're gone.
+
+Jeroboam nods. He has seen the snakes too.
+
+          JEROBOAM
+     God has just blessed you. The snakes 
+     left. They came from you. Everything 
+     has two meanings, one obvious, the 
+     other hidden. Now maybe you have to 
+     leave.
+
+          JESUS
+     I have to stay. That's what God wants 
+     me to do.
+
+          JEROBOAM
+     I don't think you're supposed to 
+     stay. God is already talking to you. 
+     He must want something else.
+
+          JESUS
+     What else could he want from me?
+
+          JEROBOAM
+     He's purified you for a reason. To 
+     be his instrument. He must want to 
+     speak through you. Outside.
+
+          JESUS
+     To who?
+
+          JEROBOAM
+     To anyone who will listen.
+
+          JESUS
+     And say what?
+
+          JEROBOAM
+     Just open your mouth. You love 
+     mankind?
+
+          JESUS
+     I see men and I feel sorry for them, 
+     that's all.
+
+          JEROBOAM
+     That's enough. Go and speak to them.
+
+                              CUT TO:
+
+EXT. DESERT MONASTERY - NIGHT
+
+(SPECIAL EFFECT) A huge full moon illuminates the group of 
+huts.
+
+                              CUT TO:
+
+INT. JESUS' HUT - NIGHT
+
+Dark at first. Then, a HISSING NOISE. Jesus lights a palm-
+sized lamp, listens.
+
+Then, he cautiously peers out the opening of the hut. Then 
+he is pulled through.
+
+                              CUT TO:
+
+EXT. MONASTERY - HUT - NIGHT
+
+An arm grabs Jesus from behind and throws him against the 
+wall.
+
+Judas stands in front of him, panting, his dagger in his 
+hand.
+
+          JUDAS
+     I hissed and you came.
+
+          JESUS
+     I'm ready.
+
+          JUDAS
+     Ready? You think we're going to a 
+     feast? I'm going to kill you.
+
+          JESUS
+     Good. I'm relieved. I'm happy to see 
+     you. You're just in time.
+
+Judas is startled.
+
+          JESUS
+     God purified me tonight. I thought 
+     it was so I could go out and preach. 
+     But now I see. It's so I could die. 
+     And you're God's instrument. He 
+     brought us together.
+
+Jesus opens his tunic.
+
+          JESUS
+     Here's my neck. Cut it. Come on, cut 
+     it. What's the matter? Is there 
+     anything wrong? I was purified, you 
+     got your permission, it's all arranged 
+     by God. So what are you waiting for?
+
+They stare at each other.
+
+          JESUS
+     You can't do it, can you?
+
+          JUDAS
+     I can if I want.
+
+          JESUS
+     Why don't you want?
+
+          JUDAS
+     I do want.
+
+          JESUS
+     Fine.
+
+He positions himself for killing again. There is another 
+pause.
+
+          JUDAS
+     Did you work some magic on me? When 
+     I go to kill a man, I kill him.
+
+          JESUS
+          (thinking it out)
+     Maybe God doesn't want me to die. If 
+     God really wanted me to die, you 
+     wouldn't hesitate. You'd just kill 
+     me.
+
+          JUDAS
+     No, you should die. What good are 
+     you living? Why should God want you 
+     alive? What good are you for Israel? 
+     Do you have some secret?
+
+          JESUS
+     I have no secret. I know that I have 
+     pity, though.
+
+          JUDAS
+     Pity! How far will that get us? What 
+     good is that for Israel?
+
+          JESUS
+     It's good for men.
+
+          JUDAS
+     Men! The Greeks who killed us were 
+     men. So are the Romans. Don't pity 
+     men, pity Israel. The rest can go to 
+     hell.
+
+          JESUS
+     I feel pity for everything. Donkeys, 
+     sparrows, grass.
+
+          JUDAS
+     And ants? I suppose you feel pity 
+     for them too?
+
+          JESUS
+     Yes. Everything's a part of God. 
+     When I look into the ant, into his 
+     shiny black eye, I see the face of 
+     God.
+
+          JUDAS
+     What do you see when you look in my 
+     face?
+
+          JESUS
+          (matter of factly)
+     I see God too.
+
+          JUDAS
+     You see God everywhere, don't you? 
+     Maybe that's why you don't fear death.
+
+          JESUS
+     Why should I fear death? Death isn't 
+     a door that closes, it's a door that 
+     opens. It opens and you enter.
+
+          JUDAS
+          (pause)
+     If I don't kill you, what happens?
+
+          JESUS
+     I don't know. Whatever God decides. 
+     I'll speak to others. I can't think 
+     of anything else.
+
+          JUDAS
+     What are you going to say?
+
+          JESUS
+     I'll just open my mouth and God will 
+     do the talking.
+
+          JUDAS
+     See. I told you. You're not crazy at 
+     all, are you? If God does talk through 
+     you, then you're the messenger of 
+     God and I can't kill a messenger of 
+     God, can I? You've got my hand 
+     stopped.
+
+          JESUS
+     I didn't stop your hand, God did.
+
+          JUDAS
+     He's the only one who could.
+
+          JESUS
+     God didn't send you to kill me. Maybe 
+     he sent you here to follow me.
+
+          JUDAS
+     The one's I follow are the ones who 
+     follow Israel.
+
+Judas puts his knife away.
+
+                              CUT TO:
+
+EXT. GALILEE - DAY
+
+Judas and Jesus walk across the plain toward Magdala.
+
+                              CUT TO:
+
+EXT. MAGDALA - DAY
+
+Mary Magdalene is hurled into a shallow pit, her knees and 
+elbows bloody from being dragged down the street.
+
+Jesus and Judas enter the village. They hear a commotion and 
+hurry toward the crowd.
+
+The crowd, in a festive mood, hurl insults and spit at her.
+
+          JUDAS
+     It's Magdalene. She deserves it.
+
+Jesus steps into the center of the pit as the crowd starts 
+to throw stones. One of them hits Jesus on the chest. He 
+looks over at the man who threw the stone. We have never 
+seen Jesus like this before: neither has anyone in the crowd.
+
+Two little KIDS take one look, giggle nervously, and run 
+away. Judas is riveted. On the other side of the small crowd, 
+PHILIP, PETER, ANDREW and JOHN watch this unexpected 
+confrontation with fascination.
+
+          MAN IN CROWD
+     Get out of here. This isn't your 
+     business. You want to get hurt?
+
+More stones are thrown. Jesus doesn't move. Magdalene, has 
+grabbed his leg for reassurance.
+
+ZEBADEE pushes his way through the crowd.
+
+          ZEBEDEE
+     You heard what he said, idiot. Move.
+
+          JESUS
+     No. I don't want this.
+
+          ZEBEDEE
+     Oh, listen to this. He doesn't want 
+     this. Well, we want it.
+
+          JESUS
+     Why?
+
+          ZEBEDEE
+          (livid)
+     We don't have to tell you why...
+
+Peter, in the crowd, interrupts angrily.
+
+          PETER
+     Bad enough we live in a whorehouse. 
+     But does it have to be a Roman 
+     whorehouse? Our women can't even 
+     look in a mirror on the Sabbath, and 
+     this one goes with Romans on the 
+     Sabbath. She broke Moses' law. So 
+     she dies.
+
+Jesus picks up two stones from the ground.
+
+          JESUS
+     Who's never sinned? Which one of you 
+     has never sinned? Whichever one of 
+     you's never sinned should come up 
+     here and throw these.
+
+Zebedee steps forward immediately, carrying his own small 
+stone.
+
+          ZEBEDEE
+     I've got nothing to hide.
+
+          JESUS
+     Good. Take one of these. They're 
+     bigger. You're not going to do much 
+     damage with the small one.
+
+Zebedee hesitates.
+
+          JESUS
+     Be careful, Zebedee. There is a God. 
+     He's seen you cheat your workers. 
+     He's seen you with that widow, what's 
+     her name...
+
+          WOMAN IN THE CROWD
+     Judith!
+
+          JESUS
+     ...Judith. Aren't you afraid God 
+     will paralyze you if your lift that 
+     stone? That your hand will wither 
+     and hang at your side?
+
+Zebedee drops the rock and moves back. Several MEN start 
+toward Jesus, but Judas steps between them, braced for action. 
+They stop.
+
+Jesus helps Mary to her feet. Judas calls to the crowd:
+
+          JUDAS
+     Follow us, follow the Rabbi. He wants 
+     to talk to you.
+
+Judas, Jesus and Magdalene walk away from the pit. A large 
+segment of the crowd follows.
+
+          WOMAN IN CROWD
+     Who is he?
+
+          MAN
+     It's Jesus. From Nazareth.
+
+          SECOND MAN
+     Nothing good can come out of Nazareth. 
+     Even the scriptures say it.
+
+They start back, away from the crowd, toward the town.
+
+                              CUT TO:
+
+EXT. HILLSIDE IN MAGDALA - DAY
+
+The nearby summit of the hill which was the site of some 
+ancient pagan temple, probably Mesopotamian. Fragments of 
+several carved capitals of columns lay on the ground along 
+with pieces of pagan Gods (winged lions with women's heads, 
+etc.).
+
+Magdalene sits near Jesus' feet; Judas stands in the 
+background. The crowd waits to hear what Jesus has to say. 
+Jesus looks out over the poverty-stricken villagers, the 
+peaceful country-side:
+
+          JESUS (V.O.)
+     This is what I've always been afraid 
+     of. There's so much to say. God has 
+     so many miracles.
+
+A pause. The words start to come.
+
+          JESUS
+     Come closer everybody. My brothers. 
+     My sisters. I'm calling you that 
+     because we're all a family. A little 
+     closer. My voice isn't very strong, 
+     and I've got something to tell you.
+
+The crowd gets closer, still more curious than anything else.
+
+          JESUS
+     I'm sorry if I have to tell you 
+     stories. But is seems to be the only 
+     way I can tell you what I have to.
+          (pause)
+     A farmer was planting in his field. 
+     Some seed fell on the ground and the 
+     birds ate it. Some seed fell on rocks 
+     and dried up. But some seed fell on 
+     rich soil, grew into wheat and fed a 
+     lot of people.
+
+Long silence. No one has any idea what the hell he's talking 
+about.
+
+          JESUS
+     Didn't you hear me? Are you people 
+     deaf?
+
+          ZEBEDEE
+          (indignant)
+     We can hear fine. It's not us. Can't 
+     you be more... clear.
+
+Jesus thinks for a moment. He is also hiding annoyance.
+
+          JESUS
+     I'm the farmer. The farmer's me.
+
+          ZEBEDEE
+     Wait a minute. I get it. Don't tell 
+     me. We must be the stones. We're the 
+     ground, is that it? That's just fine. 
+     And two and two makes four.
+          (to crowd:)
+     Another lunatic.
+
+JOHN, Zebedee's youngest son, who has an air of perpetual 
+abstraction, leaves his father and approaches Jesus.
+
+          JOHN
+     Rabbi, tell me. If you're the farmer 
+     and we're the stones, what is the 
+     seed?
+
+Jesus is baffled.
+
+          JOHN
+     What's the seed?
+
+          JESUS
+          (surprised)
+     Love one another. Love one another!
+
+This is too much for the crowd to take.
+
+          ANDREW
+     Alright, let's say we accept that. 
+     Maybe that's even good advice. But 
+     for some other world. Not here. we're 
+     starving. Feed us first, then talk.
+
+While the crowd makes noise, Judas steps near to Jesus and 
+talks to him so the others can't hear.
+
+          JUDAS
+     What are you talking about, love? 
+     This is your message? We should all 
+     love the Romans? That's like putting 
+     our neck on the knife.
+
+Jesus takes a step forward, going with the momentum of his 
+strong feelings.
+
+          JESUS
+     Listen, I used to think God was angry 
+     too. But not any more. He used to 
+     jump on me like a wild bird and dig 
+     his claws into my head. But then one 
+     morning he came to me. He blew over 
+     me like a cool breeze and said 'Stand 
+     up.' And here I am.
+
+          ZEBEDEE
+     Go to hell!
+
+          MAN IN CROWD
+     These are all stories for children. 
+     They can't help us.
+
+Jesus starts into the crowd, confronting them directly.
+
+          JESUS
+     What are you hungry for? And you, 
+     you're thirsty. What are you thirsty 
+     for? For justice. Justice.
+
+          ANDREW
+     And bread.
+
+          JESUS
+     Bread too, bread too. I'm telling 
+     you, whoever's hungry for justice, 
+     whoever's thirsty for justice... 
+     they're the one's who'll be blessed. 
+     They'll be filled with bread. They'll 
+     never be thirsty again.
+
+Jesus works his way through the crowd, really winning them 
+over. He points at somebody else.
+
+          JESUS
+     And you. You're in mourning. But 
+     mourners will be blessed. You'll 
+     have God's comfort, you won't need 
+     it from men.
+
+Now he addresses the crowd at large.
+
+          JESUS
+     And the meek... they're the ones 
+     who'll be blessed. And the 
+     suffering... they'll be blessed too. 
+     and the merciful, and the peacemakers. 
+     And the poor, and the sick, and the 
+     outcasts... you will all be blessed. 
+     Because Heaven is yours.
+
+Now the crowd is really with him.
+
+          JESUS
+     But believe me. The ones who are 
+     laughing now...
+
+He indicates a couple of skeptics in the crowd.
+
+          JESUS
+     ...will be crying later. The ones 
+     who are fed now will be hungry soon. 
+     And the rich... will be poor forever.
+
+The crowd, agitated and excited, starts to run off.
+
+          FIRST VOICE
+     Let's kill the rich!
+
+          SECOND VOICE
+     Why bother with the rich? Kill the 
+     Romans.
+
+          JESUS
+          (protests)
+     I didn't say death. I said love! I 
+     said love!
+
+          ZEBEDEE
+          (motions to his son)
+     Let's go.
+
+          JOHN
+     No. Go on without me.
+
+JAMES looks as if he wants to stay too, but Zebedee pulls 
+him by the arm and stalks off. John and Andrew stay behind 
+with Peter, Philip and Judas.
+
+Mary Magdalene stands next to Jesus now.
+
+          MAGDALENE
+     Rabbi. I can help. Let me go with 
+     you.
+
+          JESUS
+          (interrupts)
+     No. Stay here. Tell people about me. 
+     Show them how to live.
+
+He kneels and wipes her bloody feet with his tunic.
+
+                              CUT TO:
+
+EXT. SEA OF GENNASARET - DAY
+
+Another day. Jesus leads his little band along the seashore: 
+Peter, John, and Andrew walk with Jesus; Judas and Philip 
+follow. Two peasant women, a street urchin and a couple of 
+dogs bring up the rear. They approach Zebedee, who works 
+with James, Nathaniel and two other fishermen.
+
+          ZEBEDEE
+          (to John)
+     Where have you been? We've been 
+     working all morning.
+
+John steps over to his brother James and starts pulling him 
+away.
+
+          JOHN
+     What are you doing this for, after 
+     what we heard. Come with us.
+
+Zebedee grabs James' other arm.
+
+          ZEBEDEE
+     What do you think you're doing?
+
+He swats both John and James on the ear. The other disciples 
+laugh.
+
+          JUDAS
+          (laughing)
+     Watch it, Zebedee, you'll lose another 
+     son.
+
+          JESUS
+     Zebedee, do you really need them? 
+     You can hire other men. They won't 
+     be your sons, so you'll have to pay 
+     them...
+
+          ZEBEDEE
+     Pay them! I can't afford to pay them. 
+     I can't afford to pay anybody. Look, 
+     my nets have been empty for weeks.
+
+          JESUS
+     Look at them now.
+
+The nets are teeming with fish.
+
+          ZEBEDEE
+     How'd you do that?
+
+          JESUS
+     Maybe the current changed.
+          (pause)
+     Zebedee, let your sons come with me. 
+     They can fish for men.
+
+                              CUT TO:
+
+EXT. SEA OF GENNASARET - AFTERNOON
+
+Later the same day. Jesus and the disciples, now with James 
+among them, walk past a stand of tall reeds.
+
+                              CUT TO:
+
+EXT. GALILEE - NIGHT
+
+The disciples sleep in an olive grove. Jesus, awake, sits on 
+a nearby knoll, looking into the night.
+
+Judas walks over and sits next to him:
+
+          JUDAS
+     Rabbi, can I talk to you?
+
+He sits next to him.
+
+          JUDAS
+     I'm not like these other men. I mean, 
+     they're good enough. But they're 
+     weak. How are they going to fight 
+     for you? They couldn't even fight 
+     for themselves. Where'd you find 
+     them? One's worse than the other. 
+     This is no army.
+
+          JESUS
+     I don't need soldiers.
+
+          JUDAS
+     You wanted me. And if I love somebody, 
+     I'd die for them. If I hate somebody, 
+     I'll kill them. I can even kill 
+     somebody I love if he does the wrong 
+     thing. Do you understand?
+
+          JESUS
+     I understand.
+
+          JUDAS
+     The other day when you said turn the 
+     other cheek to the man that hit you, 
+     I didn't like that. Only an angel 
+     could do that, only an angel or a 
+     dog. I'm a free man. I don't turn my 
+     cheek to anyone. You do need soldiers.
+
+          JESUS
+     Will soldiers make me free?
+
+          JUDAS
+     You want freedom for Israel?
+
+          JESUS
+     I want freedom for the soul.
+
+          JUDAS
+     First you free the body, then the 
+     soul. You know that. The Romans come 
+     first.
+
+          JESUS
+     The soul is first. If you don't change 
+     what the soul needs, you'll only 
+     replace Roman domination with another 
+     domination and nothing'll ever change. 
+     First you have to change man inside. 
+     Then man can change what's around 
+     him. It's wanting wealth and power 
+     that makes the soul want to dominate 
+     others. That's the wanting we have 
+     to change, we have to free the soul 
+     first. With love.
+
+          JUDAS
+     We all want that eventually. But 
+     right now the only way is to start 
+     from the bottom. You build a house 
+     from the foundation up...
+          (he turns)
+     Who's there?
+
+Andrew, sleepy-eyed, walks over, concerned:
+
+          ANDREW
+     It's me, Andrew. Is everything...
+
+          JESUS
+          (interrupting)
+     Go back to sleep. Judas and I are 
+     talking.
+
+Andrew turns and leaves. Judas waits, then speaks.
+
+          JUDAS
+     I still don't know who you are.
+
+          JESUS
+     Neither do I.
+
+          JUDAS
+     You can't look to the others for 
+     answers. All they can do is follow 
+     you. It's between you and me. When I 
+     went to kill you in the monastery, 
+     God took my strength away. That's 
+     what made me think, even if I didn't 
+     want to... that's what made me think 
+     you might be the one. The Messiah. 
+     Maybe you are, maybe you aren't, 
+     maybe you don't even know yourself 
+     if you are. That's why I said to 
+     myself, be patient for once in your 
+     life. See what he does, see what he 
+     says, and if he's not the Messiah 
+     there's plenty of time to kill him.
+
+          JESUS
+     How can I be the Messiah? First of 
+     all I wanted to kill those people 
+     when I saw them torturing Magdalene. 
+     Then when I opened my mouth, out 
+     came the word 'love.' Why? How can 
+     we tell?
+
+          JUDAS
+     Alright. You say God talks through 
+     you and right now I believe you. 
+     There's another one he talks through.
+
+          JESUS
+     The Baptist.
+
+          JUDAS
+     We'll go to see him. He stands out 
+     there every day preaching 'He is 
+     coming, he is coming.' As soon as he 
+     sees you he'll know who you are. 
+     He'll know if you're the one.
+
+          JESUS
+     I'm afraid, Judas. Stay here.
+
+Judas spreads his blanket on the ground.
+
+                              CUT TO:
+
+EXT. GALILEE - NIGHT
+
+Later that night. Judas and Jesus are asleep in each other's 
+arms. Then Jesus appears to wake. On the ground in front of 
+him is an apple. He reaches for it, takes a bite, extracts 
+some seeds and the core. He scatters them on the ground. He 
+watches where they fall.
+
+And now we see: a tree has grown, ripe red apples hanging 
+from its every branch.
+
+                              CUT TO:
+
+EXT. RIVER OF JORDAN - DAY
+
+Jesus and his followers reach the edge of the Dead Sea. 
+Andrew, a disciple of the Baptist, points ahead.
+
+          ANDREW
+     Up ahead. The water forms a pool in 
+     the caves. I'll show you.
+
+          JESUS
+     You're tired. Stay here.
+
+          ANDREW
+     No, I'd better come. It could be 
+     dangerous.
+
+          JESUS
+     NO. I want to go alone.
+
+Jesus walks through the burning heat toward the caves. Judas, 
+following behind, runs to catch up.
+
+          JUDAS
+     What about me! I'm supposed to be 
+     with you.
+
+          JESUS
+     Come on.
+
+They walk down a slope. Jesus in front. Judas behind. John 
+the Baptist's voice echoes in the distance.
+
+Offscreen Voice:
+
+          THE BAPTIST (O.S.)
+     'Behold, I will raise up evil against 
+     you out of your own house, and I 
+     will take your wives before your 
+     eyes, and give them to your neighbor, 
+     and he shall lie with your wives in 
+     the sight of this sun.'
+
+(2 SAMUEL XII, 11)
+
+They push their way through a mixture of lower class 
+Israelites, Ethiopians (painted nails, eyelashes, etc.), 
+Chaldeans (brass rings in their noses, etc.) Some who have 
+been or are about to be Baptized are naked.
+
+                              CUT TO:
+
+EXT./INT. BAPTIST'S CAVE - DAY
+
+Jesus and Judas approach. They enter a small cave like an 
+antechamber in which the light has a slight greenish tint.
+
+In the larger cave, the BAPTIST is preaching. Jesus gasps 
+when he first sees him: a wild man, unkempt, unwashed, (hair 
+like a Rastafarian). He shouts in the wind:
+
+          THE BAPTIST
+     "Roll on the ground, bite the dust, 
+     howl! The Lord of Hosts says: 'On 
+     this day I will command the sun to 
+     set at noon; I will crush the horns 
+     of the new moon and spill darkness 
+     over the earth. I will reverse your 
+     laughter, turn it into tears, and 
+     your songs I will turn into 
+     lamentations. I will blow and all 
+     your finery -- hands, feet, noses, 
+     ears, hairs -- will fall to the 
+     ground.'"
+
+He's awesome. Even Judas is taken back. He grabs Jesus:
+
+          JUDAS
+     God. He sounds like the Messiah.
+
+          JESUS
+     No, the Messiah won't have an ax in 
+     his hand.
+
+Judas pushes Jesus forward.
+
+          JUDAS
+     We'll see. Go in front. Let him see 
+     you.
+
+Jesus walks slowly toward the Baptist, his eyes fixed on the 
+prophet. The crowd flails and shouts; one half-naked woman 
+slashes herself with sharp stones (throws herself on the 
+ground, etc.).
+
+          JESUS (V.O.)
+     Even from behind, I knew I had seen 
+     him before. Where? When? Was it a 
+     dream? Yes, it was. But in the dream 
+     he was all dressed in white.
+
+Jesus steps behind the Baptist. John suddenly turns at him.
+
+          THE BAPTIST
+     Who are you?
+
+          JESUS
+          (his voice anxious)
+     Do you recognize me?
+
+          THE BAPTIST
+     Who are you?
+
+          JESUS
+     Have you read Isaiah? Do you know 
+     the prophets? What does Isaiah say?
+
+          THE BAPTIST
+     He says, "Prepare the way of the 
+     Lord." Are you telling me that's 
+     you?
+
+          JESUS
+     I don't know.
+          (demanding)
+     Tell me.
+
+The Baptist looks around: the crowd wails in SILENT MOTION. 
+A sudden calmness. We see them from Judas' P.O.V. Judas 
+strains to hear but can't. The Baptist knows Jesus.
+
+          THE BAPTIST
+     Why are you here?
+
+          JESUS
+     To be baptized.
+
+          THE BAPTIST
+     I don't dare. If you are the Master, 
+     you should baptize me.
+
+          JESUS
+     Baptize me.
+
+Jesus kneels at John's feet, throws off his robe (his 
+nakedness partially hidden by people in the foreground). 
+Judas looks on.
+
+                              CUT TO:
+
+EXT. RIVER OF JORDAN - NIGHT
+
+Jesus and the Baptist sit in the cave by a fire built near 
+the baptismal pool. An eerie blue-green light falls on the 
+walls of the cave; their faces are reflected in the pool 
+water. A group of pilgrims camp in the back of the cave. 
+Music is heard.
+
+Jesus and the Baptist are weary from hours of debate.
+
+          JESUS
+     Isn't love enough?
+
+          THE BAPTIST
+     No. The tree is rotten. You have to 
+     take the ax and cut it down.
+
+          JESUS
+     If I was a woodcutter, I'd cut. If I 
+     was fire, I'd burn. But I'm a heart 
+     and I love.
+
+          THE BAPTIST
+     I'm a heart also but I can't love 
+     what's unjust. I can't love evil. 
+     What I can't love I attack. God 
+     demands it. God demands anger.
+
+          JESUS
+     Anger? Aren't we all brothers?
+
+          THE BAPTIST
+     You think love is God's only way? Go 
+     to the Dead Sea. Look in the bottom, 
+     you'll see the two whores, Sodom and 
+     Gomorrah. God was angry. He threw 
+     fire at them, turned over the dry 
+     land and the sea swallowed them up. 
+     That's God's way. 'On the day of the 
+     Lord, blood will flow from wood, the 
+     stones of the houses will come alive 
+     and kill their owners!' That day is 
+     here. He gave me the ax, now I give 
+     it to you.
+
+Jesus, frightened, turns away:
+
+          JESUS
+     That's not the answer.
+
+          THE BAPTIST
+          (aggravated)
+     No? Then what is the answer?
+
+          JESUS
+     I don't know. I think it's love.
+
+          THE BAPTIST
+     Well I know. And if you won't listen 
+     to me who will you listen to? To 
+     God? The God of Israel's a god of 
+     the desert. If you want to speak to 
+     him, then you go to the desert.
+
+          JESUS
+          (a beat)
+     I'll go to Idumaea.
+
+          THE BAPTIST
+     But be careful. The desert's full of 
+     sweet voices and death.
+
+The Baptist walks over to Jesus.
+
+          JESUS
+     Thank you Baptist.
+
+John kisses Jesus on the mouth.
+
+          JESUS (V.O.)
+     His tongue felt like a burning coal 
+     in my mouth.
+
+Judas watches from a hole in the ceiling of the cave. From 
+his P.O.V. he can't hear anything.
+
+Jesus walks away, not looking back.
+
+                              CUT TO:
+
+EXT. IDUMAEA DESERT - SUNSET
+
+Jesus runs across the desert as if pursued. He stops, pants, 
+continues. The earth underneath is cracked. The whole 
+landscape shimmers with heat under a huge white sun. (SPECIAL 
+EFFECT). The image is tinted warm red.
+
+                              CUT TO:
+
+EXT. DESERT - NEXT DAY
+
+Jesus wanders through the wild, uninhabited terrain. The 
+sun, like a blast furnace, blows sand into his face.
+
+He starts to draw a large circle.
+
+          JESUS (V.O.)
+     I'm not going to leave this circle. 
+     I won't leave until you talk to me. 
+     No hums. No thunder. No headaches. 
+     Just talk to me in human words. 
+     Whatever path you want, I'll take. 
+     Love or the ax or anything else. Or 
+     if you want me to stay here and die 
+     I'll do that too. But you have to 
+     tell me.
+
+He sits in the center of the circle.
+
+He sees: the sun, looming huge in the sky, seeming to be 
+unnaturally close to him. (SPECIAL EFFECT).
+
+He sees: in the far distance, birds flying across a great 
+plain.
+
+He sees: on the flat desert, the plain of Sodom, a herd of 
+gazelles.
+
+He continues to watch as we...
+
+                                                  FADE OUT:
+
+EXT. DESERT - NIGHT
+
+FADE IN. Days have past. The hunger and deprivation are 
+beginning to show on Jesus' face. His clothes are the color 
+of soil.
+
+          JESUS
+     I don't want... I don't want to be 
+     alone.
+
+He puts his head down, but hears sounds and looks into the 
+moonlit night. SOUNDS: of water; bracelets; laughing. Then a 
+large SERPENT coils at the edge of the circle, speaking in a 
+half-human, half-animal voice.
+
+          SERPENT
+     I felt sorry for you. You were lonely. 
+     You cried, so I came.
+
+          JESUS
+     I didn't call you. Who are you?
+
+          SERPENT
+     Your soul.
+
+          JESUS
+     My soul.
+
+          SERPENT
+     You're afraid of being alone. Just 
+     like Adam. He called me and I reached 
+     into his ribs and gave him a wife.
+
+          JESUS
+     You're here to trick me.
+
+          SERPENT
+     Trick you? To love and care for a 
+     woman? To have a family -- this is a 
+     trick? Why are you trying to save 
+     the world? Aren't your own sins enough 
+     for you? What arrogance to think 
+     it's your duty to save the world. 
+     The world doesn't have to be saved. 
+     Find love.
+
+          JESUS
+     I have love.
+
+          SERPENT
+     Look into my eyes, look at my 
+     breasts...
+
+The Serpent's voice dissolves into the soft, comforting voice 
+of Mary Magdalene.
+
+          SERPENT
+     ...Do you recognize them? Say the 
+     word. Nod your head and we'll be in 
+     my bed together.
+
+Jesus looks up, eyes glaring.
+
+          SERPENT
+          (compassionately)
+     Oh, Jesus.
+
+The Serpent suddenly explodes, leaving no trace. Jesus places 
+his head between his legs and begins to sob, as if he has 
+lost a loved one.
+
+                              CUT TO:
+
+EXT. DESERT - NIGHT
+
+FADE IN. Another week has passed. Jesus' clothes are torn 
+and tattered by the desert winds. He awakens.
+
+          JESUS (V.O.)
+     After ten days the hunger went away.
+
+He hears a sound. A LION stands at the edge of the circle.
+
+          LION
+     Welcome, Jesus. Congratulations. 
+     You've overcome the small temptations 
+     of a woman, a family. We're both 
+     bigger than that. A woman's not 
+     enough, we need the whole world.
+
+          JESUS
+     Who are you?
+
+          LION
+     I'm you. I'm your heart. Your heart 
+     is so hungry. It pretends to be humble 
+     but it secretly wants to conquer the 
+     world. I will set my four feet down, 
+     one in Babylon, one in Jerusalem, 
+     one in Alexandria, the last in Rome.
+
+          JESUS
+     I've never wanted a kingdom on earth. 
+     The Kingdom of Heaven's good enough 
+     for me.
+
+The Lion's voice transforms into Judas':
+
+          LION
+     You're a liar. You've always wanted 
+     power. When you were making crosses 
+     for the Romans in Nazareth, your 
+     head was exploding with dreams of 
+     power. You said it was God, but you 
+     really wanted to rule others. Now 
+     you will. Any country you want. All 
+     countries. You will rule Babylon. 
+     You will rule Jerusalem. You will 
+     rule Alexandria. You will even rule 
+     Rome.
+
+Jesus, shaking, reaches out toward the Lion.
+
+          JESUS
+     Liar! Step into my circle so I can 
+     pull out your tongue.
+
+The Lion steps into the circle, and, as he does, disappears.
+
+                                                  FADE OUT:
+
+EXT. DESERT - NIGHT
+
+FADE IN. Jesus lies sleeping. Another week has past. He's a 
+wasted skeleton.
+
+An ARCHANGEL stands at the circle's edge. The Angel appears 
+as a normal ten-year-old boy speaking in the voice of a young 
+girl. Jesus strains to see through his swollen eyelids:
+
+          JESUS
+     Archangel... go farther back. You're 
+     blinding me.
+
+          ARCHANGEL
+     I'm the one you've been waiting for. 
+     Remember when you were a child, you 
+     cried, 'Make me a God. God, make me 
+     a God.'
+
+          JESUS
+     But I was just a child then.
+
+          ARCHANGEL
+     Adonai. You are God. The Baptist 
+     knew it. It's time you admit it. I 
+     salute you, Son, only Son of God. 
+     Join me in power. We will rule 
+     together over the living and the 
+     dead. You'll give life and take life. 
+     You'll sit on the throne and I'll 
+     sit at your hand. Imagine how strong 
+     we could be together.
+
+Jesus suddenly realizes who he's talking to:
+
+          JESUS
+     Satan!
+
+The ripe tree from Jesus' dream appears behind the Archangel. 
+The Angel offers an apple.
+
+Jesus bites into the apple: it turns into blood in his mouth. 
+The blood splashes down his chest.
+
+          ANGEL
+          (smiling)
+     We'll see each other again.
+
+The Archangel turns and leaves. Jesus picks up a stick at 
+his feet. The stick is an ax.
+
+We see from over Jesus' shoulder. John the Baptist crouches 
+down into the frame, puts his hand on Jesus' shoulder and 
+speaks:
+
+          THE BAPTIST
+     Don't be afraid. You are the One. I 
+     was the one who came before you. My 
+     work is finished. Now I can die. The 
+     Lord wants me to tell you to stand 
+     up, his day is here. Take the ax. 
+     Run and carry the message to men.
+
+Jesus rises and strikes at the root of the tree with an ax. 
+Entire scene turns red.
+
+                              CUT TO:
+
+INT. MARY AND MARTHA'S - DAY
+
+MARY and MARTHA, sisters in their early thirties, are working 
+in their house. Mary sits at a weaving loom; Martha near the 
+fire.
+
+The door opens. An emaciated figure in tattered clothes stands 
+silhouetted in the doorway. The sisters turn, aghast.
+
+          JESUS
+     I'm a foreigner. From Galilee. I 
+     need rest. The door was open. Excuse 
+     me... I...
+
+          MARY
+     We're alone. Our brother Lazarus is 
+     out.
+
+          MARTHA
+     What difference does that make? Come 
+     in. Don't listen to her. She's afraid 
+     of her own shadow. I'm Martha and 
+     this is my sister, Mary. There's not 
+     much here, but you're welcome to it. 
+     Who are you?
+
+          JESUS
+     Jesus of Nazareth.
+
+          MARTHA
+          (laughing, teasing)
+     A good man?
+
+          JESUS
+     Yes, good.
+
+Jesus staggers over to the hearth.
+
+          JESUS
+          (smiles as he sits)
+     ...I do my best.
+
+                              CUT TO:
+
+INT. MARY AND MARTHA'S - NIGHT
+
+Jesus, washed and wearing a new tunic, eats bread and olives. 
+Martha hands him a wine flask. Sitting by the fire, they 
+almost look like a family. Jesus raises his pot of wine in a 
+toast.
+
+          JESUS
+     Martha. Mary. I swear to you if 
+     there's another flood and if it's up 
+     to me to invite you into the ark, 
+     I'd do it. You'd both be on it. 
+     Because tonight a stranger came to 
+     your door. You fed him, dressed him, 
+     made him comfortable, spoke kindly 
+     to him, and the Kingdom of Heaven 
+     came down and went in his heart.
+
+They drink. Mary and Martha look at Jesus flirtatiously.
+
+          MARY
+     Go on.
+
+          JESUS
+          (eating)
+     What should I say? Silence is good, 
+     It says everything.
+
+          MARY
+     It doesn't say everything to me. A 
+     kind word now and then helps.
+
+          MARTHA
+     Do you have a wife?
+
+          JESUS
+          (thinks)
+     No.
+
+          MARY
+     If you only knew what goes through a 
+     woman's mind when she weaves. You'd 
+     pity her, Jesus.
+
+          JESUS
+     I do know. I was once a woman, in 
+     another life, and I used to weave.
+
+          MARY
+     And what did you think about?
+
+          JESUS
+     God. And you?
+
+          MARTHA
+     God. But we think about men more.
+
+          MARY
+     God is a man after all. And men can 
+     be husbands.
+
+Jesus smiles, but deliberately chooses not to pursue this 
+subject. There is a brief silence.
+
+          JESUS
+     You know the Baptist? He died, didn't 
+     he?
+
+          MARY
+     He was killed... by Herod. You didn't 
+     know?
+
+          JESUS
+     No... I knew.
+
+          MARTHA
+     They say the King was drunk and cut 
+     off his head to satisfy a little 
+     girl... It happened in his palace in 
+     Jerusalem.
+
+          MARY
+     No, at his palace in Tiberias.
+
+          JESUS
+          (not listening)
+     Jerusalem.
+
+          MARTHA
+     Is that where you're going, to 
+     Jerusalem?
+
+          MARY
+     I envy you.
+
+          JESUS
+     Not now. Eventually.
+
+                              CUT TO:
+
+INT. ROMAN CAVES - NIGHT
+
+The disciples sit around a pool of water and two small fires. 
+Other fires and groups of people are scattered around and 
+behind them throughout the cave. One group plays music. The 
+cave walls are washed in blue-green light; a brilliant streak 
+of violent red cuts across the rock of the back wall.
+
+          JAMES
+     Now they say they're going to kill 
+     everyone who was baptized.
+
+          PHILIP
+     Nobody told you to get baptized.
+
+          PETER
+     You were baptized too. You begged 
+     for it. So be quiet.
+
+          JAMES
+     I can just imagine Galilee right 
+     now. The sea... I hear the fishing 
+     is so good that you just touch the 
+     nets and the fish jump in.
+
+          NATHANIEL
+     Don't talk about fish. It reminds me 
+     of my sheep. I don't know what's 
+     happened to them.
+
+          PETER
+     Maybe we should wait for him in 
+     Galilee.
+
+          JAMES
+     We promised the Master we'd wait 
+     here for him.
+
+          NATHANIEL
+     That was a month ago. He talks to 
+     the Baptist, then disappears.
+
+          JOHN
+     Brothers. I don't understand you. 
+     Think of the last words the Baptist 
+     said. He said 'Jesus of Nazareth, 
+     leave the desert. I am finished. 
+     Return to mankind!'
+
+          PHILIP
+     How do you know the Baptist really 
+     said that?
+
+          JOHN
+          (insisting)
+     Everybody says he did. But even if 
+     he didn't say it, those words are 
+     important because people believe 
+     them. I don't want to blaspheme, but 
+     what if our Master... what if he's 
+     the one?
+
+          JAMES
+     What one?
+
+          JOHN
+     The one.
+
+There is silence.
+
+          PHILIP
+     But we don't know if the Baptist 
+     really said that. I mean, what if...
+
+They argue.
+
+          JUDAS
+          (interrupting)
+     We're waiting here!
+
+          PETER
+     I don't know now.
+          (pause)
+     I don't think we should go to Galilee. 
+     We should wait here, maybe.
+
+          JUDAS
+          (to Peter, sarcastic)
+     Changed your mind when you heard 
+     what John said, uh? 'The one?' That's 
+     what I like about you Peter, nobody 
+     can change your mind. Not you. What 
+     good are you?!
+
+The apostles in front of Judas suddenly look past him. Judas 
+turns and stands up.
+
+John sinks to his knees.
+
+          JOHN
+     Master.
+
+Reverse angle shows Jesus standing before them.
+
+          PETER
+     Rabbi. John heard your foot-steps in 
+     his heart... in a way... and we were 
+     just preparing to welcome you.
+
+          JESUS
+     Were you baptized?
+
+          PETER
+     Yes.
+
+          JESUS
+     John baptized with water and they 
+     killed him. Now I'll baptize with 
+     fire.
+
+          JUDAS
+     Is that what the Baptist told you?
+
+          JESUS
+     I have an invitation for you.
+
+Momentary silence.
+
+          PETER
+     Is there a celebration?
+
+          JESUS
+     No, I'm not inviting you to a 
+     celebration. I'm inviting you to a 
+     war.
+
+Jesus is standing at the edge of the pool. He reaches into 
+his chest and rips out his own heart. He offers it at arm's 
+length to the disciples. Blood drips from the ventricles.
+
+          JESUS
+     This is my heart. Take it. I lead 
+     the way to the Kingdom of God. The 
+     Kingdom of God's inside us. It's the 
+     Devil's kingdom that's outside, all 
+     around us. We'll turn an ax against 
+     the Devil's kingdom, against the 
+     world. If you have sheep, give them 
+     away. If you have nets, let them 
+     rot. If you have a family, children, 
+     leave them behind.
+
+CAMERA tilts down following drops of heart blood which are 
+dripping into the pool. The water begins to glow red.
+
+Jesus now stands before them no longer holding his heart, 
+but the ax the Baptist gave him in the desert.
+
+          JESUS
+     I once believed in love, now I carry 
+     this. Who's with me?
+
+Judas falls to his knees in the water and kisses Jesus' feet.
+
+          JUDAS
+     Adonai!
+
+                              CUT TO:
+
+EXT. SAMARIA - DAY
+
+Jesus and his followers (they have grown in number) walk 
+through the Samarian lowlands.
+
+The group advances with determination and purpose. Judas 
+walks at Jesus' right; Peter at his left. Women and children 
+follow them.
+
+They come upon pits dug into the ground. The soil is colored 
+a strong green. Suddenly, bare arms come up out of some of 
+the pits. Heads pop up from others. Then, seven deranged men 
+and women, their naked bodies colored green from the soil, 
+crawl out of the pits and run toward Jesus. They flail at 
+him, some fall at his feet. Some beg in jibberish.
+
+Judas and Peter try to ward them off. Jesus is angry -- not 
+at the men, but at the evil spirits that possess them.
+
+He slaps one man, kicks another: he grabs one by the head 
+and pushes on him causing him to fall:
+
+          JESUS
+     Satan! Leave them! Get out!
+
+Judas and Peter hold Jesus as he touches each of the insane 
+people. They are in the thick of what looks like a brawl. At 
+one point, Jesus almost faints but is carried forward by the 
+two apostles. Jesus shouts as he touches the possessed. After 
+they have been confronted by Jesus, they grow suddenly calm. 
+Some are confused, some praise Jesus. Jesus is held by the 
+apostles, partially for protection and partially for strength.
+
+                              CUT TO:
+
+EXT. ANOTHER SAMARIA COUNTRYSIDE - DAY
+
+A BLINDMAN, led by his BROTHER and SISTER, approach Jesus 
+and the disciples. His reputation has spread through the 
+countryside.
+
+Jesus stops. He takes ground herbal powder from his sleeve 
+and mixes it with sand. He spits into the mixture, then 
+applies it to the Blind Man's eyes.
+
+          JESUS
+     Moses, Elijah, Isaiah -- touch my 
+     mouth, touch my lips.
+
+Jesus kisses the man's mud-caked eyes. The clay falls from 
+the Blind Man's eyes. His gruesomely deformed eyes are now 
+normal: he can see.
+
+          JESUS
+     Go to the temple. Let the high priests 
+     see you.
+
+                              CUT TO:
+
+EXT CANA - DAY
+
+On a small hillside. A group of children, at the right of 
+the frame, sees Jesus and the disciples approaching to the 
+left along a path below. They giggle and run away to announce 
+Jesus' arrival. A couple wave at him as they go.
+
+                              CUT TO:
+
+EXT. CANA - NIGHT
+
+Six virgins, carrying lit lamps, sing a psalm at the wedding 
+of Nathaniel's cousin. It's a festive, happy occasion.
+
+Jesus exchanges small talk with a group waiting for the 
+ceremony to begin. Everyone is in high spirits.
+
+Mary Magdalene steps next to Jesus. She looks like a changed 
+woman: simply dressed, radiant.
+
+Jesus smiles and takes her hand. An OLD MAN says to Mary:
+
+          OLD MAN
+     You don't belong at a wedding. We're 
+     here to celebrate purity.
+
+          JESUS
+     Listen to me. What do you think the 
+     Kingdom of Heaven's like? It's like 
+     a wedding. God's the Bridegroom and 
+     Man's soul is the Bride. The wedding 
+     takes place in Heaven and everyone's 
+     invited.
+          (points to Mary)
+     God's Kingdom is large enough for 
+     everybody.
+
+          OLD MAN
+     Nazarene, that's against the law.
+
+          JESUS
+     The Law is against my heart.
+
+                              CUT TO:
+
+LATER
+
+The ceremony is over. People are dancing. Jesus, the disciples 
+and the guests are laughing, drinking and swapping stories. 
+(MS SEE PG. 219 BOOK) Jesus' hand rests on Magdalene's 
+shoulder. The wine has loosened everyone's spirits. Nathaniel 
+is nearby frantically talking with his wife and two other 
+family members.
+
+          JAMES
+     Nathaniel, what's wrong.
+
+          NATHANIEL
+          (walks over, mortified)
+     I didn't buy enough wine. More people 
+     came and stayed late and now we've 
+     run out.
+
+Jesus points to several large vats:
+
+          JESUS
+     What's in those?
+
+          NATHANIEL
+     Water.
+
+          JESUS
+     No. It's wine.
+
+          NATHANIEL
+     No, no. It's water.
+
+          JESUS
+     Go over there and make sure. It's 
+     wine, I'm telling you.
+
+Nathaniel, still unconvinced, goes over to a vat and tastes.
+
+          NATHANIEL
+     You're right. It is wine.
+
+          JAMES
+          (as a joke)
+     It's another miracle.
+
+                              CUT TO:
+
+LATER
+
+Jesus, a little drunk and very happy, dances with men and 
+women. Magdalene watches him, a mixture of reverence and 
+longing on her face.
+
+                              CUT TO:
+
+EXT. NAZARETH - DAY
+
+Sabbath. The faithful, fresh from synagogue, mill about under 
+the date palms in the manner of churchmen over the centuries.
+
+These are not common people. On the contrary, they represent 
+the Jewish hierarchy: the severely moral Pharisess, Saducees, 
+in collusion with the Romans; and the landowners and 
+shopkeepers who supported the synagogue.
+
+Jesus calls out:
+
+          JESUS
+     Brothers! Sisters! My old friends! 
+     Listen to me! Listen to me.
+
+THe churchmen, curious, gather around.
+
+          JESUS
+          (continuing)
+     The prophet was talking about me. 
+     God talked to me in the desert. He 
+     gave me a great secret and told me 
+     to bring it to you -- didn't you 
+     hear me coming? I ran here first -- 
+     to Nazareth -- where I grew up -- to 
+     give you the news. The Lord's Kingdom 
+     is here.
+
+          VILLAGER #1
+          (taunting)
+     You do miracles. Do a miracle for 
+     us, make us believe in you. Otherwise, 
+     go away!
+
+          JESUS
+          (impassioned)
+     The Messiah doesn't need miracles. 
+     He is the miracle. The Day of the 
+     Lord is here. Are you ready? I've 
+     come to tear down the world around 
+     you. The old world will be replaced 
+     by the new world. The Kingdom of 
+     Heaven! The Kingdom of God! So call 
+     the poor and give them your food. 
+     What do you care about your 
+     possessions? Your gold and silver 
+     will rust and their rust will eat 
+     your flesh like fire. Flood and fire 
+     will come down, and the new Ark will 
+     float above the flames. I hold the 
+     keys and I open the Ark and I select. 
+     My brothers of Nazareth, you're the 
+     first I invite. Come and enter.
+
+The villagers boo and laugh. Some children put stones in 
+their hands.
+
+          VILLAGER #1
+     A boat. We're in the desert and he 
+     tells us about a boat.
+
+          VILLAGER #2
+     Aren't you the son of Mary? Right? 
+     Who are you to tell us about God.
+
+          VILLAGER #3
+     You made better crosses than speeches.
+          (to companion as he 
+          walks away)
+     Go get somebody from his family. 
+     This is embarrassing.
+
+          JESUS
+     What are you laughing at? Everything 
+     you have will burn!! Soon! Leave 
+     your homes! Come with me to Jerusalem!
+
+          VILLAGER #2
+     This is what happens when a man 
+     doesn't marry. The semen backs up 
+     into his brain.
+
+Someone throws a stone; it grazes Jesus' head, drawing blood.
+
+          VILLAGER #4
+     Go home! You're full of devils.
+
+          JESUS
+          (wiping blood from 
+          his brow)
+     This is my home!
+
+Peter and Judas rush to Jesus' defense. Judas puts his hand 
+to his dagger.
+
+          VILLAGER #2
+     Kill him!
+
+He throws another rock.
+
+          PETER
+     What are you doing that for? That's 
+     a shame.
+
+          VILLAGER #2
+     He's a sorcerer. He's calling the 
+     fire to come down on us!
+
+          POOR VILLAGER
+     Don't touch him! God's Kingdom is 
+     for the poor. It's our Kingdom!
+
+The rich and poor scuffle. Judas, Jesus, Peter and the others, 
+all disgusted, break free from the brawl. Jesus looks back, 
+confused and angry.
+
+          JESUS
+          (yelling back at crowd)
+     If I could touch every stone, breathe 
+     on every twig, they would rise up 
+     and join me! Come with me! Jerusalem 
+     is falling. I can feel it!
+
+                              CUT TO:
+
+EXT. OUTSIDE NAZARETH - DAY
+
+Jesus and his followers head across the plain toward Samaria. 
+He turns to Judas who walks at his side:
+
+          JESUS
+     See these misfits. They're crippled, 
+     they're blind, they're poor. That's 
+     our army. They shout and the Old 
+     Jerusalem will fall.
+
+          JUDAS
+     We'll need more men than this.
+
+          JESUS
+     God will provide them. We're going 
+     to build a New Jerusalem.
+
+Mary comes out of the crowd near him and grabs Jesus' arm.
+
+          MARY (MOTHER OF JESUS)
+     Son. Please. Come back with me.
+
+          JESUS
+     Who are you woman?
+
+          MARY (MOTHER OF JESUS)
+     You know who I am. Don't you recognize 
+     me? I'm your mother.
+
+          JESUS
+     I have no mother. I have no family. 
+     Only my father who's in heaven. Get 
+     away from me.
+
+He shakes off her arm. She trips, Jesus keeps walking, 
+followed by the disciples. Peter and a WOMAN help Mary to 
+her feet. Peter walks on as Mary and the woman turn back to 
+town.
+
+          WOMAN
+     Mary... why are you crying? Didn't 
+     you see them?
+
+          MARY (MOTHER OF JESUS)
+     See what?
+
+          WOMAN
+     When he spoke to you, thousands of 
+     blue wings, behind him, I swear to 
+     you Mary, there were armies of angels.
+
+          MARY (MOTHER OF JESUS)
+     I didn't see anything. What good are 
+     angels to me? I wanted children and 
+     grand-children behind him, not angels.
+
+                              CUT TO:
+
+EXT. ALONG THE JORDAN RIVER - DAY
+
+Jesus and his ragtag "army" continue their southward march.
+
+Martha and Mary, dressed in black, approach Jesus.
+
+          MARTHA
+     Rabbi, forgive us. Our brother Lazarus 
+     is very sick.
+
+          MARY
+     We heard you've healed the sick, 
+     made cripples walk, that you preformed 
+     miracles...
+
+          JESUS
+          (interrupts)
+     Take me to him.
+
+                              CUT TO:
+
+LAZARUS' TOMB - SUNSET
+
+Jesus, Mary, Martha and the disciples stand before the tomb, 
+which is sealed by a large boulder. There is a small crowd 
+of mourners nearby.
+
+          JESUS
+     When was he buried?
+
+          BETHANY WOMAN
+     Three days ago.
+
+          JESUS
+     Roll the stone away.
+
+Judas and Peter elicit the help of two others and lean their 
+shoulders to it.
+
+          JESUS (V.O.)
+     What can I do? How much can I do?
+
+The stone moves: a hideous stench gusts from the tomb. Some 
+disciples turn their faces: others put handkerchiefs to their 
+noses.
+
+Jesus stands at the entrance of the tomb and yells. His voice 
+echoes: a wild, strange cry, like something from another 
+world.
+
+          JESUS
+     Lazarus! In the name of the prophets, 
+     in the name of Jeremiah and my Father, 
+     in the name of most Holy God, I demand 
+     that you rise and come out!
+
+At first, nothing. Then we begin to hear a soft rustling 
+inside the tomb. Jesus is apprehensive. He stares at the 
+tomb's entrance. Suddenly a decomposed skeletal human hand 
+reaches out. The crowd gasps. Jesus, startled, jumps. Slowly, 
+Jesus reaches out, moves a bit closer and clasps the corpses' 
+hand. He is terrified. Suddenly, the corpse pulls back as if 
+to yank Jesus into the tomb. Jesus is more frightened. He 
+stands his ground. Then, Jesus decides to pull and the corpse 
+comes out. The disciples and the crowd are stunned. The 
+desicated figure, Lazarus, is covered head to toe in white 
+burial cloth. His free hand slowly unwraps the cloth from 
+his face. Strips of rotting flesh hang loose. Lazarus embraces 
+Jesus.
+
+          LAZARUS
+     Adonai.
+
+Jesus is shocked by his own miracle.
+
+          JESUS (V.O.)
+     Is the power of God so strong? If it 
+     can raise the dead, can it also move 
+     mountains? Can it destroy Rome? Tear 
+     the world in half? God help me.
+
+Jesus embraces Lazarus.
+
+                              CUT TO:
+
+EXT. TEMPLE AT JERUSALEM - EARLY MORNING SUNRISE
+
+Jesus and his companions are walking along the ruins. 
+("Excavations in Jerusalem") The city wall is behind them.
+
+Then from above, ("St. Steven's Gate") they enter the Roman 
+ruins. An arch towers above them, a pool below them. some 
+inhabitants of the ruins watch.
+
+They enter the temple plaza.
+
+Jesus enters the temple grounds with his central core of 
+disciples. They have come to worship.
+
+But they are stopped cold by the sight that greets them. 
+Arranged all around the stairs that lead to the temple are 
+money-changers, merchants, beggars and whores. A tall, shiny 
+bronze statue of Tiberius towers over the plaza floor, which 
+is stained with the blood of sacrificial animals. Jesus turns 
+to Peter.
+
+          JESUS
+     We came here to pray. What is this?
+
+          PETER
+     The money-changers? Its' for the 
+     temple tax... for the feast.
+
+Jesus calmly addresses a money-changer.
+
+          JESUS
+     How's the exchange today? Making a 
+     good profit?
+
+          MONEY-CHANGER
+     Fair. Can I help you?
+
+Jesus stares for a moment and then with one violent blow 
+sends the counter filled with coins sailing into the money-
+changer's face.
+
+Jesus, now enraged, strides past the booths, overturning the 
+tables. Scales, weights and coins from all over the world 
+scatter in every direction. The vendors rush to retrieve 
+their money.
+
+Other vendors and customers turn on Jesus. Judas, Peter and 
+the others forcibly fight them off. Jesus calls out:
+
+          JESUS
+     This is my Father's house. It's a 
+     place for worship, not a bank, or a 
+     market.
+
+The disciples circle Jesus for his protection. The RABBI, 
+surrounded by SADDUCESS, steps out of the temple.
+
+          RABBI
+     Nazarene, what are you doing?
+
+          JESUS
+     God doesn't need a grand house. He 
+     doesn't need cyprus and bloody 
+     animals. He doesn't need shekels.
+
+          RABBI
+     You expect people to pay the tax in 
+     Roman coins? They have images of 
+     false gods on them. You want pagan 
+     gods in the temple? All foreign coins 
+     have to be changed to shekels. That 
+     the law.
+
+          JESUS
+     I abolish the law. I give a new law 
+     and a new hope!
+
+          RABBI
+     What, did God change his mind about 
+     the old law?
+
+          JESUS
+          (exasperated)
+     No, no. He just thinks our hearts 
+     are ready now to hold more.
+
+          RABBI
+          (not listening)
+     This chaos is your new law? How can 
+     you presume...
+
+          JESUS
+     How can I presume? Because I am the 
+     fulfillment of the old law and the 
+     beginning of the new.
+
+          SADDUCEE
+          (shocked)
+     Watch what you're saying.
+
+Peter, becoming concerned with the drift of this argument, 
+whispers to Jesus.
+
+          PETER
+     Maybe we should go...
+
+Jesus pushes him away.
+
+          JESUS
+     When I say, 'I,' Rabbi, I am saying 
+     'God.'
+
+          RABBI
+     That's blasphemy!
+
+          JESUS
+     Didn't you hear? I'm the Saint of 
+     Blasphemy. Don't make any mistakes. 
+     I haven't come to bring peace, I've 
+     come to bring a sword.
+
+          SADDUCEE
+     Talking like that will get you killed.
+
+          JESUS
+     I'm sick of all of you. This temple 
+     will be destroyed in three days. One 
+     stone won't be left standing on 
+     another. You think God belongs only 
+     to you?! He doesn't! God's an immortal 
+     spirit and belongs to everybody -- 
+     to the whole world. You're not 
+     special! God is not an Israelite!
+
+Even the disciples are shocked by this heresy. They escort 
+Jesus out of the temple grounds for his own safety.
+
+As they reach the bottom of the temple steps they are mobbed. 
+The beggars press on Jesus, pulling at his arms and legs.
+
+          MOB MEMBER #1
+     Magician! Heal me.
+
+          MOB MEMBER #2
+     Cure us. Make us rich.
+
+          MOB MEMBER #3
+     Heal me. Do a miracle. You want me 
+     to enter the Kingdom of Heaven 
+     crippled like this?
+
+          JESUS
+          (pushes them away)
+     Get away. You sicken me. You're 
+     selfish! You're full of hate! God 
+     won't help you.
+
+          MOB MEMBER #1
+     Cure us or you won't leave this city 
+     alive!
+
+          JESUS
+     You don't demand from God!
+
+The disciples intervene and pull Jesus away. The mob follows. 
+Suddenly, four Roman Calvary men stampede into the mob 
+whipping beggars and everyone else. Jesus and the disciples 
+break loose from the fray.
+
+          ROMAN OFFICER
+     You, all of you stop. Which one of 
+     you is Jesus of Nazareth?
+
+The disciples groan.
+
+          JESUS
+     I am.
+
+          ROMAN OFFICER
+     Come with us. The Procurator wants 
+     to see you.
+
+The calvarymen lead Jesus away, leaving the disciples behind.
+
+As they watch him go, SAUL, a Zealot, comes up behind Judas 
+and draws him aside.
+
+          SAUL
+     We need you. What are you doing with 
+     this magician? First you were supposed 
+     to kill him. Now he acts like a 
+     prophet and you follow him.
+
+          JUDAS
+     What are you saying? Didn't you just 
+     hear him?
+
+          SAUL
+     I heard him. He talks about a new 
+     law, he talks about using a sword. 
+     But we took an oath to use the sword 
+     against Rome. I don't see anything 
+     against Rome here. All I see here is 
+     Jew against Jew.
+
+Judas walks away from him.
+
+                              CUT TO:
+
+INT. ROMAN THEATRE - DAY
+
+The Roman soldiers escort Jesus into the open theatre.
+
+Pilate confers with two soldiers at a table near the stage. 
+He watches a play in rehearsal. (See Director, Production 
+Designer, and Costumer for details of play.)
+
+Pilate is informed of Jesus' presence and turns to him.
+
+          PILATE
+     Are you Jesus of Nazareth, King of 
+     the Jews?
+
+          JESUS
+     I'm no king.
+
+          PILATE
+     You aren't the Messiah? They say you 
+     are. You say you are.
+
+          JESUS
+     My kingdom's not on this earth.
+
+          PILATE
+     Oh? Where is it then? In the air, 
+     maybe?
+
+          JESUS
+     In heaven.
+
+          PILATE
+     Good. Keep it there. They tell me 
+     you do miracles. Is this good magic 
+     or bad magic? Can you do a trick for 
+     us?
+
+          JESUS
+     I'm not a pet. I don't do tricks.
+
+          PILATE
+     That's disappointing. I was hoping 
+     to see something.
+
+          JESUS
+     The prophet Daniel had a vision. A 
+     huge statue had a gold head, and 
+     silver shoulders...
+
+          PILATE
+          (interrupts)
+     Don't tell me stories. I'm not a 
+     dumb Jew.
+
+          JESUS
+     Listen. Learn.
+
+          PILATE
+          (daring him)
+     Go ahead. Teach me something.
+
+          JESUS
+     The stomach was bronze, the legs 
+     were iron, the feet were clay. A 
+     stone was thrown. The clay feet broke 
+     and the statue collapsed.
+
+          PILATE
+     Is that it?
+
+          JESUS
+     God is the thrower. I'm the stone. 
+     Rome is the statue.
+
+          PILATE
+     Clearly. But that's how you're going 
+     to bring down the Roman Empire? One 
+     stone? Only you?
+
+Jesus starts to speak, then stops.
+
+          JESUS (V.O.)
+     God, give me the answer. I don't 
+     know what to say.
+
+          PILATE
+     No answer?
+
+          JESUS (V.O.)
+     Please speak to me. I need words.
+
+A pain suddenly surges through the back of Jesus' neck. His 
+knees buckle. For a moment he seems crippled.
+
+          PILATE
+     You're not a stone. You're excrement. 
+     Get him out of here.
+
+Jesus is confused, humiliated, and in pain. Soldiers start 
+to lead him out.
+
+          PILATE
+     And my wife dreams about you. She 
+     should see you now.
+
+Pilate turns back to the play.
+
+                              CUT TO:
+
+EXT. MARY AND MARTHA'S HOUSE - DAY
+
+Lazarus, his back to us, is resting and looking out over the 
+valley. His hand reaches for a cup of water. The fingers are 
+more whole. He seems to be healing.
+
+It is midday, Lazarus thinks he is by himself.
+
+          VOICE
+     Lazarus. Lazarus.
+
+He turns in the direction of the voice. We see Saul, the 
+Zealot who spoke to Judas in the temple at Jerusalem.
+
+          SAUL
+     Feeling better?
+
+          LAZARUS
+     I like the light.
+
+          SAUL
+     What was it like? Which is better, 
+     life or death?
+
+          LAZARUS
+     Well, I was a little surprised. There 
+     wasn't that much difference...
+
+          SAUL
+     Well, let me help you make up your 
+     mind.
+
+Another arm comes in from behind and grabs Lazarus around 
+the neck. Saul pulls a sword and very professionally plunges 
+it into Lazarus' chest, ripping upwards towards his heart.
+
+                              CUT TO:
+
+EXT. OUTSIDE JERUSALEM - NIGHT
+
+Judas, who has been looking for Jesus, finds him alone on 
+the road leading out of the city. He sits beside him.
+
+          JUDAS
+     I've been looking all over for you. 
+     For two days. We're really worried 
+     about you. I have to tell you. They 
+     killed Lazarus.
+
+Jesus collects his thoughts.
+
+          JESUS
+     Who?
+
+          JUDAS
+     Zealots.
+
+          JESUS
+     Your people. Why?
+
+          JUDAS
+     Because he was the living proof of 
+     your power. Zealots say you're paid 
+     by the Romans to tell the people 
+     only heaven is important. Not their 
+     life now. Not being dominated by 
+     Romans. That's very dangerous.
+
+          JESUS
+          (quietly)
+     Yes. It make everything clearer.
+
+          JUDAS
+     Clearer? What are you talking about, 
+     clearer? It just makes everything 
+     worse. We want a revolution, the 
+     Zealots want a revolution but now 
+     they're against us. We can't let 
+     that happen. We need them.
+
+          JESUS
+     Do you want to join them, then?
+
+          JUDAS
+     No. They're my brothers, but you're 
+     my master.
+
+          JESUS
+     You are the strongest, aren't you? 
+     Of all my friends, you're the 
+     strongest. I have to tell you 
+     something.
+
+          JUDAS
+     Tell me whatever you want. You can 
+     depend on me.
+
+          JESUS
+     You know why I came to Jerusalem?
+
+          JUDAS
+     This is where we're going to fight. 
+     This is where the revolution's going 
+     to happen.
+
+Jesus nods.
+
+          JESUS
+     Last night Isaiah came to me.
+
+          JUDAS
+          (eager)
+     What did he say?
+
+          JESUS
+     He opened his book and I read in 
+     giant letters: 'He has borne our 
+     faults; he was wounded for our 
+     transgressions. He was afflicted, 
+     yet he opened not his mouth. Despised 
+     and rejected by all, he went forward 
+     without resisting, like a lamb led 
+     to the slaughter.'
+
+          JUDAS
+          (pause)
+     So? What does that have to do with 
+     you?
+
+          JESUS
+     Judas. I'm the lamb. I'm the one who 
+     is going to die.
+
+          JUDAS
+     What do you mean, die? Die? Did you 
+     change your mind again.
+
+          JESUS
+     No.
+
+Judas jumps up.
+
+          JUDAS
+     Then what are you talking about? 
+     That can't be. If you're the Messiah, 
+     why do you have to die?
+
+          JESUS
+     Don't shout. You'll understand soon. 
+     At first I didn't understand myself.
+
+          JUDAS
+     Every day you have a different plan. 
+     I can't believe it. First it's love, 
+     then it's the ax, now you have to 
+     die. What good could that do. We 
+     need you alive.
+
+          JESUS
+     I can't help it. God only talks to 
+     me a little at a time. He only shows 
+     me as much as I have to know. Now I 
+     finally understand. All my life. All 
+     my life I've been followed. By 
+     footsteps. By voices. By headaches. 
+     By shadows. And you know what the 
+     shadow is? It's the cross. I have to 
+     die on the cross. And I have to die 
+     willingly... We need courage, Judas. 
+     We need faith. I'm the fulfillment 
+     of the prophecy. The cross is the 
+     way I have to take.
+
+Judas is dumbfounded, and his anger is mounting.
+
+          JESUS
+     So we go to Jerusalem. We go back to 
+     the temple. Whatever happens there 
+     will put me on the cross.
+
+          JUDAS
+          (barely controlling 
+          his anger)
+     And after you die on the cross? What 
+     happens then?
+
+          JESUS
+     I'll come back to judge the living 
+     and the dead.
+
+          JUDAS
+          (pause)
+     I don't believe you.
+
+          JESUS
+     If you don't believe, nobody will. 
+     You have to believe. You're the 
+     strongest.
+
+                              CUT TO:
+
+EXT. OUTSIDE JERUSALEM - DAY
+
+A blazing sun. Jesus and the disciples on the march. Following 
+close behind is an entourage of twenty toughs.
+
+James turns to Judas.
+
+          JAMES
+     I'm worried he's going to change his 
+     mind again.
+
+          JUDAS
+     No he won't. We're taking the temple.
+
+          JAMES
+     What if we don't.
+
+          JUDAS
+     We'll die.
+
+          JAMES
+          (looking around)
+     There aren't many of us. And nobody 
+     back there looks like a soldier.
+
+          JUDAS
+     God will provide.
+
+Near them, Nathaniel and Philip are talking.
+
+          NATHANIEL
+     What do you want?
+
+          PHILIP
+     What do you mean?
+
+          NATHANIEL
+     When we build the New Jerusalem and 
+     set up the new government.
+
+          PHILIP
+          (thinks)
+     Well, I guess I'd like more sheep. 
+     You know, my other sheep, I don't 
+     even know where they are now. This 
+     time I want a large herd. I'd hire 
+     other shepherds to take care of them. 
+     You know, Laban, that man who has a 
+     large farm north of Tiberias? I'd 
+     like one like that.
+
+          NATHANIEL
+     Yeah.
+
+          PHILIP
+     How about you?
+
+          NATHANIEL
+     First, I'd like to be able to worship 
+     in the temple. I mean really worship -- 
+     without Roman banners and soldiers 
+     standing around.
+
+          PHILIP
+          (nods)
+     Of course. But what else?
+
+Behind them, John, Andrew and Thomas argue.
+
+          THOMAS
+     I'm not afraid.
+
+          JOHN
+     Then don't act like it.
+
+          THOMAS
+     I'll do anything the Master asks... 
+     anything but get crucified.
+
+          ANDREW
+     You're a coward.
+
+          THOMAS
+     Call me a coward after you've been 
+     hanging up there for two days and 
+     the crows come and suck out your 
+     eyes.
+
+          JOHN
+     I made my decision. If you can't 
+     make yours, leave now before we enter 
+     the Kingdom.
+
+          THOMAS
+          (touches his chest)
+     I'm ready. I have my knife.
+
+Peter passes by and rushes a little anxiously to catch up 
+with Jesus, who is walking at the front of the line.
+
+          PETER
+     I've been talking with the others, 
+     and listening, and a lot of us are a 
+     little concerned, we're wondering... 
+     well... will you have legions of 
+     angels meeting us there? Or anyone? 
+     Besides who's here?
+
+Jesus doesn't answer, but he puts his arm around Peter's 
+shoulder.
+
+                              CUT TO:
+
+EXT. JERUSALEM - DAY
+
+Jesus and his followers -- about a hundred strong -- pass 
+through "The excavations around Jerusalem." The city wall is 
+behind them. More people begin to join the ranks.
+
+They enter "St. Stephen's Gate" (the arch over a pool of 
+water). The mob grows around them. Some have palm branches.
+
+They are now in the "Underground City." Jesus is riding a 
+donkey. Women and children wave palm branches, throw flowers, 
+lay down palms and shawls in Jesus' path. They cheer "Rosanna, 
+Rosanna."
+
+A new chant -- abetted by Judas and his followers -- goes 
+up: "Jesus of Nazareth, King of the Jews."
+
+The procession reaches the temple plaza. Jesus dismounts and 
+looks around.
+
+Outside the temple walls, stalls occupy every nook and cranny. 
+Hundreds of people are selling, buying, bargaining, hawking 
+their wares: merchants, money-changers, innkeepers, 
+prostitutes.
+
+Jesus, full of rage, followed by the disciples, sweeps down 
+on the wine stands and workshops, overturning the tables, 
+striking the tradesmen with his goad. (determined crane - 
+MS)
+
+          JESUS
+     Get out! Away!
+
+Jesus mounts the temple steps. Smoke seems to be coming from 
+his body. This is his moment.
+
+Behind him, everyone loots stalls and routs merchants with 
+great enthusiasm, as if Jesus' solitary act of anger last 
+time in the temple had now become an example for mob action.
+
+On the top of the temple steps, Jesus pauses momentarily.
+
+          JESUS (V.O.)
+     Lord, I hope this is what you want. 
+     Please let it happen quickly, while 
+     I have the strength.
+
+Now he turns to face the mob.
+
+          JESUS
+     I am here to set fire to the world! 
+     In the desert The Baptist said, 
+     'Repent, Repent! The day of the Lord 
+     is coming!' but I'm saying it's too 
+     late to repent. The Day of the Lord's 
+     already here! I am the Day of the 
+     Lord. I come with the baptism of 
+     fire!
+
+The poor in the mob yell: "Fire! Fire -- burn it all down!"
+
+The TEMPLE GUARDS (usually Levites) grab their lances and 
+swords. Judas' cohorts draw their weapons.
+
+Suddenly, there is a blast of trumpets. ROMAN SENTRIES, 
+heavily armed, appear on top of the temple walls. There are 
+dozens of them, and they are ready to fight.
+
+The people look up. Jesus stops. Peter is still rallying the 
+crowd, lighted torch in his hand.
+
+          PETER
+     Let's go! Now's the time!
+
+The crowd looks from the Romans to Jesus. For the moment, 
+the crowd is still with him. Judas whispers urgently to Jesus.
+
+          JUDAS
+     They're all with you! They're waiting 
+     for your signal! Give it!
+
+Peter looks over at Jesus.
+
+          PETER
+     Come on! Now!
+
+Jesus looks from the Romans on the wall to the ground.
+
+          JESUS (V.O.)
+     Please. I'm waiting too. Put the ax 
+     in my hands. Not the cross. Let me 
+     die like this.
+
+          JOHN
+     If you don't give the sign now, we're 
+     finished. We'll be killed for what 
+     we did today.
+
+          PHILIP
+     We came here to fight, not to die!
+
+Jesus remains still.
+
+          JUDAS
+     Master, we knew they would be strong! 
+     We knew it would be like this.
+
+The Roman Soldiers swarm off the walls and start down into 
+the temple.
+
+Jesus looks at his hands: blood oozes from his palms. He 
+closes his fists to hide the stigmata and raises his eyes to 
+Judas.
+
+          JESUS
+     Judas. Come beside me.
+
+Judas puts his arm around Jesus. The crowd, confused and 
+furious, starts to scatter. Some of them throw things at the 
+disciples as they all scramble to avoid the violence of the 
+Roman soldiers.
+
+          JESUS
+          (to Judas)
+     Stay by my side.
+
+The other disciples swarm around Jesus and Judas and form a 
+wedge. As the Roman soldiers disperse through the temple 
+courtyard, Jesus and the disciples are swept by the frantic 
+crowd into a side street leading to the Underground City 
+below the temple.
+
+                              CUT TO:
+
+EXT. JERUSALEM - SUNSET
+
+Passover preparations are underway. At twilight we see the 
+"excavations in Jerusalem." Over a hundred people in black 
+move across them. Large candles cover the entire site.
+
+We see now elderly Jews cleansing themselves at the ritual 
+baths. The steam rises to the sky.
+
+The "Underground City" is teeming with men, women, children, 
+(animals) preparing for the celebration. They wear black and 
+white shawls and are bathed in candlelight. Psalms, music 
+and voices are heard.
+
+Jesus and Judas are walking and watching carefully. They 
+stop at a selected spot between two trees.
+
+          JUDAS
+     There's got to be something else you 
+     can do.
+
+          JESUS
+     I wish there was. At the temple I 
+     prayed. I prayed to die. But it's 
+     not God's will. I have to die on the 
+     cross. I prayed out of weakness and 
+     I'm weakening even more. You've got 
+     to give me strength.
+
+          JUDAS
+     I won't let you die.
+
+          JESUS
+     You've got to. There's no other way. 
+     The world around us is Satan's world. 
+     It will be destroyed! The world of 
+     God will come! But only by my dying! 
+     By my sacrifice on the cross! Forget 
+     everything else! Understand that.
+
+          JUDAS
+     No I can't. I'm not strong enough.
+
+          JESUS
+     You are. You're the strongest. You're 
+     part of God's plan too. You once 
+     made me a promise. You said if I 
+     ever strayed, if I ever shied away 
+     from revolution, you would kill me. 
+     Remember?
+
+Judas nods.
+
+          JESUS
+     I've strayed, haven't I?
+
+          JUDAS
+     Yes.
+
+          JESUS
+     Then you have to keep your word. You 
+     have to kill me.
+
+          JUDAS
+     If God wants that, then let God do 
+     it. I won't.
+
+          JESUS
+     He will do it. Through you. The Temple 
+     Guards want to arrest me where there 
+     aren't any crowds. Tonight we'll be 
+     in Gethsemane. Arrange for them to 
+     find me. It will be terrible. But 
+     only for three days. Only three days! 
+     Then I'll come back. We'll all be 
+     together in triumph.
+
+          JUDAS
+     No.
+
+          JESUS
+     You've got to! Don't abandon me now. 
+     Without you, the world can't be saved, 
+     There'll be no redemption. Without 
+     us together, the sacrifice can't be 
+     made.
+
+          JUDAS
+     Could you betray God? If you were 
+     me, could you betray your Master?
+
+          JESUS
+     No. That's why God gave me the easier 
+     job... to be crucified.
+
+                              CUT TO:
+
+INT. UPPER ROOM - NIGHT
+
+Three seven-branched candelabra illuminate the lamb, wine 
+and unleavened bread.
+
+The disciples are seated on cushions on the ground. Food is 
+brought in from an adjacent room.
+
+Mary, Martha and Magdalene have all come to Jerusalem to 
+celebrate the festival with Jesus and his disciples and 
+prepare the ritual meal.
+
+Jesus fills the disciples cups from a pitcher of salt water.
+
+          JESUS
+     Our ancestors in Egypt celebrated 
+     Passover before they escaped to the 
+     freedom of the desert. On this 
+     Passover we come out of another kind 
+     of slavery and enter another kind of 
+     freedom.
+
+          PHILIP
+     Oh, please. We're hiding here like 
+     criminals, we can't go out the door, 
+     and even if we could we wouldn't 
+     want to because we've been so 
+     humiliated, we'd like to respect 
+     you...
+
+          JOHN
+     Respect him? We love him.
+
+          PHILIP
+     ...yes, alright, yes, we love him, 
+     that goes without saying, but at 
+     least he could...
+
+          JESUS
+          (interrupting)
+     First... first... first we drink 
+     salt water to remember the tears and 
+     pain our ancestors suffered in the 
+     land of Israel.
+
+Jesus swallows his drink in a single gulp; Judas is the first 
+to do likewise. Mary brings a tray of bitter herbs. As the 
+disciples eat, Jesus watches.
+
+          JESUS
+     Tonight we go further. This passover 
+     celebrates the passage from death to 
+     eternal life. I'll lead the way, you 
+     will follow. John, you know the 
+     prophets. Isaiah says, 'He had neither 
+     beauty nor luster that we should 
+     turn our eyes to him. He was despised 
+     and rejected by men...'
+
+          JOHN
+          (continues)
+     '...But he took on himself all our 
+     pains. He was wounded for our 
+     transgressions, he was bruised for 
+     our inequities, and with his stripes 
+     we are healed.'
+
+          JESUS
+          (interrupting)
+     '...He was scourged and he was 
+     afflicted. Yet, like a lamb led to 
+     the slaughter, he opened not his 
+     mouth.'
+          (a beat)
+     My dear, wonderful friends. I am the 
+     lamb. And I won't open my mouth. 
+     They've been leading me to the 
+     slaughter ever since I was born.
+
+The disciples exchange fearful glances.
+
+          PETER
+     If you die, I'll die first. Because 
+     I'll be at your side.
+
+          JESUS
+     Be quiet. What did you have before I 
+     found you? All of you. Nothing.
+          (no answer)
+     Now you have God's love -- and eternal 
+     life. Don't worry. You won't die 
+     yet. There's still a lot of work to 
+     do. We haven't come to rule, but to 
+     serve. In three days I'll rise from 
+     the dead to lead you.
+
+The disciples stare in shocked silence. Jesus has either 
+gone completely mad -- or he is the Messiah.
+
+Jesus breaks the bread loaves and passes them around. He 
+pours wine for the others:
+
+          JESUS
+     Eat, this is my body. Drink, this is 
+     my blood. I will be in you always.
+
+As they do, the bread and the wine transubstantiate into 
+flesh and blood in their mouths. They blanch and cough; some 
+blood falls on the table. Peter removes the substance from 
+his mouth with his hand and examines it: it has the 
+consistency of blood and flesh. This is literally hard for 
+all the disciples to swallow. But they all persevere, and, 
+finally, they all manage to do it. As they wipe their bloody 
+mouths, John starts to weep. Jesus turns and looks at Judas.
+
+Judas exits... Peter shouts angrily after him:.
+
+          PETER
+     Judas, where are you going?
+          (to Jesus)
+     Where's he going?
+
+          JESUS
+     Don't get in the way. Tonight we'll 
+     go to Gethsemane to pray.
+
+                              CUT TO:
+
+EXT. GETHSEMANE - NIGHT
+
+As they climb the steep hills of Gethsemane, Jesus leaves 
+most of his group behind and proceeds with Peter, James and 
+John. Passing through thick, gnarled olive groves, they reach 
+a clearing marked by three boulders. (looks like a Henry 
+Moore sculpture). The leaves glisten on the trees all around 
+them.
+
+          JESUS
+     Wait for me here.
+
+Jesus walks alone until he finds a secluded spot. Pulling 
+his tunic around him, he kneels beneath an ancient tree.
+
+          JESUS
+     Father, Father in heaven. Father on 
+     earth. The world you created that we 
+     can see is beautiful. But the world 
+     you created that we can't see is 
+     beautiful too. I don't know -- forgive 
+     me -- Father, I don't know which is 
+     the more beautiful.
+
+Jesus scoops up a handful of soil and smells it. "What 
+perfume" he thinks. Then as he rubs the soil on his cheeks, 
+neck and lips, he speaks.
+
+          JESUS
+     This is my body too. Together we 
+     will die.
+
+Jesus' body weakens. He starts to sweat.
+
+          JESUS
+     Abba, Father, we've been together a 
+     long time. I never asked to be chosen, 
+     but, I always obeyed. You've done 
+     many miracles for others. You opened 
+     the Red Sea for Moses. You saved 
+     Noah. You took Elijah directly to 
+     heaven in a fiery chariot. Now you 
+     ask me to be crucified. Can I ask 
+     you one last time? Do I have to die? 
+     Is there any other way? Do I have to 
+     drink from this cup? Can't you take 
+     it away from me?
+
+Jesus waits for an answer that doesn't come. The wind blows 
+through the olive trees.
+
+Jesus looks over, sees Peter, James and John asleep.
+
+Now, in front of him, a GUARDIAN ANGEL in the form of one of 
+the sleeping disciples appears and sets a clay cup before 
+Jesus.
+
+          JESUS
+     Is this your answer?
+
+The Angel drinks from the cup then hands it to Jesus.
+
+Jesus reaches for the cup, but the Angel no longer holds it. 
+His hand is empty. Then, slowly, the Angel's hand reaches 
+forward and lightly caresses the top of Jesus' head to comfort 
+him.
+
+          JESUS
+     Your will be done. I only ask for 
+     strength.
+
+Jesus wipes the sweat and tears from his face and leaves.
+
+                              CUT TO:
+
+EXT. GETHSEMANE - NIGHT
+
+At the three-point rock Jesus finds Peter, James and John 
+fast asleep. John's head rests peacefully on his brother's 
+chest. Peter lies flat with his arms outstretched. Jesus is 
+tempted not to wake them.
+
+          JESUS
+          (softly)
+     Couldn't you stay awake with me for 
+     just an hour?
+
+Peter is the first to awake.
+
+          PETER
+     I'm sorry.
+
+Jesus hears the sound of soldiers in the distance.
+
+          JESUS
+     It doesn't matter. It's too late.
+
+Jesus hears the evening nightingale overheard. A feeling of 
+peace sweeps over him. He smiles at James and John as they 
+awaken. (moving camera here to end of scene?)
+
+Judas and a band of Romans and armed Temple Guards carrying 
+long torches burst into the clearing. Peter pulls his dagger; 
+Jesus pushes him back. Judas greets his master.
+
+          JUDAS
+     Welcome, Rabbi.
+
+Judas kisses him fiercely on the mouth. Jesus gratefully 
+embraces his faithful disciple. Tears stream down Judas' 
+cheek.
+
+Peter attacks and slices off one of the Temple Guard's ears.
+
+Jesus pushes Judas unwillingly away. He turns to Peter, 
+touches the knife simply (36 f.p.s.).
+
+          JESUS
+     No. You live by this, you die by it.
+
+The knife falls to the ground (36 f.p.s.). Two guards grab 
+Peter but he wrestles them off and runs away. Jesus picks up 
+the severed ear (36 f.p.s.) and miraculously restores it to 
+the Levite (36 f.p.s.).
+
+          JESUS
+     Welcome. You're the messengers of 
+     God. Let's go.
+
+                              CUT TO:
+
+INT. ANTONIA - DAY
+
+Jesus again stands before Pilate. He is bloody, beaten, 
+exhausted from lack of sleep. A clique of Temple Guards, 
+Pharisees and Sadducess stand in one corner of the hall.
+
+          PILATE
+     You're back.
+          (pause)
+     Hello.
+          (pause)
+     So now you're a king. Is that right?
+
+Jesus stares at the sky.
+
+          PILATE
+     Don't look in the air. Look at me. 
+     Answer me. I can crucify you. You 
+     know that? Now... are you a king?
+
+          JESUS
+     Some say so.
+
+          PILATE
+     Ah yes. Well last time you took that 
+     line with me, you fooled me. I don't 
+     like to be fooled. What you did in 
+     the temple makes it very clear. You're 
+     just another of these religious 
+     revolutionaries making difficulties. 
+     You take the people into the desert, 
+     you talk about God, love, mercy and 
+     the new kingdom, but you're just the 
+     same as the Zealots. You all promise 
+     glory and bring death. There's a new 
+     Messiah every week and a new one 
+     dies every week and Rome continues.
+
+          JESUS
+     Remember the statue. And the stone. 
+     And the clay feet.
+
+          PILATE
+     How could I forget. Still think your 
+     kingdom will replace Rome?
+
+          JESUS
+     No. My kingdom is not on earth.
+
+          PILATE
+     No, it wouldn't be. You're a little 
+     smarter than the others. After all, 
+     what's a revolution on earth compared 
+     to a revolution in people's hearts?
+
+          JESUS
+     It's a revolution that will come 
+     with love, not by the sword.
+
+          PILATE
+     Either way it's dangerous. It's 
+     against Rome. It's against the way 
+     the world is. And either way, I don't 
+     care. Sword or love, it's all the 
+     same. I don't care how you want to 
+     change things. We don't want them 
+     changed. So you know what has to 
+     happen. We have a small space for 
+     you up on Golgotha. Right next to 
+     the bones of your predecessors. Three 
+     thousand skulls there, very likely 
+     more by now. Maybe you people should 
+     go out and count them sometime. Maybe 
+     then you'd learn your lesson. But 
+     probably not.
+
+Pilate looks over at the Pharisees and Sadducees.
+
+          PILATE
+     Do you gentlemen have anything to 
+     add?
+
+          SADDUCEE
+     We can't condone the killing of any 
+     Jew. But everything this man does 
+     and everything he says could lead to 
+     revolution. We don't want revolution. 
+     Action against a power like Rome is 
+     hopeless. It invites reprisals that 
+     would mean the extinction of the 
+     Jewish people. It's the death of one 
+     man against the death of millions. 
+     There's no alternative for us.
+
+          PHARISEE
+     Many of our own people believe this 
+     man is being paid by Rome anyway.
+
+          PILATE
+     Fine. It's agreed.
+          (to Jesus)
+     But just so people appreciate your 
+     rank, we'll write it all out for 
+     them. "King of the Jews."
+
+                              CUT TO:
+
+EXT. ANTONIA - DAY
+
+Direct overhead angle: We see down a thick column. Jesus is 
+tied to it, naked. (obscured nudity) He is scourged.
+
+                              CUT TO:
+
+EXT. ANTONIA - LATER
+
+Weakened, bloody, naked (obscured nudity), Jesus is being 
+swung by the arm like a rag doll into a solid wall (pan). 
+Closer, we see his face as it hits the wall, smashing his 
+nose.
+
+                              CUT TO:
+
+EXT. ANTONIA - LATER
+
+Close of a crown of thorns (rather, a skullcap of them), 
+being hit onto his head with the broad edge of a sword.
+
+                              CUT TO:
+
+EXT. ANTONIA - LATER
+
+In the distance, Roman soldiers lead Jesus onto the balcony 
+overlooking the temple plaza and present him to the awaiting 
+mob. His tunic is drenched with blood.
+
+The crowd watching this ceremony is literally divided against 
+itself. Half is cheering and carousing, a real lynch mob. 
+The other half is angry and shouting to stop the crucifixion. 
+Soldiers manage to contain these little pockets of action.
+
+PETER stands watching with his back pressed against a wall. 
+A BEGGAR turns to him.
+
+          BEGGAR
+     I've seen you. You're one of his 
+     followers.
+
+          PETER
+     No. It must be somebody else.
+
+          BEGGAR
+     No, it's you.
+
+          PETER
+     You don't know what you're talking 
+     about.
+
+Peter turns quickly and disappears into the crowd.
+
+                              CUT TO:
+
+EXT. JERUSALEM STREETS (UNDERGROUND CITY) - DAY
+
+Peter is running down an alley when, turning a corner, he 
+runs into Philip, also fleeing.
+
+They don't even speak. After a fleeting recognition, they 
+sprint in opposite directions.
+
+                              CUT TO:
+
+EXT. JERUSALEM (THE EXCAVATIONS IN JERUSALEM AND AVDAT) - 
+DAY
+
+Roman soldiers lead Jesus through the peasant streets outside 
+Golgtha. The blood has dried on his tunic. He still wears 
+his thorny "crown."
+
+The cross-bar Jesus carries scrapes alongside the walls of 
+the houses because the paths are extremely narrow. (high 
+angle looking down on these open roofed dwellings and the 
+narrow passageways.) They are jammed with people (36-48 
+f.p.s.). Men, women, children, (animals), in the windows and 
+open doorways try to get a glimpse of Jesus. The atmosphere 
+has changed. Now it's just another show. A multiple 
+crucifixion: Laughter. Ridicule. Figs for sale. Jesus weakens. 
+He's knees buckle, the weight of the cross-bar throws him 
+off balance and he falls. A Roman soldier pulls him back up 
+by a rope around his neck.
+
+We see close shots of people, their faces. Their eyes, (36-
+48 f.p.s.). Some turn away. Some cry. Some are mocking. One 
+woman in a window, her head covered with a shawl, turns away 
+(moving, 36-48 f.p.s.).
+
+                              CUT TO:
+
+EXT. GOLGOTHA (ADVAT) - DAY
+
+Golgotha, the hill of the skull. The rocks are bleached white. 
+There are many crosses, most of them with no cross-bars. 
+Some are simply trees with no branches (see DeMassina). One 
+or two crosses bear half-eaten decomposed corpses. On the 
+ground, we see human skulls and bones, skeletal arms and 
+hands mixed with the rocks.
+
+A curious crowd has already assembled at the crucifixion 
+site. Toward the rear, afraid to approach, Magdalene, Mary, 
+Martha and Jesus' Mother stand in a tight group.
+
+The Romans bring Jesus to the peak of the hill and strip 
+him. Two other criminals are prepared for crucifixion.
+
+Jesus looks at the rough-hewn cross laid before him (P.O.V. 
+move in?). He searches the crowd.
+
+          JESUS (V.O.)
+     Mother? Magdalene? Where are you?
+
+He sees his Mother and tries to gesture to her.
+
+          JESUS (V.O.)
+          (continuing)
+     Forgive me for being a bad son.
+
+TWO SOLDIERS grab Jesus by the arms:
+
+          FIRST SOLDIER
+     Alright, You Majesty, on your throne.
+
+They stretch Jesus out on the cross while slave laborers 
+finish preparing the post hole for the cross.
+
+          JESUS (V.O.)
+     Don't dessert me here. Don't leave 
+     me.
+
+The Soldiers place the crude spikes against Jesus' wrists. 
+The sound of METAL AGAINST METAL rings out as the hammer 
+comes down. (see nail driven through from behind wood).
+
+A bloody mist sprays on Jesus' face. He grimaces but does 
+not cry out.
+
+Martha and the three Marys hide their faces. Near Jesus, the 
+other criminals are being impaled. (trees, see DeMassina)
+
+The Romans fasten ropes around Jesus' arms. The spikes alone 
+will not support his weight.
+
+It takes three soldiers to hoist Jesus' cross upright. Now, 
+suddenly, he is above the masses. All of Jerusalem is within 
+view.
+
+His body jars in to place. The pain is excruciating. His 
+fellow criminals howl in agony.
+
+Jesus surveys the mob: a sea of hostile faces. He finds 
+Magdalene, Mary, Martha and his Mother standing together.
+
+The Sadducees are satisfied; the Romans are complacent. Groups 
+of townspeople and schoolboys point out the sufferings of 
+the condemned men.
+
+          JESUS (V.O.)
+          (continuing)
+     Father, forgive them.
+
+The sky changes color. A fierce wind blows across the rocky 
+hill.
+
+Writhing on the cross, Jesus looks to heaven and screams:
+
+          JESUS
+     Eli, Eli...
+
+                              CUT TO:
+
+EXT. GOLGOTHA - DAY
+
+The sky turns a pleasant pale blue. Jesus looks up at the 
+thick white cumulous clouds floating on the horizon. Birds 
+sing in the distance.
+
+He thinks: Am I dead? No, the crowd is still there, SILENT. 
+On either side of Jesus, his fellow criminals writhe in silent 
+agony.
+
+An old man appears before him, standing.
+
+          JESUS
+     Who are you?
+
+The man does not answer.
+
+          JESUS
+     Are you my father?
+
+          ANGEL
+     No, but I was sent by him. I'm the 
+     angel who guards you.
+
+He is now closer to Jesus.
+
+          ANGEL
+     Your father is the God of Mercy, not 
+     punishment. He saw you and said, 
+     'Aren't you his Guardian Angel? Well, 
+     go down and save him. He's suffered 
+     enough.' Remember when he told Abraham 
+     to sacrifice his son? Just as Abraham 
+     lifted his knife, God saved Isaac. 
+     If he saved Abraham's son, don't you 
+     think he'd want to save his own? He 
+     tested you, and he's pleased. He 
+     doesn't want your blood. He said, 
+     "Let him die in a dream. But let him 
+     have his life." Come with me.
+
+          JESUS
+     All this pain is a dream?
+
+          ANGEL
+     Just a dream.
+
+In three separate shots, the Angel takes out the nails in 
+Jesus' body.
+
+First, the Angel extracts the nail in the feet, then kisses 
+the wound, stopping the flow of blood.
+
+Then, the Angel does the same to the left hand.
+
+Then, the same is done on the right hand.
+
+In a moment Jesus and the Guardian Angel are standing at the 
+foot of the cross. They pass through the silent crowd 
+unnoticed. Jesus looks over his shoulder: his cross is empty. 
+He begins to understand.
+
+          JESUS
+     I don't have to be sacrificed.
+
+          ANGEL
+     No. No you don't.
+
+Jesus smiles. This is finally the answer he's been waiting 
+for. He is free of God.
+
+          JESUS
+     I'm not the Messiah.
+
+          ANGEL
+     No. No you're not.
+
+          JESUS
+     Thank God.
+
+They start to walk away from the cross down the hill. We 
+still see the crucifixion site in the background.
+
+          JESUS
+     What about all the others?
+
+          ANGEL
+     Don't look behind, God gave you the 
+     gift of life. Look ahead.
+
+          JESUS
+     But what about the people? What will 
+     happen?
+
+          ANGEL
+     They can see you crucified. Or they'll 
+     see you dead. Or they can see you 
+     any way they want.
+
+          JESUS
+     What happens later if they see me 
+     alive?
+
+          ANGEL
+     They'll see any one you want them to 
+     see. Even you. If you want.
+
+          JESUS
+     Where are the disciples?
+
+          ANGEL
+     Oh, they were frightened and ran 
+     away.
+
+                              CUT TO:
+
+EXT. JUDEAN COUNRYSIDE - DAY
+
+They walk through the pleasant landscape of the Jordan Valley. 
+All is quiet, peaceful. A light morning fog envelops them.
+
+          JESUS
+     Is this the Kingdom of God I spoke 
+     about?
+
+          ANGEL
+          (laughing)
+     No, this is earth.
+
+          JESUS
+     Why has it changed so much?
+
+          ANGEL
+     It hasn't changed, you have. Now, 
+     you can see its real beauty. Harmony 
+     between the earth and the heart, 
+     that's the Kingdom of Heaven. Maybe 
+     you'll find this hard to believe. 
+     But we angels often look down on man 
+     and envy you.
+
+Ahead (possibly in a wooded area), Jesus sees a group in 
+ceremonial dress. Virgins dressed in white, merchants carrying 
+incense and gifts,
+
+          JESUS
+     What is this?
+
+          ANGEL
+     A wedding ceremony.
+
+          JESUS
+     Who's getting married?
+
+          ANGEL
+     You are.
+
+Mary Magdalene, dressed in white, steps from the group. Jesus' 
+face bursts into a smile. He rushes into her arms.
+
+          JESUS
+     What's wrong? Why are you crying?
+
+          MAGDALENE
+     I'm thanking God for bringing you 
+     here.
+
+He holds her tight.
+
+                              CUT TO:
+
+EXT. JUDEAN HOUSE - NIGHT
+
+A small hut in wooded are. Moonlight shimmers off the river 
+and a fog filters through the wooded area.
+
+The Guardian Angel sits on a stool in front of the door.
+
+                              CUT TO:
+
+INT. JUDEAN HOUSE - NIGHT
+
+Jesus and Magdalene make love on blankets spread over straw. 
+He kisses her breasts, her lips. He kisses her abdomen below 
+the navel, taking in the sweat and scent of her body as he 
+did the soil in Gethsemane.
+
+          MAGDALENE
+     We can have a child.
+
+          JESUS
+     Yes.
+
+Jesus continues kissing her body.
+
+The Guardian Angel steps into the darkened room, stands over 
+their bed and makes a strange sign in the air that may be a 
+blessing.
+
+          ANGEL
+     Bless you, children.
+
+They look at him for a brief moment, then resume kissing. 
+The Angel withdraws quietly to a corner and sits, guarding.
+
+                              CUT TO:
+
+EXT. JUDEAN HOUSE - DAY
+
+The house shows sign of domestication. Magdalene sits outside 
+in the sun. She is several months pregnant.
+
+She sits with her back to the camera, very much in the manner 
+of Lazarus in a previous scene. The camera dollies in. She 
+turns and smiles.
+
+A shadow of a hand falls down across her face and bosom onto 
+her belly.
+
+          MAGDALENE
+     Death is kind.
+
+Her own hands hug her stomach lightly as she starts to fall 
+over. She dies as if she's gone to sleep.
+
+                              CUT TO:
+
+EXT. JUDEAN HOUSE - DAY
+
+Jesus' face in grief. He's kneeling over the body of 
+Magdalene.
+
+          JESUS
+     Magdalene...
+
+The Angel comes into the frame. Jesus gets up and grabs an 
+ax. The Angel stops him.
+
+          ANGEL
+     Where are you going?
+
+Jesus doesn't answer but starts to walk -- determined. The 
+Guardian Angel calls after him.
+
+          ANGEL
+     Who are you going to kill, Jesus?
+
+Jesus keeps walking.
+
+          ANGEL
+     God. Are you going to kill God?
+
+Jesus stops and looks back.
+
+          ANGEL
+     It was God who killed her.
+
+The Guardian Angel holds him in his arms and caresses his 
+hair and shoulders as he leads him away.
+
+          ANGEL
+     God took her at the height of her 
+     happiness. Now she's immortal. She 
+     won't see her love fade or her flesh 
+     rot away. Can she be happier? I was 
+     there the whole time he was killing 
+     her and I saw what happened.
+
+They sit on a bench near the house.
+
+          JESUS
+     But it wasn't right... it wasn't 
+     right for him to kill her.
+
+          ANGEL
+     You didn't question God when he let 
+     you live. You can't question why he 
+     let her die. Be patient. Trust in 
+     God's way. Listen, only one woman 
+     exists in the world, one woman with 
+     many faces. This one falls, the next 
+     one gets up. Mary Magdalene died, 
+     Mary, Lazarus' sister lives. She's 
+     Magdalene with a different face. 
+     She's carrying your greatest joy 
+     inside her. Your son. Come with me.
+
+The Guardian Angel helps Jesus to his feet. They exit frame.
+
+                              CUT TO:
+
+EXT. MARY AND MARTHA'S HOUSE - NIGHT
+
+We are moving in to a close view of their doorway, Jesus' 
+and the Guardian Angel's P.O.V. as they approach.
+
+          ANGEL (V.O.)
+     This is the way the Savior comes: 
+     gradually -- from embrace to embrace -- 
+     from son to son. This is the road.
+
+          JESUS (V.O.)
+     I understand...
+
+Martha enters the doorway, looks out and sees them.
+
+          MARTHA
+     Oh, Mary look!
+
+Mary joins her in the doorway. Both women wear black, as do 
+most people in these Bethany scenes.
+
+                              CUT TO:
+
+INT. MARY AND MARTHA'S HOUSE - NIGHT
+
+Jesus enters. The Guardian Angel remains outside.
+
+Mary touches Jesus' chest.
+
+          MARY
+     Rabbi, I want to see if it's really 
+     you.
+
+          MARTHA
+     It's real flesh -- like us. Don't 
+     you see? And look, there's a shadow 
+     on our doorstep.
+
+Jesus turns and goes to the doorway. From outside, over the 
+Guardian Angel's shoulder, we see Jesus approach. Mary and 
+Martha remain in the background.
+
+          JESUS
+          (to Guardian Angel)
+     Come in.
+
+          ANGEL
+     Come here.
+
+Jesus leans forward to listen.
+
+          ANGEL
+     Master, I'm sorry about Magdalene. 
+     I'll never leave you alone again. 
+     I'll always protect you. I don't 
+     want you to take the wrong road again 
+     and get lost.
+
+Martha walks over to them.
+
+          MARTHA
+     You must be hungry. I'll cook for 
+     you and your friend.
+
+The Angel goes into the home with them.
+
+                              CUT TO:
+
+INT MARY AND MARTHA'S HOUSE - NIGHT (LATER)
+
+They all sit around the fire. Jesus cleans his bowl with a 
+piece of bread. He smiles at Mary.
+
+          MARTHA
+     Rabbi, I like your friend.
+
+          JESUS
+          (expansive)
+     Nothing was enough for me before. 
+     And now look at this. Can you believe 
+     it? A small house is big enough for 
+     me, some bread, some friends. I'm 
+     not going to fight with God anymore. 
+     I'm not going to build crosses 
+     anymore. I'm going to build cradles 
+     and beds.
+
+Mary reaches out to touch Jesus. He takes her hand. Martha, 
+noticing this, gets up and leaves quietly. Mary and Jesus 
+embrace. The Angel watches.
+
+                              CUT TO:
+
+EXT. MARY AND MARTHA'S - DAY
+
+Years have passed. An older Jesus sits out front hewing a 
+chair. Two children play nearby.
+
+          ANGEL
+     Are you satisfied with me? Do you 
+     have any complaints?
+
+Jesus stops working, sets the chair on its' side.
+
+          JESUS
+     None.
+          (pause)
+     I'm ashamed when I think of it.
+
+          ANGEL
+     Of what?
+
+          JESUS
+     What a twisted road I took to find 
+     God.
+
+          ANGEL
+     Don't worry. I won't leave you. I 
+     like you.
+
+Jesus rests in the sunlight. Martha walks over to them. She 
+has been washing clothes.
+
+          JESUS
+     Where's Mary?
+
+          MARTHA
+     In the olive groves. She won't be 
+     back until this evening.
+
+Martha pauses a moment, then takes Jesus' hand.
+
+          MARTHA
+          (continuing)
+     Let's go inside. It's too hot out 
+     here.
+
+Martha goes inside.
+
+          MARTHA
+     Come inside.
+
+Jesus looks towards Martha, then the Guardian Angel.
+
+          ANGEL
+     There's only one woman in the world. 
+     Go inside.
+
+Jesus stands.
+
+          JESUS
+          (to the Guardian Angel)
+     Watch the children.
+
+The Angel smiles as Jesus enters the house.
+
+                              CUT TO:
+
+EXT. BETHANY - DAY
+
+Years have passed. Jesus and Martha return from the market 
+with four of their children, ages two through ten. Jesus 
+carries the youngest, who is laughing, under his arm, like a 
+bundle. The Guardian Angel walks with them.
+
+Ahead, Mary sits in front of the house repairing a dress. 
+Two girls play with straw dolls in the dirt beside her.
+
+The two youngest children, boys, race toward Mary. One 
+snatches a doll from one of the girls as they race off again. 
+Mary scolds them as they go.
+
+From the distance, we hear the SOUND of someone preaching in 
+the townsquare. The voice attracts Jesus' attention. He calls 
+to his eldest son.
+
+          JESUS
+     Don't forget to thank God for the 
+     food and make sure you save me some.
+
+          ANGEL
+     Aren't you going to dinner?
+
+          JESUS
+     I'll be back soon. I want to hear 
+     what he's saying.
+
+          ANGEL
+     You don't have to go there...
+
+They walk off, arguing in a friendly way.
+
+                              CUT TO:
+
+EXT. TOWNSQUARE - DAY
+
+Paul -- who we recognize as the Zealot Saul who killed Lazarus -- 
+preaches to a handful of villagers. Standing straight, 
+radiating confidence, he speaks with the evangelistic fervor 
+of a born-again Christian.
+
+          PAUL
+     I used to be a sinner. The worst 
+     sinner. I did everything. Whored, 
+     drank, murdered. I killed anyone who 
+     violated the Law of Moses. Then, I 
+     was struck by a burning light and a 
+     voice called to me, 'Saul, why are 
+     you persecuting me? Why are you 
+     against me?' 'Who are you?' I said. 
+     'Jesus,' the voice said, and he gave 
+     me my sight. I opened my eyes and I 
+     was baptized and became Paul. I bring 
+     the good news to every country.
+
+Jesus comes closer, the Angel by his side.
+
+          PAUL
+     I bring this news. About Jesus of 
+     Nazareth. He wasn't the son of Mary, 
+     he was the son of God. His mother 
+     was a virgin. The angel Gabriel came 
+     to earth and put God's seed in her 
+     womb. That's how he was born. He 
+     took on our sins, he was tortured, 
+     crucified -- but three days later he 
+     rose again and was taken up to heaven. 
+     Death was conquered, praise God! 
+     Death was conquered, sins were 
+     forgiven and the Kingdom of Heaven's 
+     now open to everyone.
+
+Jesus can restrain himself no longer. He calls out:
+
+          JESUS
+     Did you ever see this resurrected 
+     Jesus of Nazareth? I mean, with your 
+     own eyes?
+
+          PAUL
+     No. But I saw a blinding flash of 
+     light and I heard his voice.
+
+          JESUS
+     You're a liar!
+
+          PAUL
+     His disciples saw him. They were 
+     hiding in an attic with the doors 
+     locked when suddenly he appeared. 
+     Only one, Thomas, wasn't convinced 
+     but he put his fingers in his wounds 
+     and gave Jesus some fish, which he 
+     ate.
+
+          JESUS
+     Liar!
+          (to people around him)
+     He's a liar!
+
+Disgusted, Jesus turns and walks away. His angel follows.
+
+In the background, Paul comes after him.
+
+Jesus feels Paul's footsteps drawing closer. He's about to 
+explode. Suddenly, he turns on his heel, grabs Paul by the 
+shoulders and shakes him violently.
+
+          JESUS
+          (continuing)
+     You're a liar! I'm Jesus of Nazareth. 
+     I was never crucified. I never came 
+     back from the dead. I'm a man like 
+     everyone else. Why are you spreading 
+     these lies?
+
+          ANGEL
+     Quiet.
+
+          PAUL
+     What are you talking about?
+
+          JESUS
+     I'm the son of Mary and Joseph, who 
+     preached in Galilee. James and John, 
+     the sons of Zebedee, were my 
+     disciples. We marched on Jerusalem, 
+     they brought me before Pilate, but 
+     God saved me.
+
+Jesus' Angel doesn't like this conversation; he tugs violently 
+at his sleeve. Jesus shoves him aside. Paul takes Jesus around 
+a corner where they won't be seen.
+
+          PAUL
+     No he didn't!
+
+          JESUS
+     Now I live like a man. I have a 
+     family. I eat, work, have children. 
+     Do you understand what I'm saying? 
+     Don't go around the world spreading 
+     these lies about me.
+          (shouts)
+     Because, I'll tell everyone the truth.
+
+Now it's Paul's turn to explode.
+
+          PAUL
+     Look around you! Look at these people. 
+     Do you see the suffering and 
+     unhappiness in this world? Their 
+     only hope is the Resurrected Jesus. 
+     I don't care whether you're Jesus or 
+     not. The Resurrected Jesus will save 
+     the world -- that's what matters.
+
+          JESUS
+     The world can't be saved by lies.
+
+          PAUL
+     I created the truth. I make it out 
+     of longing and faith. I don't struggle 
+     to find truth -- I build it. If it's 
+     necessary to crucify you to save the 
+     world, then I'll crucify you. And 
+     I'll resurrect you too, whether you 
+     like it or not.
+
+          JESUS
+     I won't let you. I'll tell everyone 
+     the truth.
+
+          PAUL
+     Shout all you want. Who'll believe 
+     you? You started all this, now it 
+     can't be stopped. The faithful will 
+     grab you and call you a blasphemer 
+     and throw you in a fire.
+
+          JESUS
+     No, that wouldn't happen.
+
+          PAUL
+     How do you know? You don't know how 
+     much people need God. You don't know 
+     what a joy it is to hold the cross, 
+     to put hope in the hearts of men, to 
+     suffer, to be killed -- all for the 
+     sake of Christ. Jesus Christ. Jesus 
+     of Nazareth, Son of God. Messiah.
+
+Jesus is listening intently now.
+
+          PAUL
+          (continuing)
+     Not you. Not for your sake.
+          (pause)
+     I'm glad I met you. Now I can forget 
+     you. My Jesus is much more powerful.
+
+Paul returns to the townsquare to preach. Jesus, exhausted, 
+dazed, starts back toward his house. The Guardian Angel 
+faithfully follows.
+
+                              CUT TO:
+
+EXT HOUSE - DAY
+
+At the house, Mary and Martha wait for him. Jesus embraces 
+them. His Angel takes his hand. Jesus turns to his "family."
+
+          JESUS
+     Don't ever leave me. I'm happy here.
+
+                              CUT TO:
+
+EXT. MARY AND MARTHA'S - DAY
+
+Jesus, now in his 50's, sits in the vine arbor beside the 
+house. His Guardian Angel, unchanged by time, sits beside 
+him. Jesus turns to him:
+
+          JESUS
+     Remember when Mary and I planted 
+     these vines -- how many years have 
+     we been eating these grapes?
+
+          ANGEL
+     I don't remember.
+
+          JESUS
+          (reflecting)
+     In my hands her hair became white... 
+     Mary, white... in my hands... she 
+     became white.
+
+          ANGEL
+     You know, this will all have to pass 
+     soon.
+
+          JESUS
+     Why? Are you leaving me?
+
+          ANGEL
+     Yes. We have to go on. You've grown 
+     old. You've done well. We've both 
+     done well.
+
+The Angel looks at Jesus who has suddenly aged to his 80's. 
+Jesus does not react to this transformation.
+
+Now SOUNDS of yelling and screaming come from the street. A 
+woman's WAIL pierces the air. Jesus and the Angel turn to 
+look.
+
+Mary and Martha, aged similarly, rush from the house. Jesus 
+and the Angel stand.
+
+          JESUS
+     What is it?
+
+          MARTHA
+     They're burning Jerusalem. The city 
+     is destroyed.
+
+          MARY
+     The Romans are killing everyone.
+
+Jesus takes them by their arms.
+
+          JESUS
+     Let's go inside.
+
+They go inside, but Jesus peers out the entrance. We see 
+people running away. CAMERA tilts up to the sky, which is 
+red from the flames of Jerusalem. (SPECIAL EFFECT).
+
+                              CUT TO:
+
+INT. MARY AND MARTHA'S - NIGHT
+
+Jesus lies dying. He is facing the entrance, in which we can 
+see glimmers of the still-burning sky.
+
+Mary and Martha stand close around him. Jesus is in no pain. 
+He seems to be at peace.
+
+Suddenly looming in the entranceway, silhouetted against the 
+red sky, is the figure of an old man. He starts down the few 
+stone steps into the room where Jesus lies. He is followed 
+by two other men. The Guardian Angel recognizes them instantly 
+and starts toward them.
+
+          PETER
+     Let us through. We're sent by God.
+          (to Jesus)
+     He told us you would show yourself 
+     to us. He said you were dying.
+
+          JESUS
+     Is that Peter? I can't tell. That is 
+     Peter. What happened to you?
+
+          PETER
+     The years.
+
+          JESUS
+     The years?
+          (he points)
+     This one I know. No matter how old 
+     you get, I know. This is Philip. You 
+     were the best of all shepherds, 
+     because you had no sheep. They were 
+     all in your head.
+
+          PHILIP
+     Have I changed so little in all this 
+     time?
+
+          JESUS
+     Only for the better, I hope.
+
+Jesus points to the mutilated man standing next to Peter. 
+The man's face is a mask of injury: he is missing his nose, 
+and one eye, and one ear.
+
+          JESUS
+     And you? They cut out your eye, your 
+     ear. Your face... who are you?
+
+          JOHN
+          (bows)
+     Rabbi.
+
+          JESUS
+     John!
+
+          JOHN
+     The Romans tortured me and cut away 
+     my face. I saw Jerusalem burn. I saw 
+     the Ark of the Covenant taken from 
+     the temple.
+
+          JESUS
+     The ark?
+
+          PHILIP
+     The Temple's destroyed, just as you 
+     predicted.
+
+          PETER
+     There's somebody else. Outside.
+
+          PHILIP
+     Him you'll know. Be careful, he's 
+     still angry.
+
+Judas is silhouetted in the entranceway.
+
+          JESUS
+     Judas!
+          (Judas doesn't answer)
+     Judas, come in. Do you hear me? I've 
+     missed you so much.
+
+Now Judas advances slowly.
+
+          PETER
+     He hears you. He's just not going to 
+     say anything.
+
+          JOHN
+     He's been fighting in Jerusalem. 
+     Look at his hands. There's still 
+     blood on them.
+
+          PHILIP
+          (warning protectively)
+     Judas...
+
+The other disciples stand up.
+
+          PETER
+          (reprimanding)
+     Judas, the Master is speaking to 
+     you. Answer him.
+
+          JUDAS
+     Traitor!
+
+Everyone freezes.
+
+          JUDAS
+     Traitor. Your place was on the cross. 
+     That's where God put you. But when 
+     death got too close you ran away, 
+     you got scared and ran away and hid 
+     yourself in the life of some... man. 
+     We did what we were supposed to do. 
+     You didn't. You're a coward.
+
+          PETER
+     Don't you have any respect.
+
+          JUDAS
+     For him? He was supposed to save 
+     man. But all he did is save himself.
+
+          JESUS
+     No. You just don't understand...
+
+          JUDAS
+     Understand? Rabbi, you broke my heart. 
+     Sometimes I curse the day I ever met 
+     you. We held the world in our hands. 
+     Remember what you said to me? You 
+     took me in your arms, do you remember? 
+     And you begged me. "Betray me, betray 
+     me. I have to be crucified. I have 
+     to be resurrected to save the world."
+
+The wounds in Jesus' hands and feet begin to bleed.
+
+          JUDAS
+          (continuing)
+     "I am the lamb," you said. "Death is 
+     the door. Judas, my brother, don't 
+     be afraid. Help me go through the 
+     door." And I loved you so much I 
+     went and betrayed you. But you... 
+     you... what are you doing here? What 
+     business do you have here? With women, 
+     with children... what's good for a 
+     man isn't good enough for God. Why 
+     weren't you crucified?
+
+Judas is crying.
+
+          PETER
+     Look at his wounds, Judas. He's 
+     bleeding. You're hurting him, that's 
+     enough.
+
+          JUDAS
+     He was going to be the New Covenant. 
+     Now there's no more Israel.
+
+          JESUS
+     But my Guardian Angel...
+
+          JUDAS
+     Your Guradian Angel! Look at him!
+
+All their eyes turn to the Guardian Angel. As they watch he 
+transforms into a death figure in a black monk's habit.
+
+          JUDAS
+     Satan.
+
+Judas looks back at Jesus.
+
+          JUDAS
+     If you die this way, you die like a 
+     man. If you die like that, you deny 
+     God. Your Father. Then there's no 
+     sacrifice. Then there's no salvation.
+
+Jesus looks over at Mary and Martha, then back at the 
+disciples. They have disappeared.
+
+He looks again, and for the last time, at Mary and Martha. 
+Now they are gone too.
+
+He is left alone in the room with the death figure.
+
+          DEATH FIGURE
+     I told you we would meet again.
+
+Jesus starts to try to pull himself up off the floor. The 
+death figure stands in front of him.
+
+          DEATH FIGURE
+     There's nothing you can do. You lived 
+     this life. You accepted it. It's 
+     over now. Just finish it and die 
+     like a man.
+
+But Jesus starts to crawl across the floor.
+
+He crawls past the death figure, who watches, turning to see 
+Jesus leave through the entranceway.
+
+                              CUT TO:
+
+EXT. MARY AND MARTHA'S - NIGHT
+
+Jesus crawls into the deserted street. The village is still.
+
+There is a red glow in the distance: Jerusalem is burning.
+
+He surveys the empty street. Blood still stains his hands 
+and feet.
+
+The old man gets on his hands and knees in the middle of the 
+road. He lifts his head toward heaven.
+
+          JESUS
+     Abba, father, will you still listen 
+     to me? Are you still there? Will you 
+     listen to a selfish, unfaithful son? 
+     I fought you when you called. I 
+     resisted. I thought I knew more. I 
+     didn't want to be your son. Can you 
+     forgive me? I didn't fight hard 
+     enough. I want to take your hand; I 
+     want to save my fellow men. Father, 
+     take me back. Make a feast. Welcome 
+     me home. I want to be your son. I 
+     want to pay the price. I want to be 
+     crucified and rise again. I want to 
+     be the Messiah.
+
+                              CUT TO:
+
+EXT. GOLGOTHA - DAY
+
+Jesus is back on the cross, 37 years before. The CAMERA tracks 
+rapidly up his side stopping on his face.
+
+He has regained his 33 year-old Nazarene form.
+
+All that we have seen since he last cried out in pain has 
+taken place inside a second. He finished his cry.
+
+          JESUS
+     ...lama sabachthani!
+
+Jesus looks around, realizes where he is. The past thirty-
+seven years have been a dream. He has resisted the last 
+temptation. He looks to heaven and says:
+
+          JESUS
+     It is finished.
+
+                    THE END
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+google_ad_slot = "3498319287";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-1850297377568722";
+
+google_ad_slot = "1873190141"; /* 160x600, created 9/13/10 */
+google_ad_width = 160;
+google_ad_height = 600;
+
+//-->
+
+
+
+
+
+
+
+
+
+
+All movie scripts and screenplays on "Screenplays for You" site are intended for fair use only.
+
+
+
+
+
+

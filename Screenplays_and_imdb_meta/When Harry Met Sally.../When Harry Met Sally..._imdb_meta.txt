@@ -1,0 +1,147 @@
+year	1989
+imdb score	7.6
+meta score	76
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	sex
+keyword	friendship
+keyword	university of chicago
+keyword	new york
+keyword	love
+keyword	airplane
+keyword	improvised dialogue
+keyword	diner
+keyword	speed walking
+keyword	lasting friendship
+keyword	reference to ingrid bergman
+keyword	sobbing female
+keyword	new york giants football
+keyword	reference to jane fonda
+keyword	wedding
+keyword	twin towers
+keyword	divorced man
+keyword	split screen
+keyword	four word title
+keyword	telephone call
+keyword	love confession
+keyword	female journalist
+keyword	karaoke machine
+keyword	wagon wheel
+keyword	evian bottled water
+keyword	reference to the new york mets
+keyword	character says i hate you
+keyword	blonde
+keyword	kiss
+keyword	orgasm
+keyword	character says i love you
+keyword	watching tv in bed
+keyword	male female friendship
+keyword	ellipsis in title
+keyword	split screen telephone call
+keyword	1980s
+keyword	reference to dick clark
+keyword	reference to humphrey bogart
+keyword	woman slaps a man
+keyword	shower
+keyword	double date
+keyword	yankees baseball cap
+keyword	1970s
+keyword	writer
+keyword	restaurant
+keyword	wedding dress
+keyword	punctuation in title
+keyword	fake orgasm
+keyword	ex husband ex wife relationship
+keyword	bookstore
+keyword	pictionary
+keyword	new year's eve party
+keyword	yellow cab
+keyword	reference to mick jagger
+keyword	northwestern university
+keyword	year 1982
+keyword	26 year old
+keyword	moaning
+keyword	wedding reception
+keyword	reference to the new york knicks
+keyword	face slap
+keyword	honking a car horn
+keyword	microphone
+keyword	hearing characters thoughts
+keyword	reference to bryant gumbel
+keyword	coffee table
+keyword	pith helmet
+keyword	sexual tension
+keyword	implied sex
+keyword	reference to roy rogers
+keyword	opposites attract
+keyword	new year's eve
+keyword	mailbox
+keyword	batting cage
+keyword	airplane trip
+keyword	reference to edward kennedy
+keyword	reference to jfk assassination
+keyword	bunch of grapes
+keyword	hailing a taxi
+keyword	reference to charlie chaplin
+keyword	new york city
+keyword	christmas tree
+keyword	pessimist
+keyword	regretting sex
+keyword	kiss
+keyword	year 1987
+keyword	31 year old
+keyword	christmas
+keyword	wheel
+keyword	kleenex
+keyword	m&m's
+keyword	karaoke duet
+keyword	call me
+keyword	eating grapes
+keyword	mexican wave
+keyword	watching a movie on tv
+keyword	leaving message on answering machine
+keyword	karaoke
+keyword	year 1977
+keyword	reference to john f. kennedy
+keyword	bumping into ex girlfriend
+keyword	character name in title
+cast	Billy Crystal	Harry Burns
+cast	Meg Ryan	Sally Albright
+cast	Carrie Fisher	Marie
+cast	Bruno Kirby	Jess
+cast	Steven Ford	Joe
+cast	Lisa Jane Persky	Alice
+cast	Michelle Nicastro	Amanda
+cast	Gretchen Palmer	Stewardess
+cast	Robert Alan Beuth	Man on Aisle
+cast	David Burdick	9 Year Old Boy
+cast	Joe Viviani	Judge
+cast	Harley Jane Kozak	Helen
+cast	Joseph Hunt	Waiter at Wedding
+cast	Kevin Rooney	Ira
+cast	Franc Luz	Julian
+cast	Tracy Reiner	Emily
+cast	Kyle T. Heffner	Gary
+cast	Kimberley LaMarque	Waitress
+cast	Stacey Katzin	Hostess
+cast	Estelle Reiner	Older Woman Customer
+cast	John Arceri	Christmas Tree Salesman
+cast	Peter Day	Joke Teller at Wedding
+cast	Kuno Sponholz	Documentary Couple
+cast	Connie Sawyer	Documentary Couple
+cast	Charles Dugan	Documentary Couple
+cast	Katherine Squire	Documentary Couple
+cast	Al Christy	Documentary Couple
+cast	Frances Chaney	Documentary Couple
+cast	Bernie Hern	Documentary Couple
+cast	Rose Wright	Documentary Couple
+cast	Aldo Rossi	Documentary Couple
+cast	Donna Hardy	Documentary Couple
+cast	Peter Pan	Documentary Couple
+cast	Jane Chung	Documentary Couple
+cast	Bob Ader	Tap Dancer
+cast	David Giardina	Extra
+cast	Nicholas Glaeser	Waiter
+cast	Johnny Raimondo	Backround
+cast	Marilyn Spanier	Tap Dancer

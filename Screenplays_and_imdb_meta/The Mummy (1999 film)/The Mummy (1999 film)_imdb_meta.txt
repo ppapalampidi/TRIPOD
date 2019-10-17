@@ -1,0 +1,175 @@
+year	1999
+imdb score	7.0
+meta score	48
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	priest
+keyword	mistress
+keyword	mummy
+keyword	curse
+keyword	american
+keyword	treasure
+keyword	tomb
+keyword	suicide
+keyword	egypt
+keyword	gun
+keyword	pharoah
+keyword	ancient egypt
+keyword	librarian
+keyword	escape
+keyword	book
+keyword	guard
+keyword	prison
+keyword	foreign legion
+keyword	english
+keyword	king
+keyword	biblical plagues
+keyword	buried alive
+keyword	studio logo segues into film
+keyword	airplane chase
+keyword	shot to death
+keyword	fistfight
+keyword	mixed martial arts
+keyword	sandstorm
+keyword	cairo egypt
+keyword	blockbuster
+keyword	swordplay
+keyword	colt .45
+keyword	eclipse
+keyword	river of blood
+keyword	lost city
+keyword	cavalry charge
+keyword	reverse footage
+keyword	no opening credits
+keyword	spit take
+keyword	1920s
+keyword	power
+keyword	shoulder holster
+keyword	locust
+keyword	coward
+keyword	ancient book
+keyword	pyramid
+keyword	chained
+keyword	airplane
+keyword	parasite underneath skin
+keyword	undead
+keyword	library
+keyword	ancient culture
+keyword	secret society
+keyword	ship
+keyword	car chase
+keyword	horror movie remake
+keyword	anti hero
+keyword	crash landing
+keyword	hidden treasure
+keyword	dagger
+keyword	veiled woman
+keyword	ancient religion
+keyword	dual wield
+keyword	gunfight
+keyword	violence
+keyword	head butt
+keyword	kiss
+keyword	sword
+keyword	earthquake
+keyword	angry mob
+keyword	blood
+keyword	plague
+keyword	religion
+keyword	blood spatter
+keyword	map
+keyword	knife
+keyword	battle
+keyword	revolver
+keyword	cat
+keyword	remake
+keyword	bolt action rifle
+keyword	camel
+keyword	gramophone
+keyword	honorable death
+keyword	severed tongue
+keyword	showdown
+keyword	brawl
+keyword	mirror
+keyword	swashbuckler
+keyword	fighting
+keyword	saved from hanging
+keyword	dynamite
+keyword	fire
+keyword	torch
+keyword	martial arts
+keyword	protector
+keyword	babe scientist
+keyword	sand
+keyword	action hero
+keyword	hanging
+keyword	secret door
+keyword	disarming someone
+keyword	fortune hunter
+keyword	ancient architecture
+keyword	color remake of black and white film
+keyword	ancient curse
+keyword	prophecy
+keyword	hero
+keyword	spoof
+keyword	ancient text
+keyword	flies
+keyword	brother sister relationship
+keyword	drunkenness
+keyword	pistol
+keyword	ancient ritual
+keyword	severed arm
+keyword	fireball
+keyword	biplane
+keyword	balisong
+keyword	sword fight
+keyword	scarab
+keyword	desert
+keyword	giza egypt
+keyword	ancient civilization
+keyword	chase
+keyword	north africa
+keyword	person on fire
+keyword	shootout
+keyword	combat
+keyword	egyptology
+keyword	egyptian curse
+keyword	ambush
+keyword	public hanging
+keyword	hand to hand combat
+keyword	airplane accident
+keyword	ancient burial ground
+keyword	regicide
+keyword	title spoken by character
+cast	Brendan Fraser	Richard 'Rick' O'Connell
+cast	Rachel Weisz	Evelyn 'Evy' Carnahan
+cast	John Hannah	Jonathan 'Jon' Carnahan
+cast	Arnold Vosloo	High Priest Imhotep
+cast	Kevin J. O'Connor	Beni Gabor
+cast	Jonathan Hyde	Dr. Allen Chamberlain
+cast	Oded Fehr	Ardeth Bay
+cast	Erick Avari	Dr. Terrence Bey
+cast	Stephen Dunham	Mr. Henderson
+cast	Corey Johnson	Mr. Daniels
+cast	Tuc Watkins	Mr. Burns
+cast	Omid Djalili	Warden Gad Hassan
+cast	Aharon Ipalé	Pharaoh Seti I
+cast	Bernard Fox	Captain Winston Havlock
+cast	Patricia Velasquez	Anck Su Namun
+cast	Carl Chase	Hook
+cast	Mohammed Afifi	Hangman
+cast	Abderrahim El Aadili	Camel Trader
+cast	Jake Arnott	Mummy
+cast	Mason Ball	Mummy
+cast	Isobel Brook	Mummy
+cast	James Traherne Burton	Mummy
+cast	Peter Chequer	Mummy
+cast	Porl Smith	Mummy
+cast	Ian Warner	Mummy
+cast	George Lane Cooper	Arab Assassin at the Boat
+cast	Sean Cronin	High Priest
+cast	Ray Donn	Soldier
+cast	Howie Dorough	Soldier
+cast	Andrew Elias	Priest
+cast	João Costa Menezes	Stevedore

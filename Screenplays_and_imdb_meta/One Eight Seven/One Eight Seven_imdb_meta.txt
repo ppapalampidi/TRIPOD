@@ -1,0 +1,94 @@
+year	1997
+imdb score	6.7
+meta score	N/A
+genre	Drama
+genre	Thriller
+keyword	teacher
+keyword	high school
+keyword	substitute teacher
+keyword	stabbing
+keyword	attack
+keyword	new york city
+keyword	airport
+keyword	chrysler building manhattan new york city
+keyword	manhattan new york city
+keyword	inner city
+keyword	interracial relationship
+keyword	lab rat
+keyword	tag artist
+keyword	necklace
+keyword	mountain bike
+keyword	arrow
+keyword	fired from the job
+keyword	mirror
+keyword	pyrrhic victory
+keyword	russian roulette
+keyword	cartoon on tv
+keyword	video camera
+keyword	science teacher
+keyword	chalk
+keyword	racial slur
+keyword	asthma
+keyword	hollywood sign
+keyword	school vandalism
+keyword	footprint
+keyword	loner
+keyword	cactus
+keyword	hanging dog
+keyword	gang member
+keyword	pocket watch
+keyword	stabbed in the back
+keyword	loneliness
+keyword	los angeles california
+keyword	flashlight
+keyword	gay slur
+keyword	principal
+keyword	demerol
+keyword	high school graduation
+keyword	severed finger
+keyword	graffiti
+keyword	rosary beads
+keyword	brooklyn bridge
+keyword	dog
+keyword	violence
+keyword	school library
+keyword	blouse ripping
+keyword	number in title
+cast	Samuel L. Jackson	Trevor Garfield
+cast	John Heard	Dave Childress
+cast	Kelly Rowan	Ellen Henry
+cast	Clifton Collins Jr.	Cesar Sanchez
+cast	Tony Plana	Principal Garcia
+cast	Karina Arroyave	Rita Martinez
+cast	Lobo Sebastian	Benny Chacon
+cast	Jack Kehler	Larry Hyland
+cast	Jonah Rooney	Stevie Littleton
+cast	Demetrius Navarro	Paco
+cast	Ebony Monique Solomon	Lakesia
+cast	Jonny Bogris	Barsek
+cast	Dominic Hoffman	Victor
+cast	Martha Velez	Mrs. Chacon
+cast	Method Man	Dennis Broadway
+cast	Sage Allen	Teacher
+cast	Kathryn Leigh Scott	Anglo Woman
+cast	Donal Gibson	Animal Regulation Officer
+cast	Liza Del Mundo	Asian Girl
+cast	Vic Polizos	Assistant Coroner
+cast	Leonard L. Thomas	New York Assistant Principal
+cast	Antwon Tanner	Augie
+cast	Gannon Brown	Tywan
+cast	Larry M. Costales	Hispanic Man
+cast	David Reyes	Investigator
+cast	Joanna Sanchez	Iris
+cast	Richard Riehle	Walter
+cast	Harri James	Librarian
+cast	Esther Scott	Mrs. Ford
+cast	Esther Mercado	Mrs. Santana
+cast	Chase A. Garland	Straggling Student
+cast	Guy Torry	Voice in Crowd
+cast	Anthony Aguilar	Chicano Tagger
+cast	Dwayne Adway	Additional voices
+cast	Janette Andrade	Student / Gang Member
+cast	Paul Navarro	Kid In Classroom
+cast	Jami Philbrick	Student
+cast	Kenya D. Williamson	Cashier

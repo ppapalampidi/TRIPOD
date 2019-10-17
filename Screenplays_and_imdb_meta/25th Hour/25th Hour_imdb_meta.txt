@@ -1,0 +1,177 @@
+year	2002
+imdb score	7.8
+meta score	67
+genre	Crime
+genre	Drama
+keyword	drugs
+keyword	drug dealing
+keyword	bar
+keyword	dream
+keyword	teacher
+keyword	different face in mirror
+keyword	mirror
+keyword	gay slur
+keyword	bathroom mirror
+keyword	paranoia
+keyword	homosexuality
+keyword	ambiguity
+keyword	mirror does not reflect reality
+keyword	teacher student relationship
+keyword	ecstasy
+keyword	chinese restaurant
+keyword	dancing
+keyword	second thoughts
+keyword	anxiety
+keyword	kiss
+keyword	party
+keyword	toast
+keyword	looking at one's self in a mirror
+keyword	lolita
+keyword	jazz
+keyword	betrayal
+keyword	fugitive
+keyword	father son relationship
+keyword	russian mafia
+keyword	surrealism
+keyword	talking to a mirror
+keyword	self reflection
+keyword	irish american
+keyword	arab slur
+keyword	statue of liberty new york city
+keyword	drug bust
+keyword	friendship
+keyword	flashback
+keyword	prison sentence
+keyword	interrogation
+keyword	dolly zoom
+keyword	desert
+keyword	bathtub
+keyword	drug enforcement
+keyword	jazz music
+keyword	fantasy sequence
+keyword	tragic hero
+keyword	guilt
+keyword	rage
+keyword	sadness
+keyword	mirror monologue
+keyword	image in mirror speaking
+keyword	regret
+keyword	lost in thought
+keyword	stockbroker
+keyword	dog
+keyword	nightclub
+keyword	face slap
+keyword	freeze frame
+keyword	sofa
+keyword	neo noir
+keyword	gun
+keyword	conflicted hero
+keyword	tattoo
+keyword	new beginning
+keyword	reflection in window
+keyword	bare breasts
+keyword	new york city
+keyword	organized crime
+keyword	reflection in glass
+keyword	animal abuse
+keyword	widower
+keyword	basketball
+keyword	distrust
+keyword	love
+keyword	nonlinear timeline
+keyword	high school teacher
+keyword	post september 11 2001
+keyword	internal monologue
+keyword	handgun
+keyword	monologue
+keyword	tube top
+keyword	preparatory school
+keyword	one day time span
+keyword	crush
+keyword	playground
+keyword	ethnic slur
+keyword	drug dealer
+keyword	train of thought
+keyword	ground zero
+keyword	reflection
+keyword	champagne
+keyword	kiss on the cheek
+keyword	assault
+keyword	snorricam
+keyword	racism
+keyword	dog bite
+keyword	based on novel
+keyword	number in title
+keyword	
+cast	Edward Norton	Monty Brogan
+cast	Philip Seymour Hoffman	Jacob Elinsky
+cast	Barry Pepper	Frank Slaughtery
+cast	Rosario Dawson	Naturelle Riviera
+cast	Anna Paquin	Mary D'Annunzio
+cast	Brian Cox	James Brogan
+cast	Tony Siragusa	Kostya Novotny
+cast	Levan Uchaneyshvili	Uncle Nikolai
+cast	Tony Devon	Agent Allen
+cast	Misha Kuznetsov	Senka Valghobek
+cast	Isiah Whitlock Jr.	Agent Flood
+cast	Michael Genet	Agent Cunningham
+cast	Patrice O'Neal	Khari
+cast	Al Palagonia	Salvatore Dominick
+cast	Aaron Stanford	Marcuse
+cast	Marc H. Simon	Schultz
+cast	Armando Riesco	Phelan
+cast	Brad Williams	Trader #1
+cast	Rodney 'Bear' Jackson	Trader #2
+cast	Keith Nobbs	Luke
+cast	Felicia Finley	Jody
+cast	Radu Spinghel	Zakharov
+cast	Dania Ramirez	Daphne
+cast	Oleg Aleksandrovich Prudius	Russian Hood #1
+cast	Igor Zhivotovsky	Russian Hood #2
+cast	Paul Diomede	Simon
+cast	Cynthia Darlow	Ruth
+cast	Michole Briana White	Coventry Administrator
+cast	Vanessa Ferlito	Lindsay Jamison
+cast	Coati Mundi	Louis Volandes
+cast	Larissa Drekonja	Dasha
+cast	Christine Pepe	Female Jogger
+cast	Lawrence Bullock	Chelsea Man #1
+cast	Patrick Illig	Chelsea Man #2
+cast	Maja Niles	Woman on Park Avenue
+cast	Daniel Reton	Wall Street Guy #1
+cast	Ed Rubeo	Hasidic Jeweler
+cast	Peter James Kelsch	Panhandler
+cast	A.J. McCoy	Squeegee Man
+cast	R.L. Brazil	Bouncer
+cast	Howard Crowns	Tattoo Parlor Worker
+cast	DJ Cipha Sounds	DJ Dusk
+cast	Jamil Mullen	Lady with Baby
+cast	Louis Modafferi	Brogan's Bar Patron
+cast	Alan Taraseiwicz	Brogan's Bar Patron
+cast	Nicholas Rossomodo	Brogan's Bar Patron
+cast	Jeffrey Palazzo	Brogan's Bar Patron
+cast	Douglas Miller	Brogan's Bar Patron
+cast	Mike Fiore	Brogan's Bar Patron
+cast	Andre Fletcher	Brogan's Bar Patron
+cast	Carl Bini	Brogan's Bar Patron
+cast	Joseph Mascall	Brogan's Bar Patron
+cast	John Bergen	Brogan's Bar Patron
+cast	Mark Alan	Bar Patron
+cast	Keith Bright	Bar Patron / Truck Driver
+cast	Gabe Castillo	Dancer
+cast	Sal Cecere	Trader #3
+cast	Tonya Cornelisse	Prep Student
+cast	Vinny DeGennaro	Fireman
+cast	Korey Duke	Club Person
+cast	Alexander Emmert	Russian Gangster
+cast	Guy A. Fortt	Bouncer
+cast	Brent Gorcie	Bartender 1
+cast	Jason Horton	Co-Worker
+cast	Frank Matthews	Bar Customer
+cast	Karen Nazarov	Prep Student
+cast	King Orba	Bartender
+cast	Greg Orvis	Stock Broker
+cast	Jason Pierce	Head Stockbroker
+cast	Rumaisa Rahman	Dancer
+cast	Arloa Reston	Prep Student
+cast	Stacy Lynn Spierer	Club Dancer

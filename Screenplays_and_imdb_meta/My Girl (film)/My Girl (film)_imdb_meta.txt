@@ -1,0 +1,175 @@
+year	1991
+imdb score	6.7
+meta score	N/A
+genre	Drama
+genre	Family
+genre	Romance
+keyword	funeral
+keyword	teacher
+keyword	best friend
+keyword	poetry
+keyword	makeup
+keyword	summer
+keyword	death
+keyword	phrenology
+keyword	makeup artist
+keyword	tomboy
+keyword	fourth of july
+keyword	garage
+keyword	girl
+keyword	beehive
+keyword	lake
+keyword	rose
+keyword	uncle
+keyword	jumping rope
+keyword	cosmetologist
+keyword	forest
+keyword	typewriter
+keyword	friendship
+keyword	lipstick
+keyword	boy with glasses
+keyword	family relationships
+keyword	teacher student relationship
+keyword	carnival game
+keyword	bicycle
+keyword	menarche
+keyword	neighbor
+keyword	cadaver
+keyword	death in childbirth
+keyword	single father
+keyword	skipping rope
+keyword	funfair
+keyword	allergic to bee sting
+keyword	11 year old
+keyword	writing class
+keyword	writing
+keyword	date
+keyword	overalls
+keyword	classroom
+keyword	pledge of allegiance
+keyword	hippie
+keyword	loss of mother
+keyword	undertaker
+keyword	tree
+keyword	senility
+keyword	boy
+keyword	coffin
+keyword	supermarket
+keyword	mood ring
+keyword	lifting female in air
+keyword	lifting someone into the air
+keyword	bumper car
+keyword	loss of friend
+keyword	dance
+keyword	television
+keyword	coming of age
+keyword	motor home
+keyword	mortuary
+keyword	year 1972
+keyword	insect attack
+keyword	children
+keyword	theft
+keyword	doctor
+keyword	dead child
+keyword	carnival
+keyword	firework
+keyword	first part
+keyword	father daughter relationship
+keyword	bed
+keyword	pennsylvania
+keyword	photography
+keyword	funeral home
+keyword	sitting in a tree
+keyword	precocious child
+keyword	childhood
+keyword	barbecue
+keyword	loss of wife
+keyword	bee
+keyword	mortician
+keyword	grandmother
+keyword	childhood friend
+keyword	dead fish
+keyword	corpse
+keyword	bee attack
+keyword	fishing
+keyword	tree climbing
+keyword	camper
+keyword	panties
+keyword	fear of death
+keyword	hypochondria
+keyword	kissing
+keyword	child killed by an animal
+keyword	marriage
+keyword	menstruation
+keyword	teacher crush
+keyword	meditation
+keyword	allergy
+keyword	swarm of bees
+keyword	ponytail
+keyword	widower
+keyword	title based on song
+keyword	bingo
+keyword	crush
+keyword	the star spangled banner
+keyword	hat
+keyword	poetry teacher
+keyword	first kiss
+keyword	bee sting
+keyword	fish
+keyword	stylist
+keyword	first crush
+keyword	kiss
+keyword	1970s
+keyword	small town
+keyword	death notice
+keyword	tuba
+keyword	record player
+keyword	poem
+keyword	goldfish
+keyword	basketball
+keyword	singing
+keyword	death of friend
+keyword	death of child
+cast	Dan Aykroyd	Harry Sultenfuss
+cast	Jamie Lee Curtis	Shelly DeVoto
+cast	Macaulay Culkin	Thomas J. Sennett
+cast	Anna Chlumsky	Vada Margaret Sultenfuss
+cast	Richard Masur	Phil Sultenfuss
+cast	Griffin Dunne	Mr. Jake Bixler
+cast	Ray Buktenica	Danny DeVoto
+cast	Ann Nelson	Gramoo Sultenfuss
+cast	Peter Michael Goetz	Dr. Welty
+cast	Jane Hallaren	Nurse Randall
+cast	Anthony R. Jones	Arthur
+cast	Tom Villard	Justin
+cast	Lara Steinick	Ronda
+cast	Kristian Truelsen	Charles
+cast	David Caprita	Ray
+cast	Jody Wilson	Mrs. Hunsaker
+cast	Linda Perri	Betty
+cast	Nancy L. Chlumsky	Jackie
+cast	Glenda Chism	Mrs. Susan Sennett
+cast	Bill Cordell	Mr. Charles Sennett
+cast	George Colangelo	Ralph DeVoto
+cast	Anthony Finazzo	Howie
+cast	Shane Obedzinski	Billy
+cast	Zachary McLemore	Zack
+cast	T.J. Collazo	Boy
+cast	Cassi Abel	Judy
+cast	Amanda Cole	Girl
+cast	Bree Butler	Girl
+cast	Harvey Bellman	Bingo Announcer
+cast	John DeRussy	Vernon
+cast	Henry Kohn	Carl
+cast	Florence Mistrot	Margie
+cast	Anthony Giaimo	Carnival Barker
+cast	Edgar Allan Poe IV	Carnival Barker
+cast	Robert V. Girolami	George
+cast	Kurt Smildsin	Policeman
+cast	Paul Nagle Jr.	Minister
+cast	Lynn Sellers	Suzanne
+cast	Blair Barnette	Bumper Car Driver
+cast	Sven Granlund	Extra
+cast	Victor Iemolo	Bumper Car Driver
+cast	Kevin Scott Richardson	Bumper Car Driver
+cast	L.A. Rothman	Anna

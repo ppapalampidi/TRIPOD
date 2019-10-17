@@ -1,0 +1,109 @@
+year	2009
+imdb score	6.7
+meta score	48
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	deportation
+keyword	alaska
+keyword	ex girlfriend
+keyword	buoy
+keyword	sham marriage
+keyword	father son relationship
+keyword	cross examination
+keyword	boat accident
+keyword	sexual innuendo
+keyword	new york city
+keyword	premarital sex
+keyword	editorial office
+keyword	book editor
+keyword	covered female frontal nudity
+keyword	star appears nude
+keyword	canadian expatriate
+keyword	chick flick
+keyword	fake engagement
+keyword	resentment toward boss
+keyword	struggling writer
+keyword	spilled coffee
+keyword	moral dilemma
+keyword	2000s
+keyword	double entendre
+keyword	humiliation
+keyword	partial male nudity
+keyword	wealthy family
+keyword	title directed by female
+keyword	sexual harassment
+keyword	immigration officer
+keyword	canadian stereotype
+keyword	role reversal
+keyword	implied nudity
+keyword	yapping dog
+keyword	workplace bullying
+keyword	employer employee relationship
+keyword	high school sweetheart
+keyword	partial female nudity
+keyword	vegetarian
+keyword	
+cast	Sandra Bullock	Margaret Tate
+cast	Ryan Reynolds	Andrew Paxton
+cast	Mary Steenburgen	Grace Paxton
+cast	Craig T. Nelson	Joe Paxton
+cast	Betty White	Grandma Annie
+cast	Denis O'Hare	Mr. Gilbertson
+cast	Malin Akerman	Gertrude
+cast	Oscar Nuñez	Ramone
+cast	Aasif Mandvi	Bob Spaulding
+cast	Michael Nouri	Chairman Bergen
+cast	Michael Mosley	Chuck
+cast	Dale Place	Jim McKittrick
+cast	Alicia Hunt	Coffee Barista
+cast	Alexis Garcia	Immigration Clerk
+cast	Kortney Adams	Colden Books Receptionist
+cast	Chris Whitney	Medivac Pilot
+cast	Jerrell Lee	Jordan
+cast	Gregg Edelman	Lead Counsel Malloy
+cast	Phyllis Kay	Mrs. McKittrick
+cast	Kate Lacey	Party Guest
+cast	Gene Fleming	Store Owner
+cast	Mary Linda Rapelye	Executive Secretary
+cast	Anne Fletcher	Jill
+cast	B. Johnson	Guy in Office
+cast	Cindi Alex	Wedding Guest
+cast	Ellen Becker-Gray	Woman Buying Coffee
+cast	Brian Bradbury	Airline Crew
+cast	Jodie Brunelle	Engagement Party Guest
+cast	Chemi Che-Mponda	African Immigrant at INS Office
+cast	Desiree April Connolly	Office Worker
+cast	Diane Curran	1st Class Airline Passenger
+cast	Eric Ferraz	Immigrant at INS Office
+cast	Shawn Fogarty	Alaska Plane Passenger
+cast	John Franchi	Taxicab Driver
+cast	Alexander 'Alex' Garde	
+cast	Dan Griffin	Businessman / Pedestrian on Sidewalk
+cast	Sophya Gudelman	Sitka Airline Passenger
+cast	Joseph Guglielmo	Gay Friend
+cast	Patrick Mel Hayes	Office Worker
+cast	Frankie Imbergamo	Int. Airline Passenger
+cast	Haytham Kandil	Lawyer
+cast	Dan Marshall	Lawyer at Publishing Company
+cast	Robert Masiello	Businessman
+cast	Ben L. Mitchell	Mail Clerk
+cast	Ron Murphy	Wedding Guest
+cast	Niecy Nash	Stewardess
+cast	Thomas Olson	Party Guest
+cast	Nikki Preston	Businesswoman
+cast	Cory Rasmussen	Mail Room Clerk
+cast	Donna Glee Reim	Reception Guest
+cast	Annie Rohling	INS Employee
+cast	Darren Ross	Businessman
+cast	Eric Ryan	Ground Crewmen
+cast	Cory Scott	Bagel Guy
+cast	Rich Skinner	New York Cab Driver
+cast	Ylian Alfaro Snyder	Immigrant at INS Office
+cast	Vyvian B. Stevens	Secretary
+cast	Stream	Indian Immigrant at INS Office
+cast	David Struffolino	Worker in Lobby
+cast	Naeem Uzimann	Pedestrian
+cast	Larry Vigus	Party Guest
+cast	G.A. West	Wedding Guest
+cast	Adam Zalt	Businessman

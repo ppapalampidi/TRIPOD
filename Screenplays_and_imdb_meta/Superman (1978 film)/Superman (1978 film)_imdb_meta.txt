@@ -1,0 +1,335 @@
+year	1978
+imdb score	7.4
+meta score	86
+genre	Action
+genre	Fantasy
+genre	Sci-Fi
+keyword	planet
+keyword	reporter
+keyword	newspaper
+keyword	nuclear missile
+keyword	california
+keyword	galaxy
+keyword	earthquake
+keyword	criminal
+keyword	mission
+keyword	flying
+keyword	orphan
+keyword	helicopter
+keyword	escape
+keyword	midwest
+keyword	superhero
+keyword	train
+keyword	alien
+keyword	love
+keyword	disguise
+keyword	farm
+keyword	sabotage
+keyword	prison
+keyword	newspaper reporter
+keyword	north pole
+keyword	evil
+keyword	news reporter
+keyword	phantom zone
+keyword	struck by lightning
+keyword	golden gate bridge
+keyword	origin of hero
+keyword	newspaper editor
+keyword	world trade center manhattan new york city
+keyword	christ allegory
+keyword	invulnerability
+keyword	heart attack
+keyword	hologram
+keyword	sequel mentioned during end credits
+keyword	secret headquarters
+keyword	secret hideout
+keyword	shootout
+keyword	family relationships
+keyword	space travel
+keyword	super strength
+keyword	screaming woman
+keyword	foundling
+keyword	indoor swimming pool
+keyword	cat
+keyword	toupee
+keyword	great plains
+keyword	super genius
+keyword	army
+keyword	interview
+keyword	dual identity
+keyword	killed by a train
+keyword	1950s
+keyword	flying man
+keyword	reboot of series
+keyword	test launch
+keyword	guide animal
+keyword	1970s
+keyword	super villain
+keyword	supernova
+keyword	reference to george armstrong custer
+keyword	female reporter
+keyword	yelling for help
+keyword	comic relief
+keyword	time lapse photography
+keyword	editorial office
+keyword	father son relationship
+keyword	police officer killed
+keyword	rooftop
+keyword	loss of father
+keyword	alien contact
+keyword	flat tire
+keyword	swimming pool
+keyword	funeral
+keyword	convertible
+keyword	nerd
+keyword	convoy
+keyword	idealism
+keyword	sunrise
+keyword	subway
+keyword	blockbuster
+keyword	super speed
+keyword	crime fighter
+keyword	barn
+keyword	revolving door
+keyword	imprisonment
+keyword	lightning
+keyword	alley
+keyword	telephone pole
+keyword	control panel
+keyword	heroism
+keyword	x ray vision
+keyword	secret identity
+keyword	native american
+keyword	crystal
+keyword	television reporter
+keyword	shot back to back
+keyword	governmentia
+keyword	innocence
+keyword	school bus
+keyword	time reversal
+keyword	character appears on front page of a newspaper
+keyword	product placement
+keyword	catastrophe
+keyword	jewel thief
+keyword	helicopter accident
+keyword	guided missile
+keyword	catching someone who falls
+keyword	prologue
+keyword	year 1978
+keyword	avalanche
+keyword	police
+keyword	hyper speed
+keyword	exploding gasoline station
+keyword	waterboy
+keyword	manhattan new york city
+keyword	female stockinged legs
+keyword	journalism
+keyword	based on comic
+keyword	villain arrested
+keyword	world domination
+keyword	hold up
+keyword	suntan pantyhose
+keyword	year 1948
+keyword	human alien
+keyword	megalomaniac
+keyword	desert
+keyword	dam
+keyword	news crew
+keyword	female stockinged feet
+keyword	hoover dam
+keyword	adoption
+keyword	deus ex machina
+keyword	cheerleader
+keyword	trapped in a mirror
+keyword	one word title
+keyword	new york city
+keyword	rescue
+keyword	pantyhose
+keyword	transformation
+keyword	exploding planet
+keyword	hero
+keyword	yacht
+keyword	1960s
+keyword	bullet catching
+keyword	falling from a window
+keyword	dc comics
+keyword	rural
+keyword	fortress of solitude
+keyword	man with glasses
+keyword	high punted football
+keyword	coming of age
+keyword	mugger
+keyword	fictional city
+keyword	cemetery
+keyword	san andreas fault
+keyword	superhuman
+keyword	based on comic book
+keyword	famous score
+keyword	spacecraft
+keyword	explosion
+keyword	kryptonite
+keyword	earth viewed from space
+keyword	reference to peter pan
+keyword	crystal machine
+keyword	ultrasonic
+keyword	mugging
+keyword	surrogate family
+keyword	teenager
+keyword	rocket launching
+keyword	sidekick
+keyword	statue of liberty new york city
+keyword	foster parent
+keyword	good versus evil
+keyword	video surveillance
+keyword	loss of husband
+keyword	subterranean
+keyword	airforce one
+keyword	american football
+keyword	newspaper photographer
+keyword	mother son hug
+keyword	san francisco california
+keyword	first date
+keyword	high school
+keyword	child nudity
+keyword	globe
+keyword	fainting woman
+keyword	outer space
+keyword	glowing crystal stick
+keyword	newspaper man
+keyword	epic
+keyword	nuclear weapons
+keyword	hairy chest
+keyword	police chase
+keyword	laser beam
+keyword	falling from height
+keyword	dam burst
+keyword	telephone box
+keyword	assumed identity
+keyword	disaster
+keyword	photographer
+keyword	child full frontal nudity
+keyword	high school football
+keyword	bare chested male
+keyword	balcony
+keyword	year 1966
+keyword	fainting
+keyword	telephone booth
+keyword	airplane accident
+keyword	damsel in distress
+keyword	radiation
+keyword	police surveillance
+keyword	reverse footage
+keyword	cruise missile
+keyword	thunderstorm
+keyword	compassion
+keyword	1940s
+keyword	trial
+keyword	library
+keyword	camera shot of feet
+keyword	meteorite
+keyword	death of father
+keyword	based on play
+keyword	title spoken by character
+keyword	character name in title
+keyword	
+cast	Marlon Brando	Jor-El
+cast	Gene Hackman	Lex Luthor
+cast	Christopher Reeve	Superman / Clark Kent
+cast	Ned Beatty	Otis
+cast	Jackie Cooper	Perry White
+cast	Glenn Ford	Pa Kent
+cast	Trevor Howard	1st Elder
+cast	Margot Kidder	Lois Lane
+cast	Jack O'Halloran	Non
+cast	Valerie Perrine	Eve Teschmacher
+cast	Maria Schell	Vond-Ah
+cast	Terence Stamp	General Zod
+cast	Phyllis Thaxter	Ma Kent
+cast	Susannah York	Lara
+cast	Jeff East	Young Clark Kent
+cast	Marc McClure	Jimmy Olsen
+cast	Sarah Douglas	Ursa
+cast	Harry Andrews	2nd Elder
+cast	Vass Anderson	3rd Elder
+cast	John Hollis	4th Elder
+cast	James Garbutt	5th Elder
+cast	Michael Gover	6th Elder
+cast	David Neal	7th Elder
+cast	William Russell	8th Elder
+cast	Penelope Lee	9th Elder
+cast	John Stuart	10th Elder
+cast	Alan Cullen	11th Elder
+cast	Lee Quigley	Baby Kal-El
+cast	Aaron Smolinski	Baby Clark Kent
+cast	Diane Sherry Case	Lana Lang
+cast	Jeff Atcheson	Coach
+cast	Brad Flock	Brad
+cast	David Petrou	Team Manager
+cast	Billy J. Mitchell	1st Editor
+cast	Robert Henderson	2nd Editor
+cast	Larry Lamb	1st Reporter
+cast	James Brockington	2nd Reporter
+cast	John Cassady	3rd Reporter
+cast	John F. Parker	4th Reporter
+cast	Antony Scott	5th Reporter
+cast	Ray Evans	6th Reporter
+cast	Sue Shifrin	7th Reporter
+cast	Miquel Brown	8th Reporter
+cast	Vincent Marzello	1st Copy Boy
+cast	Benjamin Feitelson	2nd Copy Boy
+cast	Lise Hilboldt	1st Secretary
+cast	Leueen Willoughby	2nd Secretary
+cast	Jill Ingham	Perry's Secretary
+cast	Pieter Stuyck	Window Cleaner
+cast	Rex Reed	Rex Reed
+cast	Weston Gavin	Mugger
+cast	Steve Kahan	Officer 1
+cast	Ray Hassett	Officer 2
+cast	Randy Jurgensen	Officer 3
+cast	Matt Russo	News Vendor
+cast	Colin Skeaping	Pilot
+cast	Bo Rucker	Pimp
+cast	Paul Avery	TV Cameraman
+cast	David Baxt	Burglar
+cast	George Harris II	Patrolman Mooney
+cast	Michael Harrigan	1st Hood
+cast	John Cording	2nd Hood
+cast	Raymond Thompson	3rd Hood
+cast	Oz Clarke	4th Hood
+cast	Rex Everhart	Desk Sergeant
+cast	Jayne Tottman	Little Girl
+cast	Frank Lazarus	Air Force One Pilot
+cast	Brian Protheroe	Co Pilot
+cast	Lawrence Trimble	1st Crewman
+cast	Robert Whelan	2nd Crewman
+cast	David Calder	3rd Crewman
+cast	Norwich Duff	Newscaster
+cast	Keith Alexander	Newscaster
+cast	Michael Ensign	Newscaster
+cast	Larry Hagman	Major
+cast	Paul Tuerpe	Sgt. Hayley
+cast	Graham McPherson	Lieutenant
+cast	David Yorston	Petty Officer
+cast	Robert O'Neill	Admiral
+cast	Robert MacLeod	General
+cast	John Ratzenberger	1st Controller
+cast	Alan Tilvern	2nd Controller
+cast	Phil Brown	State Senator
+cast	Bill Bailey	2nd Senator
+cast	Burnell Tucker	Agent
+cast	Chief Tug Smith	Indian Chief
+cast	Norman Warwick	Superchief Driver
+cast	Chuck Julian	Assistant
+cast	Colin Etherington	Power Co. Driver
+cast	Mark Wynter	Mate
+cast	Roy Stevens	Warden
+cast	Kirk Alyn	General Sam Lane
+cast	Bruce Boa	General
+cast	Robert Dahdah	Newspaper Customer
+cast	David de Keyser	Warden
+cast	Richard Donner	Man in Street
+cast	Harry Fielder	Policeman
+cast	Edward Finneran	Special Football Player
+cast	Noel Neill	Ella Lane
+cast	Pam Rose	Reporter
+cast	Tony Selby	Hood

@@ -1,0 +1,101 @@
+year	1988
+imdb score	6.2
+meta score	N/A
+genre	Action
+genre	Crime
+genre	Sci-Fi
+keyword	alien
+keyword	police officer
+keyword	discrimination
+keyword	police
+keyword	strangle
+keyword	detective
+keyword	drug dealing
+keyword	police officer shot
+keyword	tow truck
+keyword	car chase
+keyword	hit in the crotch
+keyword	dressing room
+keyword	year 1991
+keyword	coercion
+keyword	condom
+keyword	tuxedo
+keyword	armor piercing ammunition
+keyword	future
+keyword	explosion
+keyword	1990s
+keyword	tortured to death
+keyword	c4 explosives
+keyword	bad breath
+keyword	bullet proof vest
+keyword	police officer killed
+keyword	drunkenness
+keyword	sour milk
+keyword	philosophy
+keyword	alien driving car
+keyword	car crash
+keyword	american flag
+keyword	bomb
+keyword	speciesism
+keyword	bell 205 helicopter
+keyword	shotgun
+keyword	chase
+keyword	playing chicken
+keyword	backlit in sheer dress
+keyword	drugs
+keyword	two word title
+keyword	reference to richard nixon
+keyword	methane
+keyword	overdose
+keyword	
+cast	James Caan	Det. Sgt. Matthew Sykes
+cast	Mandy Patinkin	Det. Samuel 'George' Francisco
+cast	Terence Stamp	William Harcourt
+cast	Kevyn Major Howard	Rudyard Kipling
+cast	Leslie Bevis	Cassandra
+cast	Peter Jason	Fedorchuk
+cast	Conrad Dunn	Quint
+cast	Jeff Kober	Joshua Strader
+cast	Roger Aaron Brown	Det. Bill Tuggle
+cast	Tony Simotes	Wiltey
+cast	Michael David Simms	Human Dealer
+cast	Ed Krieger	Alien Dealer
+cast	Tony Perez	Alterez
+cast	Brian Thompson	Trent Porter
+cast	Francis X. McCarthy	Capt. Warner
+cast	Keone Young	Winter
+cast	Don Hood	Moffet
+cast	Earl Boen	Duncan Crais
+cast	William E. Dearth	Coroner's Technician
+cast	Robert Starr	Coroner's Attendant
+cast	Bobby Sargent	Coroner's Driver
+cast	Bebe Drake	Computer Operator
+cast	Edgar Small	Minkler
+cast	Thomas Wagner	O'Neal
+cast	Abraham Alvarez	Mayor
+cast	Diana James	Ortiz
+cast	Frank Collison	Bentner
+cast	Tom DeFranco	Detective
+cast	Angela O'Neill	Kristin Sykes
+cast	Seth Marten	Helicopter Pilot
+cast	Kendall Conrad	Mrs. Francisco
+cast	Brian Lando	George Jr.
+cast	Tom Morga	Raincoat
+cast	Regis Parton	Mr. Porter
+cast	Jessica James	Mrs. Porter
+cast	Tom Finnegan	Natuzzi
+cast	Doug MacHugh	Victor Goldrup
+cast	Lawrence Kopp	Human Cop #1
+cast	Alec Gillis	Newcomer in Bar
+cast	Shuko Akune	Police Secretary
+cast	Stephanie Shroyer	Female Cop
+cast	Frank Wagner	Derelict
+cast	Clarence M. Landry	Old Man Driver
+cast	Van Ling	Newcomer #1 on TV
+cast	Mark Murphey	Newcomer #2 on TV
+cast	Kirsten Graham	Kid at Burger Stand
+cast	George Robotham	Boat Captain
+cast	Debra Seitz	Harcourt's Girlfriend
+cast	James De Closs	Detective
+cast	Douglas Cameron	S.I.D. Photographer
+cast	Jasper Cole	Neighbor

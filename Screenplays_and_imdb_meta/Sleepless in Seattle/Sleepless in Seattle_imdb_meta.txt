@@ -1,0 +1,102 @@
+year	1993
+imdb score	6.8
+meta score	71
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	radio
+keyword	love
+keyword	widower
+keyword	grief
+keyword	radio show
+keyword	valentine's day
+keyword	christmas eve
+keyword	airport
+keyword	father son relationship
+keyword	wedding gown
+keyword	city name in title
+keyword	marina
+keyword	empire state building manhattan new york city
+keyword	fireworks
+keyword	fiancee
+keyword	seattle washington
+keyword	destiny
+keyword	friendship
+keyword	1990s
+keyword	manhattan new york city
+keyword	lingerie slip
+keyword	scene before opening credits
+keyword	loneliness
+keyword	new year's eve
+keyword	reference to james dean
+keyword	rendezvous at top of empire state building
+keyword	business card
+keyword	place name in title
+keyword	cancer
+keyword	reference to betty grable
+keyword	the beatles
+keyword	blockbuster
+keyword	world trade center manhattan new york city
+keyword	wrigley field
+keyword	baltimore maryland
+keyword	title directed by female
+keyword	washington state
+keyword	chick flick
+keyword	new york city
+keyword	starting over
+keyword	cemetery
+keyword	child plays matchmaker
+keyword	chicago illinois
+keyword	
+cast	Tom Hanks	Sam Baldwin
+cast	Ross Malinger	Jonah Baldwin
+cast	Rita Wilson	Suzy
+cast	Victor Garber	Greg
+cast	Tom Riis Farrell	Rob
+cast	Carey Lowell	Maggie Baldwin
+cast	Meg Ryan	Annie Reed
+cast	Bill Pullman	Walter
+cast	Le Clanché du Rand	Barbara Reed
+cast	Kevin O'Morrison	Cliff Reed
+cast	David Hyde Pierce	Dennis Reed
+cast	Valerie Wright	Betsy Reed
+cast	Frances Conroy	Irene Reed
+cast	Tom Tammi	Harold Reed
+cast	Calvin Trillin	Uncle Milton
+cast	Caroline Aaron	Dr. Marcia Fieldstone
+cast	Linda Wallem	Loretta
+cast	LaTanya Richardson	Harriet
+cast	Rosie O'Donnell	Becky
+cast	Tom McGowan	Keith
+cast	Steve Mellor	Wyatt
+cast	Marguerite Schertle	Baltimore Waitress
+cast	Dana Ivey	Claire
+cast	Brian McConnachie	Bob
+cast	Rob Reiner	Jay
+cast	Gaby Hoffmann	Jessica
+cast	Matt Smith	Mailman
+cast	Amanda Maher	Clarise
+cast	Barbara Garrick	Victoria
+cast	Victor Morris	Seattle Maitre D'
+cast	Philip Mihalski	Seattle Waiter
+cast	Donald J. Lee Jr.	Seattle Detective
+cast	Mary A. Kelly	Nervous Woman on Airplane
+cast	Diane Sokolow	Tiffany Saleswoman
+cast	Hannah Cox	Jessica's Mother
+cast	Rich Hawkins	Jessica's Father
+cast	Tamara Plank	Stewardess
+cast	Michael Badalucco	New York Taxi Dispatcher
+cast	Jeff Mazzola	New York Taxi Dispatcher
+cast	Philip Levy	Taxi Driver
+cast	Julie Janney	Cynthia
+cast	Tony Zazula	Maitre D'
+cast	John Boylan	Elevator Man
+cast	Robert Livingston	Elevator Man
+cast	Butch Stevenson	Valet
+cast	Sidney Armus	Information Booth Man
+cast	Philip Anagnos	Car Driver
+cast	Jason Bortz	Baltimore Mail Clerk
+cast	Chris Byrne	
+cast	Scott Duthie	Tourist
+cast	Robert Minkoff	Bit
+cast	Nick Taylor	Bartender

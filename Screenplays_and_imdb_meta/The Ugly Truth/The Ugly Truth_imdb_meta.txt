@@ -1,0 +1,210 @@
+year	2009
+imdb score	6.5
+meta score	28
+genre	Comedy
+genre	Romance
+keyword	love
+keyword	show producer
+keyword	call in
+keyword	hot air balloon
+keyword	date
+keyword	orgasm
+keyword	masturbation
+keyword	bet
+keyword	elevator
+keyword	sex toy
+keyword	changing panties
+keyword	tv show
+keyword	towel
+keyword	career woman
+keyword	passionate kiss
+keyword	superficiality
+keyword	f word
+keyword	implied nudity
+keyword	bikini
+keyword	news anchor
+keyword	girl in panties
+keyword	champagne
+keyword	white panties
+keyword	fight
+keyword	hair extension
+keyword	sexual humor
+keyword	male nudity
+keyword	black panties
+keyword	television news
+keyword	pet cat
+keyword	baseball
+keyword	sex scene
+keyword	pastry box
+keyword	lingerie
+keyword	husband wife relationship
+keyword	guru
+keyword	pink pastry box
+keyword	arrogance
+keyword	picnic
+keyword	confession
+keyword	falling from a tree
+keyword	scantily clad female
+keyword	weatherman
+keyword	lie
+keyword	opposites attract
+keyword	newscast
+keyword	weather girl
+keyword	womanizer
+keyword	dropping towel
+keyword	spying
+keyword	late night tv show
+keyword	hot dog
+keyword	male full back nudity
+keyword	flossing teeth
+keyword	sexist
+keyword	commentator
+keyword	bare butt
+keyword	dancing
+keyword	chick flick
+keyword	misogyny
+keyword	cleavage
+keyword	sexual attraction
+keyword	sex comedy
+keyword	555 phone number
+keyword	office romance
+keyword	hung from tree
+keyword	sweaty face
+keyword	panties pulled down
+keyword	television set
+keyword	male rear nudity
+keyword	underwear
+keyword	upskirt
+keyword	kitten
+keyword	weather forecast
+keyword	remote control
+keyword	vibrating panties
+keyword	employer employee relationship
+keyword	sexist joke
+keyword	meeting
+keyword	los angeles california
+keyword	bad date
+keyword	premarital sex
+keyword	san francisco california
+keyword	uncle nephew relationship
+keyword	misogynist
+keyword	flirting
+keyword	twin
+keyword	father figure
+keyword	dating service
+keyword	stepping into panties
+keyword	argument
+keyword	sexism
+keyword	moaning
+keyword	sacramento california
+keyword	quitting a job
+keyword	male pride
+keyword	overbearing woman
+keyword	television ratings
+keyword	unexpected visit
+keyword	advice
+keyword	panties
+keyword	brother sister relationship
+keyword	workplace
+keyword	butt slap
+keyword	public access television
+keyword	online dating
+keyword	title spoken by character
+cast	Katherine Heigl	Abby
+cast	Gerard Butler	Mike
+cast	Bree Turner	Joy
+cast	Eric Winter	Colin
+cast	Nick Searcy	Stuart
+cast	Jesse D. Goins	Cliff
+cast	Cheryl Hines	Georgia
+cast	John Michael Higgins	Larry
+cast	Noah Matthews	Jonah
+cast	Bonnie Somerville	Elizabeth
+cast	John Sloman	Bob
+cast	Yvette Nicole Brown	Dori
+cast	Nate Corddry	Josh
+cast	Allen Maldonado	Duane
+cast	Steve Little	Steve
+cast	Dan Callahan	Rick
+cast	Tess Parker	Bambi
+cast	Arielle Vandenberg	Candi
+cast	Kevin Connolly	Jim
+cast	Rocco DiSpirito	Guest Chef
+cast	Valente Rodriguez	Javier
+cast	Jamison Yang	KPQU Big Wig
+cast	Blake Robbins	KPQU Big Wig
+cast	Austin Winsberg	KPQU Joe
+cast	Tom Virtue	Balloon Pilot
+cast	Adam Harrington	Jack Magnum
+cast	J. Claude Deering	Drunk Guy
+cast	Alexis Krause	Cute Brunette
+cast	Craig Ferguson	Himself
+cast	Caleb De Oliveira	Kid
+cast	Jade Marx-Berti	Hostess
+cast	Lenny Schmidt	Waiter
+cast	Mimi Michaels	Female Fan
+cast	Donnie Smith	Boyfriend
+cast	Kate Mulligan	Waitress
+cast	Earl Carroll	Security Guard
+cast	Marc D. Wilson	Bell Man
+cast	Nathan Potter	Waiter #2
+cast	Jeff Newburg	KPQU Production Assistant
+cast	Ryan Surratt	Bartender
+cast	Vicki Lewis	Saleswoman
+cast	David Lowe	Cameraman
+cast	Yolanda Pecoraro	Sexy Woman
+cast	Brooke Stone	Karen
+cast	Stephanie Mace	TV Production Assistant
+cast	Jessica Lynn Sadowski	Hotel Guest
+cast	Maurice Andrews	Audience Member
+cast	Ashley Ausburn	Girl on Bike
+cast	John Bailey	Bar
+cast	Alicia Baker	Bar Patron
+cast	Kevin Bangos	Stagehand
+cast	Melinda Bennett	Salsa Dancer
+cast	April Betts	Salsa Dancer
+cast	Skyler Caleb	Station Employee
+cast	David Carrasco	Salsa Dancer
+cast	Adam Clark	Cliff
+cast	Sandra Daubert	Mike's Mom
+cast	Sabrina Diaz	Salsa Dancer
+cast	Kim Donovan	Woman on Bike
+cast	Jessica Drake	Caller
+cast	Alan Dunn	Comets Baseball Star
+cast	Christina Gabrielle	Wedding Guest
+cast	Steven Galarce	Salsa Dancer
+cast	Jerald Garner	Restaurant Guest
+cast	Lejla Hadzimuratovic	Salsa Dancer
+cast	Safia Hakim	News Station Employee
+cast	Justin Rodgers Hall	Himself
+cast	Stephen Hansen	Devil's Baseball Hero
+cast	James Howarth	Date
+cast	Alexandra Hulme	Salsa Dancer
+cast	Spencer Knowles	Baseball Player #1
+cast	Courtney Kocak	Disgusted Baseball Fan
+cast	Angel Lacy	Wine Fair
+cast	Bruna Matsin	Production Manager
+cast	Tina Mayer	Salsa Dancer
+cast	Taylor McCluskey	Station Employee
+cast	Erin Micklow	Trashy Redhead
+cast	Bob Morrisey	Harold
+cast	Shanna Olson	Beautiful Restaurant Patron
+cast	Sandra Plazinic	Salsa Dancer
+cast	Bertrand Roberson Jr.	News Station Employee
+cast	John Robert	Male Fan
+cast	Calo Rodriguez	Salsa Dancer
+cast	Leonard Jonathan Ruebe	Valet
+cast	Ashton Shane	Salsa Dancer
+cast	Anthony Simone	Day Player
+cast	Rich Skidmore	Announcer
+cast	Chris Spinelli	Park Pedestrian
+cast	John Summers	Office Worker
+cast	Daniel Cage Theodore	The Speaking Baseball Player
+cast	María Antonieta Vázquez	News Station Employee
+cast	Forrest Walsh	Salsa Dancer
+cast	Holly Weber	Chef Megan
+cast	Tracy Weisert	Stage Manager
+cast	Reed Willard	Wine Festival Attendee
+cast	Tamara Witmer	Salsa Dancer
+cast	Sebastian "Sebass" Wolski	Upscale Hotel Guest
+cast	Carolina Zaballa	Salsa Dancer

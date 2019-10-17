@@ -1,0 +1,140 @@
+year	1973
+imdb score	8.4
+meta score	N/A
+genre	Comedy
+genre	Crime
+genre	Drama
+keyword	con
+keyword	con man
+keyword	courier
+keyword	con artist
+keyword	revenge
+keyword	1930s
+keyword	counterfeit
+keyword	murder
+keyword	blockbuster
+keyword	shot in the forehead
+keyword	mafia
+keyword	train station
+keyword	gangster
+keyword	gimp
+keyword	premarital sex
+keyword	sting operation
+keyword	backstage
+keyword	stripper
+keyword	scene based on painting
+keyword	chicago illinois
+keyword	police chase
+keyword	year 1936
+keyword	reference to mutt and jeff
+keyword	card playing
+keyword	train
+keyword	heist
+keyword	loss of friend
+keyword	police corruption
+keyword	brothel
+keyword	chapterwise storytelling
+keyword	famous score
+keyword	fbi
+keyword	manicure
+keyword	caper
+keyword	barbershop
+keyword	cheating at cards
+keyword	horse racing
+keyword	title appears in text on screen
+keyword	new york city
+keyword	gambling
+keyword	clothes on shower
+keyword	off track betting
+keyword	restroom
+keyword	bathtub
+keyword	telephone box
+keyword	mugging
+keyword	waitress
+keyword	great depression
+keyword	racial slur
+keyword	police brutality
+keyword	drunkenness
+keyword	bank
+keyword	mentor
+keyword	betrayal
+keyword	police detective
+keyword	two word title
+keyword	job interview
+keyword	taxi
+keyword	chase
+keyword	wipe
+keyword	carousel
+keyword	telegraph office
+keyword	woman shot in the forehead
+keyword	silencer
+keyword	poker player
+keyword	ragtime
+keyword	tough guy
+keyword	bodyguard
+keyword	cult film
+keyword	golf
+keyword	alley
+keyword	hangover
+keyword	roulette
+keyword	cardsharp
+keyword	casino
+keyword	pickpocket
+keyword	bar
+keyword	peoria illinois
+keyword	burlesque
+keyword	chapter headings
+keyword	police
+keyword	mob hit
+keyword	house painter
+keyword	tailor
+keyword	railway station
+keyword	organized crime
+keyword	diner
+keyword	drugstore
+keyword	poker
+keyword	title spoken by character
+keyword	surprise ending
+keyword	
+cast	Paul Newman	Henry Gondorff
+cast	Robert Redford	Johnny Hooker
+cast	Robert Shaw	Doyle Lonnegan
+cast	Charles Durning	Lt. Wm. Snyder
+cast	Ray Walston	J.J. Singleton
+cast	Eileen Brennan	Billie
+cast	Harold Gould	Kid Twist
+cast	John Heffernan	Eddie Niles
+cast	Dana Elcar	F.B.I. Agent Polk
+cast	Jack Kehoe	Erie Kid
+cast	Dimitra Arliss	Loretta
+cast	Robert Earl Jones	Luther Coleman
+cast	James Sloyan	Mottola
+cast	Charles Dierkop	Floyd - Bodyguard
+cast	Lee Paul	Bodyguard
+cast	Sally Kirkland	Crystal
+cast	Avon Long	Benny Garfield
+cast	Arch Johnson	Combs
+cast	Ed Bakey	Granger
+cast	Brad Sullivan	Cole
+cast	John Quade	Riley
+cast	Larry D. Mann	Train Conductor
+cast	Leonard Barr	Burlesque House Comedian
+cast	Paulene Myers	Alva Coleman
+cast	Joe Tornatore	Black Gloved Gunman
+cast	Jack Collins	Duke Boudreau
+cast	Tom Spratley	Curly Jackson
+cast	Kenneth O'Brien	Greer
+cast	Ken Sansom	Western Union Executive
+cast	Ta-Tanisha	Louise Coleman
+cast	William 'Billy' Benedict	Roulette Dealer
+cast	Patricia Bratcher	Manicurist
+cast	Robert Brubaker	Bill Clayton from Pittsburgh
+cast	Kathleen Freeman	Kid Twist's Wife
+cast	Susan French	Landlady
+cast	Bruce Kimball	Lacey the Bouncer
+cast	Alexander Lockwood	Landlord
+cast	Chuck Morrell	FBI Agent Chuck
+cast	Byron Morrow	Mr. Jameson from Chicago
+cast	Pearl Shear	Lady in Phone Booth
+cast	Arthur Tovey	Bank Officer
+cast	Guy Way	Gambling Den Boss

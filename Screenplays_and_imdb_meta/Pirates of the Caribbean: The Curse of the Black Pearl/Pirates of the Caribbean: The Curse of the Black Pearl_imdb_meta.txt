@@ -1,0 +1,254 @@
+year	2003
+imdb score	8.1
+meta score	63
+genre	Action
+genre	Adventure
+genre	Fantasy
+keyword	pirate
+keyword	blacksmith
+keyword	caribbean
+keyword	love
+keyword	treasure
+keyword	gold
+keyword	curse
+keyword	governor
+keyword	sword
+keyword	kidnapping
+keyword	undead
+keyword	rescue
+keyword	battle
+keyword	blood sacrifice
+keyword	blood
+keyword	water thrown into someone's face
+keyword	naval officer
+keyword	blunderbuss
+keyword	scene after end credits
+keyword	storm at sea
+keyword	moonlight
+keyword	fog
+keyword	hanging
+keyword	shot in the chest
+keyword	code
+keyword	rowing a boat
+keyword	cannonball
+keyword	campfire
+keyword	full moon
+keyword	steampunk
+keyword	sailor
+keyword	corset
+keyword	parrot on one's shoulder
+keyword	escape
+keyword	apple
+keyword	drunkenness
+keyword	donkey
+keyword	18th century
+keyword	galleon
+keyword	tortuga
+keyword	jolly roger
+keyword	medallion
+keyword	part of trilogy
+keyword	british colonial
+keyword	parrot
+keyword	treasure hunt
+keyword	desert island
+keyword	knife in the chest
+keyword	color in title
+keyword	severed hand
+keyword	damsel in distress
+keyword	dreadlocks
+keyword	backhand slap
+keyword	sword fight
+keyword	capuchin monkey
+keyword	whispering
+keyword	spyglass
+keyword	corpse
+keyword	theft
+keyword	dog
+keyword	jail break
+keyword	shot in the head
+keyword	wilhelm scream
+keyword	burning ship
+keyword	bar brawl
+keyword	honor
+keyword	explosion
+keyword	army
+keyword	anchor
+keyword	chain shot
+keyword	lifting someone into the air
+keyword	famous line
+keyword	captive
+keyword	mill
+keyword	prologue
+keyword	mansion
+keyword	decapitation
+keyword	treasure chest
+keyword	wealth
+keyword	musket
+keyword	no opening credits
+keyword	monkey
+keyword	surprise after end credits
+keyword	gold coin
+keyword	growling
+keyword	pirate raid
+keyword	ship sinking
+keyword	disfigurement
+keyword	attack
+keyword	cutting hand
+keyword	marriage proposal
+keyword	torch
+keyword	jamaica
+keyword	cannon
+keyword	lifting person in air
+keyword	island
+keyword	shot in the face
+keyword	hammerhead shark
+keyword	bombardment
+keyword	underwater
+keyword	redemption
+keyword	mist
+keyword	telescope
+keyword	saved from hanging
+keyword	stabbed in the chest
+keyword	execution
+keyword	tattoo
+keyword	friendship
+keyword	insanity
+keyword	sea captain
+keyword	sea battle
+keyword	blockbuster
+keyword	lifting male in air
+keyword	historical fiction
+keyword	swashbuckler
+keyword	pantaloon
+keyword	skeleton
+keyword	little girl
+keyword	hiding in a closet
+keyword	cavern
+keyword	falling from height
+keyword	face slap
+keyword	sailing ship
+keyword	dark fantasy
+keyword	ten word title
+keyword	mutiny
+keyword	cave
+keyword	signal fire
+keyword	docks
+keyword	jail
+keyword	father daughter relationship
+keyword	hitting a woman
+keyword	pier
+keyword	monkey as assistant
+keyword	colon in title
+keyword	marooned
+keyword	loot
+keyword	rowboat
+keyword	gallows
+keyword	flintlock rifle
+keyword	arrest
+keyword	flintlock pistol
+keyword	hog
+keyword	walking the plank
+keyword	anti hero
+keyword	fortress
+keyword	rescue from drowning
+keyword	live chicken
+keyword	rum
+keyword	repeated line
+keyword	lens
+keyword	drag
+keyword	fugitive
+keyword	little boy
+keyword	tricorne
+keyword	cutlass
+keyword	prostitute
+keyword	stranded
+keyword	soldier
+keyword	cult figure
+keyword	castaway
+keyword	throat slitting
+keyword	british empire
+keyword	man in uniform
+keyword	pirate ship
+keyword	maid
+keyword	buccaneer
+keyword	cult film
+keyword	ghost
+keyword	duel
+keyword	based on theme park attraction
+keyword	1700s
+keyword	swimming underwater
+keyword	plunder
+keyword	ghost ship
+keyword	raft
+keyword	wooden eye
+keyword	fainting
+cast	Johnny Depp	Jack Sparrow
+cast	Geoffrey Rush	Barbossa
+cast	Orlando Bloom	Will Turner
+cast	Keira Knightley	Elizabeth Swann
+cast	Jack Davenport	Norrington
+cast	Jonathan Pryce	Governor Weatherby Swann
+cast	Lee Arenberg	Pintel
+cast	Mackenzie Crook	Ragetti
+cast	Damian O'Hare	Lt. Gillette
+cast	Giles New	Murtogg
+cast	Angus Barnett	Mullroy
+cast	davidbailie	Cotton
+cast	Michael Berry Jr.	Twigg
+cast	Isaac C. Singleton Jr.	Bo'sun
+cast	Kevin McNally	Joshamee Gibbs
+cast	Treva Etienne	Koehler
+cast	Zoe Saldana	Anamaria
+cast	Guy Siner	Harbormaster
+cast	Ralph P. Martin	Mr. Brown
+cast	Paula J. Newman	Estrella
+cast	Paul Keith	Butler
+cast	Dylan Smith	Young Will
+cast	Lucinda Dryzek	Young Elizabeth
+cast	Luke de Woolfson	Frightened Sailor
+cast	Michael Sean Tighe	Seedy Looking Prisoner
+cast	Greg Ellis	Officer
+cast	Dustin Seavey	Sentry
+cast	Christian Martin	Steersman
+cast	Israel Oyelumade	Crippled Man
+cast	Trevor Goddard	Grapple
+cast	Vince Lozano	Jacoby
+cast	Ben Wilson	Seedy Prisoner #2
+cast	Antonio Valentino	Seedy Prisoner #3
+cast	Lauren Maher	Scarlett
+cast	Matthew Bowyer	Sailor / Edinburgh
+cast	Brye Cooper	Mallot
+cast	Mike Babcock	Seedy Prisoner #4
+cast	Owen Finnegan	Town Clerk
+cast	Ian McIntyre	Sailor
+cast	Vanessa Branch	Giselle
+cast	Sam Roberts	Crying Boy
+cast	Ben Roberts	Crying Boy
+cast	Martin Klebba	Marty
+cast	Félix Castro	Moises: Jack's Crew
+cast	Mike Haberecht	Kursar: Jack's Crew
+cast	Rudolph McCollum	Matelot: Jack's Crew
+cast	Gerard J. Reyes	Tearlach: Jack's Crew
+cast	M. Scott Shields	Duncan: Jack's Crew
+cast	Christopher Sullivan	Ladbroc: Jack's Crew
+cast	Craig Thomson	Crimp: Jack's Crew
+cast	Fred Toft	Quartetto: Jack's Crew
+cast	D.P. FitzGerald	Weatherby: Barbossa's Crew
+cast	Jerry Gauny	Ketchum: Barbossa's Crew
+cast	Maxie J. Santillan Jr.	Maximo: Barbossa's Crew
+cast	Michael Earl Lane	Monk: Barbossa's Crew
+cast	Tobias McKinney	Dog Ear: Barbossa's Crew
+cast	David Patykewich	Clubba: Barbossa's Crew
+cast	Tommy Schooler	Scarus: Barbossa's Crew
+cast	Michael A. Thompson	Simbakka: Barbossa's Crew
+cast	Michael W. Williams	Hawksmoor: Barbossa's Crew
+cast	Jose Zelaya	Katracho: Barbossa's Crew
+cast	Finneus Egan	Scratch: Barbossa's Crew
+cast	Don LaDaga	Nipperkin: Barbossa's Crew
+cast	LeJon	Lejon
+cast	Christopher S. Capp	Parrot Voice
+cast	Gregory Alosio	Pirate
+cast	Jordi Caballero	Pirate
+cast	Paul Gagné	Sailor
+cast	Joe Grisaffi	Marine
+cast	James McAuley	Barbossa's Crew

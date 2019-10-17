@@ -1,0 +1,264 @@
+year	1991
+imdb score	8.6
+meta score	84
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	fbi
+keyword	serial killer
+keyword	psychiatrist
+keyword	agent
+keyword	psychopath
+keyword	fbi agent
+keyword	cannibal
+keyword	kidnapping
+keyword	fbi trainee
+keyword	swat team
+keyword	case file
+keyword	training
+keyword	masturbation
+keyword	psychologist
+keyword	making a public plea for information
+keyword	entomologist
+keyword	transsexual
+keyword	lights suddenly go out
+keyword	rescue
+keyword	elevator shaft
+keyword	sociopath
+keyword	shootout
+keyword	neo noir
+keyword	impersonating a police officer
+keyword	orchestral music score
+keyword	mangina
+keyword	rookie cop
+keyword	mass murderer
+keyword	flirting
+keyword	smithsonian institution
+keyword	female senator
+keyword	severed head
+keyword	female lead
+keyword	cocoon
+keyword	reference to barry manilow
+keyword	storage facility
+keyword	evil man
+keyword	funeral home
+keyword	beaten to death
+keyword	two killers
+keyword	anagram
+keyword	graduation
+keyword	flashback
+keyword	traumatic childhood
+keyword	courthouse
+keyword	mental institution
+keyword	psychoanalysis
+keyword	blood spatter
+keyword	sexual identity
+keyword	moth
+keyword	maniac
+keyword	bahamas
+keyword	academy
+keyword	female fbi agent
+keyword	character appears on tv
+keyword	door bell
+keyword	baltimore maryland
+keyword	mace spray
+keyword	disembowelment
+keyword	police
+keyword	murder of a police officer
+keyword	corpse
+keyword	barking dog
+keyword	heroine
+keyword	library
+keyword	police officer bitten
+keyword	singing in a car
+keyword	good versus evil
+keyword	murderer
+keyword	washington d.c.
+keyword	wake
+keyword	animal in title
+keyword	jail break
+keyword	hostage
+keyword	murder investigation
+keyword	singing along with radio
+keyword	revenge
+keyword	pursuit
+keyword	suspense
+keyword	secret past
+keyword	based on ed gein
+keyword	wearing human skin
+keyword	news report
+keyword	senator
+keyword	slasher
+keyword	illinois
+keyword	escape from handcuffs
+keyword	bad guy
+keyword	male frontal nudity
+keyword	semen
+keyword	police baton
+keyword	suicide
+keyword	escape
+keyword	maximum security mental institution
+keyword	mace the repellent
+keyword	contemporary setting
+keyword	west virginia
+keyword	tv news
+keyword	senator's daughter
+keyword	airport
+keyword	bucket
+keyword	music box
+keyword	gothic
+keyword	mutilation
+keyword	obstacle course
+keyword	police training
+keyword	human monster
+keyword	sewing
+keyword	body count
+keyword	childhood flashback
+keyword	mental illness
+keyword	airplane
+keyword	skinning
+keyword	ambulance
+keyword	mask
+keyword	maryland
+keyword	terror
+keyword	water well
+keyword	violence
+keyword	museum
+keyword	detective
+keyword	unhappy childhood
+keyword	basement
+keyword	brutality
+keyword	singing along with a record
+keyword	tragic heroine
+keyword	autopsy
+keyword	serial killer
+keyword	psychology
+keyword	strait jacket
+keyword	gore
+keyword	couch
+keyword	blockbuster
+keyword	animal in cast credits
+keyword	sequel
+keyword	small dog
+keyword	dark past
+keyword	gay stereotype
+keyword	orphan
+keyword	stuck in a well
+keyword	murder
+keyword	loss of father
+keyword	human in a cage
+keyword	mind game
+keyword	sadistic psychopath
+keyword	cannibalism
+keyword	reference to hannibal lecter
+keyword	revolver
+keyword	psycho thriller
+keyword	virginia
+keyword	night vision sequence
+keyword	fat girl
+keyword	disguised as police
+keyword	severed face
+keyword	investigation
+keyword	object made of human skin
+keyword	female agent
+keyword	object made of body part
+keyword	police officer killed
+keyword	pay phone
+keyword	1990s
+keyword	poodle dog
+keyword	race against time
+keyword	chess
+keyword	head in a jar
+keyword	haunted by the past
+keyword	basement pit
+keyword	classical music
+keyword	handcuffs
+keyword	female protagonist
+keyword	effeminacy
+keyword	drugstore
+keyword	friendship
+keyword	anthropophagus
+keyword	elevator
+keyword	ohio
+keyword	tragic past
+keyword	five word title
+keyword	muzzle flash
+keyword	transvestism
+keyword	mace
+keyword	mass murder
+keyword	u.s. senator
+keyword	prison
+keyword	homosexuality
+keyword	man with glasses
+keyword	loss of daughter
+keyword	moving furniture
+keyword	starvation
+keyword	famous line
+keyword	memphis tennessee
+keyword	pet dog
+keyword	night vision goggles
+keyword	villain
+keyword	based on novel
+keyword	based on book
+keyword	surprise ending
+cast	Jodie Foster	Clarice Starling
+cast	Lawrence A. Bonney	FBI Instructor
+cast	Kasi Lemmons	Ardelia Mapp
+cast	Lawrence T. Wrentz	Agent Burroughs
+cast	Scott Glenn	Jack Crawford
+cast	Anthony Heald	Dr. Frederick Chilton
+cast	Frankie Faison	Barney
+cast	Don Brockett	Friendly Psychopath
+cast	Frank Seals Jr.	Brooding Psychopath
+cast	Stuart Rudin	Miggs
+cast	Anthony Hopkins	Dr. Hannibal Lecter
+cast	Maria Skorobogatov	Young Clarice
+cast	Jeffrie Lane	Clarice's Father
+cast	Leib Lensky	Mr. Lang
+cast	George 'Red' Schwartz	Mr. Lang's Driver
+cast	Jim Roche	TV Evangelist
+cast	Brooke Smith	Catherine Martin
+cast	Ted Levine	Jame Gumb
+cast	James B. Howard	Boxing Instructor
+cast	Bill Miller	Mr. Brigham
+cast	Chuck Aber	Agent Terry
+cast	Gene Borkan	Oscar
+cast	Pat McNamara	Sheriff Perkins
+cast	Tracey Walter	Lamar
+cast	Kenneth Utt	Dr. Akin
+cast	Dan Butler	Roden
+cast	Paul Lazar	Pilcher
+cast	Darla	'Precious'
+cast	Adelle Lutz	TV Anchorwoman
+cast	Obba Babatundé	TV Anchorman
+cast	George Michael	TV Sportscaster
+cast	Diane Baker	Senator Ruth Martin
+cast	Roger Corman	FBI Director Hayden Burke
+cast	Ron Vawter	Paul Krendler
+cast	Charles Napier	Lt. Boyle
+cast	Jim Dratfield	Sen. Martin's Aide
+cast	D. Stanton Miranda	1st Reporter
+cast	Rebecca Saxon	2nd Reporter
+cast	Danny Darst	Sgt. Tate
+cast	Cynthia Ettinger	Officer Jacobs
+cast	Brent Hinkley	Officer Murray
+cast	Steve Wyatt	Airport Flirt
+cast	Alex Coleman	Sgt. Pembry
+cast	David Early	Spooked Memphis Cop
+cast	Andre B. Blake	Tall Memphis Cop
+cast	Bill Dalzell	Distraught Memphis Cop
+cast	Chris Isaak	SWAT Commander
+cast	Daniel von Bargen	SWAT Communicator
+cast	Tommy Lafitte	SWAT Shooter
+cast	Josh Broder	EMS Attendant
+cast	Buzz Kilman	EMS Driver
+cast	Harry Northup	Mr. Bimmel
+cast	Lauren Roselli	Stacy Hubka
+cast	Lamont Arnold	Flower Delivery Man
+cast	John Hall	State Trooper
+cast	John W. Iwanonkiw	Orderly
+cast	Lynette Jenkins	Nurse
+cast	Chris McGinn	Autopsy Victim
+cast	Ted Monte	FBI Agent
+cast	George A. Romero	FBI Agent in Memphis
+cast	Mike Schaeffer	Prison Guard

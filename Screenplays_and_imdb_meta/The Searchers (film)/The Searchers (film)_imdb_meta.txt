@@ -1,0 +1,213 @@
+year	1956
+imdb score	8.0
+meta score	N/A
+genre	Western
+keyword	rescue
+keyword	indian war
+keyword	raid
+keyword	hatred
+keyword	civil war veteran
+keyword	texas
+keyword	suspicion
+keyword	character driven
+keyword	colt .45
+keyword	western frontier
+keyword	boyfriend girlfriend relationship
+keyword	cavalry
+keyword	warrior
+keyword	six shooter
+keyword	spur
+keyword	texas ranger
+keyword	hero
+keyword	loss of brother
+keyword	dark past
+keyword	fear
+keyword	racial reconciliation
+keyword	dinner
+keyword	fistfight
+keyword	native american attack
+keyword	scalping
+keyword	mistrust
+keyword	locket
+keyword	doppelganger
+keyword	racial violence
+keyword	going native
+keyword	prejudice
+keyword	comanche indian
+keyword	secret past
+keyword	racism
+keyword	gunfight
+keyword	loss of father
+keyword	afi
+keyword	horse
+keyword	cowboy hat
+keyword	character repeating someone else's dialogue
+keyword	1870s
+keyword	visual metaphor
+keyword	redemption
+keyword	orphan
+keyword	character study
+keyword	cowboys and indians
+keyword	male bonding
+keyword	culture clash
+keyword	hidden truth
+keyword	off screen murder
+keyword	search for lost relative
+keyword	missing person
+keyword	funeral
+keyword	river battle
+keyword	post civil war
+keyword	horse chase
+keyword	eccentric
+keyword	superiority complex
+keyword	forbidden love
+keyword	canada
+keyword	family reunion
+keyword	dog
+keyword	marriage
+keyword	cowboy boot
+keyword	sombrero
+keyword	stereotyping
+keyword	obsession
+keyword	ambush
+keyword	battle
+keyword	tracker
+keyword	kidnapping
+keyword	conflicted hero
+keyword	scalp
+keyword	repeating rifle
+keyword	stockholm syndrome
+keyword	will
+keyword	loss of girlfriend
+keyword	cult film
+keyword	rejection
+keyword	remote
+keyword	fugitive
+keyword	winchester rifle
+keyword	19th century
+keyword	brawl
+keyword	western hero
+keyword	revenge
+keyword	attempted murder
+keyword	canceled wedding
+keyword	scream
+keyword	loss of sister
+keyword	escape attempt
+keyword	native american white relationships
+keyword	frontier
+keyword	sword
+keyword	new mexico
+keyword	desert
+keyword	monument valley
+keyword	wedding party
+keyword	catch phrase
+keyword	cavalry charge
+keyword	cowboy boots
+keyword	revolver
+keyword	paranoia
+keyword	tragic hero
+keyword	western music
+keyword	chase
+keyword	buffalo
+keyword	blizzard
+keyword	posse
+keyword	search and rescue mission
+keyword	mexican
+keyword	native american chief
+keyword	distrust
+keyword	violence
+keyword	epic
+keyword	adopted son
+keyword	swedish american
+keyword	self righteousness
+keyword	schizophrenic
+keyword	calvary
+keyword	squaw
+keyword	dark hero
+keyword	sexual jealousy
+keyword	wilderness
+keyword	trade
+keyword	buddy movie
+keyword	bare chested male
+keyword	native american language
+keyword	orchestral music score
+keyword	native american
+keyword	hymn
+keyword	scarface
+keyword	biracial
+keyword	bitterness
+keyword	shootout
+keyword	uncle nephew relationship
+keyword	hat
+keyword	1860s
+keyword	mysterious past
+keyword	native american reservation
+keyword	deep focus
+keyword	mexican border
+keyword	repressed desire
+keyword	trail
+keyword	uncle niece relationship
+keyword	cowboy shirt
+keyword	brother in law sister in law relationship
+keyword	famous line
+keyword	loss of mother
+keyword	cowboy
+keyword	ex soldier
+keyword	abducted by indians
+keyword	imagery
+keyword	repeated line
+keyword	white raised as indian
+keyword	quick draw
+keyword	murder
+keyword	american civil war veteran
+keyword	tolerance
+keyword	cigar smoking
+keyword	dialogue driven
+keyword	based on novel
+cast	John Wayne	Ethan Edwards
+cast	Jeffrey Hunter	Martin Pawley
+cast	Vera Miles	Laurie Jorgensen
+cast	Ward Bond	Rev. Capt. Samuel Johnston Clayton
+cast	Natalie Wood	Debbie Edwards - Age 15
+cast	John Qualen	Lars Jorgensen
+cast	Olive Carey	Mrs. Jorgensen
+cast	Henry Brandon	Chief Cicatriz - Scar
+cast	Ken Curtis	Charlie McCorry
+cast	Harry Carey Jr.	Brad Jorgensen
+cast	Antonio Moreno	Emilio Gabriel Fernandez y Figueroa
+cast	Hank Worden	Mose Harper
+cast	Beulah Archuletta	Look - Wild Goose Flying in the Night Sky
+cast	Walter Coy	Aaron Edwards
+cast	Dorothy Jordan	Martha Edwards
+cast	Pippa Scott	Lucy Edwards
+cast	Patrick Wayne	Lt. Greenhill
+cast	Lana Wood	Younger Debbie Edwards
+cast	Pipe Line Begishe	Comanche
+cast	Exactly Sonnie Betsuie	Comanche
+cast	Danny Borzage	Accordionist at Funeral
+cast	Ruth Clifford	Deranged Woman at Fort
+cast	Carmen D'Antonio	Carmen
+cast	Tommy Doss	Wedding Musician
+cast	Pete Grey Eyes	Comanche
+cast	Feather Hat Jr.	Comanche
+cast	Nacho Galindo	Mexican Bartender
+cast	Chuck Hayward	Man at Wedding
+cast	Jack Tin Horn	Comanche
+cast	Harry Black Horse	Comanche
+cast	Away Luna	Comanche
+cast	Robert Lyden	Ben Edwards
+cast	Cliff Lyons	Col. Greenhill
+cast	Peter Mamakos	Jerem Futterman
+cast	Mae Marsh	Dark Cloaked Woman at Fort Guarding Deranged Woman
+cast	Frank McGrath	Ranger
+cast	Bob Many Mules	Comanche
+cast	Jack Pennick	Sergeant at Fort
+cast	Lloyd Perryman	Wedding Musician
+cast	Chuck Roberson	Ranger at Wedding
+cast	Smile White Sheep	Comanche
+cast	Many Mules Son	Comanche
+cast	Percy Shooting Star	Comanche
+cast	William Steele	Nesby
+cast	Chief Thundercloud	Comanche Chief
+cast	Terry Wilson	Ranger
+cast	Billy Yellow	Comanche

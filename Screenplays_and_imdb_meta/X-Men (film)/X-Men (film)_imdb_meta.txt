@@ -1,0 +1,265 @@
+year	2000
+imdb score	7.4
+meta score	64
+genre	Action
+genre	Adventure
+genre	Sci-Fi
+keyword	mutant
+keyword	x men
+keyword	wolverine
+keyword	professor
+keyword	superhero team
+keyword	storm
+keyword	future
+keyword	senator
+keyword	train
+keyword	school
+keyword	villain
+keyword	superhero
+keyword	nazis
+keyword	near future
+keyword	cyclops
+keyword	fire
+keyword	male rear nudity
+keyword	supernatural power
+keyword	pistol
+keyword	based on comic book
+keyword	first kiss
+keyword	redhead
+keyword	dog tag
+keyword	kicked in the crotch
+keyword	x ray
+keyword	struck by lightning
+keyword	tragic villain
+keyword	train station
+keyword	body landing on a car
+keyword	ostracism
+keyword	radiation
+keyword	bar fight
+keyword	martial arts
+keyword	anti hero
+keyword	mind reading
+keyword	psychic
+keyword	x rayed skeleton
+keyword	kicked in the stomach
+keyword	metal manipulation
+keyword	helicopter
+keyword	weather manipulation
+keyword	hand to hand combat
+keyword	reverse footage
+keyword	bar
+keyword	high school
+keyword	alberta canada
+keyword	stabbed in the back
+keyword	forest
+keyword	superheroine
+keyword	21st century
+keyword	claw
+keyword	super villainess
+keyword	new york city
+keyword	mission
+keyword	retina scan faked
+keyword	cigar smoking
+keyword	healing
+keyword	toad
+keyword	shot in the back
+keyword	held captive
+keyword	thrown through a wall
+keyword	staten island new york city
+keyword	tranquilizer
+keyword	surrealism
+keyword	thrown through a windshield
+keyword	class
+keyword	statue of liberty new york city
+keyword	shape shifter
+keyword	westchester new york
+keyword	kidnapping
+keyword	cult film
+keyword	newton's cradle
+keyword	dark hero
+keyword	anarchy
+keyword	falling from height
+keyword	showdown
+keyword	world war two
+keyword	brotherhood
+keyword	teacher
+keyword	cage fight
+keyword	piano playing
+keyword	concentration camp
+keyword	held at gunpoint
+keyword	murder of a police officer
+keyword	telekinesis
+keyword	absorbing power
+keyword	evolution
+keyword	punched in the face
+keyword	statue of liberty
+keyword	gash in the face
+keyword	prejudice
+keyword	corpse
+keyword	kicked in the face
+keyword	old man
+keyword	cage fighting
+keyword	warrior
+keyword	manhattan new york city
+keyword	mississippi
+keyword	2000s
+keyword	psionic power
+keyword	teenage superhero
+keyword	walking through a wall
+keyword	voice over narration
+keyword	laser vision
+keyword	love interest
+keyword	hit with a rifle butt
+keyword	head butt
+keyword	killing an animal
+keyword	world trade center manhattan new york city
+keyword	discrimination
+keyword	optic blast
+keyword	impalement
+keyword	magnet
+keyword	affection
+keyword	mexican standoff
+keyword	poison
+keyword	railway station
+keyword	long tongue
+keyword	teen angst
+keyword	1940s
+keyword	mastermind
+keyword	government
+keyword	stealing a motorcycle
+keyword	action hero
+keyword	jet
+keyword	lightning
+keyword	taking control of someone's body
+keyword	blockbuster
+keyword	morphing
+keyword	magnetism
+keyword	self healing
+keyword	legislation
+keyword	news report
+keyword	shotgun
+keyword	rain
+keyword	body scanner
+keyword	bare chested male
+keyword	stabbed in the chest
+keyword	flashback
+keyword	betrayal
+keyword	doppelganger
+keyword	teenage superheroine
+keyword	marvel comics
+keyword	super villain
+keyword	jewish
+keyword	exploding car
+keyword	prison
+keyword	psychic power
+keyword	murder
+keyword	african american
+keyword	telepathy
+keyword	kiss
+keyword	nazi
+keyword	immortality
+keyword	u.s. capitol building
+keyword	boat
+keyword	spit in the face
+keyword	melting man
+keyword	hero
+keyword	car crash
+keyword	chess
+keyword	runaway
+keyword	beach
+keyword	violence
+keyword	tied to a chair
+keyword	camper
+keyword	poland
+keyword	social injustice
+keyword	opening action scene
+keyword	ice
+keyword	stabbed in the arm
+keyword	eyes different color
+keyword	amnesia
+keyword	racism
+keyword	20th century
+keyword	babe scientist
+keyword	stabbed in the shoulder
+keyword	witness to death
+keyword	wheelchair
+keyword	helmet
+keyword	title spoken by character
+keyword	
+cast	Hugh Jackman	Logan / Wolverine
+cast	Patrick Stewart	Professor Charles Xavier
+cast	Ian McKellen	Eric Lensherr / Magneto
+cast	Famke Janssen	Jean Grey
+cast	James Marsden	Scott Summers / Cyclops
+cast	Halle Berry	Ororo Munroe / Storm
+cast	Anna Paquin	Rogue / Marie
+cast	Tyler Mane	Sabretooth
+cast	Ray Park	Toad
+cast	Rebecca Romijn	Mystique
+cast	Bruce Davison	Senator Kelly
+cast	Matthew Sharp	Henry Gyrich
+cast	Brett Morris	Young Magneto
+cast	Rhona Shekter	Magneto's Mother
+cast	Kenneth McGregor	Magneto's Father
+cast	Shawn Roberts	Rogue's Boyfriend
+cast	Donna Goodhand	Rogue's Mother
+cast	John Nelles	Rogue's Father
+cast	George Buza	Trucker
+cast	Darren McGuire	Contender
+cast	Carson Manning	Waterboy #1
+cast	Scott Leva	Waterboy #2
+cast	Aron Tager	Emcee
+cast	Kevin Rushton	Stu
+cast	Doug Lennox	Bartender
+cast	David Nichols	Newscaster #1
+cast	Malcolm Nefsky	Stu's Buddy
+cast	Sumela Kay	Kitty Pryde / Shadowcat
+cast	Shawn Ashmore	Bobby Drake / Iceman
+cast	Katrina Florece	Jubilation Lee / Jubilee
+cast	Alex Burton	John Allerdyce / Pyro
+cast	Quinn Wright	Lily Pond Kid
+cast	Daniel Magder	Boy on Raft
+cast	Matt Weinberg	Tommy
+cast	Madison Lanc	Tommy's Sister
+cast	Stan Lee	Hot Dog Vendor
+cast	Marsha Graham	Newscaster #2
+cast	Amy Leland	Cerebro
+cast	Adam Robitel	Guy on Line
+cast	David Brown	Lead Cop
+cast	Ben Jensen	Sabretooth Cop
+cast	Tom DeSanto	Toad Cop
+cast	Todd Dulmage	Coast Guard
+cast	Dan Duran	Newscaster #3
+cast	Elias Zarou	U.N. Secretary General
+cast	David Black	President
+cast	Robert R. Snow	Secret Service
+cast	David Hayter	Museum Cop
+cast	Cecil Phillips	Security Guard
+cast	Dave Allen Clark	Newscaster #4
+cast	Deryck Blake	Plastic Prison Guard
+cast	Ilke Hincer	Translator
+cast	Ron Sham	Translator
+cast	Jay Yoo	Translator
+cast	Grigori Miakouchkine	Translator
+cast	Eleanor Comes	Translator
+cast	Giuseppe Gallaccio	Translator
+cast	Rupinder Brar	Translator
+cast	Abi Ganem	Translator
+cast	Joey Purpura	German Soldier
+cast	Manuel Verge	German Soldier
+cast	Wolfgang Müller	German Soldier
+cast	Ralph Zuljan	German Soldier
+cast	Andy Grote	German Soldier
+cast	Denis Bellingham	Man in Bar
+cast	Eric Bryson	Police Officer
+cast	Cheryl De Luca	Mother on Train
+cast	Wesley Finucan	Train Station Extra
+cast	Kyler Fisher	Additional Voices
+cast	Marc Gagne	Bar Patron
+cast	Matthew Galliford	Ellis Island Dignitary
+cast	Gary Goddard	Man at Beach
+cast	Matt Granger	Weapon X Program Surgeon
+cast	Donald Mackinnon	Student at Xavier School
+cast	Brian Peck	Hot Dog Stand Customer
+cast	Daniel Vivian	Canadian
+cast	Quentin Wright	Student at Xavier School

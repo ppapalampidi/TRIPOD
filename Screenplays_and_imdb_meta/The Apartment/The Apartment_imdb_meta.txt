@@ -1,0 +1,259 @@
+year	1960
+imdb score	8.4
+meta score	N/A
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	apartment
+keyword	elevator
+keyword	love
+keyword	insurance company
+keyword	office
+keyword	moving
+keyword	elevator operator
+keyword	attempted suicide
+keyword	extramarital affair
+keyword	christmas
+keyword	neighbor
+keyword	secretary
+keyword	key
+keyword	christmas eve
+keyword	divorce
+keyword	electric blanket
+keyword	compact
+keyword	listening in on a telephone call
+keyword	doctor
+keyword	drinking
+keyword	reference to robinson crusoe
+keyword	eating
+keyword	editing
+keyword	writing a letter
+keyword	auld lang syne
+keyword	shot in the knee
+keyword	reference to denver colorado
+keyword	reference to dinah shore
+keyword	reference to the girl scouts
+keyword	brushing teeth
+keyword	new year's eve
+keyword	thermometer
+keyword	personnel manager
+keyword	listening to music
+keyword	mensch
+keyword	flower
+keyword	drunkenness
+keyword	reference to john barrymore
+keyword	packing
+keyword	dancing
+keyword	punched in the face
+keyword	business
+keyword	christmas present
+keyword	rain
+keyword	black eye
+keyword	wage slave
+keyword	holiday season
+keyword	singing
+keyword	coffee
+keyword	punch
+keyword	reference to ed sullivan
+keyword	bad reputation
+keyword	break up
+keyword	pianist
+keyword	job promotion
+keyword	christmas tree
+keyword	candle
+keyword	satire
+keyword	key under the mat
+keyword	sex
+keyword	pajamas
+keyword	longchamps restaurant manhattan new york city
+keyword	slip the undergarment
+keyword	gun
+keyword	record player
+keyword	head cold
+keyword	tennis racket
+keyword	career opportunity
+keyword	phonograph
+keyword	self respect
+keyword	suicide attempt by sleeping pills
+keyword	party hat
+keyword	cincinnati ohio
+keyword	character says i love you
+keyword	merry christmas
+keyword	hundred dollar bill
+keyword	donating one's body to science
+keyword	beatnik
+keyword	face slap
+keyword	reference to fidel castro
+keyword	calculator
+keyword	singer
+keyword	revenge
+keyword	unlucky in love
+keyword	looking at self in mirror
+keyword	appendix the internal organ
+keyword	rolodex
+keyword	deception
+keyword	switchboard operator
+keyword	knocking on a door
+keyword	drive in theatre
+keyword	christmas day
+keyword	quitting a job
+keyword	reference to havana cuba
+keyword	jukebox
+keyword	jingle bells
+keyword	umbrella
+keyword	corporation
+keyword	central park manhattan new york city
+keyword	sister sister relationship
+keyword	unfaithfulness
+keyword	money
+keyword	bachelor
+keyword	boy
+keyword	gin rummy
+keyword	cocktail
+keyword	volkswagen
+keyword	suitcase
+keyword	reference to greta garbo
+keyword	chicken soup
+keyword	cold the temperature
+keyword	female stockinged feet
+keyword	crying
+keyword	christmas party
+keyword	unrequited love
+keyword	bar
+keyword	flirting
+keyword	blowing wrapper off a straw
+keyword	piano
+keyword	cold the illness
+keyword	intercom
+keyword	office politics
+keyword	injection
+keyword	majestic theatre manhattan new york city
+keyword	reference to marilyn monroe
+keyword	marilyn monroe impersonator
+keyword	eavesdropping
+keyword	spaghetti
+keyword	infidelity
+keyword	ambition
+keyword	drinking straw
+keyword	taxi driver
+keyword	meatballs
+keyword	business executive
+keyword	drunken santa
+keyword	camera shot of feet
+keyword	drink
+keyword	karachi pakistan
+keyword	card playing
+keyword	food
+keyword	love triangle
+keyword	santa claus suit
+keyword	falling into a christmas tree
+keyword	reference to twenty one the nightclub
+keyword	mirror
+keyword	watching tv
+keyword	feeding someone
+keyword	father son relationship
+keyword	razor blade
+keyword	chinese restaurant
+keyword	photograph
+keyword	taxi
+keyword	telephone call
+keyword	bowler hat
+keyword	inability to spell
+keyword	headache
+keyword	running gag
+keyword	tears
+keyword	painting name on office door
+keyword	marital separation
+keyword	madison avenue manhattan new york city
+keyword	guggenheim museum manhattan new york city
+keyword	reference to joan crawford
+keyword	reference to the diner's club
+keyword	husband wife relationship
+keyword	two word title
+keyword	brother in law sister in law relationship
+keyword	year 1959
+keyword	reference to pablo picasso
+keyword	bathrobe
+keyword	phone booth
+keyword	sleeping pill
+keyword	old flame
+keyword	kiss
+keyword	atlantic city new jersey
+keyword	opening narration
+keyword	shoeshine man
+keyword	office romance
+keyword	character says shut up and deal
+keyword	stockings
+keyword	hat
+keyword	character says all for one and one for all
+keyword	reference to mae west
+keyword	sleeping
+keyword	reference to reno nevada
+keyword	landlady
+keyword	fruitcake
+keyword	wearing clothes over pajamas
+keyword	shaving
+keyword	pittsburgh pennsylvania
+keyword	happy new year
+keyword	adultery
+keyword	reference to wallace beery
+keyword	1950s
+keyword	record album
+keyword	man carrying a woman
+keyword	reference to el morocco the nightclub
+keyword	cynicism
+keyword	fired from the job
+keyword	self inflicted gunshot wound
+keyword	reference to the music man the stage musical
+keyword	executive washroom
+keyword	office party
+keyword	bathroom
+keyword	nasal spray
+keyword	urban comedy
+keyword	working on christmas eve
+keyword	dancer
+keyword	loneliness
+keyword	new york city
+keyword	greeting card
+keyword	jewish american
+keyword	manhattan new york city
+keyword	tv dinner
+keyword	broken mirror
+keyword	razor
+keyword	cigarette smoking
+keyword	sunglasses
+keyword	self sacrifice
+keyword	accountant
+keyword	champagne
+keyword	park bench
+keyword	hanging up without saying goodbye
+keyword	reference to white plains new york
+keyword	martini
+keyword	telephone operator
+keyword	title spoken by character
+keyword	
+cast	Jack Lemmon	C.C. Baxter
+cast	Shirley MacLaine	Fran Kubelik
+cast	Fred MacMurray	Jeff D. Sheldrake
+cast	Ray Walston	Joe Dobisch
+cast	Jack Kruschen	Dr. Dreyfuss
+cast	David Lewis	Al Kirkeby
+cast	Hope Holiday	Mrs. Margie MacDougall
+cast	Joan Shawlee	Sylvia
+cast	Naomi Stevens	Mrs. Mildred Dreyfuss
+cast	Johnny Seven	Karl Matuschka
+cast	Joyce Jameson	The Blonde
+cast	Willard Waterman	Mr. Vanderhoff
+cast	David White	Mr. Eichelberger
+cast	Edie Adams	Miss Olsen
+cast	Dorothy Abbott	Office Worker
+cast	Bill Baldwin	TV Movie Host
+cast	Benny Burt	Charlie - Bartender
+cast	Lynn Cartwright	Elevator Supervisor with Clicker
+cast	Fortune Cookie	Chinese Waiter
+cast	Mason Curry	Bit Part
+cast	Frances Weintraub Lax	Mrs. Lieberman
+cast	David Macklin	Messenger
+cast	Joe Palma	Office Maintenance Man
+cast	Paul Picerni	Patron in Bar
+cast	Hal Smith	Man in Santa Claus Suit

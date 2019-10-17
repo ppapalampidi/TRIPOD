@@ -1,0 +1,268 @@
+year	1998
+imdb score	6.5
+meta score	57
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	internet
+keyword	bookstore
+keyword	book
+keyword	love
+keyword	remake
+keyword	advice
+keyword	assumed identity
+keyword	chanting
+keyword	reference to joni mitchell
+keyword	newspaper
+keyword	caviar
+keyword	nickname
+keyword	sick woman
+keyword	singing girl
+keyword	brooklyn bridge
+keyword	online chat
+keyword	america on line
+keyword	bedroom
+keyword	checkout clerk
+keyword	79th street boat basin manhattan new york city
+keyword	female business owner
+keyword	man with glasses
+keyword	stuck in an elevator
+keyword	name tag
+keyword	the end
+keyword	compact mirror
+keyword	evian bottled water
+keyword	online friend
+keyword	boyfriend girlfriend relationship
+keyword	air quote gesture
+keyword	jump
+keyword	reference to george bernard shaw
+keyword	rose
+keyword	computer
+keyword	christmas lights
+keyword	lying on a couch
+keyword	talking in bed
+keyword	balloon
+keyword	reference to clark gable
+keyword	intercom
+keyword	subway ride
+keyword	contraction in title
+keyword	elevator malfunction
+keyword	chick flick
+keyword	internet romance
+keyword	brother brother relationship
+keyword	reading a story to a child
+keyword	1990s
+keyword	limousine
+keyword	big business
+keyword	color remake of black and white film
+keyword	appeared on tv news
+keyword	three word title
+keyword	reading aloud
+keyword	opposites attract
+keyword	reference to attila the hun
+keyword	christmas tree
+keyword	pop up book
+keyword	offer to help
+keyword	cup of tea
+keyword	reference to pandora's box
+keyword	bookshop
+keyword	character appears on a tv talk show
+keyword	sandwich
+keyword	grocery store
+keyword	sitting on the floor
+keyword	dog
+keyword	publicity
+keyword	gray's papaya
+keyword	reference to cinderella
+keyword	reference to michel foucault
+keyword	reference to clark bar
+keyword	business competitor
+keyword	zabar's food emporium new york city
+keyword	news report
+keyword	one dollar bill
+keyword	decorating a christmas tree
+keyword	title directed by female
+keyword	instant messaging
+keyword	reference to the godfather
+keyword	bibliophilia
+keyword	goldfish
+keyword	struggling business
+keyword	local shop
+keyword	reference to joan of arc
+keyword	e mail
+keyword	reference to anne of green gables the novle
+keyword	reference to bloomingdale's department store
+keyword	knock knock joke
+keyword	reading a newspaper
+keyword	authoress
+keyword	business conflict
+keyword	reference to the new york times
+keyword	friend
+keyword	aunt nephew relationship
+keyword	reference to the new york observer
+keyword	businessman
+keyword	new york city
+keyword	animated opening credits
+keyword	online relationship
+keyword	character says go to hell
+keyword	written by director
+keyword	typewriter
+keyword	reference to the village voice the newspaper
+keyword	visa card
+keyword	spelling a word out loud
+keyword	product placement
+keyword	reference to the unabomber
+keyword	snowing
+keyword	argument
+keyword	apostrophe in title
+keyword	business executive
+keyword	having a cold
+keyword	e mail read aloud
+keyword	yellow cab
+keyword	children's author
+keyword	reference to francisco franco
+keyword	on line conversation
+keyword	free publicity
+keyword	sex talk
+keyword	hidden identity
+keyword	holding one's hand over someone's mouth
+keyword	watching news on tv
+keyword	kleenex
+keyword	verdi square manhattan new york city
+keyword	altered version of studio logo
+keyword	online identity
+keyword	reference to ruth messinger
+keyword	reading to a child
+keyword	reading a book
+keyword	business rivalry
+keyword	clearance sale
+keyword	ends with a kiss
+keyword	photograph in newspaper
+keyword	sneezing
+keyword	gift of flowers
+keyword	reference to rudy giuliani
+keyword	waving
+keyword	studio logo segues into film
+keyword	small business owner
+keyword	standing in line
+keyword	watching self on tv
+keyword	credit card
+keyword	handkerchief
+keyword	competing businesses
+keyword	meeting on the internet
+keyword	foreign language adaptation
+keyword	grocery store checkout clerk
+keyword	secret
+keyword	movie theater
+keyword	knock on door
+keyword	sale
+keyword	small business
+keyword	manhattan new york city
+keyword	stalled elevator
+keyword	taxi
+keyword	trapped in an elevator
+keyword	goldfish in a plastic bag
+keyword	old photograph
+keyword	punctuation in title
+keyword	red apple
+keyword	meeting on line
+keyword	locket with photograph
+keyword	eating an apple
+keyword	talking to a photograph
+keyword	courtship
+keyword	restaurant
+keyword	new york observer the newspaper
+keyword	rivalry
+keyword	bouquet of flowers
+keyword	daisy
+keyword	snoring
+keyword	store owner
+keyword	reference to pride and prejudice
+keyword	newspaper headline
+keyword	bench
+keyword	meeting online friend
+keyword	produced by director
+keyword	reference to herodotus
+keyword	elevator
+keyword	book sale
+keyword	peephole
+keyword	grocery shopping
+keyword	failing business
+keyword	rival business
+keyword	walking the dog
+keyword	kiss on the lips
+keyword	writer
+keyword	break up
+keyword	running on treadmill
+keyword	new york post the newspaper
+keyword	hot dog
+keyword	newspaper article
+keyword	reference to martin heidegger
+keyword	closing down
+keyword	christmas
+keyword	pet dog
+keyword	upper west side manhattan new york city
+keyword	hudson river
+keyword	knocking on a window
+keyword	marlon brando imitation
+keyword	newspaper columnist
+keyword	competition
+keyword	family business
+keyword	laptop computer
+keyword	based on play
+keyword	title spoken by character
+cast	Tom Hanks	Joe Fox
+cast	Meg Ryan	Kathleen Kelly
+cast	Greg Kinnear	Frank Navasky
+cast	Parker Posey	Patricia Eden
+cast	Jean Stapleton	Birdie Conrad
+cast	Steve Zahn	George Pappas
+cast	Heather Burns	Christina Plutzker
+cast	Dave Chappelle	Kevin Jackson
+cast	Dabney Coleman	Nelson Fox
+cast	John Randolph	Schuyler Fox
+cast	Hallee Hirsh	Annabelle Fox
+cast	Jeffrey Scaperrotta	Matt Fox
+cast	Cara Seymour	Gillian Quinn
+cast	Katie Finneran	Maureen, the Nanny
+cast	Michael Badalucco	Charlie
+cast	Deborah Rush	Veronica Grant
+cast	Veanne Cox	Miranda Margulies
+cast	Bruce Jay Friedman	Vince Mancini
+cast	Sara Ramirez	Rose, Zabars Cashier
+cast	Howard Spiegel	Henry, Zabars Shopper
+cast	Diane Sokolow	Zabars Shopper
+cast	Julie Kass	Zabars Shopper
+cast	Reiko Aylesworth	Thanksgiving Guest
+cast	Katie Sagona	Young Kathleen Kelly
+cast	Kathryn Meisle	Cecilia Kelly
+cast	Nina Zoie Lam	T.V. Reporter
+cast	Maggie Murphy	Theater Patron
+cast	Michelle Blakely	Shopper
+cast	Meredith White	Shopper
+cast	Dianne Dreyer	Shopper
+cast	Julie Galdieri	Shopper
+cast	Leila Nichols	Shopper
+cast	Mary A. Kelly	Fox Books Shopper
+cast	Chris Messina	Fox Salesperson
+cast	Ronobir Lahiri	Man at Cafe Lalo
+cast	André Sogliuzzo	Waiter at Cafe Lalo
+cast	Peter A. Mian	Capeman
+cast	Richard Cohen	Starbucks Customer
+cast	Enzo Angileri	Starbucks Customer
+cast	Nick Brown	Juggler
+cast	Ann Fleuchaus	Sarah Mancini
+cast	Neil Bonin	Party Guest
+cast	Bill McHugh	Party Guest
+cast	Santiago Quinones	Decorator
+cast	Lynn Grossman	Yvette Fox
+cast	Dolores Sirianni	Mother of Twins
+cast	Nicole Bernadette	Florist
+cast	Jane Adams	Sydney Anne
+cast	Jason Cicardo	Party Guest
+cast	Elwood Edwards	Online 'You've Got Mail' Voice
+cast	Alfonso Gomez-Rejon	Party Guest
+cast	Gideon Jacobs	Young Joe Fox
+cast	Brick Mason	Man Letting Joe Fox in
+cast	Scott Mullin	Male Runner
+cast	Logan Steinhardt	Kid in Bookstore

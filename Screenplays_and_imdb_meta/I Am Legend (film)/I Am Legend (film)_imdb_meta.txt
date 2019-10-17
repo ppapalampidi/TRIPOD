@@ -1,0 +1,270 @@
+year	2007
+imdb score	7.2
+meta score	65
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	survivor
+keyword	cure
+keyword	plague
+keyword	virus
+keyword	scientist
+keyword	new york city
+keyword	cancer
+keyword	blood
+keyword	mutant
+keyword	sole survivor
+keyword	dog
+keyword	revelation
+keyword	interracial marriage
+keyword	faith
+keyword	imaginary friend
+keyword	mutation
+keyword	main character dies
+keyword	hit by a car
+keyword	civilization
+keyword	helicopter accident
+keyword	eye scanning
+keyword	talk radio
+keyword	sitting in a bathtub
+keyword	fighter plane
+keyword	hunting
+keyword	darkness
+keyword	severed head
+keyword	army
+keyword	hdtv
+keyword	working out
+keyword	sleeping in a bathtub
+keyword	despair
+keyword	laptop computer
+keyword	puppy
+keyword	revenge
+keyword	daughter
+keyword	washington square manhattan new york city
+keyword	loneliness
+keyword	suture
+keyword	escape
+keyword	aircraft carrier
+keyword	plundering
+keyword	loss of wife
+keyword	shrek
+keyword	evacuation
+keyword	leg injury
+keyword	helicopter
+keyword	cgi animal in live action film
+keyword	fried bacon
+keyword	sleeping in a bathtub
+keyword	broadcast
+keyword	ultraviolet light
+keyword	vaccine
+keyword	bridge collapse
+keyword	mutant virus
+keyword	infection
+keyword	horror movie remake
+keyword	isolation
+keyword	booby trap
+keyword	injection
+keyword	ford mustang
+keyword	stairs
+keyword	animal attack
+keyword	pull ups
+keyword	manhattan new york city
+keyword	death of protagonist
+keyword	exploding bridge
+keyword	sports car
+keyword	hiding
+keyword	vivisection
+keyword	u.s. president
+keyword	atheist
+keyword	medical research
+keyword	brooklyn bridge
+keyword	tattoo
+keyword	brazilian
+keyword	falling down stairs
+keyword	shooting
+keyword	husband wife relationship
+keyword	human animal relationship
+keyword	neo noir
+keyword	pandemic
+keyword	omega man
+keyword	vampire
+keyword	zombie
+keyword	future noir
+keyword	exploding car
+keyword	capture
+keyword	single mother
+keyword	post apocalypse
+keyword	vegetable garden
+keyword	mannequin
+keyword	very little dialogue
+keyword	trap
+keyword	devastation
+keyword	radio broadcast
+keyword	immunity
+keyword	german shepherd
+keyword	syringe
+keyword	golf
+keyword	rifle
+keyword	bob marley
+keyword	last man on earth
+keyword	mutant dog
+keyword	future
+keyword	real movie shown in fictional situation
+keyword	loss of family
+keyword	epidemic
+keyword	video store
+keyword	wristwatch
+keyword	vermont
+keyword	children's room
+keyword	broken glass
+keyword	back to nature
+keyword	serum
+keyword	dystopia
+keyword	2010s
+keyword	hopelessness
+keyword	painting
+keyword	death of hero
+keyword	suicide
+keyword	bacon
+keyword	survivalist
+keyword	falling from height
+keyword	burnt face
+keyword	death
+keyword	bridge
+keyword	laboratory
+keyword	based on novella
+keyword	flashback
+keyword	central park manhattan new york city
+keyword	lens flare
+keyword	depression
+keyword	prophecy
+keyword	mental breakdown
+keyword	cancer cure
+keyword	butterfly
+keyword	knife
+keyword	christmas
+keyword	religion
+keyword	reference to god
+keyword	experiment
+keyword	animal burial
+keyword	blockbuster
+keyword	deer
+keyword	widower
+keyword	rat
+keyword	tv interview
+keyword	killing an animal
+keyword	bare chested male
+keyword	gun
+keyword	death of dog
+keyword	lion
+keyword	helicopter crash
+keyword	bomb
+keyword	times square manhattan new york city
+keyword	claim in title
+keyword	generator
+keyword	death of pet
+keyword	chase
+keyword	child in peril
+keyword	east river
+keyword	car accident
+keyword	what if
+keyword	lab rat
+keyword	quarantine
+keyword	prologue
+keyword	mid air collision
+keyword	cornfield
+keyword	death of child
+keyword	based on novel
+keyword	surprise ending
+cast	Will Smith	Robert Neville
+cast	Alice Braga	Anna
+cast	Charlie Tahan	Ethan
+cast	Salli Richardson-Whitfield	Zoe Neville
+cast	Willow Smith	Marley Neville
+cast	Darrell Foster	Mike - Military Escort
+cast	April Grace	TV Personality
+cast	Dash Mihok	Alpha Male
+cast	Joanna Numata	Alpha Female
+cast	Abbey	Sam
+cast	Kona	Sam
+cast	Samuel Glen	Military Driver - Jay
+cast	James McCauley	Male Evacuee
+cast	Marin Ireland	Woman Evacuee
+cast	Pedro Mojica	Sergeant
+cast	Anthony C. Mazza	Evacuation Cop
+cast	Steve Cirbus	Military Police
+cast	Calista Hill	Little Girl Evacuee
+cast	Gabriella Hill	Little Girl Evacuee
+cast	Madeline Hill	Little Girl Evacuee
+cast	Adhi Sharma	Military Scanning Tech
+cast	Tyree Michael Simpson	Evacuation Cop #2
+cast	Blake Lange	Coast Guard Ground Crew
+cast	Alexander DiPersia	Male Evacuee #2
+cast	Abraham Sparrow	Male Evacuee #3
+cast	Pat Fraley	President
+cast	Caitlin McHugh	Special Blond Model
+cast	Deborah Collins	Civilian
+cast	Mike Patton	Creature Vocals
+cast	Exo	Infected
+cast	Katherine Brook	Infected
+cast	Vince Cupone	Infected
+cast	Lynna' Davis	Infected
+cast	Anika Ellis	Infected
+cast	John Grady	Infected
+cast	Moses Harris Jr.	Infected
+cast	Kennis Hawkins	Infected
+cast	Marc Inniss	Infected
+cast	Eric Jenkins	Infected
+cast	Reed Kelly	Infected
+cast	Grasan Kingsberry	Infected
+cast	Heather Lang	Infected
+cast	Drew Leary	Infected
+cast	Asa Liebmann	Infected
+cast	Deborah Lohse	Infected
+cast	Jon-Paul Mateo	Infected
+cast	Ian Mclaughlin	Infected
+cast	Luke Miller	Infected
+cast	Courtney Munch	Infected
+cast	Kimberly Shannon Murphy	Infected
+cast	Okwui Okpokwasili	Infected
+cast	Erin Owen	Infected
+cast	Victor Paguia	Infected
+cast	Paradox Pollack	Infected
+cast	Will Rawls	Infected
+cast	William Schultz	Infected
+cast	Hollie K. Seidel	Infected
+cast	Hannah Sim	Infected
+cast	Eric Spear	Infected
+cast	Mark Steger	Infected
+cast	Charlie Sutton	Infected
+cast	David Hamilton Thomson	Infected
+cast	Anthony Vincent	Infected
+cast	Greg Wattkis	Infected
+cast	Jack Caruso	Evacuation Cop
+cast	Jonathan Charles	Male Evacuee #2
+cast	Katie Couric	Herself
+cast	Gustavo Cunha	Himself
+cast	Ann Curry	Herself
+cast	Sara DeRosa	Evacuee
+cast	Troy Faruk	Evacuee
+cast	Chandler Foster	Evacuee
+cast	Arthur Fridman	Evacuee
+cast	Logan Fry	Male Evacuee
+cast	Theresa Galeani	Evacuee
+cast	Dan Griffin	Evacuee
+cast	Johnathan Hallgrey	Infected Evacuee
+cast	Jeanine Hill	Evacuee
+cast	Matt Lauer	Himself
+cast	Dustin LaValley	Extra
+cast	Sal Lizard	NYC Evacuee
+cast	Sean McGillen	Male Evacuee
+cast	Don Money	Hank
+cast	Paul Nicholasi	Man Fleeing NY
+cast	Speir Rahn	Evacuee
+cast	Frankie Ramos	Evacuation Cop
+cast	Luis Rosa	Pedestrian
+cast	Martin Soole	Video Store Mannequin
+cast	Tieg Thomas	Extra - the bridge
+cast	Emma Thompson	Dr. Alice Krippin
+cast	Raul Torres	Male Evacuee
+cast	Jilon VanOver	Creature

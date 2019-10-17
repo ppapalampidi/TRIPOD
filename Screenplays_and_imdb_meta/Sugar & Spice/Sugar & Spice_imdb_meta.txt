@@ -1,0 +1,141 @@
+year	2001
+imdb score	5.5
+meta score	48
+genre	Comedy
+genre	Crime
+keyword	cheerleader
+keyword	quarterback
+keyword	cheerleading squad
+keyword	high school
+keyword	bank robbery
+keyword	apartment
+keyword	robbery
+keyword	video store
+keyword	marriage
+keyword	pregnant teenager
+keyword	mask
+keyword	bitterness
+keyword	sabotage
+keyword	cult film
+keyword	heist
+keyword	bleachers
+keyword	applause
+keyword	teenager
+keyword	clique
+keyword	love
+keyword	young love
+keyword	popularity
+keyword	black comedy
+keyword	homecoming
+keyword	ouija
+keyword	smart girl
+keyword	slow motion scene
+keyword	mugshot
+keyword	gay character
+keyword	girls' bathroom
+keyword	taped interview
+keyword	jail
+keyword	social climber
+keyword	friendship
+keyword	pregnancy
+keyword	marriage engagement
+keyword	birthing class
+keyword	police station
+keyword	grocery store
+keyword	love at first sight
+keyword	football game
+keyword	irreverence
+keyword	catholic
+keyword	kiss
+keyword	what happened to epilogue
+keyword	teenage sexuality
+keyword	teen angst
+keyword	gay slur
+keyword	cheerleader uniform
+keyword	american football
+keyword	teenage pregnancy
+keyword	mascot
+keyword	high school friend
+keyword	teen crime
+keyword	sleeping on the job
+keyword	geek
+keyword	money
+keyword	school counsellor
+keyword	cheerleading movie
+keyword	reference to conan o'brien
+keyword	flatulence
+keyword	loan
+keyword	kicked in the face
+keyword	police lineup
+keyword	women's prison
+keyword	school life
+keyword	bitch
+keyword	teenage girl
+keyword	satire
+keyword	rebel
+keyword	teen movie
+keyword	independence
+keyword	best friend
+keyword	gun shop
+keyword	pep rally
+keyword	catfight
+keyword	independent film
+keyword	surprise ending
+cast	Marla Sokoloff	Lisa Janusch
+cast	Marley Shelton	Diane Weston
+cast	Melissa George	Cleo Miller
+cast	Mena Suvari	Kansas Hill
+cast	Rachel Blanchard	Hannah Wald
+cast	Alexandra Holden	Fern Rogers
+cast	Sara Marsh	Lucy Whitman
+cast	James Marsden	Jack Bartlett
+cast	Sean Young	Mrs. Hill
+cast	W. Earl Brown	Hank 'Terminator' Rogers
+cast	Adam Busch	Geeky Guy
+cast	Jake Hoffman	Ted
+cast	Nate Maher	Chris
+cast	David Belenky	Bruce
+cast	Kevin Kling	Factory Worker
+cast	Dave Quimby	Apartment Manager
+cast	Jacy King	Food Valley Cashier
+cast	Wiley Harker	Principal Smith
+cast	Stevie Ray Rentfrow	Mr. Dennis Weston
+cast	Kirsten Frantzich	Mrs. DeeDee Weston
+cast	Christopher Denton	Mr. Ed Bartlett
+cast	Jan Puffer	Mrs. Edna Bartlett
+cast	Claudia Wilkens	Kansas' Grandmother
+cast	Jeff Hopkins	Police Officer
+cast	Kevin Joseph Klein	FBI Agent
+cast	Jeremy Kent Jackson	Football Player #1
+cast	Jamison Haase	Football Player #2
+cast	Jessie Schoen	Butch Girl
+cast	Susan Fuller	Bank Loan Officer
+cast	Andy Hubbell	Husband
+cast	Katie Kelly	Nurse
+cast	Ann Kellog	Mink
+cast	Isabell O'Connor	Inmate #1
+cast	Miriam Must	Itchy, Inmate #2
+cast	Jennifer Snell	Inmate #3
+cast	Andrea Guilford	Lamaze Instructor
+cast	Bonnie Benjamin-Olson	Lunch Lady
+cast	Matt Guidry	Male Reporter
+cast	Li Ning	Dim Sum Charlie
+cast	Laura Anderson	Average Girl
+cast	Cassie Fox	Another Average Girl
+cast	Kurt Loder	Himself
+cast	Jerry Springer	Himself
+cast	Paul Cram	Fickle Video Renter
+cast	Frank Crandell	Shop Teacher
+cast	Dom Davis	Baseball Fan
+cast	Devon A Early	High School Student
+cast	Brooke Engen	Video Update Customer
+cast	Tiffany Engen	Video Update Customer
+cast	Kristen Hirsch Montag	Football Fan
+cast	Eric Karros	Himself
+cast	Diane Kelson	Prison Guard
+cast	Anne Metcalfe	Crowd
+cast	Josh Minnie	Football Fan
+cast	Ross Porter	Himself
+cast	Shelly A. Tanning	Wendy the Masked Doll
+cast	Joel Thingvall	Video Update Manager
+cast	Mike Wielinski	Video Update Customer

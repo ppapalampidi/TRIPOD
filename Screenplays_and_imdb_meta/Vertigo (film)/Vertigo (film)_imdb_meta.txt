@@ -1,0 +1,258 @@
+year	1958
+imdb score	8.5
+meta score	N/A
+genre	Mystery
+genre	Romance
+genre	Thriller
+keyword	acrophobia
+keyword	police
+keyword	shipbuilder
+keyword	san francisco bay
+keyword	hair
+keyword	death
+keyword	college friend
+keyword	rescue
+keyword	police detective
+keyword	church
+keyword	vertigo
+keyword	ex fiancee
+keyword	bodily possession
+keyword	museum
+keyword	flower in water
+keyword	skeptic
+keyword	cigarette smoking
+keyword	bookshop
+keyword	memory
+keyword	police chase
+keyword	betrayal
+keyword	souvenir of murder
+keyword	stable
+keyword	private eye
+keyword	retirement
+keyword	romantic obsession
+keyword	may december romance
+keyword	transformation
+keyword	confession
+keyword	reference to mozart
+keyword	close up of eyes
+keyword	nun
+keyword	art museum
+keyword	conversation in car
+keyword	character says i love you
+keyword	cult film
+keyword	dizziness
+keyword	fetish
+keyword	corset
+keyword	california
+keyword	woman with glasses
+keyword	reference to jack the ripper
+keyword	famous score
+keyword	shipyard
+keyword	alley
+keyword	skepticism
+keyword	obsession
+keyword	flower
+keyword	concealed nudity
+keyword	flower shop
+keyword	mental breakdown
+keyword	man in love
+keyword	imagery
+keyword	inquest
+keyword	spiral
+keyword	clothing store
+keyword	dream sequence
+keyword	husband wife relationship
+keyword	chase on roof
+keyword	graveyard
+keyword	apartment building
+keyword	painting
+keyword	actress playing multiple roles
+keyword	meta film
+keyword	tea dance
+keyword	surveillance
+keyword	commercial artist
+keyword	accidental death
+keyword	church bell
+keyword	shipping company
+keyword	animated sequence
+keyword	artist
+keyword	police officer
+keyword	deception
+keyword	stool
+keyword	neurotic
+keyword	jewelry
+keyword	look alike
+keyword	necklace
+keyword	mistaken identity
+keyword	ends with death
+keyword	husband murders wife
+keyword	roof chase
+keyword	death obsession
+keyword	bouquet
+keyword	age difference
+keyword	lost love
+keyword	phobia
+keyword	fainting
+keyword	apartment
+keyword	female tears
+keyword	friendship
+keyword	color motif
+keyword	hotel
+keyword	impostor
+keyword	eye
+keyword	bachelor
+keyword	girl in bathrobe
+keyword	fear of heights
+keyword	ex fiancé ex fiancée relationship
+keyword	nosegay
+keyword	damsel in distress
+keyword	deceit
+keyword	new dress
+keyword	driving a car
+keyword	bookstore
+keyword	reliving the past
+keyword	leitmotif
+keyword	grave
+keyword	vertigo shot
+keyword	tragic event
+keyword	hair salon
+keyword	crying
+keyword	bra
+keyword	self destructiveness
+keyword	livery stable
+keyword	california mission
+keyword	murder of wife
+keyword	wandering
+keyword	impersonation
+keyword	fainting man
+keyword	spanish mission
+keyword	forest
+keyword	feeling dizzy
+keyword	cul de sac
+keyword	voice over narration
+keyword	paranoia
+keyword	romantic triangle
+keyword	tree
+keyword	haunted by the past
+keyword	hoax
+keyword	flashback
+keyword	female crying
+keyword	orchestral music score
+keyword	riding in car
+keyword	following someone
+keyword	policeman
+keyword	wooden horse
+keyword	throwing flowers in water
+keyword	melancholy
+keyword	cemetery
+keyword	technicolor
+keyword	following someone in a car
+keyword	femme fatale
+keyword	trance
+keyword	bell tower
+keyword	dyed hair
+keyword	manipulation
+keyword	older man younger woman relationship
+keyword	dual role
+keyword	alcoholic drink
+keyword	falling from height
+keyword	new clothes
+keyword	dirty old man
+keyword	being followed in car
+keyword	unmailed letter
+keyword	step stool
+keyword	1950s
+keyword	unrequited love
+keyword	psychiatric hospital
+keyword	woman crying
+keyword	rooftop chase
+keyword	bolt upright after nightmare
+keyword	police officer killed
+keyword	rooftop
+keyword	hotel manager
+keyword	makeover
+keyword	adultery
+keyword	older man young girl relationship
+keyword	foreign language adaptation
+keyword	mirror
+keyword	rescue from drowning
+keyword	blond wearing a grey suit
+keyword	loss of wife
+keyword	surrealism
+keyword	one word title
+keyword	reference to coca cola
+keyword	26 year old
+keyword	san francisco california
+keyword	dolly zoom
+keyword	romantic longing
+keyword	being followed
+keyword	businessman
+keyword	men's club
+keyword	golden gate bridge
+keyword	private detective
+keyword	tree trunk
+keyword	redwood forest
+keyword	stairwell
+keyword	gravestone
+keyword	restaurant
+keyword	identity crisis
+keyword	portrait painting
+keyword	guilt
+keyword	nervous breakdown
+keyword	murder
+keyword	mysterious woman
+keyword	private club
+keyword	based on novel
+keyword	title spoken by character
+keyword	plot twist
+keyword	surprise ending
+cast	James Stewart	John 'Scottie' Ferguson
+cast	Kim Novak	Madeleine Elster / Judy Barton
+cast	Barbara Bel Geddes	Midge Wood
+cast	Tom Helmore	Gavin Elster
+cast	Henry Jones	Coroner
+cast	Raymond Bailey	Scottie's Doctor
+cast	Ellen Corby	Manager of McKittrick Hotel
+cast	Konstantin Shayne	Pop Leibel
+cast	Lee Patrick	Car Owner Mistaken for Madeleine
+cast	David Ahdar	Priest
+cast	Isabel Analla	Undetermined Role
+cast	Jack Ano	Undetermined Role
+cast	Margaret Bacon	Nun
+cast	John Benson	Salesman
+cast	Danny Borzage	Juror
+cast	Margaret Brayton	Ransohoff's Saleslady
+cast	Paul Bryar	Capt. Hansen
+cast	Steve Conte	Burglar
+cast	Jean Corbett	Mrs. Elster
+cast	Bruno Della Santina	Waiter at Ernie's
+cast	Roxann Delman	Ransohoff's Model
+cast	Molly Dodd	Beautician
+cast	Bess Flowers	Diner at Ernie's
+cast	Joe Garcia	Juror
+cast	Joanne Genthon	Carlotta Valdes
+cast	Don Giovanni	Salesman
+cast	Roland Gotti	Bartender at Ernie's
+cast	Victor Gotti	Matire d' at Ernie's
+cast	Fred Graham	Policeman on Rooftop
+cast	Robert Haines	Stenographer
+cast	Buck Harrington	Elster's Gateman
+cast	Alfred Hitchcock	Man Walking Past Elster's Office
+cast	Jimmy Horan	Juror
+cast	Art Howard	Juror
+cast	Catherine Howard	Nun
+cast	June Jocelyn	Nurse
+cast	David McElhatton	Radio Announcer - European Version Only
+cast	Miliza Milo	Saleswoman
+cast	Lyle Moraine	Patron
+cast	Forbes Murray	Diner at Ernie's
+cast	Julian Petruzzi	San Francisco Flower Vendor
+cast	Ezelle Poule	Older Mistaken Identity
+cast	Kathy Reed	Patron
+cast	William Remick	Jury Foreman
+cast	Jack Richardson	Escort
+cast	Jeffrey Sayre	Diner at Ernie's
+cast	Nina Shipman	Woman in Museum Mistaken for Madeleine
+cast	Dori Simmons	Woman at Ernie's Mistaken for Madeleine
+cast	Ed Stevlingson	Inquest Attorney
+cast	Sara Taft	Nun

@@ -1,0 +1,164 @@
+year	2008
+imdb score	5.2
+meta score	56
+genre	Drama
+genre	Fantasy
+genre	Romance
+keyword	vampire
+keyword	love
+keyword	high school
+keyword	school
+keyword	blood
+keyword	washington
+keyword	forks washington
+keyword	fight
+keyword	fangs
+keyword	forbidden love
+keyword	teenager
+keyword	soul mate
+keyword	friend
+keyword	immortal
+keyword	falling in love
+keyword	high school romance
+keyword	forest
+keyword	woman kills man
+keyword	protective male
+keyword	torn between two men
+keyword	wolf
+keyword	magic
+keyword	teenager
+keyword	one word title
+keyword	vampire vs vampire
+keyword	classmate
+keyword	escape attempt
+keyword	centenarian
+keyword	teenage romance
+keyword	watching someone sleep
+keyword	small town
+keyword	age difference
+keyword	female vampire
+keyword	high school friend
+keyword	17 year old
+keyword	washington state
+keyword	romanticism
+keyword	vampire human love
+keyword	enemy
+keyword	friendship
+keyword	surprise
+keyword	high school prom
+keyword	vampire driving a car
+keyword	stranger
+keyword	googling for information
+keyword	first day of school
+keyword	being dramatic
+keyword	attraction
+keyword	bitterness
+keyword	virgin
+keyword	corruption
+keyword	title directed by female
+keyword	may december relationship
+keyword	male vampire
+keyword	death
+keyword	dancing on partner's feet
+keyword	telepathy
+keyword	woman breaks man's neck
+keyword	prom
+keyword	tracking
+keyword	brunette
+keyword	vampire bite
+keyword	resurrection
+keyword	desire
+keyword	fog
+keyword	saved from accident
+keyword	virginity
+keyword	biology course
+keyword	good versus evil
+keyword	lightning
+keyword	female student
+keyword	undead sexuality
+keyword	vampirism
+keyword	murder
+keyword	girl with glasses
+keyword	lifting someone into the air
+keyword	undead
+keyword	stabbed in the leg
+keyword	voice over narration
+keyword	reference to google
+keyword	forever young
+keyword	lifting female in air
+keyword	cult film
+keyword	neck breaking
+keyword	sleeping boy
+keyword	slow motion scene
+keyword	high school student
+keyword	native american
+keyword	teenage boy
+keyword	shelter
+keyword	apple
+keyword	true love
+keyword	baseball
+keyword	american indian
+keyword	teenage love
+keyword	may december romance
+keyword	rescue
+keyword	dance
+keyword	loneliness
+keyword	sleeping girl
+keyword	hallucination
+keyword	devotion
+keyword	eternity
+keyword	biting
+keyword	supernatural power
+keyword	manhunt
+keyword	super strength
+keyword	vampire human relationship
+keyword	bloodsucker
+keyword	trust
+keyword	legend
+keyword	based on young adult novel
+keyword	death of friend
+keyword	based on book
+keyword	based on novel
+keyword	
+cast	Kristen Stewart	Bella Swan
+cast	Sarah Clarke	Renée
+cast	Matt Bushell	Phil
+cast	Billy Burke	Charlie Swan
+cast	Gil Birmingham	Billy Black
+cast	Taylor Lautner	Jacob Black
+cast	Gregory Tyree Boyce	Tyler
+cast	Justin Chon	Eric
+cast	Michael Welch	Mike Newton
+cast	Anna Kendrick	Jessica
+cast	Christian Serratos	Angela
+cast	Nikki Reed	Rosalie
+cast	Kellan Lutz	Emmet Cullen
+cast	Ashley Greene	Alice Cullen
+cast	Jackson Rathbone	Jasper
+cast	Robert Pattinson	Edward Cullen
+cast	José Zúñiga	Mr. Molina
+cast	Trish Egan	High School Administrator
+cast	Ayanna Berkshire	Cora
+cast	Ned Bellamy	Waylon Forge
+cast	Bryce Flint-Sommerville	Mine Security Guard
+cast	Peter Facinelli	Dr. Carlisle Cullen
+cast	Solomon Trimble	Jacob's Friend
+cast	Rachelle Lefevre	Victoria
+cast	Cam Gigandet	James
+cast	Edi Gathegi	Laurent
+cast	Alexander Mendeluk	Frat Boy
+cast	Hunter Jackson	Frat Boy
+cast	Gavin Bristol	Frat Boy
+cast	Sean McGrath	Frat Boy
+cast	Katie Powers	Waitress
+cast	Elizabeth Reaser	Esme Cullen
+cast	Catherine Grimme	Young Bella
+cast	William Joseph Elk III	Native Wolf Pack Member #2
+cast	Victoria Geil	1920's Vampire Victim
+cast	Stephenie Meyer	Diner Customer
+cast	Rick Mora	Native Werewolf Tribe #1 - Flashback Sequence
+cast	Rana Morrison	Patron in Restaurant
+cast	Tyler Nordby	Biology Class Student
+cast	Trip Ross	Coffee Shop Guy
+cast	Brianna Womick	Prom Girl
+cast	Robert Zorn	Logger

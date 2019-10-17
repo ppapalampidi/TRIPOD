@@ -1,0 +1,128 @@
+year	2004
+imdb score	7.7
+meta score	46
+genre	Crime
+genre	Horror
+genre	Mystery
+keyword	killer
+keyword	flashback
+keyword	serial killer
+keyword	toilet
+keyword	chained
+keyword	bathroom
+keyword	polaroid
+keyword	gun
+keyword	infidelity
+keyword	pistol
+keyword	home invasion
+keyword	escape
+keyword	corpse
+keyword	locked in a room
+keyword	evil doll
+keyword	psychopath
+keyword	critically bashed
+keyword	puppet
+keyword	survival horror
+keyword	crime scene
+keyword	booby trap
+keyword	blockbuster
+keyword	playing god
+keyword	burned alive
+keyword	hiding in a closet
+keyword	violence
+keyword	black humor
+keyword	parking garage
+keyword	pretending to be dead
+keyword	hostage
+keyword	extortion
+keyword	based on short film
+keyword	forced suicide
+keyword	kidnapping
+keyword	police detective
+keyword	bludgeoning
+keyword	bear trap
+keyword	poison
+keyword	hospital
+keyword	trapped in a room
+keyword	car chase
+keyword	pig mask
+keyword	revolver
+keyword	walking on broken glass
+keyword	audio cassette
+keyword	self mutilation
+keyword	camera
+keyword	husband wife relationship
+keyword	evil clown
+keyword	doctor
+keyword	claustrophobia
+keyword	gothic
+keyword	person on fire
+keyword	mind game
+keyword	disembowelment
+keyword	father daughter relationship
+keyword	insanity
+keyword	villain not really dead cliche
+keyword	severed foot
+keyword	saw
+keyword	imprisonment
+keyword	slow motion
+keyword	orderly
+keyword	police officer killed
+keyword	secret
+keyword	video surveillance
+keyword	hidden camera
+keyword	game of death
+keyword	child in danger
+keyword	torture
+keyword	repentance
+keyword	photographer
+keyword	police
+keyword	throat slitting
+keyword	marriage
+keyword	diorama
+keyword	stabbed to death
+keyword	extramarital affair
+keyword	bound and gagged
+keyword	hotel
+keyword	famous theme
+keyword	two way mirror
+keyword	death trap
+keyword	electric shock
+keyword	clown
+keyword	gore
+keyword	shotgun
+keyword	sadist
+keyword	tape recorder
+keyword	trapped
+keyword	child in peril
+keyword	darkroom
+keyword	murder
+keyword	cancer
+keyword	detective
+keyword	flashback within a flashback
+keyword	cult film
+keyword	urban setting
+keyword	psychological torture
+keyword	macabre
+keyword	restroom
+keyword	barefoot
+keyword	independent film
+keyword	surprise ending
+cast	Leigh Whannell	Adam Faulkner-Stanheight
+cast	Cary Elwes	Dr. Lawrence Gordon
+cast	Danny Glover	Detective David Tapp
+cast	Ken Leung	Detective Steven Sing
+cast	Dina Meyer	Kerry
+cast	Mike Butters	Paul
+cast	Paul Gutrecht	Mark
+cast	Michael Emerson	Zep Hindle
+cast	Benito Martinez	Brett
+cast	Shawnee Smith	Amanda
+cast	Makenzie Vega	Diana Gordon
+cast	Monica Potter	Alison Gordon
+cast	Ned Bellamy	Jeff
+cast	Alexandra Bokyun Chun	Carla
+cast	Avner Garbi	Father
+cast	Tobin Bell	Jigsaw
+cast	Oren Koules	Dead Cellmate
+cast	Hans Raith	Detective

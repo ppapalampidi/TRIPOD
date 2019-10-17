@@ -1,0 +1,152 @@
+year	1996
+imdb score	6.9
+meta score	60
+genre	Drama
+genre	Romance
+keyword	star crossed lovers
+keyword	love
+keyword	shakespeare
+keyword	gangster
+keyword	mother daughter relationship
+keyword	pistol duel
+keyword	wedding
+keyword	organized crime
+keyword	death of hero
+keyword	pump action shotgun
+keyword	mixed martial arts
+keyword	duel
+keyword	street gang
+keyword	feud
+keyword	beating
+keyword	death
+keyword	fistfight
+keyword	sex scene
+keyword	marriage
+keyword	main character dies
+keyword	mother son relationship
+keyword	stylized violence
+keyword	sexual awakening
+keyword	mirror
+keyword	slapstick comedy
+keyword	teen romance
+keyword	tough guy
+keyword	father son relationship
+keyword	loss of son
+keyword	pastiche
+keyword	tragic heroine
+keyword	carousel
+keyword	suspense
+keyword	gun
+keyword	hate
+keyword	blood
+keyword	gunman
+keyword	car accident
+keyword	dead teen couple
+keyword	suicide
+keyword	passion
+keyword	pistol
+keyword	double barreled shotgun
+keyword	tattoo
+keyword	shot in the head
+keyword	shootout
+keyword	secret love
+keyword	machine gun
+keyword	cigarette smoking
+keyword	semiautomatic pistol
+keyword	last stand
+keyword	secret marriage
+keyword	family feud
+keyword	murder
+keyword	family relationships
+keyword	helicopter
+keyword	gun violence
+keyword	hero
+keyword	forbidden love
+keyword	warrior
+keyword	shakespeare play
+keyword	exploding gasoline station
+keyword	tragic love
+keyword	no opening credits
+keyword	father daughter relationship
+keyword	martial arts
+keyword	california
+keyword	showdown
+keyword	masquerade
+keyword	stabbed in the chest
+keyword	shot to death
+keyword	mexican standoff
+keyword	gangsta grip
+keyword	tragedy
+keyword	shot in the arm
+keyword	shakespeare's romeo and juliet
+keyword	gun fu
+keyword	shakespeare in modern dress
+keyword	firework
+keyword	red curtain
+keyword	teen angst
+keyword	bare chested male
+keyword	shoulder holster
+keyword	cult film
+keyword	dark comedy
+keyword	aquarium
+keyword	reference to led zeppelin
+keyword	modern day adaptation
+keyword	poison
+keyword	heroine
+keyword	female nudity
+keyword	parody
+keyword	turf war
+keyword	dysfunctional family
+keyword	reverse footage
+keyword	living person mistaken for dead body
+keyword	gunshot wound
+keyword	gunfight
+keyword	blood splatter
+keyword	tragic hero
+keyword	first love
+keyword	gunslinger
+keyword	shot in the chest
+keyword	based on play
+keyword	character name in title
+keyword	
+cast	Leonardo DiCaprio	Romeo
+cast	Claire Danes	Juliet
+cast	John Leguizamo	Tybalt
+cast	Harold Perrineau	Mercutio
+cast	Pete Postlethwaite	Father Laurence
+cast	Paul Sorvino	Fulgencio Capulet
+cast	Brian Dennehy	Ted Montague
+cast	Paul Rudd	Dave Paris
+cast	Vondie Curtis-Hall	Captain Prince
+cast	Miriam Margolyes	The Nurse
+cast	Jesse Bradford	Balthasar
+cast	M. Emmet Walsh	Apothecary
+cast	Zak Orth	Gregory
+cast	Jamie Kennedy	Sampson
+cast	Dash Mihok	Benvolio
+cast	Vincent Laresca	Abra
+cast	Carlos Martín Manzo Otálora	Petruchio
+cast	Christina Pickles	Caroline Montague
+cast	Diane Venora	Gloria Capulet
+cast	Pedro Altamirano	Peter
+cast	John Sterlini	Sacristan
+cast	Harriet Sansom Harris	Susan Santandiago
+cast	Michael Corbett	Rich Ranchidis
+cast	Edwina Moore	Anchorwoman
+cast	Quindon Tarver	Choir Boy
+cast	Jorge Abraham	Post Haste Delivery Man
+cast	Fausto Barona	Altar Boy
+cast	Ricardo Barona	Altar Boy
+cast	Catalina Botello	Post Haste Clerk
+cast	Mario Cimarro	Capulet Bouncer
+cast	Farnesio de Bernal	Undertaker
+cast	Des'ree	Diva
+cast	Ismael Eguiarte	OP Officer
+cast	Rodrigo Escandon	Kid With Toy Gun
+cast	Paco Morayta	Middle Age Occupant
+cast	Alex Newman	Altar Boy 2
+cast	Cory Newman	Altar Boy 2
+cast	Lupita Ochoa	Attractive Girl
+cast	Gloria Silva	Nun
+cast	Carolyn Valero	Middle Age Occupant
+cast	Margarita Wynne	Station Mother

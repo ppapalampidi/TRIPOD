@@ -1,0 +1,206 @@
+year	2000
+imdb score	6.4
+meta score	47
+genre	Comedy
+genre	Fantasy
+genre	Romance
+keyword	advertising
+keyword	playboy
+keyword	psychiatrist
+keyword	sabotage
+keyword	electrocuted in bathtub
+keyword	office politics
+keyword	drunkenness
+keyword	seduction
+keyword	passionate kiss
+keyword	chinatown chicago
+keyword	dance
+keyword	womanizer
+keyword	hunk
+keyword	electrocution
+keyword	drinking
+keyword	telepathy
+keyword	chicago illinois
+keyword	remarriage
+keyword	shopping montage
+keyword	kiss
+keyword	ex husband ex wife relationship
+keyword	misogyny
+keyword	mother daughter relationship
+keyword	electrocuted
+keyword	pretending to be gay
+keyword	blockbuster
+keyword	seducer
+keyword	thunderstorm
+keyword	boyfriend girlfriend relationship
+keyword	machismo
+keyword	coffee shop
+keyword	exfoliation
+keyword	suicidal tendency
+keyword	battle of the sexes
+keyword	mistaken for gay
+keyword	implied nudity
+keyword	cross dressing
+keyword	suicide attempt
+keyword	stealing credit
+keyword	man wearing towel
+keyword	sex
+keyword	father daughter relationship
+keyword	electrocuted in a bathtub
+keyword	psychic power
+keyword	bare chested male
+keyword	polishing nails
+keyword	product placement
+keyword	advertising executive
+keyword	honeymoon
+keyword	bath
+keyword	divorce
+keyword	pantyhose
+keyword	waxing legs
+keyword	teenage sex
+keyword	sex scene
+keyword	bra
+keyword	virginity
+keyword	man wearing a towel
+keyword	gender roles
+keyword	business office
+keyword	prom
+keyword	library
+keyword	man in towel
+keyword	sensitivity
+keyword	dancing
+keyword	montage
+keyword	corporate ladder
+keyword	teenage girl
+keyword	psychic
+keyword	cat
+keyword	lightning
+keyword	implied male nudity
+keyword	man in woman's underwear
+keyword	title directed by female
+keyword	ebay
+keyword	competition
+keyword	coffee
+keyword	online auction
+keyword	bathtub
+keyword	job promotion
+keyword	cameo
+keyword	rain
+keyword	drink
+keyword	employer employee relationship
+keyword	chauvinist
+keyword	wedding
+keyword	hair dryer
+keyword	misogynist
+keyword	deception
+keyword	title spoken by character
+cast	Mel Gibson	Nick Marshall
+cast	Helen Hunt	Darcy Maguire
+cast	Marisa Tomei	Lola
+cast	Alan Alda	Dan Wanamaker
+cast	Ashley Johnson	Alex Marshall
+cast	Mark Feuerstein	Morgan Farwell
+cast	Lauren Holly	Gigi
+cast	Delta Burke	Eve
+cast	Valerie Perrine	Margo
+cast	Judy Greer	Erin the File Girl
+cast	Sarah Paulson	Annie
+cast	Ana Gasteyer	Sue Cranston
+cast	Lisa Edelstein	Dina
+cast	Loretta Devine	Flo the Doorwoman
+cast	Diana Maria Riva	Stella
+cast	Eric Balfour	Cameron
+cast	Andrea Baker	Office Intern
+cast	Jon Frazier	Truck Driver
+cast	Joe Petcka	Man on Street
+cast	Brian Callaway	Man on Street
+cast	Coburn Goss	Man on Street
+cast	Christian Michel	Man on Street
+cast	Perry Cavitt	Ogling Man
+cast	Crystal McKinney	Unimpressed Woman
+cast	Jeanne Renick	Unimpressed Woman
+cast	Kathrin Middleton	Gigi's Friend
+cast	Logan Lerman	Young Nick Marshall
+cast	Kelly Cooper	Showgirl
+cast	Palmer Davis	Showgirl
+cast	Katie Miller	Showgirl
+cast	Dana Waters	Nick's Mom
+cast	Gregory Cupoli	Male Role Model
+cast	Alexondra Lee	Woman in Pink Sweater
+cast	Aviva Gale	Counter Girl
+cast	Shirley Prestia	Coffee Shop Customer
+cast	T.J. Thyne	Coffee Shop Customer
+cast	Norman H. Smith	Norm
+cast	Audrey Wasilewski	Secretary with Danish / Kitchen Secretary
+cast	Angela Oh	Jess, Dan's Secretary
+cast	Robert Briscoe Evans	Ted
+cast	Chris Rolfes	Woman in Park
+cast	Katie Kneeland	Woman in Park
+cast	Jeanine O'Connell	Woman in Park
+cast	Kelley Hazen	Woman in Park
+cast	Brooke Elliott	Woman in Park
+cast	Kristina Martin	Woman in Park
+cast	Harmony Rousseau	Sloane / Curtis Receptionist
+cast	Lisa Long	Sloane / Curtis Executive
+cast	Heidi Helmer	Marshall Field's Shopper
+cast	Marla Martensen	Marshall Field's Shopper
+cast	Sally Meyers Kovler	Marshall Field's Shopper
+cast	Ashley Quirico	Marshall Field's Shopper
+cast	Regan Rohde	Marshall Field's Shopper
+cast	Liz Tannebaum	Marshall Field's Shopper
+cast	LeShay N. Tomlinson	Marshall Field's Shopper
+cast	Cristine Rose	Sloane / Curtis Attorney
+cast	Arden Myrin	Darcy's Assistant
+cast	Rachel Duncan	Alex's Friend
+cast	Alex McKenna	Alex's Friend
+cast	Regiane Gorski	Yoga Instructor
+cast	Juliandra Gillen	Woman in Library
+cast	Lisa Anne Hillman	Woman in Library
+cast	Tracy Pacheco	Woman in Library
+cast	Ashlee Turner	Woman in Library
+cast	Jamie Gutterman	Jogger by Lake
+cast	Maggie Egan	Kitchen Secretary
+cast	Juanita Jennings	Kitchen Secretary
+cast	Robin Pearson Rose	Kitchen Secretary
+cast	Hallie Meyers-Shyer	Girl at Lunch Counter
+cast	Laura Quicksilver	Girl at Lunch Counter
+cast	Kate Asner	Woman at Lunch Counter
+cast	Caryn Greenhut	Woman at Lunch Counter
+cast	Jennifer Greenhut	Woman at Lunch Counter
+cast	Marnie Mosiman	Woman at Lunch Counter
+cast	Sierra Pecheur	Woman at Lunch Counter
+cast	Nnenna Freelon	Nightclub Singer
+cast	Gil Hacohen	Haim
+cast	Nancy Monsarat	Nike Executive
+cast	Jacqueline Thomas	Nike Executive
+cast	Rory Rubin	Nike Executive
+cast	Christopher Emerson	Mail Room Kid
+cast	Victoria Garcia-Kelleher	Secretary
+cast	Gertrude Wong	Old Woman in Chinatown
+cast	Andi Eystad	Girl at Prom
+cast	Kelsey Oldershaw	
+cast	Julie White	
+cast	Kira Coplin	Alex's Friend
+cast	Kiva Dawson	Showgirl
+cast	David C. Fisher	Restaurant Patron
+cast	Elizabeth Friedman	Classmate
+cast	Melanie Good	Showgirl
+cast	Drew Howerton	Boy at Prom
+cast	Kimberly Lyon	Showgirl
+cast	Krista McRoberts	Angela
+cast	Heidi Merrick	Secretary
+cast	Bette Midler	Dr. J.M. Perkins
+cast	Oriah Miller	Ad Executive
+cast	Robin Nance	Redhead
+cast	Grace O'Neill	Shopper
+cast	Kristine Perchetti	Showgirl
+cast	Andy Schofield	Man in Park
+cast	Richard Simmons	Himself
+cast	Nancy Sinclair	Woman Getting Manicure
+cast	Nicki Sixteen	Girl at Prom
+cast	Melinda Songer	Dancer
+cast	Martha Stewart	Herself
+cast	Tracey Stone	Black-Haired Beauty
+cast	Dean Teaster	Taxi Driver
+cast	Danielle Weeks	Meg Ryan Lookalike
+cast	Nancy Wetzel	Co-Worker

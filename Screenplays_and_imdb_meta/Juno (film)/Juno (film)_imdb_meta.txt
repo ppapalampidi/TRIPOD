@@ -1,0 +1,245 @@
+year	2007
+imdb score	7.6
+meta score	81
+genre	Comedy
+genre	Drama
+genre	Romance
+keyword	baby
+keyword	abortion
+keyword	friend
+keyword	pregnancy
+keyword	adoption
+keyword	best friend
+keyword	school
+keyword	abortion clinic
+keyword	paper
+keyword	four seasons
+keyword	love
+keyword	suburb
+keyword	autumn
+keyword	high school
+keyword	16 year old
+keyword	minnesota
+keyword	clinic
+keyword	orange juice
+keyword	bully
+keyword	discovering one is pregnant
+keyword	effeminacy
+keyword	teenage girl
+keyword	newspaper
+keyword	reference to kurt cobain
+keyword	reference to the carpenters
+keyword	dressing
+keyword	furniture
+keyword	one word title
+keyword	bicycling
+keyword	suicide contemplation
+keyword	lounge chair
+keyword	snow
+keyword	mythology
+keyword	loss of virginity
+keyword	boyfriend girlfriend relationship
+keyword	student
+keyword	panties
+keyword	nail salon
+keyword	female protagonist
+keyword	guitarist
+keyword	bullying
+keyword	song
+keyword	protest
+keyword	teenage sex
+keyword	friendship
+keyword	wheelchair
+keyword	computer
+keyword	teenage pregnancy
+keyword	folk song
+keyword	unwanted pregnancy
+keyword	teen angst
+keyword	summer
+keyword	folk singing
+keyword	jealousy
+keyword	spring the season
+keyword	poster
+keyword	childbirth
+keyword	hospital
+keyword	truth or dare
+keyword	banana
+keyword	convenience store
+keyword	clerk
+keyword	unwed pregnancy
+keyword	woman in labor
+keyword	sonic youth
+keyword	newborn baby
+keyword	mailbox
+keyword	unmarried mother
+keyword	ultrasound
+keyword	teacher
+keyword	telephone
+keyword	musician
+keyword	st. cloud monnesota
+keyword	watching a video
+keyword	dancer
+keyword	running
+keyword	teenager
+keyword	marital problem
+keyword	high school student
+keyword	tiger rug
+keyword	singer
+keyword	track and field
+keyword	pregnant daughter
+keyword	montage
+keyword	demonstration
+keyword	pregnancy test
+keyword	slow motion scene
+keyword	lawyer
+keyword	prologue
+keyword	film starts with sex
+keyword	tears
+keyword	guitar
+keyword	cd
+keyword	school locker
+keyword	sister sister relationship
+keyword	flashback
+keyword	underwear
+keyword	commercial
+keyword	considering abortion
+keyword	voice over narration
+keyword	high school prom
+keyword	reference to woody allen
+keyword	shopping mall
+keyword	cult film
+keyword	urination
+keyword	licorice rope
+keyword	bathroom
+keyword	childbirth
+keyword	pregnant schoolgirl
+keyword	teenage mother
+keyword	prom
+keyword	drugstore
+keyword	high school athlete
+keyword	panties hit the floor
+keyword	doctor
+keyword	folk singing club
+keyword	husband wife relationship
+keyword	ultrasound technician
+keyword	title appears in writing
+keyword	teenager
+keyword	drug use
+keyword	attorney
+keyword	cactus
+keyword	duet
+keyword	school cafeteria
+keyword	crying
+keyword	marriage
+keyword	divorce
+keyword	microwave
+keyword	sewing machine
+keyword	gibson les paul guitar
+keyword	sex
+keyword	needlepoint
+keyword	winter
+keyword	teen comedy
+keyword	composer
+keyword	reference to iggy pop
+keyword	cheerleader uniform
+keyword	classroom
+keyword	single mother
+keyword	runner
+keyword	virginity
+keyword	comic book
+keyword	basement
+keyword	ginseng
+keyword	dark comedy
+keyword	bechdel test passed
+keyword	vomit
+keyword	keyboard
+keyword	reference to diana ross
+keyword	first time sex
+keyword	note
+keyword	class
+keyword	want ad
+keyword	track meet
+keyword	allergy
+keyword	deodorant
+keyword	obscene finger gesture
+keyword	fingernails
+keyword	band
+keyword	animated credits
+keyword	convenience store clerk
+keyword	toilet
+keyword	fetus in cast credits
+keyword	ponytail
+keyword	kiss
+keyword	receptionist
+keyword	pregnant teenager
+keyword	pipe
+keyword	tic tacs
+keyword	moving furniture
+keyword	baby born
+keyword	wilhelm scream
+keyword	telephone call
+keyword	flower
+keyword	anti abortion demonstration
+keyword	stepmother stepdaughter relationship
+keyword	bicycle
+keyword	pay phone
+keyword	guitar player
+keyword	bare breasts
+keyword	teenage boy
+keyword	dancing
+keyword	infant in cast credits
+keyword	video tape
+keyword	condom
+keyword	dog
+keyword	junior prom
+keyword	singing
+keyword	father daughter relationship
+keyword	mother son relationship
+keyword	pregnant girlfriend
+keyword	listening to music
+keyword	bench
+keyword	independent film
+keyword	character name in title
+keyword	title spoken by character
+cast	Ellen Page	Juno MacGuff
+cast	Michael Cera	Paulie Bleeker
+cast	Jennifer Garner	Vanessa Loring
+cast	Jason Bateman	Mark Loring
+cast	Allison Janney	Bren MacGuff
+cast	J.K. Simmons	Mac MacGuff
+cast	Olivia Thirlby	Leah
+cast	Eileen Pedde	Gerta Rauss
+cast	Rainn Wilson	Rollo
+cast	Daniel Clark	Steve Rendazo
+cast	Darla Fay	Bleeker's Mom
+cast	Aman Johal	Vijay
+cast	Valerie Tian	Su-Chin
+cast	Emily Perkins	Punk Receptionist
+cast	Kaaren de Zilva	Ultrasound Technician
+cast	Steven Christopher Parker	Guy Lab Partner
+cast	Candice Accola	Girl Lab Partner
+cast	Sierra Pitkin	Liberty Bell
+cast	Lucas MacFadden	Chemistry Teacher
+cast	Eve Harlow	Tough Girl
+cast	Kirsten Alter	Nurse
+cast	Emily Tennant	Pretty-to-Goth Girl
+cast	Ashley Whillans	Katrina De Voort
+cast	Jeff Witzke	Track Announcer / Dad Smile Photo
+cast	Colin McSween	Keith
+cast	Peggy Logan	Sex Ed Teacher
+cast	Cameron Bright	RPG Nerd
+cast	Joy Galmut	Delivery Room Doctor
+cast	Wendy Russell	Vanessa's Friend #1
+cast	Robyn Ross	Vanessa's Friend #2
+cast	Dallas Hanson	Dancing Elk Track Team
+cast	Bryson Russell	Dancing Elk Track Team
+cast	Derek Mann	Dancing Elk Track Team
+cast	Keith Frost	Dancing Elk Track Team
+cast	Grayson Grant	Dancing Elk Track Team
+cast	Robin Watts	Dancing Elk Track Team
+cast	Tyler Watts	Dancing Elk Track Team
+cast	Brandon Barton	Dancing Elk Track Team
+cast	Josephine Reitman	Kid Smile Photo
+cast	Oliver Gorin	Kid Smile Photo
+cast	Ethan Steelberg	Kid Smile Photo
+cast	Matthew Sanders	Ultrasound Baby

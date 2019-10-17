@@ -1,0 +1,322 @@
+year	2009
+imdb score	7.8
+meta score	73
+genre	Comedy
+keyword	wedding
+keyword	party
+keyword	friend
+keyword	hangover
+keyword	convertible
+keyword	baby
+keyword	bachelor party
+keyword	villa
+keyword	teacher
+keyword	tiger
+keyword	dentist
+keyword	missing tooth
+keyword	toast
+keyword	marriage
+keyword	hotel
+keyword	stripper
+keyword	mercedes convertible
+keyword	rooftop
+keyword	morning after
+keyword	drink
+keyword	hotel suite
+keyword	mercedes
+keyword	chicken
+keyword	leg spreading
+keyword	amnesia
+keyword	stun gun
+keyword	bride and groom
+keyword	spit take
+keyword	drunkenness
+keyword	drugged drink
+keyword	realization
+keyword	childhood reversion
+keyword	police station
+keyword	chapel
+keyword	vomit
+keyword	investigation
+keyword	valet
+keyword	stolen police car
+keyword	stuffed in trunk
+keyword	fellatio
+keyword	electric shaver
+keyword	box office hit
+keyword	breasts
+keyword	poker chip
+keyword	urination
+keyword	mini dress
+keyword	interrogation
+keyword	reverse chronology
+keyword	photograph
+keyword	wedding picture
+keyword	tooth pulling
+keyword	gay slur
+keyword	blackjack
+keyword	shot in the shoulder
+keyword	friendship between men
+keyword	hit in the stomach
+keyword	infant
+keyword	hit with a car door
+keyword	ends with a wedding
+keyword	desert
+keyword	valet parking
+keyword	climbing through a window
+keyword	shot in the crotch
+keyword	hospital
+keyword	camera
+keyword	wheelchair
+keyword	missing person
+keyword	jagermeister
+keyword	f word
+keyword	holocaust joke
+keyword	beating
+keyword	urination
+keyword	driving on the sidewalk
+keyword	machismo
+keyword	car accident
+keyword	insecurity
+keyword	bag over head
+keyword	fiancée
+keyword	womanizer
+keyword	breast feeding
+keyword	underwear
+keyword	heirloom
+keyword	topless female nudity
+keyword	director cameo
+keyword	piano playing
+keyword	rectal exam
+keyword	bare chested male
+keyword	las vegas wedding
+keyword	implied fellatio
+keyword	scene during end credits
+keyword	demonstration
+keyword	male nudity
+keyword	gambling
+keyword	red dress
+keyword	tuxedo
+keyword	scantily clad female
+keyword	raised middle finger
+keyword	raw meat
+keyword	hit on the head
+keyword	caesar's palace las vegas
+keyword	photo album
+keyword	wedding reception
+keyword	boxer
+keyword	pistol
+keyword	mercedes benz
+keyword	interracial discourse
+keyword	jock strap
+keyword	mentally challenged
+keyword	shotgun
+keyword	monster energy drink
+keyword	2000s
+keyword	pay phone
+keyword	suspicion
+keyword	brother in law brother in law relationship
+keyword	farce
+keyword	drug dealer
+keyword	black eye
+keyword	hostage
+keyword	vacant lot
+keyword	product placement
+keyword	mistaken identity
+keyword	handcuffs
+keyword	female nudity
+keyword	single mother
+keyword	escort
+keyword	male rear nudity
+keyword	time lapse photography
+keyword	punched in the stomach
+keyword	casanova
+keyword	singing in a car
+keyword	road trip
+keyword	stupidity
+keyword	snorricam
+keyword	female frontal nudity
+keyword	wedding chapel
+keyword	obscene finger gesture
+keyword	engagement ring
+keyword	male frontal nudity
+keyword	brother sister relationship
+keyword	car crash
+keyword	immaturity
+keyword	shot in the face
+keyword	cut hand
+keyword	automated teller machine
+keyword	prostitute
+keyword	hitting one's head on a car door
+keyword	las vegas wedding chapel
+keyword	wedding singer
+keyword	photo album epilogue
+keyword	drugged
+keyword	american flag
+keyword	milf
+keyword	obscene gesture
+keyword	masturbation
+keyword	punched in the face
+keyword	guy flick
+keyword	teeth
+keyword	story continued during end credits
+keyword	drive over foot
+keyword	body in a trunk
+keyword	asian
+keyword	search
+keyword	las vegas nevada
+keyword	abandoned baby
+keyword	fountains of belagio
+keyword	memory loss
+keyword	ring
+keyword	nudity
+keyword	police car
+keyword	child uses gun
+keyword	baby crying
+keyword	partying
+keyword	told in flashback
+keyword	doctor
+keyword	groom
+keyword	inflatable toy
+keyword	card counting
+keyword	cameo
+keyword	taser
+keyword	mansion
+keyword	groomsman
+keyword	husband wife relationship
+keyword	jacuzzi
+keyword	sunburn
+keyword	blonde
+keyword	misadventure
+keyword	los angeles california
+keyword	tiptoe
+keyword	gagged
+keyword	used condom
+keyword	bare breasts
+keyword	hit with a tire iron
+keyword	blood
+keyword	sex in an elevator
+keyword	wristband
+keyword	rogaine
+keyword	september 11 2001
+keyword	crowbar
+keyword	dumb police
+keyword	cleavage
+keyword	peter pan syndrome
+keyword	hedonism
+keyword	friendship
+keyword	mattress
+keyword	roofie
+keyword	implied cunnilingus
+keyword	camaraderie
+keyword	hotel room
+keyword	gangster
+keyword	bikini
+keyword	lost weekend
+keyword	nevada state flag
+keyword	drinking
+keyword	drug use
+keyword	held at gunpoint
+keyword	hospital bracelet
+keyword	security video
+keyword	male camaraderie
+keyword	man with glasses
+keyword	break up
+keyword	split lip
+keyword	flashback
+keyword	surveillance footage
+keyword	knocked out
+keyword	kidnapping
+keyword	two word title
+keyword	purse
+keyword	motel
+keyword	exposed breast
+keyword	thong
+keyword	binge drinking
+cast	Bradley Cooper	Phil
+cast	Ed Helms	Stu
+cast	Zach Galifianakis	Alan
+cast	Justin Bartha	Doug
+cast	Heather Graham	Jade
+cast	Sasha Barrese	Tracy
+cast	Jeffrey Tambor	Sid
+cast	Ken Jeong	Mr. Chow
+cast	Rachael Harris	Melissa
+cast	Mike Tyson	Mike Tyson
+cast	Mike Epps	Black Doug
+cast	Jernard Burks	Leonard
+cast	Rob Riggle	Officer Franklin
+cast	Cleo King	Officer Garden
+cast	Bryan Callen	Eddie
+cast	Matt Walsh	Dr. Valsh
+cast	Ian Anthony Dale	Chow's #1
+cast	Michael Li	Chow's #2
+cast	Sondra Currie	Linda
+cast	Gillian Vigman	Stephanie
+cast	Nathalie Fay	Lisa
+cast	Chuck Pacheco	Hotel Guest at Valet
+cast	Jesse Erwin	Hotel Valet
+cast	Dan Finnerty	Wedding Singer
+cast	Keith Lyle	Casino Dealer
+cast	Brody Stevens	Officer Foltz
+cast	Todd Phillips	Mr. Creepy
+cast	Mike Vallely	Neeco
+cast	James Martin Kelly	Police Clerk
+cast	Murray Gershenz	Felix
+cast	Andrew Astor	Eli
+cast	Casey Margolis	Budnick
+cast	Ken Flaherty	Old Timer at Gas Station
+cast	Joe Alexander	Pit Boss
+cast	Constance Broge	Woman in Elevator
+cast	Sue Pierce	Mini-Mart Cashier
+cast	Floyd Levine	Tailor
+cast	Robert A. Ringler	Minister
+cast	Britt Barrett	Bridesmaid
+cast	Chauntae Davies	Bridesmaid
+cast	Alisa Allapach	Bridesmaid
+cast	Nicholas Furu	Stun Gun Boy
+cast	Angelica Flameno	Stun Gun Girl
+cast	Lily Winn	Screaming Girl
+cast	Katerina Moutsatsou	Eddie's Assistant
+cast	Faleolo Alailima	Tyson's Bodyguard
+cast	Rio Ahn	Orderly
+cast	John Bailey	Ceasar's Palace Pimp
+cast	Bart Blackburn	Drunk Casino Patron
+cast	Jordan Bobbitt	Flower Girl #1
+cast	Guile Branco	Guest at Casino
+cast	Joey Brander	Student
+cast	Michael Bravo	Convenience Store Patron
+cast	Lisa Catara	Hotel Dancer
+cast	Kaitlin Clark	Girl in Elevator
+cast	Natalie Cohen	Casino Patron #6
+cast	Matthew Corbett Davis	Blackjack Player
+cast	Cody Deal	Roman Soldier at Caesar's Palace
+cast	Lanette Fugit	High Roller
+cast	Charlene Geisler	Katie - Girl in the elevator
+cast	David Hill	Parent Driving Jaguar
+cast	Mitch Holleman	Max - Student
+cast	Brian Irvin	VIP Hotel Guest
+cast	Ty Izquierdo	Bartender
+cast	Brittani Jenee'	Bachelorette
+cast	Carrie Keagan	Casino Guest
+cast	Niko Koshet	Wedding Guest
+cast	Dov Markowich	Blackjack Player
+cast	Stephanie Mathis	Casino Guest
+cast	Anthony Mingilino	Precision Driver
+cast	April Montgomery	Groom's Wedding Guest
+cast	Roy C. Peterson	Tri Card Player
+cast	Alex Pulido	Private School Student
+cast	Richard Reid	Vegas High Roller
+cast	Joan Riegert	High Roller Wife
+cast	Rachael Riegert	Cocktail Waitress
+cast	Michael A. Rizza	Guy in the elevator
+cast	Heather Roop	Mom in Elevator
+cast	Joe Satriani	Guitarist in Wedding Band
+cast	Fran Severini	Dancing Grandma
+cast	Jessica Simons	Casino Guest
+cast	Tom Spano	Casino High Roller
+cast	Scott 'Carrot Top' Thompson	Scott 'Carrot Top' Thompson
+cast	Jaira Valenti	Bartender Hostess
+cast	Ryan Van de Kamp Buchanan	Wedding Waiter
+cast	Yvonne Vera	Extra
+cast	Victor Yerrid	Tiger

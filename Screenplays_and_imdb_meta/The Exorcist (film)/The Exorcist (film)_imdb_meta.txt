@@ -1,0 +1,229 @@
+year	1973
+imdb score	8.0
+meta score	82
+genre	Horror
+keyword	priest
+keyword	girl
+keyword	faith
+keyword	washington d.c.
+keyword	psychiatrist
+keyword	actress
+keyword	doctor
+keyword	demon
+keyword	iraq
+keyword	exorcist
+keyword	attic
+keyword	georgetown university
+keyword	teenage girl
+keyword	exorcism
+keyword	demonic possession
+keyword	reference to sal mineo
+keyword	jesuit priest
+keyword	ouija
+keyword	spinal tap
+keyword	film set
+keyword	nineveh syria
+keyword	derelict
+keyword	surrealism
+keyword	reference to debbie reynolds
+keyword	heart attack
+keyword	talking backwards
+keyword	vision
+keyword	speaking in tongues
+keyword	autograph
+keyword	supernatural power
+keyword	bed moving by itself
+keyword	self sacrifice
+keyword	medical clinic
+keyword	wetting pants
+keyword	slum
+keyword	crisis of faith
+keyword	tape recorder
+keyword	pneumoencephalogram
+keyword	questioning beliefs
+keyword	mouse trap
+keyword	astronaut
+keyword	bathtub
+keyword	uncle
+keyword	halloween
+keyword	psychotronic
+keyword	crisis of conscience
+keyword	clock
+keyword	bloody mouth
+keyword	lifting female in air
+keyword	tied to a bed
+keyword	murder
+keyword	defloration
+keyword	director
+keyword	teenager
+keyword	hell's kitchen
+keyword	reference to napoleon
+keyword	violence against a child
+keyword	cafe
+keyword	1970s
+keyword	police detective
+keyword	occult
+keyword	female masturbation
+keyword	skeptic
+keyword	thorazine
+keyword	head spin
+keyword	crab walk
+keyword	dream sequence
+keyword	twisting one's head completely around
+keyword	mother son relationship
+keyword	lifting someone into the air
+keyword	emaciation
+keyword	child swearing
+keyword	medical test
+keyword	tragic hero
+keyword	agnostic
+keyword	reference to joseph goebbels
+keyword	witchcraft
+keyword	subway station
+keyword	last rites
+keyword	movie director
+keyword	nitroglycerine
+keyword	devil
+keyword	saint joseph medal
+keyword	vomiting
+keyword	religion
+keyword	cult film
+keyword	reference to paul newman
+keyword	ritalin
+keyword	heart condition
+keyword	drunkenness
+keyword	swiss american
+keyword	x ray
+keyword	female in bed
+keyword	film director
+keyword	suicide
+keyword	despair
+keyword	temporal lobe epilepsy
+keyword	stabbed in vagina
+keyword	filmmaking
+keyword	paranoia
+keyword	baffled doctor
+keyword	death
+keyword	mind game
+keyword	cocktail party
+keyword	catholic priest
+keyword	director actor relationship
+keyword	catholic
+keyword	hypodermic needle
+keyword	hypnosis
+keyword	reference to john garfield
+keyword	christian
+keyword	greek american
+keyword	possessed girl
+keyword	movie making
+keyword	ouija board
+keyword	crucifix
+keyword	neurological disorder
+keyword	bed
+keyword	suspense
+keyword	murder investigation
+keyword	evil child
+keyword	subliminal message
+keyword	reference to groucho marx
+keyword	medication
+keyword	bar
+keyword	possession
+keyword	claustrophobia
+keyword	catholic church
+keyword	hit in the face
+keyword	brain scan
+keyword	paranormal phenomena
+keyword	hospital
+keyword	falling down stairs
+keyword	blood
+keyword	reference to lucille ball
+keyword	falling from a window
+keyword	language lab
+keyword	possessed human
+keyword	blockbuster
+keyword	running track
+keyword	child in peril
+keyword	husband and wife domestic
+keyword	famous score
+keyword	virgin blood
+keyword	punching bag
+keyword	charity ward
+keyword	good versus evil
+keyword	holy water
+keyword	mother daughter relationship
+keyword	reference to satan
+keyword	boxing gym
+keyword	medical examination
+keyword	levitation
+keyword	desert
+keyword	supernatural horror
+keyword	piano
+keyword	self mutilation
+keyword	vomit
+keyword	iv line
+keyword	basement
+keyword	movie fan
+keyword	absent father
+keyword	urination
+keyword	rough neighborhood
+keyword	blasphemy
+keyword	neurologist
+keyword	torment
+keyword	female tied up
+keyword	jogging
+keyword	leg ulcer
+keyword	single mother
+keyword	statue
+keyword	ex boxer
+keyword	loss of mother
+keyword	reference to jackie gleason
+keyword	jesuit
+keyword	masturbation with a cross
+keyword	arteriogram
+keyword	sign of the cross
+keyword	desecration
+keyword	fear
+keyword	character says i love you
+keyword	archeological dig
+keyword	electronic music score
+keyword	based on novel
+keyword	
+cast	Ellen Burstyn	Chris MacNeil
+cast	Max von Sydow	Father Merrin
+cast	Lee J. Cobb	Lt. William Kinderman
+cast	Kitty Winn	Sharon
+cast	Jack MacGowran	Burke Dennings
+cast	Jason Miller	Father Karras
+cast	Linda Blair	Regan
+cast	William O'Malley	Father Dyer
+cast	Barton Heyman	Dr. Klein
+cast	Peter Masterson	Dr. Barringer - Clinic Director
+cast	Rudolf Schündler	Karl
+cast	Gina Petrushka	Willi
+cast	Robert Symonds	Dr. Taney
+cast	Arthur Storch	Psychiatrist
+cast	Thomas Bermingham	Tom - President of University
+cast	Vasiliki Maliaros	Karras' Mother
+cast	Titos Vandis	Karras' Uncle
+cast	John Mahon	Language Lab Director
+cast	Wallace Rooney	Bishop Michael
+cast	Ron Faber	Chuck - Assistant Director / Demonic Voice
+cast	Donna Mitchell	Mary Jo Perrin
+cast	Roy Cooper	Jesuit Dean
+cast	Robert Gerringer	Senator at Party
+cast	Mercedes McCambridge	Demon
+cast	Paul Bateson	Radiologist's Assistant
+cast	Elinore Blair	Nurse
+cast	William Peter Blatty	The Producer
+cast	Mary Boylan	First Mental Patient
+cast	Dick Callinan	Astronaut
+cast	Mason Curry	Doctor
+cast	Toni Darnay	Violent psychotic patient
+cast	Eileen Dietz	Pazuzu's Face
+cast	Joanne Dusseau	Senator's Wife
+cast	Bernard Eismann	Minor Role
+cast	Beatrice Hunter	Minor Role
+cast	Yvonne Jones	Bellevue Nurse
+cast	Don LaBonte	Minor Role
+cast	John Nicola	Priest
+cast	Vincent Russell	Subway Vagrant

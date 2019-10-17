@@ -1,0 +1,256 @@
+year	2008
+imdb score	8.1
+meta score	86
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	question
+keyword	slum
+keyword	cheating
+keyword	2000s
+keyword	millionaire
+keyword	police
+keyword	indian
+keyword	suspicion
+keyword	rupee
+keyword	orphan
+keyword	childhood
+keyword	india
+keyword	love
+keyword	call center
+keyword	arrest
+keyword	police inspector
+keyword	contestant
+keyword	fairy tale
+keyword	pickpocket
+keyword	gash in the face
+keyword	bare chested male
+keyword	falling from height
+keyword	murder
+keyword	flashback within flashback
+keyword	foot chase
+keyword	child uses gun
+keyword	autograph
+keyword	pistol
+keyword	brother vs brother
+keyword	song and dance
+keyword	wealth
+keyword	tv show in film
+keyword	child abuse
+keyword	electrocution
+keyword	rooftop
+keyword	brother brother relationship
+keyword	memory
+keyword	gangster
+keyword	interrogation
+keyword	covered in feces
+keyword	toilet
+keyword	finger gun
+keyword	bag over head
+keyword	railway station
+keyword	money falling through the air
+keyword	blockbuster
+keyword	hindu
+keyword	feces
+keyword	snorricam
+keyword	train station
+keyword	watching tv
+keyword	henchman
+keyword	person on fire
+keyword	no opening credits
+keyword	flashback
+keyword	celebrity
+keyword	washing clothes
+keyword	real quiz show shown in fictional situation
+keyword	self sacrifice
+keyword	crime boss
+keyword	escape
+keyword	scene during end credits
+keyword	movie star
+keyword	verbal abuse
+keyword	police brutality
+keyword	rags to riches
+keyword	hanging upside down
+keyword	gang member
+keyword	critically acclaimed
+keyword	host
+keyword	rain
+keyword	criminal
+keyword	revolver
+keyword	server
+keyword	police interrogation
+keyword	survival
+keyword	mumbai india
+keyword	street life
+keyword	trapped
+keyword	shot in the chest
+keyword	cell phone
+keyword	slum life
+keyword	musical number
+keyword	poverty
+keyword	chase
+keyword	death
+keyword	shot to death
+keyword	contest
+keyword	traffic
+keyword	handgun
+keyword	child in peril
+keyword	singing
+keyword	muslim
+keyword	electric torture
+keyword	kiss
+keyword	two word title
+keyword	reunion
+keyword	shot in the head
+keyword	search
+keyword	torture
+keyword	teenage boy
+keyword	anti muslim
+keyword	fantasy sequence
+keyword	train
+keyword	concubine
+keyword	scar
+keyword	fictional biography
+keyword	writing on mirror
+keyword	prank
+keyword	gun
+keyword	violence
+keyword	child slavery
+keyword	nonlinear timeline
+keyword	taj mahal
+keyword	dutch angle
+keyword	told in flashback
+keyword	dance
+keyword	dancing
+keyword	real game show shown in fictional situation
+keyword	no title at beginning
+keyword	tourist
+keyword	real tv show shown in fictional situation
+keyword	melodrama
+keyword	dancer
+keyword	burned alive
+keyword	killer child
+keyword	false accusation
+keyword	separation of brothers
+keyword	thief
+keyword	coming of age
+keyword	bathtub
+keyword	human trafficking
+keyword	theft
+keyword	prostitute
+keyword	blindness
+keyword	tour guide
+keyword	begging
+keyword	ghetto
+keyword	television show
+keyword	punched in the face
+keyword	outhouse
+keyword	policeman
+keyword	held at gunpoint
+keyword	shot through a pillow
+keyword	lens flare
+keyword	fast motion sequence
+keyword	tied to a chair
+keyword	children
+keyword	teenage girl
+keyword	writing on steamed over mirror with finger
+keyword	jackpot
+keyword	money
+keyword	beating
+keyword	falling from train
+keyword	non professional cast
+keyword	loss of mother
+keyword	freeze frame
+keyword	death of mother
+keyword	based on novel
+keyword	
+cast	Dev Patel	Older Jamal
+cast	Saurabh Shukla	Sergeant Srinivas
+cast	Anil Kapoor	Prem
+cast	Rajendranath Zutshi	Director
+cast	Jeneva Talwar	Vision Mixer
+cast	Freida Pinto	Older Latika
+cast	Irrfan Khan	Police Inspector
+cast	Azharuddin Mohammed Ismail	Youngest Salim
+cast	Ayush Mahesh Khedekar	Youngest Jamal
+cast	Jira Banjara	Airport Security Guard
+cast	Sheikh Wali	Airport Security Guard
+cast	Mahesh Manjrekar	Javed
+cast	Sanchita Choudhary	Jamal's Mother
+cast	Himanshu Tyagi	Mr Nanda
+cast	Sharib Hashmi	Prakash
+cast	Virendra Chatterjee	Slum Man
+cast	Feroze Khan	Amitabh Bachchan
+cast	Sunil Kumar Agrawal	Mr Chi
+cast	Virender Kumar	Man on Fire
+cast	Devesh Rawal	Blue Boy
+cast	Rubina Ali	Youngest Latika
+cast	Ankur Vikal	Maman
+cast	Tiger	Punnoose
+cast	Chirag Parmar	Young Arvind
+cast	Nazneen Shaikh	Baby
+cast	Farzana Ansari	Latika's Friend
+cast	Anupam Shyam	Old Villager
+cast	Salim Chaus	Ticket Collector
+cast	Singh Shera Family	Family in Train
+cast	Harvinder Kaur	Family in Train
+cast	Narendra Singh Bhati	Family in Train
+cast	Tanay Chheda	Middle Jamal
+cast	Ashutosh Lobo Gajiwala	Middle Salim
+cast	Satya Mudgal	Taj Mahal Guide
+cast	Janet de Vigne	Ada / Mrs MacKintosh
+cast	William Relton	Peter
+cast	David Gilliam	Clark
+cast	Mia Drake Inderbitzin	Adele
+cast	Kinder Singh	Driver
+cast	Christine Matovich Singh	Opera Singer
+cast	Thomas Lehmkuhl	Opera Singer
+cast	Siddesh Patil	Older Arvind
+cast	Najma Shaikh	Woman at Brothel
+cast	Saeeda Shaikh	Woman at Brothel
+cast	Alka Satpute	Woman at Brothel
+cast	Tabassum Khan	Woman at Brothel
+cast	Tanvi Ganesh Lonkar	Middle Latika
+cast	Sitaram Panchal	Dance Teacher
+cast	Nigel Caesar	Hotel Security Guard
+cast	Ajit Pandey	Javed's Goon
+cast	Kedar Thapar	Javed's Goon
+cast	Amit Leonard	Javed's Goon
+cast	Rajesh Kumar	Javed's Goon
+cast	Sagar Ghopalkar	Javed's Goon
+cast	Pradeep Solanki	Javed's Goon
+cast	Abdul Hamid Shaikh	Javed's Goon
+cast	Dheeraj Waghela	Javed's Goon
+cast	Shruti Seth	Call Centre Instructor
+cast	Arfi Lamba	Bardi
+cast	Taira Colah	Nasreen
+cast	Varun Bagri	Call Centre Trainee
+cast	Ankur Tewari	Dave
+cast	Anjum Sharma	Operator
+cast	Madhur Mittal	Older Salim
+cast	Sarfaraz Khan	Autorickshaw Driver
+cast	Syed Fazal Hussain	Autorickshaw Driver
+cast	Umar Khan	Autorickshaw Driver
+cast	Imran Hasnee	Javed's House Doorkeeper
+cast	Homai Billimoria	KBC Contestant
+cast	Udayan Baijal	Cricket Commentator
+cast	Sandeep Kaul	Floor Manager
+cast	Rufee Ahmed	Double for Irrfan Khan
+cast	Rhea Lawyer	TV Reporter
+cast	Deepali Dalvi	Dancer at Javed's Safehouse
+cast	Anisha Nagar	Dancer at Javed's Safehouse
+cast	Farrah Shaikh	Dancer at Javed's Safehouse
+cast	Mamta Sharma	Dancer at Javed's Safehouse
+cast	Neha M. Khatarawalla	Dancer at Javed's Safehouse
+cast	Tanya Singh	Newsreader
+cast	Anand Tiwari	Newsreader
+cast	Faezeh Jalali	Newsreader
+cast	Meghana Jhalani	Newsreader
+cast	Rupali Mehra	Newsreader
+cast	Anju Singh	Newsreader
+cast	Saurabh Agarwal	Call Centre Manager
+cast	Mark Boucher	Himself - South African Cricketer
+cast	Andre Nel	Himself - South African Cricketer
+cast	Yuvraj Singh	Himself - Indian Cricketer
+cast	Sachin Tendulkar	Himself - Indian Cricketer
+cast	Amitabh Bachchan	Himself

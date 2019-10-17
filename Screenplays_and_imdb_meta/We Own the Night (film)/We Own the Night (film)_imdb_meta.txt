@@ -1,0 +1,338 @@
+year	2007
+imdb score	6.9
+meta score	59
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	drugs
+keyword	nightclub
+keyword	russian mafia
+keyword	loyalty
+keyword	heroin
+keyword	raid
+keyword	violence
+keyword	arrest
+keyword	bustier
+keyword	stakeout
+keyword	postmodernism
+keyword	search
+keyword	mayor
+keyword	shooting
+keyword	exam
+keyword	poker the card game
+keyword	mother daughter relationship
+keyword	charcoal
+keyword	van
+keyword	dyslexia
+keyword	white gloves
+keyword	song
+keyword	shot in the neck
+keyword	pantyhose
+keyword	wired witness
+keyword	dying
+keyword	father son relationship
+keyword	strip club
+keyword	latina
+keyword	walkie talkie
+keyword	reconciliation
+keyword	dog
+keyword	beating
+keyword	gambling
+keyword	police training
+keyword	jumping through a window
+keyword	card playing
+keyword	motel
+keyword	year 1988
+keyword	uncle nephew relationship
+keyword	jail cell
+keyword	urban setting
+keyword	matches
+keyword	female stockinged legs
+keyword	abuse
+keyword	drug trafficking
+keyword	falling through a window
+keyword	surgical mask
+keyword	police raid
+keyword	facial scar
+keyword	no opening credits
+keyword	immigrant
+keyword	feather
+keyword	family relationships
+keyword	nudity
+keyword	code word
+keyword	singer
+keyword	murder of father
+keyword	masked gunman
+keyword	drinking
+keyword	prison
+keyword	cemetery
+keyword	suicide
+keyword	police chief
+keyword	undercover cop
+keyword	field on fire
+keyword	car bombing
+keyword	telephone call
+keyword	police captain
+keyword	weeds
+keyword	racist
+keyword	flag draped casket
+keyword	bare breasts
+keyword	brooklyn new york city
+keyword	hospital
+keyword	informant
+keyword	korean war veteran
+keyword	homecoming
+keyword	pile of money
+keyword	jail
+keyword	motorcycle
+keyword	singing
+keyword	falling from height
+keyword	polish family
+keyword	assassination
+keyword	obscene finger gesture
+keyword	crucifix
+keyword	police car
+keyword	prologue
+keyword	kilt
+keyword	escape
+keyword	police station
+keyword	boxing
+keyword	world trade center manhattan new york city
+keyword	photo id
+keyword	graveyard
+keyword	camera
+keyword	welcome home party
+keyword	cafe
+keyword	hand in panties
+keyword	slow motion scene
+keyword	dysfunctional family
+keyword	cigarette lighter
+keyword	thanksgiving
+keyword	nightmare
+keyword	new york city
+keyword	revenge
+keyword	party
+keyword	shot in the face
+keyword	chase
+keyword	drug use
+keyword	stabbed in the throat
+keyword	bag over head
+keyword	police exam
+keyword	policeman
+keyword	protective custody
+keyword	children
+keyword	crying
+keyword	bloody face
+keyword	fur
+keyword	new york police department
+keyword	informer
+keyword	combat ribbon
+keyword	limousine
+keyword	death
+keyword	photograph
+keyword	female nudity
+keyword	shot to death
+keyword	deviled egg
+keyword	pursuit
+keyword	death of wife
+keyword	car bomb
+keyword	food
+keyword	park
+keyword	search dog
+keyword	male earring
+keyword	tears
+keyword	family of cops
+keyword	drug smuggling
+keyword	blood spatter
+keyword	italian american
+keyword	dancing
+keyword	shot in the back
+keyword	car on fire
+keyword	smuggler
+keyword	social decay
+keyword	masturbation
+keyword	murder
+keyword	eating
+keyword	promotion
+keyword	drink
+keyword	chest pains
+keyword	police custody
+keyword	police officer
+keyword	reference to led zeppelin
+keyword	ambush
+keyword	manhattan new york city
+keyword	hidden identity
+keyword	suspense
+keyword	cigarette smoking
+keyword	police captain
+keyword	cocaine
+keyword	money
+keyword	puerto rican
+keyword	brother brother relationship
+keyword	ambulance
+keyword	flashback
+keyword	squalid apartment
+keyword	surrogate family
+keyword	wheelchair
+keyword	betrayal
+keyword	murder of a police officer
+keyword	beach
+keyword	abandoned airfield
+keyword	throat slitting
+keyword	fear
+keyword	hundred dollar bill
+keyword	marijuana
+keyword	law enforcement
+keyword	church
+keyword	trust
+keyword	topless female nudity
+keyword	subtitled scene
+keyword	car crash
+keyword	sable coat
+keyword	gore
+keyword	restaurant
+keyword	1980s
+keyword	american flag
+keyword	star of david
+keyword	shootout
+keyword	disco
+keyword	russian immigrant
+keyword	coffin
+keyword	shot in the head
+keyword	husband wife relationship
+keyword	oath
+keyword	funeral
+keyword	rifle
+keyword	fire
+keyword	drug dealer
+keyword	polaroid camera
+keyword	tombstone
+keyword	photographer
+keyword	henchman
+keyword	bench
+keyword	boyfriend girlfriend relationship
+keyword	brooklynese
+keyword	gym
+keyword	shotgun
+keyword	police stakeout
+keyword	public humiliation
+keyword	sex
+keyword	blood
+keyword	abandoned building
+keyword	nipple slip
+keyword	gun
+keyword	nightclub owner
+keyword	snorting cocaine
+keyword	police uniform
+keyword	grandfather grandson relationship
+keyword	russian family
+keyword	organized crime
+keyword	molotov cocktail
+keyword	dancer
+keyword	mumbling
+keyword	grave side ceremony
+keyword	car chase
+keyword	zippo lighter
+keyword	shot in the chest
+keyword	investigation
+keyword	pistol
+keyword	narcotics investigation
+keyword	vengeance
+keyword	post traumatic stress
+keyword	urban decay
+keyword	police
+keyword	hiding
+keyword	death of mother
+keyword	death of father
+cast	Joaquin Phoenix	Bobby Green
+cast	Eva Mendes	Amada Juarez
+cast	Danny Hoch	Jumbo Falsetti
+cast	Alex Veadov	Vadim Nezhinski
+cast	Oleg Taktarov	Pavel Lubyarsky
+cast	Dominic Colon	Freddie
+cast	Joe D'Onofrio	Bloodied Patron
+cast	Elena Solovey	Kalina Buzhayev
+cast	Moni Moshonov	Marat Buzhayev
+cast	Mark Wahlberg	Joseph Grusinsky
+cast	Maggie Kiley	Sandra Grusinsky
+cast	Paul Herman	Spiro Giavannis
+cast	Robert Duvall	Burt Grusinsky
+cast	Antoni Corone	Michael Solo
+cast	Craig Walker	Russell De Keifer
+cast	Tony Musante	Jack Shapiro
+cast	Claudia Lopez	Claudia
+cast	Katie Condidorio	Hazel
+cast	Edward Shkolnikov	Eli Mirichenko
+cast	Katya Savina	Eli & Masha's Daughter
+cast	Matthew Djentchouraev	Eli & Masha's Son
+cast	Scott Nicholson	Nat the Cop
+cast	Robert C. Kirk	Sergeant Provenzano
+cast	Al Linea	Portly Cop
+cast	Teddy Coluca	Uniformed Cop #1
+cast	Frank Girardeau	Police Chaplain
+cast	Joseph Coffey	Uniformed Cop #2
+cast	Jose Edwin Soto	Latino Man
+cast	Greg Wilson	Poker Player
+cast	Ed Koch	Mayor
+cast	Fred Burrell	Commissioner Ruddy
+cast	Michael Massimino	Hospital Guard
+cast	Edward Conlon	Hospital Guard #2
+cast	Sharon Wilkins	Nurse
+cast	Ross Brodar	Tattooed Man
+cast	Francis Toumbakaris	Slavic Youth
+cast	Hoon Lee	Emergency Services Driver
+cast	Barbara Ann Davison	Neighbor Lady
+cast	Irwin Gray	Neighbor
+cast	Luigi Scorcia	Luigi
+cast	Miriam Cruz	Amada's Mother
+cast	Doug Torres	Schneider
+cast	Tony Guida	Vitt the Guard
+cast	Robert McKay	Riker's Desk Guard
+cast	Blaise Corrigan	Uniformed Police Officer
+cast	Karl Bury	Random Cop
+cast	Coati Mundi	Himself
+cast	Joe Forbrich	Guard
+cast	Robert A. Pennacchia	Guard
+cast	Richard Petrocelli	Tough Looking Cop
+cast	Nik Pjeternikaj	Albanian Drug Lord
+cast	Jamal Weathers	Parabolic Engineer
+cast	Elliot Santiago	El Caribe Bouncer #1
+cast	Jeff Ward	El Caribe Bouncer #2
+cast	Christopher Place	El Caribe Party Patron #1
+cast	Samantha MacIvor	El Caribe Party Patron #2
+cast	Bob Colletti	El Caribe Party Patron #3
+cast	Aaron Vexler	El Caribe Party Patron #4
+cast	Victor Tatarkin	Vadim's Goon #2
+cast	Patrick M. Walsh	Eli Bodyguard
+cast	Alba Albanese	Veronica
+cast	Salvatore Inzerillo	Police Reporter
+cast	Douglas J. Aguirre	Bobby Green's Bodyguard
+cast	Ashley Avis	Vadim's Girlfriend
+cast	James Balsamo	Club Dancer
+cast	Edwin J. Birmingham	ESU Officer
+cast	Robert Bizik	Police Officer
+cast	John Borras	Riker's Prison Guard
+cast	Mike Burke	Pavel's Driver
+cast	Dominick Cicco	Police Officer
+cast	J.W. Cortes	Bouncer Cortez
+cast	Erin Deighan	El Caribe Party Patron
+cast	Turi Haim	Dancer
+cast	Gina Hernandez	Policeman's Wife
+cast	Philip E Jones	Strip Club Visitor
+cast	Edward M. Kelahan	Bar Patron
+cast	Nina Lisandrello	Bobby's Friend
+cast	Bernadette Lords	El Caribe Party Patron
+cast	Robert Myers	Graduation Attendee
+cast	Robert Nardi	TNT Cop in shootout
+cast	Karen Nazarov	Slavic Drug Packager
+cast	Tyler Noble	Bobby's Friend
+cast	Loukas Papas	El Caribe Party Guest
+cast	Martin Pfefferkorn	Perp in Precinct
+cast	Alexandra Tejeda Rieloff	Cop's Wife
+cast	Marilyn Salisbury	Mourner
+cast	Kristen Schiano	Nightclub Guest
+cast	Aaron Scotti	El Caribe Party Patron
+cast	Richard Shankman	TNT Detective - Joseph's Unit
+cast	Sybelle Silverphoenix	Club Goer
+cast	Christopher Stadulis	Police Officer
+cast	Stream	El Caribe Party Patron

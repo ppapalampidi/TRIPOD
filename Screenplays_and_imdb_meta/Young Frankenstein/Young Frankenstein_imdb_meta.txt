@@ -1,0 +1,215 @@
+year	1974
+imdb score	8.1
+meta score	N/A
+genre	Comedy
+keyword	castle
+keyword	experiment
+keyword	assistant
+keyword	reanimation
+keyword	monster
+keyword	housekeeper
+keyword	bride
+keyword	surgeon
+keyword	scientist
+keyword	brain
+keyword	hunchback
+keyword	grave
+keyword	howling
+keyword	flower
+keyword	village
+keyword	cult film
+keyword	sedative
+keyword	creator creation relationship
+keyword	destiny
+keyword	trap
+keyword	sadistic prison guard
+keyword	door knocker
+keyword	jail break
+keyword	brain transplant
+keyword	blackboard
+keyword	dancing
+keyword	name change
+keyword	shoeshine boy
+keyword	castle thunder
+keyword	husband wife relationship
+keyword	blowing a kiss
+keyword	portrait painting
+keyword	hypodermic needle
+keyword	newlywed
+keyword	classroom
+keyword	prosthetic body part
+keyword	painting
+keyword	irreverence
+keyword	fireplace
+keyword	music hall
+keyword	violin
+keyword	singing
+keyword	town meeting
+keyword	thunderstorm
+keyword	frankenstein's monster
+keyword	person on fire
+keyword	horn
+keyword	one armed man
+keyword	water well
+keyword	kite
+keyword	netting
+keyword	cobweb
+keyword	hermit
+keyword	creature
+keyword	gallows
+keyword	lifting an adult into the air
+keyword	pyrophobia
+keyword	burglary
+keyword	private library
+keyword	battle hymn of the republic
+keyword	marriage
+keyword	dungeon
+keyword	full moon
+keyword	toast
+keyword	phonograph record
+keyword	fog
+keyword	transylvania
+keyword	theatre
+keyword	medical experiment
+keyword	1940s
+keyword	strangulation
+keyword	villager
+keyword	wedding night
+keyword	1970s
+keyword	railway station
+keyword	farce
+keyword	woods
+keyword	blindness
+keyword	secret passage
+keyword	horse
+keyword	laboratory
+keyword	grave digging
+keyword	dart
+keyword	cemetery
+keyword	hanging
+keyword	mirror
+keyword	expression taken literally
+keyword	silly walk
+keyword	kidnapping
+keyword	library
+keyword	charades
+keyword	lightning
+keyword	prosthetic limb
+keyword	student
+keyword	flat tire
+keyword	scalpel
+keyword	spit take
+keyword	journal
+keyword	1930s
+keyword	jail
+keyword	skeleton
+keyword	grandfather clock
+keyword	gramophone
+keyword	seesaw
+keyword	lifting male in air
+keyword	police officer
+keyword	police inspector
+keyword	rat
+keyword	horror spoof
+keyword	madcap comedy
+keyword	reference to gary cooper
+keyword	sketch
+keyword	theatre audience
+keyword	soup
+keyword	frustration
+keyword	police
+keyword	sex scene
+keyword	violinist
+keyword	train
+keyword	nightmare
+keyword	fiancée
+keyword	parody
+keyword	blind man
+keyword	corpse
+keyword	capture
+keyword	inheritance
+keyword	premarital sex
+keyword	little girl
+keyword	moving bookcase
+keyword	search party
+keyword	mob scene
+keyword	candle
+keyword	spoof
+keyword	tap dancing
+keyword	blockbuster
+keyword	wipe
+keyword	well
+keyword	stage
+keyword	lecture hall
+keyword	panic
+keyword	knife in the thigh
+keyword	reference to charles darwin
+keyword	skull
+keyword	hit in the crotch
+keyword	playing with food
+keyword	makeover
+keyword	cigar smoking
+keyword	caught in a net
+keyword	ashtray
+keyword	lifting person in air
+keyword	medical school
+keyword	lifting someone into the air
+keyword	orchestral music score
+keyword	gadget
+keyword	gothic
+keyword	cabin
+keyword	usa
+keyword	torch
+keyword	walk this way joke
+keyword	coffin
+keyword	turban
+keyword	sitting
+keyword	abandoned laboratory
+keyword	lecture
+keyword	cheating
+keyword	breaking the fourth wall
+keyword	grave robbing
+keyword	cheating on one's girlfriend
+keyword	horse and wagon
+keyword	chained
+keyword	mad scientist
+keyword	battering ram
+keyword	professor
+keyword	based on novel
+keyword	character name in title
+keyword	surprise ending
+cast	Gene Wilder	Dr. Frankenstein
+cast	Peter Boyle	The Monster
+cast	Marty Feldman	Igor
+cast	Madeline Kahn	Elizabeth
+cast	Cloris Leachman	Frau Blücher
+cast	Teri Garr	Inga
+cast	Kenneth Mars	Inspector Kemp
+cast	Richard Haydn	Herr Falkstein
+cast	Liam Dunn	Mr. Hilltop
+cast	Danny Goldman	Medical Student
+cast	Oscar Beregi Jr.	Sadistic Jailor
+cast	Arthur Malet	Village Elder
+cast	Richard A. Roth	Insp. Kemp's Aide
+cast	Monte Landis	Gravedigger
+cast	Rusty Blitz	Gravedigger
+cast	Anne Beesley	Little Girl
+cast	Gene Hackman	Blindman
+cast	Ian Abercrombie	Second Villager
+cast	Leon Askin	Herr Waldman
+cast	Mel Brooks	Werewolf / Cat Hit by Dart / Victor Frankenstein
+cast	John Carradine	Beaufort Frankenstein
+cast	Lou Cutell	Frightened Villager
+cast	John Dennis	Orderly in Frankenstein's Class
+cast	Randolph Dobbs	Third Villager - Joe
+cast	Michael Fox	Helga's Father
+cast	Lidia Kristen	Helga's Mother
+cast	Berry Kroeger	First Village Elder
+cast	John Madison	Villager
+cast	Jeff Maxwell	Medical Student
+cast	Rick Norman	Villager
+cast	Pat O'Hara	Villager
+cast	Terence Pushman	Villager
+cast	Norbert Schiller	Emcee at Frankenstein's Show
+cast	Rolfe Sedan	Train Conductor
+cast	Clement von Franckenstein	

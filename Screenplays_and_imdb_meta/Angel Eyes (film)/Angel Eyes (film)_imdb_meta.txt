@@ -1,0 +1,173 @@
+year	2001
+imdb score	5.6
+meta score	39
+genre	Drama
+genre	Romance
+genre	Thriller
+keyword	mysterious man
+keyword	love
+keyword	alone
+keyword	gun
+keyword	twist of fate
+keyword	apartment
+keyword	mysterious stranger
+keyword	fate
+keyword	title based on song
+keyword	child abuse
+keyword	apartment building
+keyword	dating
+keyword	subjective camera
+keyword	black eye
+keyword	church
+keyword	trumpet
+keyword	mother daughter relationship
+keyword	mysterious past
+keyword	pain
+keyword	running
+keyword	black american
+keyword	car crash
+keyword	shooting
+keyword	dark past
+keyword	jazz music
+keyword	trumpet player
+keyword	arrest
+keyword	jump
+keyword	saving a life
+keyword	street life
+keyword	celebration
+keyword	toy robot
+keyword	loss of family
+keyword	shot in the chest
+keyword	male underwear
+keyword	musician
+keyword	accident victim
+keyword	bedroom
+keyword	panties
+keyword	sex
+keyword	rage
+keyword	violence
+keyword	kiss
+keyword	machine gun
+keyword	interrogation
+keyword	mystery individual
+keyword	tragic event
+keyword	telephone
+keyword	cafe
+keyword	answering machine
+keyword	crying
+keyword	policeman
+keyword	healing
+keyword	lake
+keyword	elevator
+keyword	toy soldier
+keyword	survivor
+keyword	guardian angel
+keyword	father daughter relationship
+keyword	bulletproof vest
+keyword	family relationships
+keyword	wife abuse
+keyword	friendship
+keyword	wrath
+keyword	anger
+keyword	prologue
+keyword	fight
+keyword	car accident
+keyword	police officer
+keyword	bed
+keyword	multicar collision
+keyword	house
+keyword	toy
+keyword	destiny
+keyword	investigation
+keyword	water
+keyword	criminal
+keyword	telephone call
+keyword	sadness
+keyword	chicago illinois
+keyword	affection
+keyword	marital abuse
+keyword	policewoman
+keyword	attempted murder
+keyword	mother in law
+keyword	good samaritan
+keyword	brother sister relationship
+keyword	amnesia
+keyword	partner
+keyword	mistreatment
+keyword	latina
+keyword	fatal accident
+keyword	bra
+keyword	flashback
+keyword	panty drawer
+keyword	underwear
+keyword	trauma
+keyword	hostility
+keyword	loneliness
+keyword	quarry lake
+keyword	chase
+keyword	revelation
+keyword	beating
+keyword	bitterness
+keyword	cemetery
+keyword	message
+keyword	bruise
+keyword	video camera
+keyword	grief
+keyword	coffee
+keyword	female nudity
+keyword	friend
+keyword	guilt
+keyword	falling in love
+keyword	telephone number
+keyword	latin
+keyword	dysfunctional family
+keyword	quarry
+keyword	coffee shop
+keyword	
+cast	Jennifer Lopez	Sharon Pogue
+cast	Jim Caviezel	Steven 'Catch' Lambert
+cast	Jeremy Sisto	Larry Pogue, Sr.
+cast	Terrence Howard	Robby
+cast	Sonia Braga	Josephine Pogue
+cast	Victor Argo	Carl Pogue
+cast	Monet Mazur	Kathy Pogue
+cast	Shirley Knight	Elanora Davis
+cast	Daniel Magder	Larry Pogue, Jr.
+cast	Guylaine St-Onge	Annie Lambert
+cast	Connor McAuley	Max Lambert
+cast	Jeremy Ratchford	Ray Micigliano
+cast	Peter MacNeill	Lieutenant Dennis Sanderman
+cast	Eldridge Hyndman	Jamal
+cast	Kari Matchett	Candace
+cast	Michael Cameron	Charlie
+cast	Marcello Thedford	Peebo
+cast	Dave Cox	K-Dog
+cast	Ron Payne	Priest
+cast	Paul A. MacFarlane	Photographer
+cast	Dan Petronijevic	Fighting Kid
+cast	Stephen Kay	Tony Pindella
+cast	Grant Nickalls	Joe
+cast	Jim Feather	Old Man
+cast	Matt Birman	Driver
+cast	Eric Coates	Car Man
+cast	Chuck Campbell	Young Man
+cast	Jeff J.J. Authors	Other Young Man
+cast	John Shepard	Other Old Man
+cast	Stephanie Moore	Officer Vanessa
+cast	Ron Johnston	Bass Player
+cast	Nick Ali	Trumpeter
+cast	Brian Dickinson	Piano Player
+cast	Barry Romberg	Drummer
+cast	Neil Brathwaite	Flautist
+cast	Kathy Carter	Female Cop
+cast	Darren Marsman	Suspect #2
+cast	Brian Jagersky	Police Officer #2
+cast	Chris Lamon	Police Officer #1
+cast	Brenda Adams	N.D. Pedestrian #1
+cast	Don Stockford	N.D. Pedestrian #2
+cast	Matthew Vanhart	Fighting Street Kid #2
+cast	William Lucas	Police Officer
+cast	Sheri Nadel	Young Lady
+cast	Darcy Roy	Gang Member
+cast	Rey-Phillip Santos	Nightclub Patron
+cast	Victor Sutton	Wedding guest

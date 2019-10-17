@@ -1,0 +1,277 @@
+year	2008
+imdb score	6.3
+meta score	65
+genre	Action
+genre	Adventure
+keyword	soviet
+keyword	skull
+keyword	professor
+keyword	artifact
+keyword	power
+keyword	peru
+keyword	crystal
+keyword	indiana jones
+keyword	cold war
+keyword	jungle
+keyword	extraterrestrial
+keyword	ant
+keyword	car falling off a cliff
+keyword	ark of the covenant
+keyword	sword fight
+keyword	switchblade
+keyword	pyramid
+keyword	wilhelm scream
+keyword	secret passage
+keyword	ant hill
+keyword	rifle
+keyword	compass
+keyword	gunpowder
+keyword	train
+keyword	military base
+keyword	cult figure
+keyword	map
+keyword	concealed weapon
+keyword	mummy
+keyword	old flame
+keyword	rocket sled
+keyword	homing device
+keyword	bazooka
+keyword	tree
+keyword	crate
+keyword	shot in the leg
+keyword	chase
+keyword	machine gun
+keyword	betrayal
+keyword	torch
+keyword	hero
+keyword	motorcycle
+keyword	diner
+keyword	attacked by an ant
+keyword	magnetism
+keyword	lantern
+keyword	sand
+keyword	comb
+keyword	airplane
+keyword	translation
+keyword	alien
+keyword	sanitarium
+keyword	unsubtitled foreign language
+keyword	treason
+keyword	brazil
+keyword	marriage
+keyword	person in a car trunk
+keyword	crypt
+keyword	murder
+keyword	interrogation
+keyword	shotgun shell
+keyword	biker
+keyword	soaked clothes
+keyword	shot in the back
+keyword	amazon rainforest
+keyword	coyote howl
+keyword	mother son relationship
+keyword	tape recorder
+keyword	vine
+keyword	campfire
+keyword	statue
+keyword	railway station
+keyword	ancient astronaut
+keyword	library
+keyword	cave painting
+keyword	relic
+keyword	lost city
+keyword	car accident
+keyword	wet jeans
+keyword	ak 47
+keyword	treasure
+keyword	explosion
+keyword	el dorado
+keyword	skeleton
+keyword	brazilian amazon
+keyword	hand grenade
+keyword	blowgun
+keyword	dean
+keyword	warehouse
+keyword	cult film
+keyword	face slap
+keyword	shootout
+keyword	nun
+keyword	amphibious vehicle
+keyword	fbi
+keyword	illegitimate child
+keyword	communist agent
+keyword	flying saucer
+keyword	car chase
+keyword	supernatural power
+keyword	desert
+keyword	school dropout
+keyword	babe scientist
+keyword	catholic hospital
+keyword	nuclear test
+keyword	villainess
+keyword	father son relationship
+keyword	amazon river
+keyword	archaeologist
+keyword	quicksand
+keyword	mushroom cloud
+keyword	snake
+keyword	fight
+keyword	control panel
+keyword	nuclear explosion
+keyword	archeology
+keyword	wooden fence
+keyword	sword
+keyword	atomic testing
+keyword	man eating an ant
+keyword	world war two veteran
+keyword	mental breakdown
+keyword	kgb
+keyword	alien technology
+keyword	broom
+keyword	character's journey shown on map
+keyword	shotgun
+keyword	mayan
+keyword	parapsychology
+keyword	mother
+keyword	animal attack
+keyword	mannequin
+keyword	interdimensional travel
+keyword	nevada
+keyword	handgun
+keyword	footprint
+keyword	wedding
+keyword	portal
+keyword	book
+keyword	waterfall
+keyword	refrigerator
+keyword	connecticut
+keyword	area 51
+keyword	nuclear testing
+keyword	monkey
+keyword	candle
+keyword	nine word title
+keyword	journey shown on map
+keyword	escape
+keyword	anti communist
+keyword	alternate dimension
+keyword	fistfight
+keyword	eavesdropping
+keyword	ladder
+keyword	blockbuster
+keyword	action hero
+keyword	river
+keyword	1950s
+keyword	brawl
+keyword	revolver
+keyword	jet engine
+keyword	paternity revealed
+keyword	greed
+keyword	falling from height
+keyword	rescue
+keyword	pistol
+keyword	college
+keyword	ant attack
+keyword	macguffin
+keyword	russian
+keyword	letter phi
+keyword	cemetery
+keyword	car trunk
+keyword	sequel
+keyword	studio logo segues into film
+keyword	gold
+keyword	femme fatale
+keyword	cactus
+keyword	person on fire
+keyword	playing chicken
+keyword	hat
+keyword	whip
+keyword	adventurer
+keyword	magnet
+keyword	temple
+keyword	riddle
+keyword	prairie dog
+keyword	church
+keyword	year 1957
+keyword	gold coin
+keyword	scorpion
+keyword	vortex
+keyword	fourth part
+keyword	fbi agent
+keyword	grenade
+keyword	fedora
+keyword	character name in title
+keyword	
+cast	Harrison Ford	Indiana Jones
+cast	Cate Blanchett	Irina Spalko
+cast	Karen Allen	Marion Ravenwood
+cast	Shia LaBeouf	Mutt Williams
+cast	Ray Winstone	'Mac' George Michale
+cast	John Hurt	Professor Oxley
+cast	Jim Broadbent	Dean Charles Stanforth
+cast	Igor Jijikine	Dovchenko
+cast	Dimitri Diatchenko	Russian Suit
+cast	Ilia Volok	Russian Suit
+cast	Emmanuel Todorov	Russian Soldier
+cast	Pasha D. Lychnikoff	Russian Soldier
+cast	Andrew Divoff	Russian Soldier
+cast	Venya Manzyuk	Russian Soldier
+cast	Alan Dale	General Ross
+cast	Joel Stoffer	Taylor
+cast	Neil Flynn	Smith
+cast	V.J. Foster	Minister
+cast	Chet Hanks	Student in Library
+cast	Brian Knutson	Letterman
+cast	Dean Grimes	Letterman
+cast	Sasha Spielberg	Slugger
+cast	Nicole Luther	Diner Waitress
+cast	Sophia Stewart	Malt Shop Teen
+cast	Chris Todd	College Brawler
+cast	Dennis Nusbaum	College Brawler
+cast	T. Ryan Mooney	Teenage Boy
+cast	Audi Resendez	Teenage Girl
+cast	Helena Barrett	Teenage Girl
+cast	Carlos Linares	Fast Speaking Inmate
+cast	Gustavo Hernandez	Shouting Inmate
+cast	Maria Luisa Minelli	Sanitarium Nun
+cast	Nito Larioza	Cemetery Warrior
+cast	Ernie Reyes Jr.	Cemetery Warrior
+cast	Jon Valera	Cave Warrior
+cast	Kevin Collins	M.P. in Guard Hut
+cast	Robert Baker	M.P. Sergeant
+cast	Andre Alexsen	Russian Soldier #1
+cast	Fileena Bahris	College Student
+cast	Jon Braver	Staff Car Driver
+cast	Amanda Bromberg	Wedding Guest
+cast	Noelle Bruno	Greaser Girl
+cast	Tim Camarillo	Peruvian Villager
+cast	Marly Coronel	Villager
+cast	Martin Dew	Russian Scientist
+cast	Ted Grossman	Peruvian Porter
+cast	Michael J. Jacyna	Russian Military Cameraman
+cast	Joe Jagatic	Russian Soldier
+cast	Gleb Kaminer	Russian Soldier
+cast	Brendon John Kelly	College Student
+cast	Adam Kirley	Teenage Boy Car Driver
+cast	David LaVera	Toba - Mayan Warrior
+cast	Jonathan Lomma	Train Passenger
+cast	Janet Lopez	Candle Seller / Peru Villager
+cast	Michael Maddigan	Greaser
+cast	Chuck Maldonado	Cemetery Warrior
+cast	Sean Marrinan	Hellman's Bakery Delivery Man
+cast	Adam Masnyk	Letterman Student
+cast	Steven A. Miller	College Student
+cast	Adam Prakop	Student in Library
+cast	Sam Rocco	College Student
+cast	Ilya Rockwell	Russian soldier
+cast	Jason Roehm	Russian Soldier
+cast	Errol Sack	Hostile Soldier
+cast	Philip J Silvera	Ugh Mud Warrior
+cast	Andrew Simms	Young Indiana Jones
+cast	Bogdan Szumilas	Russian Scientist
+cast	Bryan Thompson	Letterman
+cast	Paul Thornton	College Professor
+cast	Conor Timmis	Student on Sidewalk
+cast	John H. Tobin	Sierra Madre Cowboy
+cast	Maria Zambrana	Merchant
+cast	Dianne Zaremba	College Student
+cast	Ilya Jonathan Zaydenberg	Russian Soldier #5

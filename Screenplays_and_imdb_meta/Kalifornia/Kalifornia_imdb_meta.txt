@@ -1,0 +1,160 @@
+year	1993
+imdb score	6.7
+meta score	49
+genre	Crime
+genre	Thriller
+keyword	killer
+keyword	serial killer
+keyword	journalist
+keyword	cross country
+keyword	murder
+keyword	white trash
+keyword	boyfriend girlfriend relationship
+keyword	police officer shot in the leg
+keyword	intentionally misspelled title
+keyword	heavy petting
+keyword	redneck
+keyword	cult film
+keyword	desert
+keyword	waitress
+keyword	exposed breast
+keyword	hostage
+keyword	hick
+keyword	urination
+keyword	chinese food
+keyword	sex in car
+keyword	photograph
+keyword	cigarette smoking
+keyword	cactus
+keyword	policewoman shot
+keyword	police officer shot through the heart
+keyword	violence
+keyword	helicopter
+keyword	madman
+keyword	male rear nudity
+keyword	killing one's girlfriend
+keyword	female nudity
+keyword	tape recorder
+keyword	mass murderer
+keyword	gas station
+keyword	stabbed in the back
+keyword	black bra
+keyword	rape
+keyword	rape victim
+keyword	pervert
+keyword	southern
+keyword	automobile
+keyword	gash in the face
+keyword	shot in the head
+keyword	bare butt
+keyword	shotgun
+keyword	hair style
+keyword	trailer park
+keyword	death
+keyword	policewoman killing
+keyword	dead body
+keyword	theft
+keyword	bare chested male
+keyword	nudity
+keyword	psychopathic killer
+keyword	female photographer
+keyword	sports bra
+keyword	male earring
+keyword	blood
+keyword	photography
+keyword	stabbed in the stomach
+keyword	male underwear
+keyword	motel
+keyword	pistol whip
+keyword	shot to death
+keyword	yo yo
+keyword	homicidal maniac
+keyword	gay slur
+keyword	black panties
+keyword	knocked unconscious
+keyword	journey
+keyword	shot in the chest
+keyword	lunatic
+keyword	sexual violence
+keyword	slasher
+keyword	writing
+keyword	police
+keyword	murder of a policewoman
+keyword	police officer shot in the chest
+keyword	blood splatter
+keyword	pistol
+keyword	beer
+keyword	shooting a police officer
+keyword	breaking a bottle over someone's head
+keyword	psychopath
+keyword	murder of a police officer
+keyword	evil
+keyword	hit with a shovel
+keyword	writer
+keyword	killing spree
+keyword	parole officer
+keyword	gun
+keyword	human monster
+keyword	maniac
+keyword	bar
+keyword	california
+keyword	evil man
+keyword	torturer
+keyword	rainstorm
+keyword	murderer
+keyword	sexual assault
+keyword	car accident
+keyword	arson
+keyword	black bra and panties
+keyword	police officer shot in the back
+keyword	yuppie
+keyword	physical abuse
+keyword	terror
+keyword	pittsburgh pennsylvania
+keyword	abusive boyfriend
+keyword	billiards
+keyword	road trip
+keyword	texas
+keyword	psycho film
+keyword	stabbed in the throat
+keyword	neo noir
+keyword	narration
+keyword	dead policewoman
+keyword	male nudity
+keyword	on the road
+keyword	sex
+keyword	fight
+keyword	one word title
+keyword	sex standing up
+keyword	independent film
+keyword	title spoken by character
+keyword	
+cast	Brad Pitt	Early Grayce
+cast	Kathy Larson	Teenage Girl
+cast	David Milford	Driver
+cast	David Duchovny	Brian Kessler
+cast	John Zarchen	Peter
+cast	David Rose	Eric
+cast	Michelle Forbes	Carrie Laughlin
+cast	Tommy Chappelle	Old Man
+cast	Juliette Lewis	Adele Corners
+cast	Judson Vaughn	Parole Officer
+cast	James Michael McDougal	John Diebold
+cast	Patricia Sill	Carol
+cast	Brett Rice	Police Officer
+cast	Marisa Raper	Little Girl
+cast	Bill Crabb	Middle Aged Farmer
+cast	Mary Ann Hagan	Waitress
+cast	Jerry G. White	Gas Station Attendant
+cast	Sarah Sullivan	Bar Waitress
+cast	Eric Stenson	Young Cracker
+cast	Mars Callahan	Walter Livesy
+cast	Patricia Hunte	Newscaster
+cast	Loanne Bishop	Female Officer
+cast	Ron Kuhlman	Male Officer
+cast	Sierra Pecheur	Mrs. Musgrave
+cast	John Dullaghan	Mr. Musgrave
+cast	David Feigenbaum	Young Biker
+cast	Tom Hand	College Student
+cast	Shelby Hofer	Waitress
+cast	Patricia Tallman	

@@ -1,0 +1,283 @@
+year	2009
+imdb score	6.7
+meta score	52
+genre	Action
+genre	Drama
+genre	Sci-Fi
+genre	Thriller
+keyword	skynet
+keyword	machine
+keyword	future
+keyword	death row
+keyword	army
+keyword	rescue
+keyword	scarface
+keyword	exploding motorcycle
+keyword	disarming someone
+keyword	exploding building
+keyword	female pilot
+keyword	t800
+keyword	black smoke
+keyword	ambush
+keyword	severed head
+keyword	hand to hand combat
+keyword	grenade launcher
+keyword	the terminator
+keyword	soldier
+keyword	heroism
+keyword	leader
+keyword	combat
+keyword	laser
+keyword	mushroom cloud
+keyword	action hero
+keyword	exploding helicopter
+keyword	bridge
+keyword	falling from height
+keyword	heart surgery
+keyword	robot vs. robot
+keyword	captain
+keyword	elongated cry of no
+keyword	wartime
+keyword	two word title
+keyword	gang rape attempt
+keyword	mine field
+keyword	melting face
+keyword	exploding plane
+keyword	helicopter
+keyword	artificial intelligence
+keyword	attempted rape
+keyword	shotgun
+keyword	research and development department
+keyword	bleak future
+keyword	alternative timeline
+keyword	trap
+keyword	gun
+keyword	prophecy
+keyword	hanging upside down
+keyword	uniform
+keyword	mass murder
+keyword	resistance fighter
+keyword	critically bashed
+keyword	rescue mission
+keyword	declaration of war
+keyword	crushed to death
+keyword	medic
+keyword	head ripped off
+keyword	future war
+keyword	running out of gas
+keyword	strategy
+keyword	returning character with different actor
+keyword	exploding truck
+keyword	genocide
+keyword	axe
+keyword	hit by a car
+keyword	colonel
+keyword	smoke
+keyword	character repeating someone else's dialogue
+keyword	fate
+keyword	child in peril
+keyword	punched in the stomach
+keyword	cult film
+keyword	pregnancy
+keyword	social commentary
+keyword	post apocalypse
+keyword	flare
+keyword	military
+keyword	chaos
+keyword	punched in the face
+keyword	radio broadcast
+keyword	half human
+keyword	corpse
+keyword	destiny
+keyword	threatened with a knife
+keyword	christ allegory
+keyword	major
+keyword	devastated landscape
+keyword	shot in the back
+keyword	death list
+keyword	fourth part
+keyword	helicopter crash
+keyword	scratching face
+keyword	general
+keyword	shootout
+keyword	revelation
+keyword	shot in the groin
+keyword	killer robot
+keyword	grabbed by the throat
+keyword	prequel and sequel
+keyword	san francisco california
+keyword	flash drive
+keyword	reboot of series
+keyword	shot to death
+keyword	fictional war
+keyword	blood
+keyword	hit on the head with a gun butt
+keyword	held at gunpoint
+keyword	thinking about the future
+keyword	golden gate bridge
+keyword	radio
+keyword	remote detonator
+keyword	band aid
+keyword	giant robot
+keyword	voice changer
+keyword	blockbuster
+keyword	submarine
+keyword	good versus evil
+keyword	los angeles california
+keyword	second chance
+keyword	assembly line
+keyword	fistfight
+keyword	war wound
+keyword	landmine
+keyword	desert
+keyword	molten metal
+keyword	minigun
+keyword	battle
+keyword	nuclear war
+keyword	part of trilogy
+keyword	mute child
+keyword	self sacrifice
+keyword	death of brother
+keyword	shot in the leg
+keyword	radiation
+keyword	gash in the face
+keyword	ruins
+keyword	motorcycle
+keyword	gas station
+keyword	hit with a gun butt
+keyword	alternate future
+keyword	2010s
+keyword	facial scar
+keyword	megacorporation
+keyword	stabbed in the back
+keyword	shot in the head
+keyword	martial arts
+keyword	lethal injection
+keyword	griffith observatory
+keyword	sequel
+keyword	foot blown off
+keyword	exploding car
+keyword	shot in the hand
+keyword	sequel to cult favorite
+keyword	lone survivor
+keyword	hero
+keyword	car chase
+keyword	film ends with voice over
+keyword	search for father
+keyword	cyberpunk
+keyword	bomb attack
+keyword	jumping into water
+keyword	lifted by the throat
+keyword	human harvesting
+keyword	gatling gun
+keyword	british actor playing american character
+keyword	mixed martial arts
+keyword	stabbed in the neck
+keyword	exploding gasoline station
+keyword	uh 1 huey helicopter
+keyword	tough guy
+keyword	gunfight
+keyword	impalement
+keyword	jumping from a helicopter
+keyword	scar
+keyword	chase
+keyword	war zone
+keyword	dark future
+keyword	shot in the shoulder
+keyword	torn in half
+keyword	tape player
+keyword	a 10 thunderbolt aircraft
+keyword	siege
+keyword	anti hero
+keyword	knocked out with a gun butt
+keyword	exploding body
+keyword	child with a gun
+keyword	robot
+keyword	pilot
+keyword	violence
+keyword	explosion
+keyword	pistol
+keyword	grenade
+keyword	kiss
+keyword	subjective camera
+keyword	shot in the chest
+keyword	machine gun
+keyword	husband wife relationship
+keyword	carrot
+keyword	transforming robot
+keyword	lieutenant
+keyword	head butt
+keyword	tough girl
+keyword	set in future
+keyword	robot as pathos
+keyword	burnt face
+keyword	one man army
+keyword	shot in the arm
+keyword	brawl
+keyword	desaturated colors
+keyword	knocked off a motorcycle
+keyword	bare chested male
+keyword	blood splatter
+keyword	7 eleven
+keyword	firearm
+keyword	military officer
+keyword	infantry
+keyword	character name in title
+keyword	surprise ending
+keyword	
+cast	Christian Bale	John Connor
+cast	Sam Worthington	Marcus Wright
+cast	Moon Bloodgood	Blair Williams
+cast	Helena Bonham Carter	Dr. Serena Kogan
+cast	Anton Yelchin	Kyle Reese
+cast	Jadagrace	Star
+cast	Bryce Dallas Howard	Kate Connor
+cast	Common	Barnes
+cast	Jane Alexander	Virginia
+cast	Michael Ironside	General Ashdown
+cast	Ivan G'Vera	General Losenko
+cast	Chris Browning	Morrison
+cast	Dorian Nkono	David
+cast	Beth Bailey	Lisa
+cast	Victor J. Ho	Mark
+cast	Buster Reeves	Tunney
+cast	Kevin Wiggins	General Olsen
+cast	Greg Serano	Hideki
+cast	Po Chan	Naima
+cast	Babak Tafti	Malik
+cast	Bruce McIntosh	Priest
+cast	Treva Etienne	Len
+cast	Dylan Kenin	Turnbull
+cast	Michael Papajohn	Carnahan
+cast	Chris Ashworth	Richter
+cast	Diego Joaquin Lopez	Soilder
+cast	Greg Plitt	Hybrid Male
+cast	Omar Paz Trujillo	Guard #2
+cast	Terry Crews	Captain Jericho
+cast	Zach McGowan	Soldier on Osprey
+cast	Isaac Kappy	Barbarosa
+cast	Boots Southerland	Warden
+cast	David Midthunder	Soldier #1
+cast	Rafael Herrera	Mexican Husband
+cast	Maria Bethke	Mexican Wife
+cast	Marc Maurin	French Fighter
+cast	Anjul Nigam	Rahul
+cast	Emerson Brooks	First Soldier
+cast	Lorenzo Callender	Comms Officer
+cast	David Douglas	Technician
+cast	Joe Basile	Radar Operator
+cast	Esodie Geiger	Transmitter Technician
+cast	Roland Kickinger	T-800
+cast	Brian Steele	T-600 Suit Performer
+cast	Chris Bentley	Execution Witness
+cast	Scott Flick	Skynet Prisoner
+cast	Linda Hamilton	Sarah Connor
+cast	Neil Harbisson	Cyborg
+cast	Luke Kearney	Resistance Soldier
+cast	Shani Klein-Madden	Execution Witness
+cast	Brent Lambert	Execution Witness
+cast	Gregory Leiker	Hardy
+cast	Paul J. Porter	Infirmary Fighter
+cast	Frank Powers	Resistance Fighter
+cast	Mark Rayner	Helicopter Gunner
+cast	Foued Zayani	Skynet Prisoner

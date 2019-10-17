@@ -1,0 +1,109 @@
+year	2008
+imdb score	4.8
+meta score	40
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	mall
+keyword	twin
+keyword	christmas
+keyword	forest
+keyword	housewife
+keyword	security guard
+keyword	gang
+keyword	christmas eve
+keyword	woods
+keyword	abusive husband
+keyword	gas station
+keyword	car accident
+keyword	shot in the chest
+keyword	christmas caroling
+keyword	santa claus
+keyword	cigarette smoking
+keyword	mother daughter relationship
+keyword	woman kills attacker
+keyword	kicked in the crotch
+keyword	flare
+keyword	falling down a hill
+keyword	woman smoker
+keyword	car chase
+keyword	pursuit
+keyword	shot in the head
+keyword	christmas carol
+keyword	held at gunpoint
+keyword	based on short story
+keyword	hit on the head
+keyword	construction site
+keyword	sole black character dies cliche
+keyword	shot in the forehead
+keyword	pistol
+keyword	screwdriver
+keyword	christmas tree
+keyword	drawing
+keyword	accidental death
+keyword	family relationships
+keyword	purse
+keyword	floodlight
+keyword	wife shoots husband
+keyword	one night
+keyword	woman in jeopardy
+keyword	dead end
+keyword	hit with a tire iron
+keyword	suburbia
+keyword	kicked in the face
+keyword	gash in the face
+keyword	river
+keyword	corpse
+keyword	female protagonist
+keyword	christmas lights
+keyword	husband wife relationship
+keyword	mother son relationship
+keyword	murder
+keyword	tool box
+keyword	blood
+keyword	n word
+keyword	shopping mall
+keyword	santa hat
+keyword	doll
+keyword	flashlight
+keyword	seduction
+keyword	stabbed in the neck
+keyword	candy cane
+keyword	multi ethnic
+keyword	college friend
+keyword	perfume
+keyword	drunkenness
+keyword	wrench
+keyword	terror
+keyword	cut arm
+keyword	gated community
+keyword	stabbed in the face
+keyword	broken neck
+keyword	falling from height
+keyword	hole in the wall
+keyword	new home
+keyword	blood spatter
+keyword	raining
+keyword	face slap
+keyword	foot chase
+keyword	car crash
+keyword	death of friend
+cast	Kim Basinger	Della
+cast	Lukas Haas	Chuckie
+cast	Craig Sheffer	Kenneth
+cast	Jamie Starr	Huey
+cast	Leonard Wu	Vingh
+cast	Luis Chávez	Tomas
+cast	Luke Gair	Terry
+cast	Erika-Shaye Gair	Tammi
+cast	Wayne Bernard	Angry Driver
+cast	Ari Solomon	Rent A Cop
+cast	Sadie Lawrence	Perfume Sales Lady
+cast	Alana Husband	Lingerie Sales Assistant
+cast	Katie Messina	Coffee Sales Person
+cast	Rachel Hayward	Lynn
+cast	Lossen Chambers	Pharmacy Sales Assistant
+cast	Steve Archer	Tired Man
+cast	Michael Strusievici	Kid
+cast	Roshawn Franklin	James
+cast	Jennifer Kitchen	Parking Lot Mother

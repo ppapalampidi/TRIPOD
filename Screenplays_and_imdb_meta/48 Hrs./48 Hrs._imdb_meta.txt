@@ -1,0 +1,216 @@
+year	1982
+imdb score	6.9
+meta score	71
+genre	Action
+genre	Comedy
+genre	Crime
+genre	Drama
+genre	Thriller
+keyword	cop
+keyword	partner
+keyword	gun
+keyword	hotel
+keyword	alcoholic
+keyword	tough guy
+keyword	convict
+keyword	revenge
+keyword	suspense
+keyword	redneck bar
+keyword	bare chested male
+keyword	alcoholism
+keyword	shot in the forehead
+keyword	bowie knife
+keyword	bare breasts
+keyword	racism
+keyword	police brutality
+keyword	fight in a bar
+keyword	hooker
+keyword	native american
+keyword	buddy
+keyword	hotel fight
+keyword	stolen money
+keyword	shootout
+keyword	office
+keyword	fake fight
+keyword	gunfight
+keyword	police officer shot in the chest
+keyword	premarital sex
+keyword	fight
+keyword	african american
+keyword	police station
+keyword	semiautomatic pistol
+keyword	car chase
+keyword	title ends with period
+keyword	nightclub
+keyword	escapee
+keyword	martial arts
+keyword	showdown
+keyword	subway
+keyword	country music
+keyword	police shootout
+keyword	stolen gun
+keyword	listening to music
+keyword	prison escape
+keyword	neo noir
+keyword	chinatown san francisco
+keyword	beer
+keyword	subway chase
+keyword	lesbian
+keyword	thrown through a window
+keyword	beer drinking
+keyword	stolen car
+keyword	alley fight
+keyword	street shootout
+keyword	mercilessness
+keyword	shoulder holster
+keyword	action hero
+keyword	police officer killed
+keyword	police officer shot
+keyword	hit with a car door
+keyword	six shooter
+keyword	prison break
+keyword	mixed martial arts
+keyword	motel
+keyword	mexican standoff
+keyword	chain gang
+keyword	police detective
+keyword	cartoon on television
+keyword	bar fight
+keyword	humor
+keyword	bad guy
+keyword	bus
+keyword	police
+keyword	action violence
+keyword	hero
+keyword	prostitution
+keyword	lesbian slur
+keyword	san francisco california
+keyword	hit with a baseball bat
+keyword	interracial friendship
+keyword	shotgun
+keyword	frisk
+keyword	chase
+keyword	obscene finger gesture
+keyword	kidnapping
+keyword	opening action scene
+keyword	impersonating a police officer
+keyword	cigarette smoking
+keyword	stripper
+keyword	whiskey
+keyword	jail break
+keyword	cowboy hat
+keyword	singing to oneself
+keyword	racial slur
+keyword	bisexual
+keyword	time for title
+keyword	cartoon on tv
+keyword	violence
+keyword	bartender
+keyword	held at gunpoint
+keyword	quick draw
+keyword	female nudity
+keyword	convicted felon
+keyword	blockbuster
+keyword	blood
+keyword	bare butt
+keyword	southern accent
+keyword	critically acclaimed
+keyword	buddy cop
+keyword	racial overtones
+keyword	underbelly
+keyword	maverick cop
+keyword	prostitute
+keyword	prisoner
+keyword	dysfunctional relationship
+keyword	fistfight
+keyword	revolver
+keyword	gay slur
+keyword	corpse
+keyword	kiss
+keyword	blood splatter
+keyword	barroom brawl
+keyword	fighting
+keyword	brawl
+keyword	cold blooded killer
+keyword	bar
+keyword	disarming someone
+keyword	gun violence
+keyword	tough cop
+keyword	hostage
+keyword	redneck
+keyword	long brown hair
+keyword	convertible
+keyword	prison cell
+keyword	machismo
+keyword	knife
+keyword	cult film
+keyword	murder
+keyword	pistol
+keyword	shot to death
+keyword	baseball bat
+keyword	brunette
+keyword	two man army
+keyword	serial killer
+keyword	psychopath
+keyword	title spoken by character
+keyword	number in title
+keyword	surprise ending
+keyword	
+cast	Nick Nolte	Jack Cates
+cast	Eddie Murphy	Reggie Hammond
+cast	Annette O'Toole	Elaine
+cast	Frank McRae	Haden
+cast	James Remar	Albert Ganz
+cast	David Patrick Kelly	Luther
+cast	Sonny Landham	Billy Bear
+cast	Brion James	Ben Kehoe
+cast	Kerry Sherman	Rosalie, Hostage Girl
+cast	Jonathan Banks	Algren
+cast	James Keane	Vanzant
+cast	Tara King	Frizzy, Hotel Desk Clerk
+cast	Greta Blackburn	Lisa, Blonde Hooker
+cast	Margot Rose	Casey
+cast	Denise Crosby	Sally
+cast	Olivia Brown	Candy
+cast	Todd Allen	Young Cop
+cast	Bill Dearth	Thin Cop
+cast	Ned Dowd	Big Cop
+cast	Jim Haynie	Old Cop
+cast	Jack Thibeau	Detective
+cast	Jon St. Elwood	Plainclothesman
+cast	Clare Nono	Ruth
+cast	Sandy Martin	Policewoman
+cast	Matt Landers	Bob
+cast	Peter Jason	Cowboy Bartender
+cast	Bill Cross	Patrol Officer #1
+cast	Chris Mulkey	Patrol Officer #2
+cast	Marcelino Sánchez	Parking Lot Attendant
+cast	Bennie E. Dobbins	Road Gang Guard
+cast	Walter Scott	Road Gang Guard
+cast	W.T. Zacha	Road Gang Guard
+cast	Begonya Plaza	Indian Hooker
+cast	Loyd Catlett	Prison Guard
+cast	B.G. Fisher	Prison Guard
+cast	Reid Cruickshanks	Prison Guard
+cast	R.D. Call	Duty Sergeant
+cast	Brenda Venus	Hooker
+cast	Gloria Gifford	Hooker
+cast	Nick Dimitri	Torchy's Patron
+cast	John Dennis Johnston	Torchy's Patron
+cast	Rock A. Walker	Torchy's Patron
+cast	Dave Moordigian	Gas Station Attendant
+cast	J. Wesley Huston	Security Guard
+cast	Gary Pettinger	Cop with Gun
+cast	Marquerita Wallace	Bar Girl
+cast	Angela Robinson-Witherspoon	Bar Girl
+cast	Jack Lightsy	Bartender
+cast	John Hauk	Henry Wong
+cast	Bob Yanez	Interrogator
+cast	Clint Smith	Leroy
+cast	Luis Contreras	Gang Member
+cast	Suzanne M. Regard	Cowgirl Dancer
+cast	Ola Ray	Vroman's Dancer
+cast	Bjaye Turner	Vroman's Dancer
+cast	Brian O'Neal	Band at Vroman's
+cast	Kevin O'Neal	Band at Vroman's
+cast	Gus Loundermon	Band at Vroman's

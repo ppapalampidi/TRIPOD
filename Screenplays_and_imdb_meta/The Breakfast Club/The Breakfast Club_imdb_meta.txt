@@ -1,0 +1,141 @@
+year	1985
+imdb score	8.0
+meta score	62
+genre	Comedy
+genre	Drama
+keyword	student
+keyword	high school
+keyword	detention
+keyword	high school student
+keyword	marijuana
+keyword	principal
+keyword	library
+keyword	teacher
+keyword	teen angst
+keyword	imagination
+keyword	rage
+keyword	jealousy
+keyword	escape
+keyword	threat
+keyword	geek
+keyword	self acceptance
+keyword	kiss
+keyword	three word title
+keyword	anger
+keyword	popularity
+keyword	kleptomania
+keyword	air duct
+keyword	school locker
+keyword	falling from height
+keyword	laughing
+keyword	coming of age
+keyword	conformity
+keyword	running
+keyword	sushi
+keyword	suicidal
+keyword	lipstick
+keyword	jock
+keyword	compulsive liar
+keyword	dancing
+keyword	authority
+keyword	single set production
+keyword	pot smoking
+keyword	joke
+keyword	dysfunctional family
+keyword	pink panties
+keyword	argument
+keyword	locker
+keyword	teenage angst
+keyword	self esteem
+keyword	sandwich
+keyword	brat pack
+keyword	troubled teenage girl
+keyword	abusive father
+keyword	one day time span
+keyword	opposites attract
+keyword	cult film
+keyword	teenage girl
+keyword	high school teacher
+keyword	hallway
+keyword	peer pressure
+keyword	troubled teen
+keyword	shermer illinois
+keyword	hiding under a table
+keyword	prank
+keyword	misfit
+keyword	practical joke
+keyword	insult
+keyword	cult film
+keyword	black humor
+keyword	makeover
+keyword	defiance
+keyword	chicago illinois
+keyword	upskirt
+keyword	character says here we are
+keyword	virgin
+keyword	student athlete
+keyword	view under table
+keyword	confrontation
+keyword	teacher student relationship
+keyword	kissing
+keyword	juvenile delinquent
+keyword	drug humor
+keyword	song
+keyword	dandruff
+keyword	virginity
+keyword	earring
+keyword	white panties
+keyword	director cameo
+keyword	confession
+keyword	book
+keyword	discussion
+keyword	teenage rebellion
+keyword	car
+keyword	cult film
+keyword	loner
+keyword	1980s
+keyword	basketball
+keyword	antihero
+keyword	teen movie
+keyword	hidden
+keyword	gay slur
+keyword	scantily clad female
+keyword	obscene finger gesture
+keyword	conversation
+keyword	bully
+keyword	teenage boy
+keyword	office
+keyword	exposed underwear
+keyword	electronic music score
+keyword	troubled teenage boy
+keyword	self discovery
+keyword	cleavage
+keyword	panties
+keyword	janitor
+keyword	revelation
+keyword	rejection
+keyword	boredom
+keyword	wrestler
+keyword	suburbia
+keyword	risk
+keyword	dance
+keyword	attempted school shooting
+keyword	school life
+keyword	frustration
+keyword	female student
+keyword	independent film
+keyword	title spoken by character
+cast	Emilio Estevez	Andrew Clark
+cast	Paul Gleason	Richard Vernon
+cast	Anthony Michael Hall	Brian Johnson
+cast	John Kapelos	Carl
+cast	Judd Nelson	John Bender
+cast	Molly Ringwald	Claire Standish
+cast	Ally Sheedy	Allison Reynolds
+cast	Perry Crawford	Allison's Father
+cast	Mary Christian	Brian's Sister
+cast	Ron Dean	Andy's Father
+cast	Tim Gamble	Claire's Father
+cast	Fran Gargano	Allison's Mom
+cast	Mercedes Hall	Brian's Mom
+cast	John Hughes	Brian's Father

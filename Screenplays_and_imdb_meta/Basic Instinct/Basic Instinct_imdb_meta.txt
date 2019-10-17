@@ -1,0 +1,297 @@
+year	1992
+imdb score	6.9
+meta score	34
+genre	Mystery
+genre	Thriller
+keyword	detective
+keyword	suspect
+keyword	murder
+keyword	police
+keyword	rock star
+keyword	psychologist
+keyword	novelist
+keyword	sex
+keyword	lover
+keyword	novel
+keyword	ex girlfriend
+keyword	psychiatrist
+keyword	suspicion
+keyword	guilt
+keyword	sexual attraction
+keyword	love
+keyword	ice
+keyword	police detective
+keyword	bed
+keyword	mind game
+keyword	killed during sex
+keyword	ice pick
+keyword	danger
+keyword	alcoholic drink
+keyword	nude man murdered
+keyword	desire
+keyword	perversion
+keyword	bisexuality
+keyword	fondling
+keyword	star appears nude
+keyword	panties pulled down
+keyword	interrogation
+keyword	confession
+keyword	panties
+keyword	dying during sex
+keyword	mini dress
+keyword	unfaithfulness
+keyword	black panties
+keyword	underwear
+keyword	bourbon
+keyword	orchestral music score
+keyword	blockbuster
+keyword	bare breasts
+keyword	look alike
+keyword	consensual sex
+keyword	death
+keyword	clothes ripping
+keyword	shot in the head
+keyword	corruption
+keyword	cleavage
+keyword	key ring
+keyword	kissing
+keyword	white dress
+keyword	violence
+keyword	female writer
+keyword	romantic obsession
+keyword	killing
+keyword	lesbian kiss
+keyword	sadist
+keyword	nude talking
+keyword	coitus
+keyword	blood on back
+keyword	writer
+keyword	san francisco bay
+keyword	stabbed in the chest
+keyword	female psychopath
+keyword	sexual intercourse
+keyword	puddle
+keyword	lesbian stereotype
+keyword	orgasm
+keyword	love
+keyword	murderer
+keyword	reading
+keyword	betrayal
+keyword	female serial killer
+keyword	nipples visible through clothing
+keyword	rear entry sex
+keyword	rough sex
+keyword	serial killer
+keyword	real movie shown in fictional situation
+keyword	hiding under a bed
+keyword	writing
+keyword	controversy
+keyword	criminal investigation
+keyword	fellatio
+keyword	killer
+keyword	apartment
+keyword	dead woman with eyes open
+keyword	stabbed with an ice pick
+keyword	dying
+keyword	strong female lead
+keyword	no panties
+keyword	girlfriend girlfriend relationship
+keyword	scratching partner during sex
+keyword	woman smoker
+keyword	cult director
+keyword	female killer
+keyword	stabbed in the face
+keyword	pizza
+keyword	female frontal nudity
+keyword	tragic event
+keyword	love triangle
+keyword	1990s
+keyword	female nudity
+keyword	scratching someone
+keyword	f word
+keyword	murder suspect
+keyword	murder investigation
+keyword	san francisco california
+keyword	manipulation
+keyword	gun
+keyword	male rear nudity
+keyword	blood
+keyword	bedroom
+keyword	fetish
+keyword	trying to run over someone
+keyword	watching movie on tv
+keyword	sexual desire
+keyword	inquest
+keyword	sex act reflected in mirror
+keyword	car
+keyword	woman on top
+keyword	deception
+keyword	spurned man
+keyword	caress
+keyword	scantily clad female
+keyword	shot to death
+keyword	discotheque
+keyword	pubic hair
+keyword	blouse ripping
+keyword	drunkenness
+keyword	california
+keyword	anger
+keyword	licking
+keyword	female female kiss
+keyword	mysterious death
+keyword	ice block
+keyword	woman kills man
+keyword	subjective camera
+keyword	shot with a gun
+keyword	cop having sex with suspect
+keyword	mental breakdown
+keyword	lesbian
+keyword	undressing
+keyword	dying words
+keyword	partner
+keyword	ride home
+keyword	exhibitionism
+keyword	lipstick lesbian
+keyword	chili
+keyword	elevator
+keyword	book
+keyword	exhibitionist
+keyword	smoking
+keyword	kiss
+keyword	mini skirt
+keyword	topless female nudity
+keyword	man in love
+keyword	nude reflected in mirror
+keyword	deceit
+keyword	sexual obsession
+keyword	rearview mirror
+keyword	public nudity
+keyword	watching sitcom on tv
+keyword	panties ripped off
+keyword	skirt
+keyword	false ending
+keyword	neo noir
+keyword	nudity
+keyword	identity
+keyword	promiscuous woman
+keyword	dark past
+keyword	receptionist says you can't go in there
+keyword	telephone
+keyword	drunken man
+keyword	erotica
+keyword	woman stabbing lover during sex
+keyword	stairwell
+keyword	female rear nudity
+keyword	upskirt
+keyword	spurned male
+keyword	legs
+keyword	sadism
+keyword	policeman
+keyword	fatal attraction
+keyword	chase
+keyword	psychopathic killer
+keyword	jealousy
+keyword	stabbing
+keyword	wrath
+keyword	attacked in an elevator
+keyword	hanging up without saying goodbye
+keyword	girl in panties
+keyword	talking while driving
+keyword	cult movie cast
+keyword	shooting
+keyword	watching tv
+keyword	disguise
+keyword	female psychiatrist
+keyword	bra less
+keyword	psychopath
+keyword	author
+keyword	seduction
+keyword	lesbianism
+keyword	narcissistic personality disorder
+keyword	real tv show shown in fictional situation
+keyword	accident
+keyword	bisexual woman
+keyword	killed in an elevator
+keyword	copulation
+keyword	female removes her clothes
+keyword	murderess
+keyword	leg spreading
+keyword	barefoot
+keyword	man and woman in bed
+keyword	unrequited love
+keyword	female star appears nude
+keyword	cigarette smoking
+keyword	bloody scratch on one's back
+keyword	police psychologist
+keyword	film starts with sex
+keyword	multiple stabbings
+keyword	dancing
+keyword	voyeur
+keyword	bisexual
+keyword	nipples
+keyword	femme fatale
+keyword	cynicism
+keyword	female psychologist
+keyword	naked killer
+keyword	accidental death
+keyword	paranoia
+keyword	loss of loved one
+keyword	male nudity
+keyword	bra
+keyword	obsession
+keyword	voyeurism
+keyword	gunfire
+keyword	hair
+keyword	lust
+keyword	rain
+keyword	death of friend
+keyword	surprise ending
+keyword	
+cast	Michael Douglas	Detective Nick Curran
+cast	Sharon Stone	Catherine Tramell
+cast	George Dzundza	Gus
+cast	Jeanne Tripplehorn	Dr. Beth Garner
+cast	Denis Arndt	Lieutenant Walker
+cast	Leilani Sarelle	Roxy
+cast	Bruce A. Young	Andrews
+cast	Chelcie Ross	Captain Talcott
+cast	Dorothy Malone	Hazel Dobkins
+cast	Wayne Knight	John Correli
+cast	Daniel von Bargen	Lieutenant Nilsen
+cast	Stephen Tobolowsky	Dr. Lamott
+cast	Benjamin Mouton	Harrigan
+cast	Jack McGee	Sheriff
+cast	Bill Cable	Johnny Boz
+cast	Stephen Rowe	Internal Affairs Investigator
+cast	Mitch Pileggi	Internal Affairs Investigator
+cast	Mary Pat Gleason	Juvenile Officer
+cast	Freda Foh Shen	Berkeley Registrar
+cast	William Duff-Griffin	Dr. Myron
+cast	James Rebhorn	Dr. McElwaine
+cast	David Wells	Polygraph Examiner
+cast	Bradford English	Campus Policeman
+cast	Mary Ann Rodgers	Nurse
+cast	Adilah Barnes	Nurse
+cast	Irene Olga López	Maid
+cast	Juanita Jennings	Receptionist
+cast	Craig C. Lewis	Bartender - Police Bar
+cast	Michael David Lally	Detective
+cast	Peter Appel	Detective
+cast	Michael Halton	Bartender - Country Western Bar
+cast	Keith McDaniel	Featured Dancer
+cast	Eric Poppick	Coroner's Guy
+cast	Ron Cacas	Policeman
+cast	Kayla Blake	Roxy's Friend
+cast	Ken Liebenson	Doo Wah Riders
+cast	Lindy Rasmusson	Doo Wah Riders
+cast	Byron Berline	Doo Wah Riders
+cast	Eddie Dunbar	Doo Wah Riders
+cast	Tod McKibbin	Doo Wah Riders
+cast	Julie Bond	Hand Puppet Model
+cast	Jeanne Basone	
+cast	Doreen Foo Croft	
+cast	Patricia Anne Isgate	Classmate
+cast	Dave LaBrucherie	Driver
+cast	Anne Lockhart	Disco Patron
+cast	Andy Rolfes	Police Officer
+cast	Bob Sallese	Internal Affairs Detective

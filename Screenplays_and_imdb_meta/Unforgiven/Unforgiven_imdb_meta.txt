@@ -1,0 +1,160 @@
+year	1992
+imdb score	8.3
+meta score	82
+genre	Western
+keyword	cowboy
+keyword	bounty
+keyword	gunslinger
+keyword	sheriff
+keyword	prostitute
+keyword	one last job
+keyword	leaving flowers on a grave
+keyword	grave
+keyword	1880s
+keyword	reward money
+keyword	nickname
+keyword	gunfighter
+keyword	produced by director
+keyword	beaten to death
+keyword	lynch mob
+keyword	reputation
+keyword	exaggeration
+keyword	corpse
+keyword	brothel
+keyword	flagellation
+keyword	horse
+keyword	what happened to epilogue
+keyword	mutilation
+keyword	campfire
+keyword	masturbation reference
+keyword	deputy sheriff
+keyword	whipping
+keyword	tough guy
+keyword	schofield revolver
+keyword	police brutality
+keyword	target shooting
+keyword	produced by actor
+keyword	british
+keyword	shot in the stomach
+keyword	straight razor
+keyword	sex
+keyword	english
+keyword	mispronounced word
+keyword	murder
+keyword	sexual favor
+keyword	stagecoach
+keyword	blockbuster
+keyword	torture
+keyword	train
+keyword	shootout
+keyword	tavern
+keyword	hog farm
+keyword	beating
+keyword	smith and wesson revolver
+keyword	barbershop
+keyword	see you in hell
+keyword	mortal wound
+keyword	viciousness
+keyword	shot in the face
+keyword	whip
+keyword	eccentric
+keyword	farmer
+keyword	horse and carriage
+keyword	murder of a police officer
+keyword	interrogation
+keyword	wetting pants
+keyword	saloon
+keyword	shaving
+keyword	misfiring gun
+keyword	englishman
+keyword	stitch
+keyword	lawman
+keyword	kansas
+keyword	small town
+keyword	pig
+keyword	smith & wesson scofield
+keyword	held at gunpoint
+keyword	vengeance
+keyword	regret
+keyword	revenge
+keyword	off screen murder
+keyword	year 1881
+keyword	jail
+keyword	home repair
+keyword	one word title
+keyword	dark hero
+keyword	garfield assassination
+keyword	wager
+keyword	sole black character dies cliche
+keyword	death
+keyword	thunderstorm
+keyword	writer
+keyword	19th century
+keyword	anti hero
+keyword	no opening credits
+keyword	pistol whip
+keyword	bad guy
+keyword	amputee
+keyword	directed by star
+keyword	blood
+keyword	single father
+keyword	winchester rifle
+keyword	prologue
+keyword	building a house
+keyword	reward
+keyword	post modern
+keyword	hired killer
+keyword	sitting on a toilet
+keyword	whiskey
+keyword	visiting wife's grave
+keyword	wyoming
+keyword	widower
+keyword	ends with text
+keyword	sadist
+keyword	outhouse
+keyword	killing an animal
+keyword	bordello
+keyword	gun control
+keyword	pheasant shooting
+cast	Clint Eastwood	Bill Munny
+cast	Gene Hackman	Little Bill Daggett
+cast	Morgan Freeman	Ned Logan
+cast	Richard Harris	English Bob
+cast	Jaimz Woolvett	The 'Schofield Kid'
+cast	Saul Rubinek	W.W. Beauchamp
+cast	Frances Fisher	Strawberry Alice
+cast	Anna Levine	Delilah Fitzgerald
+cast	David Mucci	Quick Mike
+cast	Rob Campbell	Davey Bunting
+cast	Anthony James	Skinny Dubois
+cast	Tara Frederick	Little Sue
+cast	Beverley Elliott	Silky
+cast	Liisa Repo-Martell	Faith
+cast	Josie Smith	Crow Creek Kate
+cast	Shane Meier	Will Munny
+cast	Aline Levasseur	Penny Munny
+cast	Cherrilene Cardinal	Sally Two Trees
+cast	Robert Koons	Crocker
+cast	Ron White	Clyde Ledbetter
+cast	Mina E. Mina	Muddy Chandler
+cast	Henry Kope	German Joe Schultz
+cast	Jeremy Ratchford	Deputy Andy Russell
+cast	John Pyper-Ferguson	Charley Hecker
+cast	Jefferson Mappin	Fatty Rossiter
+cast	Walter Marsh	Barber
+cast	Garner Butler	Eggs Anderson
+cast	Larry Reese	Tom Luckinbill
+cast	Blair Haynes	Paddy McGee
+cast	Frank C. Turner	Fuzzy
+cast	Sam Karas	Thirsty Thurston
+cast	Lochlyn Munro	Texas Slim
+cast	Ben Cardinal	Johnny Foley
+cast	Philip Maurice Hayes	Lippy MacGregor
+cast	Michael Charrois	Wiggens
+cast	William Davidson	Buck Barthol
+cast	Paul Anthony McLean	Train Person #1
+cast	James Herman	Train Person #2
+cast	Michael Maurer	Train Person #3
+cast	Larry Joshua	Bucky
+cast	George Orrison	The Shadow
+cast	Greg Goossen	Fighter
