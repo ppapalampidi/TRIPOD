@@ -61,4 +61,3 @@ if __name__ == '__main__':
         new_script_file = os.path.join(new_segmented_screenplays,
                                        movie_name + '_script_segmented.txt')
         segment_screenplay(script_file, new_script_file)
-        break
